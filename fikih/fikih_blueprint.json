@@ -1,0 +1,519 @@
+{
+ "subject": "Fikih",
+ "grade": 1,
+ "phase": "A",
+ "jenjang": "MI",
+ "sumber_atp": "KBC (ATP Fikih MI Kelas I)",
+ "total_soal": 1000,
+ "materi": [
+  {
+   "material": "Rukun Islam",
+   "prefix": "FIK-RI",
+   "alokasi_jp": 12,
+   "jumlah_soal": 267,
+   "tp": [
+    {
+     "tp_id": "TP-FIK-RI-01",
+     "tp": "Murid mampu menyebutkan lima rukun Islam secara urut dan benar sebagai dasar keimanan.",
+     "jumlah_soal": 77,
+     "distribusi_difficulty": {
+      "easy": 26,
+      "medium": 44,
+      "hard": 7
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 24,
+      "matching": 7,
+      "ordering": 6,
+      "true_false": 9,
+      "fill_in_short": 8,
+      "completion": 8,
+      "multiple_choice_visual": 10,
+      "grouping": 5
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 42,
+      "mencocokkan": 7,
+      "mengurutkan": 6,
+      "mengenali": 12,
+      "menganalisis": 5,
+      "mengelompokkan": 5
+     },
+     "kompetensi": [
+      "Menyebutkan rukun Islam"
+     ]
+    },
+    {
+     "tp_id": "TP-FIK-RI-02",
+     "tp": "Murid mampu memahami makna setiap rukun Islam secara sederhana sebagai bentuk ketaatan kepada Allah Swt.",
+     "jumlah_soal": 81,
+     "distribusi_difficulty": {
+      "medium": 55,
+      "hard": 18,
+      "easy": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 29,
+      "matching": 8,
+      "true_false": 9,
+      "fill_in_short": 8,
+      "contextual": 7,
+      "multiple_choice_visual": 11,
+      "completion": 6,
+      "ordering": 1,
+      "grouping": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 56,
+      "mencocokkan": 8,
+      "menerapkan": 5,
+      "mengenali": 7,
+      "memecahkan_masalah": 2,
+      "mengurutkan": 1,
+      "mengelompokkan": 2
+     },
+     "kompetensi": [
+      "Memahami makna rukun Islam"
+     ]
+    },
+    {
+     "tp_id": "TP-FIK-RI-03",
+     "tp": "Murid mampu menjelaskan rukun Islam dengan bahasa sendiri melalui kegiatan diskusi dan presentasi.",
+     "jumlah_soal": 46,
+     "distribusi_difficulty": {
+      "medium": 36,
+      "hard": 9,
+      "easy": 1
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 21,
+      "contextual": 6,
+      "fill_in_short": 11,
+      "grouping": 5,
+      "matching": 2,
+      "true_false": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 23,
+      "memecahkan_masalah": 4,
+      "membandingkan": 7,
+      "mengelompokkan": 5,
+      "menganalisis": 3,
+      "menerapkan": 2,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Menjelaskan rukun Islam"
+     ]
+    },
+    {
+     "tp_id": "TP-FIK-RI-04",
+     "tp": "Murid mampu mempraktikkan rukun Islam dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta diri dan sesama manusia.",
+     "jumlah_soal": 63,
+     "distribusi_difficulty": {
+      "medium": 41,
+      "easy": 13,
+      "hard": 9
+     },
+     "distribusi_question_type": {
+      "contextual": 12,
+      "performance_task": 14,
+      "multiple_choice": 17,
+      "true_false": 7,
+      "multiple_choice_visual": 5,
+      "matching": 2,
+      "fill_in_short": 1,
+      "completion": 1,
+      "ordering": 3,
+      "grouping": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 49,
+      "memecahkan_masalah": 3,
+      "mengenali": 5,
+      "mencocokkan": 2,
+      "mengurutkan": 3,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Mempraktikkan rukun Islam"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Kalimah Syahadatain",
+   "prefix": "FIK-KS",
+   "alokasi_jp": 9,
+   "jumlah_soal": 200,
+   "tp": [
+    {
+     "tp_id": "TP-FIK-KS-01",
+     "tp": "Murid mampu memahami kalimat syahadatain dengan baik.",
+     "jumlah_soal": 50,
+     "distribusi_difficulty": {
+      "easy": 9,
+      "medium": 35,
+      "hard": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 21,
+      "true_false": 11,
+      "fill_in_short": 6,
+      "completion": 5,
+      "matching": 1,
+      "grouping": 2,
+      "multiple_choice_visual": 3,
+      "contextual": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 16,
+      "memahami": 24,
+      "mencocokkan": 1,
+      "mengelompokkan": 2,
+      "mengenali": 3,
+      "menganalisis": 3,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Memahami kalimat syahadatain"
+     ]
+    },
+    {
+     "tp_id": "TP-FIK-KS-02",
+     "tp": "Murid mampu melafalkan kalimat syahadatain dengan benar.",
+     "jumlah_soal": 50,
+     "distribusi_difficulty": {
+      "easy": 6,
+      "medium": 34,
+      "hard": 10
+     },
+     "distribusi_question_type": {
+      "performance_task": 9,
+      "multiple_choice": 15,
+      "fill_in_short": 6,
+      "ordering": 3,
+      "true_false": 9,
+      "multiple_choice_visual": 1,
+      "completion": 3,
+      "matching": 2,
+      "grouping": 2
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 9,
+      "mengingat": 33,
+      "mengurutkan": 3,
+      "mengenali": 1,
+      "mencocokkan": 2,
+      "mengelompokkan": 2
+     },
+     "kompetensi": [
+      "Melafalkan kalimat syahadatain"
+     ]
+    },
+    {
+     "tp_id": "TP-FIK-KS-03",
+     "tp": "Murid mampu menjelaskan arti kalimat syahadatain dengan benar.",
+     "jumlah_soal": 50,
+     "distribusi_difficulty": {
+      "medium": 38,
+      "hard": 11,
+      "easy": 1
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 23,
+      "contextual": 7,
+      "fill_in_short": 7,
+      "grouping": 3,
+      "true_false": 5,
+      "completion": 3,
+      "matching": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 29,
+      "menerapkan": 5,
+      "membandingkan": 5,
+      "mengelompokkan": 3,
+      "memecahkan_masalah": 2,
+      "menganalisis": 4,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Menjelaskan arti kalimat syahadatain"
+     ]
+    },
+    {
+     "tp_id": "TP-FIK-KS-04",
+     "tp": "Murid mampu menerapkan kalimat syahadatain sebagai wujud cinta kepada Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+     "jumlah_soal": 50,
+     "distribusi_difficulty": {
+      "medium": 32,
+      "easy": 8,
+      "hard": 10
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 20,
+      "contextual": 10,
+      "performance_task": 7,
+      "true_false": 13
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 46,
+      "memecahkan_masalah": 4
+     },
+     "kompetensi": [
+      "Menerapkan kalimat syahadatain"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Taharah",
+   "prefix": "FIK-TH",
+   "alokasi_jp": 12,
+   "jumlah_soal": 267,
+   "tp": [
+    {
+     "tp_id": "TP-FIK-TH-01",
+     "tp": "Murid mampu memahami praktik taharah dengan benar.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "easy": 7,
+      "medium": 51,
+      "hard": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 30,
+      "true_false": 19,
+      "fill_in_short": 6,
+      "completion": 6,
+      "matching": 1,
+      "multiple_choice_visual": 3,
+      "grouping": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 14,
+      "memahami": 44,
+      "mencocokkan": 1,
+      "mengenali": 3,
+      "mengelompokkan": 2,
+      "menganalisis": 3
+     },
+     "kompetensi": [
+      "Memahami praktik taharah"
+     ]
+    },
+    {
+     "tp_id": "TP-FIK-TH-02",
+     "tp": "Murid mampu menyebutkan tata cara bersuci dari hadas dan najis dengan benar.",
+     "jumlah_soal": 66,
+     "distribusi_difficulty": {
+      "medium": 54,
+      "hard": 10,
+      "easy": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 27,
+      "true_false": 17,
+      "fill_in_short": 6,
+      "ordering": 3,
+      "matching": 3,
+      "completion": 4,
+      "grouping": 3,
+      "multiple_choice_visual": 3
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 54,
+      "mengurutkan": 3,
+      "mencocokkan": 3,
+      "mengelompokkan": 3,
+      "mengenali": 3
+     },
+     "kompetensi": [
+      "Menyebutkan tata cara bersuci"
+     ]
+    },
+    {
+     "tp_id": "TP-FIK-TH-03",
+     "tp": "Murid mampu menemukan hikmah bersuci dari hadas dan najis dengan benar.",
+     "jumlah_soal": 66,
+     "distribusi_difficulty": {
+      "medium": 49,
+      "hard": 14,
+      "easy": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 32,
+      "contextual": 9,
+      "fill_in_short": 6,
+      "true_false": 13,
+      "grouping": 3,
+      "completion": 3
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 45,
+      "menerapkan": 6,
+      "memecahkan_masalah": 3,
+      "mengelompokkan": 3,
+      "menganalisis": 6,
+      "membandingkan": 3
+     },
+     "kompetensi": [
+      "Menemukan hikmah bersuci"
+     ]
+    },
+    {
+     "tp_id": "TP-FIK-TH-04",
+     "tp": "Murid mampu meniru praktik taharah dalam kehidupan sehari-hari sebagai wujud cinta kepada Allah dan Rasul-Nya serta cinta lingkungan.",
+     "jumlah_soal": 68,
+     "distribusi_difficulty": {
+      "easy": 12,
+      "medium": 44,
+      "hard": 12
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 23,
+      "performance_task": 11,
+      "contextual": 13,
+      "true_false": 21
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 63,
+      "memecahkan_masalah": 5
+     },
+     "kompetensi": [
+      "Meniru praktik taharah"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Wudu dan Tayamum",
+   "prefix": "FIK-WT",
+   "alokasi_jp": 12,
+   "jumlah_soal": 266,
+   "tp": [
+    {
+     "tp_id": "TP-FIK-WT-01",
+     "tp": "Murid mampu memahami ketentuan wudu dan tayamum dengan benar.",
+     "jumlah_soal": 89,
+     "distribusi_difficulty": {
+      "easy": 7,
+      "medium": 71,
+      "hard": 11
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 43,
+      "true_false": 26,
+      "fill_in_short": 6,
+      "matching": 3,
+      "completion": 6,
+      "multiple_choice_visual": 3,
+      "grouping": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 15,
+      "memahami": 62,
+      "mencocokkan": 3,
+      "mengenali": 3,
+      "mengelompokkan": 2,
+      "menganalisis": 4
+     },
+     "kompetensi": [
+      "Memahami ketentuan wudu dan tayamum"
+     ]
+    },
+    {
+     "tp_id": "TP-FIK-WT-02",
+     "tp": "Murid mampu menjelaskan tata cara berwudu dan tayamum dengan benar.",
+     "jumlah_soal": 89,
+     "distribusi_difficulty": {
+      "medium": 78,
+      "hard": 11
+     },
+     "distribusi_question_type": {
+      "ordering": 2,
+      "multiple_choice": 41,
+      "fill_in_short": 7,
+      "true_false": 23,
+      "matching": 4,
+      "completion": 6,
+      "grouping": 3,
+      "multiple_choice_visual": 3
+     },
+     "distribusi_cognitive_level": {
+      "mengurutkan": 2,
+      "mengingat": 74,
+      "mencocokkan": 4,
+      "membandingkan": 3,
+      "mengelompokkan": 3,
+      "mengenali": 3
+     },
+     "kompetensi": [
+      "Menjelaskan tata cara berwudu dan tayamum"
+     ]
+    },
+    {
+     "tp_id": "TP-FIK-WT-03",
+     "tp": "Murid mampu mempraktikkan tata cara wudu dan tayamum dalam kehidupan sehari-hari dengan benar sebagai wujud cinta Allah dan Rasul-Nya, serta cinta lingkungan.",
+     "jumlah_soal": 88,
+     "distribusi_difficulty": {
+      "medium": 60,
+      "easy": 12,
+      "hard": 16
+     },
+     "distribusi_question_type": {
+      "performance_task": 14,
+      "contextual": 17,
+      "true_false": 27,
+      "multiple_choice": 26,
+      "multiple_choice_visual": 1,
+      "grouping": 1,
+      "ordering": 1,
+      "completion": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 79,
+      "memecahkan_masalah": 7,
+      "mengelompokkan": 1,
+      "mengurutkan": 1
+     },
+     "kompetensi": [
+      "Mempraktikkan tata cara wudu dan tayamum"
+     ]
+    }
+   ]
+  }
+ ],
+ "distribusi_total": {
+  "difficulty": {
+   "easy": 115,
+   "medium": 722,
+   "hard": 163
+  },
+  "question_type": {
+   "multiple_choice": 392,
+   "matching": 35,
+   "ordering": 19,
+   "true_false": 210,
+   "fill_in_short": 78,
+   "completion": 52,
+   "multiple_choice_visual": 43,
+   "contextual": 82,
+   "grouping": 34,
+   "performance_task": 55
+  },
+  "cognitive_level": {
+   "mengingat": 248,
+   "mencocokkan": 35,
+   "mengurutkan": 19,
+   "mengenali": 40,
+   "memahami": 283,
+   "menerapkan": 265,
+   "memecahkan_masalah": 30,
+   "membandingkan": 18,
+   "mengelompokkan": 34,
+   "menganalisis": 28
+  }
+ }
+}

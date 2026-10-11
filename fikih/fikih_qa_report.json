@@ -1,0 +1,79 @@
+{
+ "subject": "Fikih",
+ "grade": 1,
+ "phase": "A",
+ "sumber": "fikih/fikih_bank_1000_FIXED_gabungan.json",
+ "tanggal_audit": "2026-10-11",
+ "total_soal": 1000,
+ "id_unik": 1000,
+ "teks_soal_unik": 1000,
+ "semua_punya_jawaban": true,
+ "semua_punya_penjelasan": true,
+ "per_materi": {
+  "Rukun Islam": 267,
+  "Kalimah Syahadatain": 200,
+  "Taharah": 267,
+  "Wudu dan Tayamum": 266
+ },
+ "per_tp": {
+  "TP-FIK-KS-01": 50,
+  "TP-FIK-KS-02": 50,
+  "TP-FIK-KS-03": 50,
+  "TP-FIK-KS-04": 50,
+  "TP-FIK-RI-01": 77,
+  "TP-FIK-RI-02": 81,
+  "TP-FIK-RI-03": 46,
+  "TP-FIK-RI-04": 63,
+  "TP-FIK-TH-01": 67,
+  "TP-FIK-TH-02": 66,
+  "TP-FIK-TH-03": 66,
+  "TP-FIK-TH-04": 68,
+  "TP-FIK-WT-01": 89,
+  "TP-FIK-WT-02": 89,
+  "TP-FIK-WT-03": 88
+ },
+ "per_difficulty": {
+  "easy": 115,
+  "medium": 722,
+  "hard": 163
+ },
+ "per_question_type": {
+  "multiple_choice": 392,
+  "matching": 35,
+  "ordering": 19,
+  "true_false": 210,
+  "fill_in_short": 78,
+  "completion": 52,
+  "multiple_choice_visual": 43,
+  "contextual": 82,
+  "grouping": 34,
+  "performance_task": 55
+ },
+ "posisi_kunci_pilihan_ganda": {
+  "A": 129,
+  "B": 129,
+  "C": 129,
+  "D": 130
+ },
+ "jumlah_soal_pilihan_ganda_format_ABCD": 517,
+ "pilihan_ganda_kunci_opsi_terpanjang": 386,
+ "true_false_distribusi_jawaban": {
+  "Benar": 168,
+  "Salah": 42
+ },
+ "soal_visual": 44,
+ "jumlah_temuan_validasi": 0,
+ "temuan_validasi": [],
+ "pasangan_hampir_duplikat_(kemiripan>=0.9)": {
+  "jumlah": 0,
+  "lintas_materi": 0,
+  "daftar": []
+ },
+ "rekomendasi": [
+  "Soal benar/salah ~80% berjawaban Benar: ganti sebagian pernyataan menjadi versi Salah (target 50:50) pada revisi berikutnya.",
+  "Pilihan ganda: kunci sering opsi terpanjang dan pengecoh bernada \"tidak ada hikmahnya\"/\"tidak ada alasan khusus\"; perkaya pengecoh agar lebih masuk akal.",
+  "Posisi kunci pilihan ganda telah diseimbangkan ulang (A-D merata) pada audit ini; opsi berurutan (angka/Gambar/Semua benar) tidak diacak."
+ ],
+ "catatan": "Pasangan hampir-duplikat adalah soal templat serupa yang menguji fakta berbeda (kebijakan pemilik proyek: dibiarkan). Perlu tinjauan manual jika jawaban identik.",
+ "hampir_duplikat_dengan_jawaban_sama": []
+}
