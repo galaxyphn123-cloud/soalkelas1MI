@@ -1,0 +1,31 @@
+# Bank Soal Kelas 1 MI (Fase A)
+
+Bank soal digital 1.000 soal per mata pelajaran berdasarkan ATP (file ATP/KKTP ada di folder utama).
+
+| # | Mapel | Status | Folder |
+|---|-------|--------|--------|
+| 1 | Fikih | **Selesai** (1.000 soal) | `fikih/` |
+| 2 | Al-Qur'an Hadis | **Selesai** (1.000 soal) | `alquran_hadis/` |
+| 3 | Bahasa Arab | Belum | - |
+| 4 | Akidah Akhlak | Belum | - |
+| 5 | Bahasa Indonesia | Belum | - |
+| 6 | Matematika | Belum | - |
+| 7 | Pendidikan Pancasila | Belum | - |
+| 8 | PJOK | Belum | - |
+| 9 | Bahasa Inggris | Belum | - |
+
+Tiap mapel punya 4 berkas: bank soal, `*_blueprint.json`, `*_teacher_answer_key.json`, `*_qa_report.json`.
+
+## Fikih
+`fikih/fikih_bank_1000_FIXED_gabungan.json` adalah satu-satunya sumber yang dipakai (berkas per-materi lama
+di `files (15).zip` sudah usang). Posisi kunci pilihan ganda sudah diseimbangkan ulang (A-D merata).
+Temuan yang belum diperbaiki ada di `fikih_qa_report.json` (bagian `rekomendasi`): soal benar/salah ~80% "Benar",
+dan kunci pilihan ganda cenderung opsi terpanjang.
+
+## Al-Qur'an Hadis
+7 materi x 4 TP = 28 TP (143 soal per materi, Hadis 142). Prefix ID `AQH-<kode>-NNNN`:
+HJ (Huruf Hijaiah & Tanda Baca), FA (Al-Fatihah), IK (Al-Ikhlas), HT (Terpisah & Tersambung),
+NS (An-Nas), FL (Al-Falaq), HK (Hadis Kebersihan).
+Soal dibangkitkan dari tabel fakta + skenario tulisan tangan di `alquran_hadis/generator/`
+(`python3 -I build_aqh.py ../aqh_bank_1000.json` lalu `python3 -I make_files.py ../aqh_bank_1000.json ..`).
+Pengecekan duplikat lintas materi dilakukan saat pemilihan soal dan pada audit akhir.

@@ -1,0 +1,931 @@
+{
+ "subject": "Al-Qur'an Hadis",
+ "grade": 1,
+ "phase": "A",
+ "jenjang": "MI",
+ "sumber_atp": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "total_soal": 1000,
+ "catatan": "Jumlah soal dibagi rata per materi karena alokasi waktu seluruh materi sama (6 JP); 7 materi x 4 TP = 28 TP.",
+ "materi": [
+  {
+   "material": "Mengenal Huruf Hijaiah Beserta Tanda Bacanya",
+   "prefix": "AQH-HJ",
+   "alokasi_jp": 6,
+   "jumlah_soal": 143,
+   "tp": [
+    {
+     "tp_id": "TP-AQH-HJ-01",
+     "tp": "Murid mampu mengenal huruf hijaiah dan tanda bacanya dengan benar.",
+     "jumlah_soal": 42,
+     "distribusi_difficulty": {
+      "medium": 17,
+      "easy": 21,
+      "hard": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 18,
+      "multiple_choice_visual": 4,
+      "true_false": 7,
+      "fill_in_short": 4,
+      "completion": 1,
+      "matching": 3,
+      "ordering": 3,
+      "grouping": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 10,
+      "mengenali": 24,
+      "mencocokkan": 3,
+      "mengurutkan": 3,
+      "mengelompokkan": 2
+     },
+     "kompetensi": [
+      "Mengenal bentuk huruf",
+      "Mengenal ciri huruf",
+      "Mengenal nama huruf",
+      "Mengenal tanda baca",
+      "Mengenal urutan huruf"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-HJ-02",
+     "tp": "Murid mampu menyesuaikan pelafalan huruf hijaiah dengan baik dan benar.",
+     "jumlah_soal": 38,
+     "distribusi_difficulty": {
+      "medium": 25,
+      "easy": 9,
+      "hard": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 18,
+      "true_false": 11,
+      "fill_in_short": 4,
+      "performance_task": 5
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 33,
+      "menerapkan": 5
+     },
+     "kompetensi": [
+      "Melafalkan huruf berharakat",
+      "Melafalkan huruf bersukun",
+      "Melafalkan huruf bertasydid"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-HJ-03",
+     "tp": "Murid mampu membandingkan huruf hijaiah dan tanda bacanya dengan benar.",
+     "jumlah_soal": 29,
+     "distribusi_difficulty": {
+      "medium": 23,
+      "easy": 4,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 14,
+      "multiple_choice_visual": 3,
+      "true_false": 5,
+      "fill_in_short": 2,
+      "matching": 1,
+      "grouping": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 26,
+      "mencocokkan": 1,
+      "mengelompokkan": 2
+     },
+     "kompetensi": [
+      "Membandingkan bunyi huruf",
+      "Membandingkan huruf",
+      "Membandingkan huruf berharakat",
+      "Membandingkan tanda baca"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-HJ-04",
+     "tp": "Murid mampu merangkaikan huruf hijaiah bertanda baca dengan baik dan benar sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
+     "jumlah_soal": 34,
+     "distribusi_difficulty": {
+      "hard": 9,
+      "medium": 18,
+      "easy": 7
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "contextual": 3,
+      "true_false": 6,
+      "fill_in_short": 3,
+      "completion": 6,
+      "ordering": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 33,
+      "mengurutkan": 1
+     },
+     "kompetensi": [
+      "Menerapkan cinta ilmu",
+      "Merangkaikan huruf bertanda baca"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Surah Al-Fatihah",
+   "prefix": "AQH-FA",
+   "alokasi_jp": 6,
+   "jumlah_soal": 143,
+   "tp": [
+    {
+     "tp_id": "TP-AQH-FA-01",
+     "tp": "Murid mampu menjelaskan pesan pokok surah Al-Fatihah dengan benar.",
+     "jumlah_soal": 34,
+     "distribusi_difficulty": {
+      "medium": 23,
+      "hard": 8,
+      "easy": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 20,
+      "contextual": 4,
+      "true_false": 3,
+      "completion": 3,
+      "matching": 3,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 10,
+      "menganalisis": 7,
+      "membandingkan": 4,
+      "mengenali": 1,
+      "mengingat": 2,
+      "menerapkan": 7,
+      "mencocokkan": 3
+     },
+     "kompetensi": [
+      "Membedakan pesan surah",
+      "Menerapkan pesan surah",
+      "Menjelaskan pesan ayat",
+      "Menjelaskan pesan pokok surah"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-FA-02",
+     "tp": "Murid mampu menyesuaikan pelafalan dan menghafal surah Al-Fatihah dengan benar.",
+     "jumlah_soal": 37,
+     "distribusi_difficulty": {
+      "easy": 20,
+      "medium": 14,
+      "hard": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 20,
+      "multiple_choice_visual": 1,
+      "true_false": 5,
+      "fill_in_short": 7,
+      "matching": 1,
+      "ordering": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 9,
+      "mengingat": 24,
+      "mencocokkan": 1,
+      "mengurutkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Melafalkan ayat",
+      "Mengenal nama surah",
+      "Mengenal urutan surah",
+      "Menghafal ayat",
+      "Menghafal ayat berurutan",
+      "Menghafal surah",
+      "Menyebutkan jumlah ayat"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-FA-03",
+     "tp": "Murid mampu menyebutkan arti surah Al-Fatihah dengan benar.",
+     "jumlah_soal": 34,
+     "distribusi_difficulty": {
+      "hard": 17,
+      "medium": 13,
+      "easy": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 20,
+      "true_false": 7,
+      "fill_in_short": 6,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 10,
+      "memahami": 15,
+      "mengingat": 8,
+      "membandingkan": 1
+     },
+     "kompetensi": [
+      "Menyebutkan arti ayat",
+      "Menyebutkan arti kata",
+      "Menyebutkan arti nama surah"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-FA-04",
+     "tp": "Murid mampu menerapkan pesan pokok surah Al-Fatihah dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
+     "jumlah_soal": 38,
+     "distribusi_difficulty": {
+      "medium": 22,
+      "easy": 14,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 4,
+      "contextual": 8,
+      "true_false": 14,
+      "completion": 4,
+      "ordering": 3,
+      "grouping": 2,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 19,
+      "memahami": 14,
+      "mengurutkan": 3,
+      "mengelompokkan": 2
+     },
+     "kompetensi": [
+      "Menerapkan pesan surah"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Surah Al-Ikhlas",
+   "prefix": "AQH-IK",
+   "alokasi_jp": 6,
+   "jumlah_soal": 143,
+   "tp": [
+    {
+     "tp_id": "TP-AQH-IK-01",
+     "tp": "Murid mampu menjelaskan pesan pokok surah Al-Ikhlas dengan benar.",
+     "jumlah_soal": 31,
+     "distribusi_difficulty": {
+      "medium": 16,
+      "hard": 5,
+      "easy": 10
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 12,
+      "multiple_choice_visual": 1,
+      "contextual": 4,
+      "true_false": 11,
+      "completion": 1,
+      "matching": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 4,
+      "memahami": 13,
+      "menganalisis": 4,
+      "mengenali": 1,
+      "mengingat": 2,
+      "menerapkan": 6,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Membedakan pesan surah",
+      "Menerapkan pesan surah",
+      "Menjelaskan pesan ayat",
+      "Menjelaskan pesan pokok surah"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-IK-02",
+     "tp": "Murid mampu menyesuaikan pelafalan dan menghafal surah Al-Ikhlas dengan benar.",
+     "jumlah_soal": 38,
+     "distribusi_difficulty": {
+      "medium": 16,
+      "hard": 5,
+      "easy": 17
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 25,
+      "multiple_choice_visual": 1,
+      "true_false": 1,
+      "fill_in_short": 7,
+      "matching": 1,
+      "ordering": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 22,
+      "mengenali": 12,
+      "mencocokkan": 1,
+      "mengurutkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Melafalkan ayat",
+      "Mengenal nama surah",
+      "Mengenal urutan surah",
+      "Menghafal ayat",
+      "Menghafal ayat berurutan",
+      "Menghafal surah",
+      "Menyebutkan jumlah ayat"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-IK-03",
+     "tp": "Murid mampu menyebutkan arti surah Al-Ikhlas dengan benar.",
+     "jumlah_soal": 37,
+     "distribusi_difficulty": {
+      "hard": 14,
+      "medium": 23
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 25,
+      "true_false": 3,
+      "fill_in_short": 6,
+      "matching": 2,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 10,
+      "memahami": 20,
+      "membandingkan": 2,
+      "mengingat": 3,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Menyebutkan arti ayat",
+      "Menyebutkan arti kata",
+      "Menyebutkan arti nama surah"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-IK-04",
+     "tp": "Murid mampu menerapkan pesan pokok surah Al-Ikhlas dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
+     "jumlah_soal": 37,
+     "distribusi_difficulty": {
+      "easy": 1,
+      "medium": 32,
+      "hard": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 2,
+      "contextual": 7,
+      "true_false": 14,
+      "completion": 6,
+      "ordering": 3,
+      "grouping": 2,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 18,
+      "memahami": 14,
+      "mengurutkan": 3,
+      "mengelompokkan": 2
+     },
+     "kompetensi": [
+      "Menerapkan pesan surah"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Mengenal Huruf Hijaiah secara Terpisah dan Tersambung",
+   "prefix": "AQH-HT",
+   "alokasi_jp": 6,
+   "jumlah_soal": 143,
+   "tp": [
+    {
+     "tp_id": "TP-AQH-HT-01",
+     "tp": "Murid mampu mengenal huruf hijaiah secara terpisah dan tersambung dengan benar.",
+     "jumlah_soal": 40,
+     "distribusi_difficulty": {
+      "medium": 21,
+      "easy": 16,
+      "hard": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 22,
+      "true_false": 9,
+      "fill_in_short": 4,
+      "completion": 1,
+      "matching": 2,
+      "grouping": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 31,
+      "mengingat": 5,
+      "mencocokkan": 2,
+      "mengelompokkan": 2
+     },
+     "kompetensi": [
+      "Mengenal bentuk huruf tersambung",
+      "Mengenal huruf terpisah",
+      "Mengenal huruf tersambung"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-HT-02",
+     "tp": "Murid mampu merangkaikan huruf hijaiah secara terpisah dan tersambung dengan benar.",
+     "jumlah_soal": 40,
+     "distribusi_difficulty": {
+      "easy": 13,
+      "medium": 27
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 23,
+      "true_false": 8,
+      "fill_in_short": 5,
+      "matching": 2,
+      "ordering": 1,
+      "grouping": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 14,
+      "memahami": 3,
+      "menerapkan": 19,
+      "mencocokkan": 2,
+      "mengurutkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Memisahkan huruf",
+      "Merangkaikan huruf"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-HT-03",
+     "tp": "Murid mampu menyesuaikan penulisan huruf hijaiah dengan benar.",
+     "jumlah_soal": 36,
+     "distribusi_difficulty": {
+      "hard": 26,
+      "easy": 3,
+      "medium": 7
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 22,
+      "true_false": 10,
+      "fill_in_short": 4
+     },
+     "distribusi_cognitive_level": {
+      "menganalisis": 36
+     },
+     "kompetensi": [
+      "Menyesuaikan penulisan huruf"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-HT-04",
+     "tp": "Murid mampu mempraktikkan penulisan huruf hijaiah secara terpisah dan tersambung dengan benar sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
+     "jumlah_soal": 27,
+     "distribusi_difficulty": {
+      "medium": 13,
+      "hard": 5,
+      "easy": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "multiple_choice_visual": 7,
+      "contextual": 4,
+      "true_false": 2,
+      "ordering": 3,
+      "performance_task": 7
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 3,
+      "menerapkan": 18,
+      "mengingat": 3,
+      "mengurutkan": 3
+     },
+     "kompetensi": [
+      "Mempraktikkan penulisan",
+      "Menerapkan cinta ilmu"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Surah An-Nas",
+   "prefix": "AQH-NS",
+   "alokasi_jp": 6,
+   "jumlah_soal": 143,
+   "tp": [
+    {
+     "tp_id": "TP-AQH-NS-01",
+     "tp": "Murid mampu menjelaskan pesan pokok surah An-Nas dengan benar.",
+     "jumlah_soal": 33,
+     "distribusi_difficulty": {
+      "medium": 16,
+      "hard": 8,
+      "easy": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "contextual": 4,
+      "true_false": 8,
+      "completion": 2,
+      "matching": 3,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 13,
+      "menganalisis": 6,
+      "mengingat": 2,
+      "mengenali": 1,
+      "menerapkan": 7,
+      "membandingkan": 1,
+      "mencocokkan": 3
+     },
+     "kompetensi": [
+      "Membedakan pesan surah",
+      "Menerapkan pesan surah",
+      "Menjelaskan pesan ayat",
+      "Menjelaskan pesan pokok surah"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-NS-02",
+     "tp": "Murid mampu menyesuaikan pelafalan dan menghafal surah An-Nas dengan benar.",
+     "jumlah_soal": 37,
+     "distribusi_difficulty": {
+      "medium": 15,
+      "easy": 20,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 23,
+      "multiple_choice_visual": 1,
+      "true_false": 3,
+      "fill_in_short": 7,
+      "ordering": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 22,
+      "mengenali": 12,
+      "mengurutkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Melafalkan ayat",
+      "Mengenal nama surah",
+      "Mengenal urutan surah",
+      "Menghafal ayat",
+      "Menghafal ayat berurutan",
+      "Menghafal surah",
+      "Menyebutkan jumlah ayat"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-NS-03",
+     "tp": "Murid mampu menyebutkan arti surah An-Nas dengan benar.",
+     "jumlah_soal": 36,
+     "distribusi_difficulty": {
+      "hard": 13,
+      "medium": 22,
+      "easy": 1
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 24,
+      "true_false": 4,
+      "fill_in_short": 6,
+      "matching": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 10,
+      "memahami": 17,
+      "mengingat": 7,
+      "membandingkan": 1,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Menyebutkan arti ayat",
+      "Menyebutkan arti kata",
+      "Menyebutkan arti nama surah"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-NS-04",
+     "tp": "Murid mampu menerapkan pesan pokok surah An-Nas dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
+     "jumlah_soal": 37,
+     "distribusi_difficulty": {
+      "medium": 28,
+      "easy": 8,
+      "hard": 1
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 3,
+      "contextual": 7,
+      "true_false": 14,
+      "completion": 5,
+      "ordering": 3,
+      "grouping": 2,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 18,
+      "memahami": 14,
+      "mengurutkan": 3,
+      "mengelompokkan": 2
+     },
+     "kompetensi": [
+      "Menerapkan pesan surah"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Surah Al-Falaq",
+   "prefix": "AQH-FL",
+   "alokasi_jp": 6,
+   "jumlah_soal": 143,
+   "tp": [
+    {
+     "tp_id": "TP-AQH-FL-01",
+     "tp": "Murid mampu menjelaskan pesan pokok surah Al-Falaq dengan benar.",
+     "jumlah_soal": 32,
+     "distribusi_difficulty": {
+      "medium": 19,
+      "hard": 7,
+      "easy": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 13,
+      "contextual": 4,
+      "true_false": 10,
+      "completion": 2,
+      "matching": 2,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 13,
+      "mengenali": 1,
+      "menganalisis": 5,
+      "mengingat": 2,
+      "menerapkan": 7,
+      "membandingkan": 2,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Membedakan pesan surah",
+      "Menerapkan pesan surah",
+      "Menjelaskan pesan ayat",
+      "Menjelaskan pesan pokok surah"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-FL-02",
+     "tp": "Murid mampu menyesuaikan pelafalan dan menghafal surah Al-Falaq dengan benar.",
+     "jumlah_soal": 38,
+     "distribusi_difficulty": {
+      "hard": 3,
+      "easy": 18,
+      "medium": 17
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 24,
+      "multiple_choice_visual": 1,
+      "true_false": 2,
+      "fill_in_short": 7,
+      "matching": 1,
+      "ordering": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 11,
+      "mengingat": 23,
+      "mencocokkan": 1,
+      "mengurutkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Melafalkan ayat",
+      "Mengenal nama surah",
+      "Mengenal urutan surah",
+      "Menghafal ayat",
+      "Menghafal ayat berurutan",
+      "Menghafal surah",
+      "Menyebutkan jumlah ayat"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-FL-03",
+     "tp": "Murid mampu menyebutkan arti surah Al-Falaq dengan benar.",
+     "jumlah_soal": 36,
+     "distribusi_difficulty": {
+      "medium": 24,
+      "hard": 12
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 25,
+      "true_false": 3,
+      "fill_in_short": 6,
+      "matching": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 22,
+      "mengenali": 6,
+      "mengingat": 7,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Menyebutkan arti ayat",
+      "Menyebutkan arti kata",
+      "Menyebutkan arti nama surah"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-FL-04",
+     "tp": "Murid mampu menerapkan pesan pokok surah Al-Falaq dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
+     "jumlah_soal": 37,
+     "distribusi_difficulty": {
+      "medium": 25,
+      "easy": 12
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 3,
+      "contextual": 7,
+      "true_false": 14,
+      "completion": 5,
+      "ordering": 3,
+      "grouping": 2,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 18,
+      "memahami": 14,
+      "mengurutkan": 3,
+      "mengelompokkan": 2
+     },
+     "kompetensi": [
+      "Menerapkan pesan surah"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Hadis tentang Kebersihan",
+   "prefix": "AQH-HK",
+   "alokasi_jp": 6,
+   "jumlah_soal": 142,
+   "tp": [
+    {
+     "tp_id": "TP-AQH-HK-01",
+     "tp": "Murid mampu menjelaskan pesan pokok hadis tentang kebersihan dengan benar.",
+     "jumlah_soal": 34,
+     "distribusi_difficulty": {
+      "medium": 16,
+      "easy": 16,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 10,
+      "contextual": 3,
+      "true_false": 12,
+      "fill_in_short": 3,
+      "completion": 1,
+      "matching": 3,
+      "grouping": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 24,
+      "mengingat": 3,
+      "menerapkan": 3,
+      "mencocokkan": 3,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Menerapkan pesan surah",
+      "Mengenal hadis kebersihan",
+      "Menjelaskan manfaat kebersihan",
+      "Menjelaskan pesan hadis"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-HK-02",
+     "tp": "Murid mampu menyesuaikan pelafalan dan menghafal hadis tentang kebersihan dengan benar.",
+     "jumlah_soal": 22,
+     "distribusi_difficulty": {
+      "medium": 8,
+      "easy": 10,
+      "hard": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 9,
+      "true_false": 7,
+      "fill_in_short": 1,
+      "completion": 2,
+      "ordering": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 7,
+      "mengingat": 12,
+      "mengurutkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Melafalkan hadis",
+      "Menghafal hadis"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-HK-03",
+     "tp": "Murid mampu menyebutkan arti hadis tentang kebersihan dengan benar.",
+     "jumlah_soal": 25,
+     "distribusi_difficulty": {
+      "medium": 16,
+      "easy": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 10,
+      "true_false": 8,
+      "fill_in_short": 3,
+      "completion": 1,
+      "matching": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 3,
+      "memahami": 13,
+      "mengingat": 8,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Menyebutkan arti hadis",
+      "Menyebutkan arti kata"
+     ]
+    },
+    {
+     "tp_id": "TP-AQH-HK-04",
+     "tp": "Murid mampu menerapkan pola perilaku hidup bersih dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, cinta diri dan sesama manusia, serta cinta lingkungan.",
+     "jumlah_soal": 61,
+     "distribusi_difficulty": {
+      "easy": 24,
+      "medium": 37
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 25,
+      "multiple_choice_visual": 7,
+      "contextual": 11,
+      "true_false": 1,
+      "fill_in_short": 6,
+      "completion": 3,
+      "ordering": 3,
+      "grouping": 3,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 34,
+      "menganalisis": 8,
+      "memahami": 13,
+      "mengurutkan": 3,
+      "mengelompokkan": 3
+     },
+     "kompetensi": [
+      "Menerapkan perilaku hidup bersih",
+      "Menerapkan pesan surah"
+     ]
+    }
+   ]
+  }
+ ],
+ "distribusi_total": {
+  "difficulty": {
+   "medium": 553,
+   "easy": 284,
+   "hard": 163
+  },
+  "question_type": {
+   "multiple_choice": 436,
+   "multiple_choice_visual": 38,
+   "true_false": 202,
+   "fill_in_short": 91,
+   "completion": 43,
+   "matching": 28,
+   "ordering": 28,
+   "grouping": 19,
+   "performance_task": 49,
+   "contextual": 66
+  },
+  "cognitive_level": {
+   "mengingat": 165,
+   "mengenali": 196,
+   "mencocokkan": 28,
+   "mengurutkan": 28,
+   "mengelompokkan": 19,
+   "menerapkan": 222,
+   "membandingkan": 41,
+   "memahami": 235,
+   "menganalisis": 66
+  }
+ }
+}

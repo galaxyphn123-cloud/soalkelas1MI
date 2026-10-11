@@ -1,0 +1,421 @@
+{
+ "subject": "Al-Qur'an Hadis",
+ "grade": 1,
+ "phase": "A",
+ "sumber": "../aqh_bank_1000.json",
+ "tanggal_audit": "2026-10-11",
+ "total_soal": 1000,
+ "id_unik": 1000,
+ "semua_punya_jawaban": true,
+ "semua_punya_penjelasan": true,
+ "teks_soal_unik_non_matching_ordering_grouping": 925,
+ "jumlah_soal_non_matching_ordering_grouping": 925,
+ "teks_soal_sama_tetapi_isi_di_opsi": {
+  "jumlah_teks": 7,
+  "per_tipe": {
+   "matching": 15,
+   "ordering": 3
+  },
+  "catatan": "Hanya tipe matching/ordering/grouping; isi soal ada pada opsi dan jawaban sehingga tidak kembar."
+ },
+ "per_materi": {
+  "Mengenal Huruf Hijaiah Beserta Tanda Bacanya": 143,
+  "Surah Al-Fatihah": 143,
+  "Surah Al-Ikhlas": 143,
+  "Mengenal Huruf Hijaiah secara Terpisah dan Tersambung": 143,
+  "Surah An-Nas": 143,
+  "Surah Al-Falaq": 143,
+  "Hadis tentang Kebersihan": 142
+ },
+ "per_tp": {
+  "TP-AQH-FA-01": 34,
+  "TP-AQH-FA-02": 37,
+  "TP-AQH-FA-03": 34,
+  "TP-AQH-FA-04": 38,
+  "TP-AQH-FL-01": 32,
+  "TP-AQH-FL-02": 38,
+  "TP-AQH-FL-03": 36,
+  "TP-AQH-FL-04": 37,
+  "TP-AQH-HJ-01": 42,
+  "TP-AQH-HJ-02": 38,
+  "TP-AQH-HJ-03": 29,
+  "TP-AQH-HJ-04": 34,
+  "TP-AQH-HK-01": 34,
+  "TP-AQH-HK-02": 22,
+  "TP-AQH-HK-03": 25,
+  "TP-AQH-HK-04": 61,
+  "TP-AQH-HT-01": 40,
+  "TP-AQH-HT-02": 40,
+  "TP-AQH-HT-03": 36,
+  "TP-AQH-HT-04": 27,
+  "TP-AQH-IK-01": 31,
+  "TP-AQH-IK-02": 38,
+  "TP-AQH-IK-03": 37,
+  "TP-AQH-IK-04": 37,
+  "TP-AQH-NS-01": 33,
+  "TP-AQH-NS-02": 37,
+  "TP-AQH-NS-03": 36,
+  "TP-AQH-NS-04": 37
+ },
+ "per_difficulty": {
+  "medium": 553,
+  "easy": 284,
+  "hard": 163
+ },
+ "per_question_type": {
+  "multiple_choice": 436,
+  "multiple_choice_visual": 38,
+  "true_false": 202,
+  "fill_in_short": 91,
+  "completion": 43,
+  "matching": 28,
+  "ordering": 28,
+  "grouping": 19,
+  "performance_task": 49,
+  "contextual": 66
+ },
+ "jumlah_soal_pilihan_ganda_format_ABCD": 540,
+ "posisi_kunci_pilihan_ganda": {
+  "A": 135,
+  "B": 135,
+  "C": 135,
+  "D": 135
+ },
+ "pilihan_ganda_kunci_opsi_terpanjang": 196,
+ "true_false_distribusi_jawaban": {
+  "Benar": 104,
+  "Salah": 98
+ },
+ "soal_visual": 38,
+ "jumlah_temuan_validasi": 0,
+ "temuan_validasi": [],
+ "pasangan_hampir_duplikat_(kemiripan>=0.9)": {
+  "jumlah": 79,
+  "lintas_materi": 43,
+  "dengan_jawaban_sama": 32,
+  "daftar": [
+   [
+    "AQH-HJ-0084",
+    "AQH-HJ-0089"
+   ],
+   [
+    "AQH-HJ-0087",
+    "AQH-HJ-0091"
+   ],
+   [
+    "AQH-HJ-0096",
+    "AQH-HJ-0097"
+   ],
+   [
+    "AQH-FA-0016",
+    "AQH-IK-0006"
+   ],
+   [
+    "AQH-FA-0016",
+    "AQH-FL-0009"
+   ],
+   [
+    "AQH-FA-0027",
+    "AQH-IK-0026"
+   ],
+   [
+    "AQH-FA-0034",
+    "AQH-IK-0031"
+   ],
+   [
+    "AQH-FA-0034",
+    "AQH-FL-0032"
+   ],
+   [
+    "AQH-FA-0055",
+    "AQH-IK-0057"
+   ],
+   [
+    "AQH-FA-0055",
+    "AQH-NS-0057"
+   ],
+   [
+    "AQH-FA-0055",
+    "AQH-FL-0057"
+   ],
+   [
+    "AQH-FA-0056",
+    "AQH-FA-0060"
+   ],
+   [
+    "AQH-FA-0056",
+    "AQH-FL-0058"
+   ],
+   [
+    "AQH-FA-0057",
+    "AQH-FA-0059"
+   ],
+   [
+    "AQH-FA-0063",
+    "AQH-FL-0063"
+   ],
+   [
+    "AQH-FA-0070",
+    "AQH-IK-0069"
+   ],
+   [
+    "AQH-FA-0070",
+    "AQH-FL-0070"
+   ],
+   [
+    "AQH-FA-0071",
+    "AQH-IK-0068"
+   ],
+   [
+    "AQH-FA-0071",
+    "AQH-FL-0069"
+   ],
+   [
+    "AQH-FA-0097",
+    "AQH-IK-0097"
+   ],
+   [
+    "AQH-FA-0101",
+    "AQH-FA-0104"
+   ],
+   [
+    "AQH-FA-0105",
+    "AQH-IK-0106"
+   ],
+   [
+    "AQH-FA-0105",
+    "AQH-FL-0106"
+   ],
+   [
+    "AQH-FA-0125",
+    "AQH-FA-0129"
+   ],
+   [
+    "AQH-FA-0141",
+    "AQH-IK-0142"
+   ],
+   [
+    "AQH-FA-0141",
+    "AQH-FL-0141"
+   ],
+   [
+    "AQH-FA-0142",
+    "AQH-IK-0141"
+   ],
+   [
+    "AQH-FA-0142",
+    "AQH-FL-0142"
+   ],
+   [
+    "AQH-FA-0143",
+    "AQH-IK-0143"
+   ],
+   [
+    "AQH-FA-0143",
+    "AQH-FL-0143"
+   ],
+   [
+    "AQH-IK-0006",
+    "AQH-FL-0009"
+   ],
+   [
+    "AQH-IK-0027",
+    "AQH-FL-0023"
+   ],
+   [
+    "AQH-IK-0028",
+    "AQH-FL-0026"
+   ],
+   [
+    "AQH-IK-0031",
+    "AQH-FL-0032"
+   ],
+   [
+    "AQH-IK-0032",
+    "AQH-NS-0049"
+   ],
+   [
+    "AQH-IK-0032",
+    "AQH-FL-0050"
+   ],
+   [
+    "AQH-IK-0057",
+    "AQH-NS-0057"
+   ],
+   [
+    "AQH-IK-0057",
+    "AQH-FL-0057"
+   ],
+   [
+    "AQH-IK-0060",
+    "AQH-NS-0064"
+   ],
+   [
+    "AQH-IK-0060",
+    "AQH-FL-0063"
+   ],
+   [
+    "AQH-IK-0068",
+    "AQH-FL-0069"
+   ],
+   [
+    "AQH-IK-0069",
+    "AQH-FL-0070"
+   ],
+   [
+    "AQH-IK-0106",
+    "AQH-FL-0106"
+   ],
+   [
+    "AQH-IK-0116",
+    "AQH-IK-0128"
+   ],
+   [
+    "AQH-IK-0117",
+    "AQH-IK-0125"
+   ],
+   [
+    "AQH-IK-0141",
+    "AQH-FL-0142"
+   ],
+   [
+    "AQH-IK-0142",
+    "AQH-FL-0141"
+   ],
+   [
+    "AQH-IK-0143",
+    "AQH-FL-0143"
+   ],
+   [
+    "AQH-HT-0047",
+    "AQH-HT-0059"
+   ],
+   [
+    "AQH-HT-0081",
+    "AQH-HT-0082"
+   ],
+   [
+    "AQH-HT-0081",
+    "AQH-HT-0093"
+   ],
+   [
+    "AQH-HT-0082",
+    "AQH-HT-0093"
+   ],
+   [
+    "AQH-HT-0087",
+    "AQH-HT-0095"
+   ],
+   [
+    "AQH-HT-0088",
+    "AQH-HT-0090"
+   ],
+   [
+    "AQH-HT-0088",
+    "AQH-HT-0096"
+   ],
+   [
+    "AQH-HT-0089",
+    "AQH-HT-0101"
+   ],
+   [
+    "AQH-HT-0090",
+    "AQH-HT-0096"
+   ],
+   [
+    "AQH-HT-0113",
+    "AQH-HT-0114"
+   ],
+   [
+    "AQH-HT-0113",
+    "AQH-HT-0115"
+   ],
+   [
+    "AQH-HT-0113",
+    "AQH-HT-0116"
+   ],
+   [
+    "AQH-HT-0114",
+    "AQH-HT-0115"
+   ],
+   [
+    "AQH-HT-0114",
+    "AQH-HT-0116"
+   ],
+   [
+    "AQH-HT-0115",
+    "AQH-HT-0116"
+   ],
+   [
+    "AQH-HT-0118",
+    "AQH-HT-0119"
+   ],
+   [
+    "AQH-HT-0132",
+    "AQH-HT-0133"
+   ],
+   [
+    "AQH-NS-0027",
+    "AQH-FL-0027"
+   ],
+   [
+    "AQH-NS-0049",
+    "AQH-FL-0050"
+   ],
+   [
+    "AQH-NS-0057",
+    "AQH-FL-0057"
+   ],
+   [
+    "AQH-NS-0058",
+    "AQH-NS-0059"
+   ],
+   [
+    "AQH-NS-0064",
+    "AQH-FL-0063"
+   ],
+   [
+    "AQH-NS-0095",
+    "AQH-NS-0098"
+   ],
+   [
+    "AQH-FL-0018",
+    "AQH-FL-0025"
+   ],
+   [
+    "AQH-FL-0072",
+    "AQH-FL-0083"
+   ],
+   [
+    "AQH-HK-0044",
+    "AQH-HK-0050"
+   ],
+   [
+    "AQH-HK-0057",
+    "AQH-HK-0059"
+   ],
+   [
+    "AQH-HK-0057",
+    "AQH-HK-0066"
+   ],
+   [
+    "AQH-HK-0059",
+    "AQH-HK-0066"
+   ],
+   [
+    "AQH-HK-0069",
+    "AQH-HK-0071"
+   ],
+   [
+    "AQH-HK-0070",
+    "AQH-HK-0072"
+   ]
+  ]
+ },
+ "cek_duplikat_lintas_materi": "Dilakukan saat pemilihan soal (kunci teks + opsi + gambar) dan diverifikasi ulang pada audit ini.",
+ "catatan": [
+  "Al-Fatihah dihitung 7 ayat dengan basmalah sebagai ayat pertama (standar mushaf Indonesia/Kemenag).",
+  "Soal pelafalan huruf Latin memakai transliterasi sederhana; pelafalan makhraj tetap diuji lewat tugas kinerja (performance_task).",
+  "Dua huruf bernama sama \"Ha\" (ح dan ه) tidak diminta dibedakan lewat nama; keduanya dibedakan lewat bentuk."
+ ]
+}
