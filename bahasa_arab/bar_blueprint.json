@@ -1,0 +1,533 @@
+{
+ "subject": "Bahasa Arab",
+ "grade": 1,
+ "phase": "A",
+ "jenjang": "MI",
+ "sumber_atp": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "total_soal": 1000,
+ "catatan": "Jumlah soal dibagi rata per materi (250) karena alokasi waktu seluruh materi sama (14 JP); 4 materi x 4 TP = 16 TP.",
+ "materi": [
+  {
+   "material": "Perkenalan (التعارف)",
+   "prefix": "BAR-PK",
+   "alokasi_jp": 14,
+   "jumlah_soal": 250,
+   "tp": [
+    {
+     "tp_id": "TP-BAR-PK-01",
+     "tp": "Murid mampu mengenali bunyi dan kosakata tentang perkenalan dengan pola kalimat: مَا اسْمُكَ؟، مَا اسْمُكِ؟، اِسْمِيْ....",
+     "jumlah_soal": 58,
+     "distribusi_difficulty": {
+      "medium": 33,
+      "easy": 25
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 38,
+      "true_false": 11,
+      "fill_in_short": 5,
+      "matching": 4
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 30,
+      "memahami": 8,
+      "mengingat": 16,
+      "mencocokkan": 4
+     },
+     "kompetensi": [
+      "Memahami pola kalimat",
+      "Mengenali bunyi kata",
+      "Mengenali kosakata"
+     ]
+    },
+    {
+     "tp_id": "TP-BAR-PK-02",
+     "tp": "Murid mampu menyebutkan bunyi dan kosakata dalam teks tertulis atau teks visual tentang perkenalan.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "easy": 14,
+      "medium": 42,
+      "hard": 11
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 24,
+      "multiple_choice_visual": 9,
+      "contextual": 9,
+      "fill_in_short": 11,
+      "completion": 3,
+      "matching": 2,
+      "ordering": 6,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 41,
+      "menerapkan": 9,
+      "memahami": 9,
+      "mencocokkan": 2,
+      "mengurutkan": 6
+     },
+     "kompetensi": [
+      "Memahami percakapan sederhana",
+      "Membaca kalimat sederhana",
+      "Membaca teks sederhana",
+      "Menyebutkan bunyi kata",
+      "Menyebutkan kosakata visual"
+     ]
+    },
+    {
+     "tp_id": "TP-BAR-PK-03",
+     "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang perkenalan.",
+     "jumlah_soal": 56,
+     "distribusi_difficulty": {
+      "medium": 40,
+      "hard": 13,
+      "easy": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 37,
+      "contextual": 4,
+      "true_false": 7,
+      "fill_in_short": 6,
+      "matching": 2
+     },
+     "distribusi_cognitive_level": {
+      "menganalisis": 46,
+      "memahami": 8,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Memahami huruf dalam kata",
+      "Memahami kalimat sederhana",
+      "Memahami percakapan sederhana",
+      "Memahami tanda baca",
+      "Membaca teks sederhana"
+     ]
+    },
+    {
+     "tp_id": "TP-BAR-PK-04",
+     "tp": "Murid mampu memperkenalkan diri dengan sopan dan ramah kepada teman baru sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+     "jumlah_soal": 69,
+     "distribusi_difficulty": {
+      "easy": 29,
+      "medium": 40
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 3,
+      "contextual": 12,
+      "true_false": 32,
+      "completion": 9,
+      "ordering": 2,
+      "grouping": 3,
+      "performance_task": 8
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 32,
+      "memahami": 32,
+      "mengurutkan": 2,
+      "mengelompokkan": 3
+     },
+     "kompetensi": [
+      "Menerapkan sikap dan ungkapan"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Keluargaku (أسرتي)",
+   "prefix": "BAR-KL",
+   "alokasi_jp": 14,
+   "jumlah_soal": 250,
+   "tp": [
+    {
+     "tp_id": "TP-BAR-KL-01",
+     "tp": "Murid mampu mengenali bunyi dan kosakata tentang keluargaku dengan pola kalimat: مَنْ هُوَ؟، مَنْ هِيَ؟، هُوَ أَبِيْ، هِيَ أُمِّيْ.",
+     "jumlah_soal": 59,
+     "distribusi_difficulty": {
+      "medium": 34,
+      "easy": 25
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 38,
+      "true_false": 11,
+      "fill_in_short": 5,
+      "matching": 5
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 31,
+      "memahami": 7,
+      "mengingat": 16,
+      "mencocokkan": 5
+     },
+     "kompetensi": [
+      "Memahami pola kalimat",
+      "Mengenali bunyi kata",
+      "Mengenali kosakata"
+     ]
+    },
+    {
+     "tp_id": "TP-BAR-KL-02",
+     "tp": "Murid mampu menyebutkan bunyi dan kosakata dalam teks tertulis atau teks visual tentang topik keluargaku.",
+     "jumlah_soal": 69,
+     "distribusi_difficulty": {
+      "easy": 13,
+      "medium": 48,
+      "hard": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 22,
+      "multiple_choice_visual": 9,
+      "contextual": 10,
+      "fill_in_short": 13,
+      "completion": 3,
+      "matching": 3,
+      "ordering": 6,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 43,
+      "menerapkan": 7,
+      "memahami": 10,
+      "mencocokkan": 3,
+      "mengurutkan": 6
+     },
+     "kompetensi": [
+      "Memahami percakapan sederhana",
+      "Membaca kalimat sederhana",
+      "Membaca teks sederhana",
+      "Menyebutkan bunyi kata",
+      "Menyebutkan kosakata visual"
+     ]
+    },
+    {
+     "tp_id": "TP-BAR-KL-03",
+     "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang keluargaku.",
+     "jumlah_soal": 53,
+     "distribusi_difficulty": {
+      "medium": 38,
+      "hard": 14,
+      "easy": 1
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 39,
+      "contextual": 3,
+      "true_false": 7,
+      "fill_in_short": 4
+     },
+     "distribusi_cognitive_level": {
+      "menganalisis": 49,
+      "memahami": 4
+     },
+     "kompetensi": [
+      "Memahami huruf dalam kata",
+      "Memahami kalimat sederhana",
+      "Memahami percakapan sederhana",
+      "Memahami tanda baca",
+      "Membaca teks sederhana"
+     ]
+    },
+    {
+     "tp_id": "TP-BAR-KL-04",
+     "tp": "Murid mampu menyayangi dan menghargai anggota keluarga di rumah sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+     "jumlah_soal": 69,
+     "distribusi_difficulty": {
+      "easy": 25,
+      "medium": 44
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 3,
+      "contextual": 12,
+      "true_false": 32,
+      "completion": 9,
+      "ordering": 2,
+      "grouping": 3,
+      "performance_task": 8
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 32,
+      "memahami": 32,
+      "mengurutkan": 2,
+      "mengelompokkan": 3
+     },
+     "kompetensi": [
+      "Menerapkan sikap dan ungkapan"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Rumahku (بيتي)",
+   "prefix": "BAR-RM",
+   "alokasi_jp": 14,
+   "jumlah_soal": 250,
+   "tp": [
+    {
+     "tp_id": "TP-BAR-RM-01",
+     "tp": "Murid mampu mengenali bunyi dan kosakata tentang rumahku dengan pola kalimat: هٰذَا بَيْتٌ.",
+     "jumlah_soal": 58,
+     "distribusi_difficulty": {
+      "medium": 39,
+      "easy": 19
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 39,
+      "true_false": 10,
+      "fill_in_short": 5,
+      "matching": 4
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 30,
+      "memahami": 9,
+      "mengingat": 15,
+      "mencocokkan": 4
+     },
+     "kompetensi": [
+      "Memahami pola kalimat",
+      "Mengenali bunyi kata",
+      "Mengenali kosakata"
+     ]
+    },
+    {
+     "tp_id": "TP-BAR-RM-02",
+     "tp": "Murid mampu menyebutkan bunyi dan kosakata dalam teks tertulis atau teks visual tentang rumahku.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "medium": 47,
+      "easy": 10,
+      "hard": 10
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 20,
+      "multiple_choice_visual": 9,
+      "contextual": 12,
+      "fill_in_short": 12,
+      "completion": 3,
+      "matching": 2,
+      "ordering": 6,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 37,
+      "menerapkan": 10,
+      "memahami": 12,
+      "mencocokkan": 2,
+      "mengurutkan": 6
+     },
+     "kompetensi": [
+      "Memahami percakapan sederhana",
+      "Membaca kalimat sederhana",
+      "Membaca teks sederhana",
+      "Menyebutkan bunyi kata",
+      "Menyebutkan kosakata visual"
+     ]
+    },
+    {
+     "tp_id": "TP-BAR-RM-03",
+     "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik rumahku.",
+     "jumlah_soal": 56,
+     "distribusi_difficulty": {
+      "medium": 31,
+      "hard": 23,
+      "easy": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 40,
+      "contextual": 1,
+      "true_false": 8,
+      "fill_in_short": 5,
+      "matching": 2
+     },
+     "distribusi_cognitive_level": {
+      "menganalisis": 50,
+      "memahami": 4,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Memahami huruf dalam kata",
+      "Memahami kalimat sederhana",
+      "Memahami percakapan sederhana",
+      "Memahami tanda baca",
+      "Membaca teks sederhana"
+     ]
+    },
+    {
+     "tp_id": "TP-BAR-RM-04",
+     "tp": "Murid mampu membiasakan diri menjaga kebersihan dan kerapian lingkungan rumah bersama keluarga, sebagai wujud cinta Allah dan Rasul-Nya serta cinta lingkungan.",
+     "jumlah_soal": 69,
+     "distribusi_difficulty": {
+      "easy": 24,
+      "medium": 45
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 3,
+      "contextual": 12,
+      "true_false": 32,
+      "completion": 9,
+      "ordering": 2,
+      "grouping": 3,
+      "performance_task": 8
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 32,
+      "memahami": 32,
+      "mengurutkan": 2,
+      "mengelompokkan": 3
+     },
+     "kompetensi": [
+      "Menerapkan sikap dan ungkapan"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Sekolahku (مدرستي)",
+   "prefix": "BAR-SK",
+   "alokasi_jp": 14,
+   "jumlah_soal": 250,
+   "tp": [
+    {
+     "tp_id": "TP-BAR-SK-01",
+     "tp": "Murid mampu mengenali bunyi dan kosakata tentang madrasahku dengan pola kalimat: هٰذِهِ مَدْرَسَةٌ.",
+     "jumlah_soal": 59,
+     "distribusi_difficulty": {
+      "easy": 24,
+      "medium": 35
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 39,
+      "true_false": 10,
+      "fill_in_short": 5,
+      "matching": 5
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 34,
+      "memahami": 5,
+      "mengingat": 15,
+      "mencocokkan": 5
+     },
+     "kompetensi": [
+      "Memahami pola kalimat",
+      "Mengenali bunyi kata",
+      "Mengenali kosakata"
+     ]
+    },
+    {
+     "tp_id": "TP-BAR-SK-02",
+     "tp": "Murid mampu menyebutkan bunyi dan kosakata dalam teks tertulis atau teks visual tentang madrasahku.",
+     "jumlah_soal": 68,
+     "distribusi_difficulty": {
+      "medium": 45,
+      "easy": 13,
+      "hard": 10
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 20,
+      "multiple_choice_visual": 9,
+      "contextual": 11,
+      "fill_in_short": 13,
+      "completion": 4,
+      "matching": 2,
+      "ordering": 6,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 39,
+      "menerapkan": 10,
+      "memahami": 11,
+      "mencocokkan": 2,
+      "mengurutkan": 6
+     },
+     "kompetensi": [
+      "Memahami percakapan sederhana",
+      "Membaca kalimat sederhana",
+      "Membaca teks sederhana",
+      "Menyebutkan bunyi kata",
+      "Menyebutkan kosakata visual"
+     ]
+    },
+    {
+     "tp_id": "TP-BAR-SK-03",
+     "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik madrasahku.",
+     "jumlah_soal": 54,
+     "distribusi_difficulty": {
+      "hard": 21,
+      "medium": 32,
+      "easy": 1
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 40,
+      "contextual": 1,
+      "true_false": 8,
+      "fill_in_short": 4,
+      "matching": 1
+     },
+     "distribusi_cognitive_level": {
+      "menganalisis": 50,
+      "memahami": 3,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Memahami huruf dalam kata",
+      "Memahami kalimat sederhana",
+      "Memahami percakapan sederhana",
+      "Memahami tanda baca"
+     ]
+    },
+    {
+     "tp_id": "TP-BAR-SK-04",
+     "tp": "Murid mampu belajar dengan sungguh-sungguh dan mendengarkan guru sebagai wujud cinta Allah dan Rasul-Nya serta cinta ilmu.",
+     "jumlah_soal": 69,
+     "distribusi_difficulty": {
+      "easy": 30,
+      "medium": 39
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 3,
+      "contextual": 13,
+      "true_false": 32,
+      "completion": 8,
+      "ordering": 2,
+      "grouping": 3,
+      "performance_task": 8
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 32,
+      "memahami": 32,
+      "mengurutkan": 2,
+      "mengelompokkan": 3
+     },
+     "kompetensi": [
+      "Menerapkan sikap dan ungkapan"
+     ]
+    }
+   ]
+  }
+ ],
+ "distribusi_total": {
+  "difficulty": {
+   "medium": 632,
+   "easy": 258,
+   "hard": 110
+  },
+  "question_type": {
+   "multiple_choice": 396,
+   "true_false": 200,
+   "fill_in_short": 88,
+   "matching": 32,
+   "multiple_choice_visual": 48,
+   "contextual": 100,
+   "completion": 48,
+   "ordering": 32,
+   "performance_task": 44,
+   "grouping": 12
+  },
+  "cognitive_level": {
+   "mengenali": 285,
+   "memahami": 218,
+   "mengingat": 62,
+   "mencocokkan": 32,
+   "menerapkan": 164,
+   "mengurutkan": 32,
+   "menganalisis": 195,
+   "mengelompokkan": 12
+  }
+ }
+}

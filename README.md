@@ -6,7 +6,7 @@ Bank soal digital 1.000 soal per mata pelajaran berdasarkan ATP (file ATP/KKTP a
 |---|-------|--------|--------|
 | 1 | Fikih | **Selesai** (1.000 soal) | `fikih/` |
 | 2 | Al-Qur'an Hadis | **Selesai** (1.000 soal) | `alquran_hadis/` |
-| 3 | Bahasa Arab | Belum | - |
+| 3 | Bahasa Arab | **Selesai** (1.000 soal) | `bahasa_arab/` |
 | 4 | Akidah Akhlak | Belum | - |
 | 5 | Bahasa Indonesia | Belum | - |
 | 6 | Matematika | Belum | - |
@@ -29,3 +29,8 @@ NS (An-Nas), FL (Al-Falaq), HK (Hadis Kebersihan).
 Soal dibangkitkan dari tabel fakta + skenario tulisan tangan di `alquran_hadis/generator/`
 (`python3 -I build_aqh.py ../aqh_bank_1000.json` lalu `python3 -I make_files.py ../aqh_bank_1000.json ..`).
 Pengecekan duplikat lintas materi dilakukan saat pemilihan soal dan pada audit akhir.
+
+## Bahasa Arab
+4 materi x 4 TP = 16 TP (250 soal per materi, semua 14 JP). Prefix ID `BAR-<kode>-NNNN`:
+PK (Perkenalan), KL (Keluargaku), RM (Rumahku), SK (Sekolahku). Kosakata dan pola kalimat dibatasi pada ATP.
+Pembangkit di `bahasa_arab/generator/` (`python3 -I build_bar.py ../bar_bank_1000.json`, lalu `python3 -I make_files.py ../bar_bank_1000.json ..`).
