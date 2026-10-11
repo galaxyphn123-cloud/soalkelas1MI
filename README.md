@@ -7,7 +7,7 @@ Bank soal digital 1.000 soal per mata pelajaran berdasarkan ATP (file ATP/KKTP a
 | 1 | Fikih | **Selesai** (1.000 soal) | `fikih/` |
 | 2 | Al-Qur'an Hadis | **Selesai** (1.000 soal) | `alquran_hadis/` |
 | 3 | Bahasa Arab | **Selesai** (1.000 soal) | `bahasa_arab/` |
-| 4 | Akidah Akhlak | Belum | - |
+| 4 | Akidah Akhlak | **Selesai** (1.000 soal) | `akidah_akhlak/` |
 | 5 | Bahasa Indonesia | Belum | - |
 | 6 | Matematika | Belum | - |
 | 7 | Pendidikan Pancasila | Belum | - |
@@ -34,3 +34,10 @@ Pengecekan duplikat lintas materi dilakukan saat pemilihan soal dan pada audit a
 4 materi x 4 TP = 16 TP (250 soal per materi, semua 14 JP). Prefix ID `BAR-<kode>-NNNN`:
 PK (Perkenalan), KL (Keluargaku), RM (Rumahku), SK (Sekolahku). Kosakata dan pola kalimat dibatasi pada ATP.
 Pembangkit di `bahasa_arab/generator/` (`python3 -I build_bar.py ../bar_bank_1000.json`, lalu `python3 -I make_files.py ../bar_bank_1000.json ..`).
+
+## Akidah Akhlak
+7 materi, 26 TP. Soal dibagi sebanding alokasi JP (total 58 JP): Syahadat 104, Kalimat Tayibah 103, Pola Hidup Sehat 155,
+Adab Belajar 207, Kisah Nabi Muhammad 155, Rukun Iman 207, Sifat Wajib Allah 69. Prefix ID `AKA-<kode>-NNNN`
+(SY, TY, SH, AB, KN, RI, SW). Pembangkit di `akidah_akhlak/generator/`
+(`python3 -I build_aka.py ../aka_bank_1000.json`, lalu `python3 -I make_files.py ../aka_bank_1000.json ..`).
+Teks soal tidak kembar di dalam mapel maupun terhadap Fikih, Al-Qur'an Hadis, dan Bahasa Arab.

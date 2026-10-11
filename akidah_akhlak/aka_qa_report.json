@@ -1,0 +1,249 @@
+{
+ "subject": "Akidah Akhlak",
+ "grade": 1,
+ "phase": "A",
+ "sumber": "aka_bank_1000.json",
+ "tanggal_audit": "2026-10-11",
+ "total_soal": 1000,
+ "id_unik": 1000,
+ "semua_punya_jawaban": true,
+ "semua_punya_penjelasan": true,
+ "teks_soal_unik_non_matching_ordering_grouping": 937,
+ "jumlah_soal_non_matching_ordering_grouping": 937,
+ "teks_soal_sama_tetapi_isi_di_opsi": {
+  "jumlah_teks": 1,
+  "per_tipe": {
+   "matching": 2
+  },
+  "catatan": "Hanya tipe matching/ordering/grouping; isi soal ada pada opsi dan jawaban sehingga tidak kembar."
+ },
+ "per_materi": {
+  "Dua Kalimat Syahadat": 104,
+  "Kalimat Tayibah Basmalah, Hamdalah, dan Taawuz": 103,
+  "Pola Hidup Sehat dan Bersih": 155,
+  "Adab Belajar": 207,
+  "Kisah Keteladanan Nabi Muhammad saw.": 155,
+  "Rukun Iman": 207,
+  "Sifat Wajib Allah Swt.": 69
+ },
+ "per_tp": {
+  "TP-AKA-AB-01": 54,
+  "TP-AKA-AB-02": 48,
+  "TP-AKA-AB-03": 48,
+  "TP-AKA-AB-04": 57,
+  "TP-AKA-KN-01": 38,
+  "TP-AKA-KN-02": 36,
+  "TP-AKA-KN-03": 38,
+  "TP-AKA-KN-04": 43,
+  "TP-AKA-RI-01": 65,
+  "TP-AKA-RI-02": 75,
+  "TP-AKA-RI-03": 67,
+  "TP-AKA-SH-01": 36,
+  "TP-AKA-SH-02": 37,
+  "TP-AKA-SH-03": 41,
+  "TP-AKA-SH-04": 41,
+  "TP-AKA-SW-01": 17,
+  "TP-AKA-SW-02": 16,
+  "TP-AKA-SW-03": 17,
+  "TP-AKA-SW-04": 19,
+  "TP-AKA-SY-01": 25,
+  "TP-AKA-SY-02": 26,
+  "TP-AKA-SY-03": 26,
+  "TP-AKA-SY-04": 27,
+  "TP-AKA-TY-01": 32,
+  "TP-AKA-TY-02": 31,
+  "TP-AKA-TY-03": 40
+ },
+ "per_difficulty": {
+  "medium": 606,
+  "hard": 50,
+  "easy": 344
+ },
+ "per_question_type": {
+  "multiple_choice": 282,
+  "true_false": 231,
+  "fill_in_short": 225,
+  "matching": 17,
+  "performance_task": 47,
+  "ordering": 25,
+  "grouping": 21,
+  "multiple_choice_visual": 23,
+  "contextual": 75,
+  "completion": 54
+ },
+ "jumlah_soal_pilihan_ganda_format_ABCD": 380,
+ "posisi_kunci_pilihan_ganda": {
+  "A": 95,
+  "B": 95,
+  "C": 95,
+  "D": 95
+ },
+ "pilihan_ganda_kunci_opsi_terpanjang": 217,
+ "true_false_distribusi_jawaban": {
+  "Benar": 117,
+  "Salah": 114
+ },
+ "soal_visual": 23,
+ "jumlah_temuan_validasi": 0,
+ "temuan_validasi": [],
+ "pasangan_hampir_duplikat_(kemiripan>=0.9)": {
+  "jumlah": 37,
+  "lintas_materi": 0,
+  "dengan_jawaban_sama": 1,
+  "daftar": [
+   [
+    "AKA-SY-0035",
+    "AKA-SY-0039"
+   ],
+   [
+    "AKA-SY-0038",
+    "AKA-SY-0041"
+   ],
+   [
+    "AKA-SY-0045",
+    "AKA-SY-0046"
+   ],
+   [
+    "AKA-TY-0016",
+    "AKA-TY-0020"
+   ],
+   [
+    "AKA-TY-0047",
+    "AKA-TY-0050"
+   ],
+   [
+    "AKA-TY-0047",
+    "AKA-TY-0052"
+   ],
+   [
+    "AKA-TY-0050",
+    "AKA-TY-0052"
+   ],
+   [
+    "AKA-SH-0096",
+    "AKA-SH-0104"
+   ],
+   [
+    "AKA-AB-0023",
+    "AKA-AB-0026"
+   ],
+   [
+    "AKA-AB-0075",
+    "AKA-AB-0085"
+   ],
+   [
+    "AKA-KN-0019",
+    "AKA-KN-0021"
+   ],
+   [
+    "AKA-KN-0028",
+    "AKA-KN-0029"
+   ],
+   [
+    "AKA-KN-0091",
+    "AKA-KN-0096"
+   ],
+   [
+    "AKA-RI-0019",
+    "AKA-RI-0038"
+   ],
+   [
+    "AKA-RI-0021",
+    "AKA-RI-0036"
+   ],
+   [
+    "AKA-RI-0025",
+    "AKA-RI-0041"
+   ],
+   [
+    "AKA-RI-0028",
+    "AKA-RI-0039"
+   ],
+   [
+    "AKA-RI-0030",
+    "AKA-RI-0032"
+   ],
+   [
+    "AKA-RI-0043",
+    "AKA-RI-0044"
+   ],
+   [
+    "AKA-RI-0043",
+    "AKA-RI-0046"
+   ],
+   [
+    "AKA-RI-0043",
+    "AKA-RI-0047"
+   ],
+   [
+    "AKA-RI-0043",
+    "AKA-RI-0051"
+   ],
+   [
+    "AKA-RI-0043",
+    "AKA-RI-0057"
+   ],
+   [
+    "AKA-RI-0044",
+    "AKA-RI-0046"
+   ],
+   [
+    "AKA-RI-0044",
+    "AKA-RI-0047"
+   ],
+   [
+    "AKA-RI-0044",
+    "AKA-RI-0051"
+   ],
+   [
+    "AKA-RI-0044",
+    "AKA-RI-0057"
+   ],
+   [
+    "AKA-RI-0046",
+    "AKA-RI-0047"
+   ],
+   [
+    "AKA-RI-0046",
+    "AKA-RI-0051"
+   ],
+   [
+    "AKA-RI-0046",
+    "AKA-RI-0057"
+   ],
+   [
+    "AKA-RI-0047",
+    "AKA-RI-0051"
+   ],
+   [
+    "AKA-RI-0047",
+    "AKA-RI-0057"
+   ],
+   [
+    "AKA-RI-0051",
+    "AKA-RI-0057"
+   ],
+   [
+    "AKA-RI-0092",
+    "AKA-RI-0103"
+   ],
+   [
+    "AKA-RI-0110",
+    "AKA-RI-0118"
+   ],
+   [
+    "AKA-RI-0112",
+    "AKA-RI-0128"
+   ],
+   [
+    "AKA-RI-0166",
+    "AKA-RI-0174"
+   ]
+  ]
+ },
+ "cek_duplikat_lintas_materi": "Dilakukan saat pemilihan soal (kunci teks + opsi + gambar) dan diverifikasi ulang pada audit ini.",
+ "catatan": [
+  "Soal dibangun dari tabel fakta, skenario sikap, dan tugas kinerja sesuai TP pada ATP.",
+  "Asmaulhusna pada CP tidak termasuk materi ATP kelas 1 sehingga tidak dibuatkan soal."
+ ]
+}

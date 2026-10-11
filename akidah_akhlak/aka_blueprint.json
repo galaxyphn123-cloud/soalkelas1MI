@@ -1,0 +1,894 @@
+{
+ "subject": "Akidah Akhlak",
+ "grade": 1,
+ "phase": "A",
+ "jenjang": "MI",
+ "sumber_atp": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "total_soal": 1000,
+ "catatan": "Jumlah soal dibagi sebanding alokasi JP (total 58 JP): 104/103/155/207/155/207/69 soal; 7 materi, 26 TP.",
+ "materi": [
+  {
+   "material": "Dua Kalimat Syahadat",
+   "prefix": "AKA-SY",
+   "alokasi_jp": 6,
+   "jumlah_soal": 104,
+   "tp": [
+    {
+     "tp_id": "TP-AKA-SY-01",
+     "tp": "Murid mampu menjelaskan arti dua kalimat syahadat dengan benar.",
+     "jumlah_soal": 25,
+     "distribusi_difficulty": {
+      "medium": 14,
+      "hard": 2,
+      "easy": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 13,
+      "true_false": 3,
+      "fill_in_short": 7,
+      "matching": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 13,
+      "mengingat": 10,
+      "mencocokkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mencocokkan",
+      "Menjelaskan arti syahadat",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-SY-02",
+     "tp": "Murid mampu menghafalkan dua kalimat syahadat dengan benar.",
+     "jumlah_soal": 26,
+     "distribusi_difficulty": {
+      "medium": 18,
+      "hard": 2,
+      "easy": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 9,
+      "true_false": 7,
+      "fill_in_short": 7,
+      "ordering": 2,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 23,
+      "mengurutkan": 2,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Menghafal syahadat",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-SY-03",
+     "tp": "Murid mampu membandingkan kalimat syahadat tauhid dan syahadat rasul dengan benar.",
+     "jumlah_soal": 26,
+     "distribusi_difficulty": {
+      "easy": 9,
+      "hard": 4,
+      "medium": 13
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "true_false": 9,
+      "fill_in_short": 7,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 7,
+      "mengingat": 16,
+      "mencocokkan": 1,
+      "mengelompokkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Membandingkan syahadat",
+      "Mencocokkan",
+      "Mengelompokkan contoh",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-SY-04",
+     "tp": "Murid mampu menerapkan kalimat syahadat dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+     "jumlah_soal": 27,
+     "distribusi_difficulty": {
+      "medium": 21,
+      "easy": 3,
+      "hard": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 2,
+      "multiple_choice_visual": 2,
+      "contextual": 10,
+      "true_false": 2,
+      "fill_in_short": 2,
+      "completion": 5,
+      "ordering": 1,
+      "grouping": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 21,
+      "memahami": 2,
+      "mengingat": 2,
+      "mengurutkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Menerapkan nilai dalam kehidupan",
+      "Menerapkan syahadat",
+      "Mengelompokkan contoh",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Kalimat Tayibah Basmalah, Hamdalah, dan Taawuz",
+   "prefix": "AKA-TY",
+   "alokasi_jp": 6,
+   "jumlah_soal": 103,
+   "tp": [
+    {
+     "tp_id": "TP-AKA-TY-01",
+     "tp": "Murid mampu menghafal kalimat tayibah basmalah, hamdalah, dan taawuz dengan benar.",
+     "jumlah_soal": 32,
+     "distribusi_difficulty": {
+      "medium": 18,
+      "easy": 12,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 13,
+      "true_false": 9,
+      "fill_in_short": 7,
+      "ordering": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 14,
+      "mengingat": 15,
+      "mengurutkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Menghafal kalimat tayibah",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-TY-02",
+     "tp": "Murid mampu menjelaskan arti kalimat tayibah basmalah, hamdalah, dan taawuz dengan benar.",
+     "jumlah_soal": 31,
+     "distribusi_difficulty": {
+      "medium": 22,
+      "easy": 7,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 11,
+      "true_false": 11,
+      "fill_in_short": 7,
+      "matching": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 28,
+      "memahami": 1,
+      "mencocokkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mencocokkan",
+      "Menjelaskan arti kalimat tayibah",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-TY-03",
+     "tp": "Murid mampu membiasakan mengucap kalimat tayibah basmalah, hamdalah, dan taawuz dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+     "jumlah_soal": 40,
+     "distribusi_difficulty": {
+      "easy": 22,
+      "medium": 16,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 9,
+      "multiple_choice_visual": 3,
+      "contextual": 10,
+      "true_false": 1,
+      "fill_in_short": 6,
+      "completion": 5,
+      "ordering": 2,
+      "grouping": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 9,
+      "menerapkan": 20,
+      "memahami": 1,
+      "mengingat": 6,
+      "mengurutkan": 2,
+      "mengelompokkan": 2
+     },
+     "kompetensi": [
+      "Membiasakan kalimat tayibah",
+      "Menerapkan nilai dalam kehidupan",
+      "Mengelompokkan contoh",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Pola Hidup Sehat dan Bersih",
+   "prefix": "AKA-SH",
+   "alokasi_jp": 9,
+   "jumlah_soal": 155,
+   "tp": [
+    {
+     "tp_id": "TP-AKA-SH-01",
+     "tp": "Murid mampu mengidentifikasi pola hidup sehat dan bersih dengan benar.",
+     "jumlah_soal": 36,
+     "distribusi_difficulty": {
+      "easy": 28,
+      "medium": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 12,
+      "true_false": 10,
+      "fill_in_short": 12,
+      "matching": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 13,
+      "mengingat": 21,
+      "mencocokkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mencocokkan",
+      "Mengidentifikasi pola hidup sehat",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-SH-02",
+     "tp": "Murid mampu menyimpulkan cara menjaga kesehatan dan kebersihan dengan benar.",
+     "jumlah_soal": 37,
+     "distribusi_difficulty": {
+      "medium": 26,
+      "easy": 7,
+      "hard": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "true_false": 7,
+      "fill_in_short": 12,
+      "ordering": 2,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 34,
+      "mengurutkan": 2,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mengurutkan",
+      "Menyimpulkan cara menjaga kesehatan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-SH-03",
+     "tp": "Murid mampu menemukan contoh perilaku menjaga kesehatan dan kebersihan dengan benar.",
+     "jumlah_soal": 41,
+     "distribusi_difficulty": {
+      "easy": 19,
+      "medium": 22
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 11,
+      "true_false": 11,
+      "fill_in_short": 11,
+      "matching": 2,
+      "grouping": 4,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 11,
+      "memahami": 1,
+      "mengingat": 21,
+      "mencocokkan": 2,
+      "mengelompokkan": 4,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Mencocokkan",
+      "Menemukan contoh perilaku sehat",
+      "Mengelompokkan contoh",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-SH-04",
+     "tp": "Murid mampu menerapkan pola hidup sehat dan bersih dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, cinta lingkungan, serta cinta diri dan sesama manusia.",
+     "jumlah_soal": 41,
+     "distribusi_difficulty": {
+      "medium": 24,
+      "easy": 17
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 3,
+      "multiple_choice_visual": 5,
+      "contextual": 12,
+      "true_false": 3,
+      "fill_in_short": 3,
+      "completion": 8,
+      "ordering": 3,
+      "performance_task": 4
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 32,
+      "memahami": 3,
+      "mengingat": 3,
+      "mengurutkan": 3
+     },
+     "kompetensi": [
+      "Menerapkan nilai dalam kehidupan",
+      "Menerapkan pola hidup sehat",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Adab Belajar",
+   "prefix": "AKA-AB",
+   "alokasi_jp": 12,
+   "jumlah_soal": 207,
+   "tp": [
+    {
+     "tp_id": "TP-AKA-AB-01",
+     "tp": "Murid mampu mengidentifikasi adab belajar dengan benar.",
+     "jumlah_soal": 54,
+     "distribusi_difficulty": {
+      "easy": 28,
+      "medium": 26
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 18,
+      "true_false": 13,
+      "fill_in_short": 18,
+      "ordering": 1,
+      "grouping": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 19,
+      "mengingat": 30,
+      "mengurutkan": 1,
+      "mengelompokkan": 2,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Mengelompokkan contoh",
+      "Mengidentifikasi adab belajar",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-AB-02",
+     "tp": "Murid mampu membandingkan adab belajar di rumah dan di sekolah dengan benar.",
+     "jumlah_soal": 48,
+     "distribusi_difficulty": {
+      "easy": 12,
+      "medium": 34,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 13,
+      "true_false": 19,
+      "fill_in_short": 13,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 44,
+      "memahami": 1,
+      "mencocokkan": 1,
+      "mengelompokkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Membandingkan adab belajar",
+      "Mencocokkan",
+      "Mengelompokkan contoh",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-AB-03",
+     "tp": "Murid mampu menemukan hikmah menerapkan adab belajar dengan benar.",
+     "jumlah_soal": 48,
+     "distribusi_difficulty": {
+      "easy": 13,
+      "medium": 33,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 14,
+      "true_false": 17,
+      "fill_in_short": 14,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 14,
+      "mengingat": 31,
+      "mencocokkan": 1,
+      "mengelompokkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mencocokkan",
+      "Menemukan hikmah adab belajar",
+      "Mengelompokkan contoh",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-AB-04",
+     "tp": "Murid mampu menerapkan adab belajar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta ilmu.",
+     "jumlah_soal": 57,
+     "distribusi_difficulty": {
+      "easy": 30,
+      "medium": 27
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "multiple_choice_visual": 5,
+      "contextual": 15,
+      "true_false": 6,
+      "fill_in_short": 4,
+      "completion": 15,
+      "ordering": 3,
+      "performance_task": 5
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 44,
+      "mengingat": 6,
+      "memahami": 4,
+      "mengurutkan": 3
+     },
+     "kompetensi": [
+      "Menerapkan adab belajar",
+      "Menerapkan nilai dalam kehidupan",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Kisah Keteladanan Nabi Muhammad saw.",
+   "prefix": "AKA-KN",
+   "alokasi_jp": 9,
+   "jumlah_soal": 155,
+   "tp": [
+    {
+     "tp_id": "TP-AKA-KN-01",
+     "tp": "Murid mampu menceritakan kisah Nabi Muhammad saw. dengan benar.",
+     "jumlah_soal": 38,
+     "distribusi_difficulty": {
+      "easy": 8,
+      "medium": 27,
+      "hard": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 18,
+      "true_false": 6,
+      "fill_in_short": 10,
+      "ordering": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 18,
+      "mengingat": 16,
+      "mengurutkan": 2,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Menceritakan kisah Nabi",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-KN-02",
+     "tp": "Murid mampu menyimpulkan kisah Nabi Muhammad saw. dengan benar.",
+     "jumlah_soal": 36,
+     "distribusi_difficulty": {
+      "easy": 14,
+      "medium": 20,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 13,
+      "true_false": 10,
+      "fill_in_short": 10,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 33,
+      "mencocokkan": 1,
+      "mengelompokkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mencocokkan",
+      "Mengelompokkan contoh",
+      "Menyimpulkan kisah Nabi",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-KN-03",
+     "tp": "Murid mampu menguraikan silsilah keluarga Nabi Muhammad saw. dengan benar.",
+     "jumlah_soal": 38,
+     "distribusi_difficulty": {
+      "hard": 8,
+      "medium": 26,
+      "easy": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 12,
+      "true_false": 11,
+      "fill_in_short": 10,
+      "matching": 1,
+      "ordering": 1,
+      "grouping": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 12,
+      "mengingat": 20,
+      "memahami": 1,
+      "mencocokkan": 1,
+      "mengurutkan": 1,
+      "mengelompokkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Mencocokkan",
+      "Mengelompokkan contoh",
+      "Menguraikan silsilah Nabi",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-KN-04",
+     "tp": "Murid mampu menerapkan keteladanan dari kisah Nabi Muhammad saw. dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+     "jumlah_soal": 43,
+     "distribusi_difficulty": {
+      "medium": 23,
+      "easy": 20
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "multiple_choice_visual": 3,
+      "contextual": 11,
+      "true_false": 4,
+      "fill_in_short": 6,
+      "completion": 8,
+      "ordering": 1,
+      "grouping": 1,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 31,
+      "memahami": 3,
+      "mengingat": 7,
+      "mengurutkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Menerapkan keteladanan Nabi",
+      "Menerapkan nilai dalam kehidupan",
+      "Mengelompokkan contoh",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Rukun Iman",
+   "prefix": "AKA-RI",
+   "alokasi_jp": 12,
+   "jumlah_soal": 207,
+   "tp": [
+    {
+     "tp_id": "TP-AKA-RI-01",
+     "tp": "Murid mampu memahami arti rukun iman dengan benar.",
+     "jumlah_soal": 65,
+     "distribusi_difficulty": {
+      "medium": 39,
+      "easy": 24,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 18,
+      "true_false": 23,
+      "fill_in_short": 18,
+      "matching": 1,
+      "ordering": 3,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 18,
+      "mengingat": 41,
+      "mencocokkan": 1,
+      "mengurutkan": 3,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Memahami arti rukun iman",
+      "Mencocokkan",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-RI-02",
+     "tp": "Murid mampu menjelaskan isi rukun iman dengan benar.",
+     "jumlah_soal": 75,
+     "distribusi_difficulty": {
+      "medium": 53,
+      "easy": 20,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 24,
+      "true_false": 17,
+      "fill_in_short": 24,
+      "matching": 3,
+      "ordering": 1,
+      "grouping": 3,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 63,
+      "memahami": 2,
+      "mencocokkan": 3,
+      "mengurutkan": 1,
+      "mengelompokkan": 3,
+      "menerapkan": 3
+     },
+     "kompetensi": [
+      "Mencocokkan",
+      "Mengelompokkan contoh",
+      "Mengurutkan",
+      "Menjelaskan isi rukun iman",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-RI-03",
+     "tp": "Murid mampu menerapkan perilaku pengamalan rukun iman dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "medium": 50,
+      "easy": 15,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 10,
+      "multiple_choice_visual": 3,
+      "contextual": 10,
+      "true_false": 18,
+      "fill_in_short": 10,
+      "completion": 10,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 4
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 10,
+      "menerapkan": 27,
+      "memahami": 10,
+      "mengingat": 18,
+      "mencocokkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Mencocokkan",
+      "Menerapkan nilai dalam kehidupan",
+      "Menerapkan pengamalan rukun iman",
+      "Mengelompokkan contoh",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Sifat Wajib Allah Swt.",
+   "prefix": "AKA-SW",
+   "alokasi_jp": 4,
+   "jumlah_soal": 69,
+   "tp": [
+    {
+     "tp_id": "TP-AKA-SW-01",
+     "tp": "Murid mampu menghafal sifat-sifat wajib Allah Swt. dengan baik dan benar.",
+     "jumlah_soal": 17,
+     "distribusi_difficulty": {
+      "easy": 5,
+      "medium": 9,
+      "hard": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 9,
+      "true_false": 3,
+      "fill_in_short": 2,
+      "matching": 1,
+      "ordering": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 9,
+      "mengingat": 5,
+      "mencocokkan": 1,
+      "mengurutkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mencocokkan",
+      "Menghafal sifat wajib Allah",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-SW-02",
+     "tp": "Murid mampu menjelaskan sifat-sifat wajib Allah Swt. dengan baik dan benar.",
+     "jumlah_soal": 16,
+     "distribusi_difficulty": {
+      "medium": 13,
+      "hard": 1,
+      "easy": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 8,
+      "true_false": 5,
+      "fill_in_short": 1,
+      "grouping": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 13,
+      "memahami": 1,
+      "mengelompokkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mengelompokkan contoh",
+      "Menjelaskan sifat wajib Allah",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-SW-03",
+     "tp": "Murid mampu menemukan hikmah mempelajari sifat-sifat wajib Allah Swt.",
+     "jumlah_soal": 17,
+     "distribusi_difficulty": {
+      "medium": 12,
+      "easy": 5
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "true_false": 5,
+      "fill_in_short": 3,
+      "matching": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 7,
+      "mengingat": 7,
+      "memahami": 1,
+      "mencocokkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mencocokkan",
+      "Menemukan hikmah sifat wajib Allah",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-AKA-SW-04",
+     "tp": "Murid mampu menerapkan perilaku beriman kepada sifat-sifat wajib Allah Swt. dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+     "jumlah_soal": 19,
+     "distribusi_difficulty": {
+      "medium": 12,
+      "easy": 5,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 3,
+      "multiple_choice_visual": 2,
+      "contextual": 7,
+      "true_false": 1,
+      "fill_in_short": 1,
+      "completion": 3,
+      "ordering": 1,
+      "grouping": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 15,
+      "mengingat": 2,
+      "mengurutkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Menerapkan iman pada sifat Allah",
+      "Menerapkan nilai dalam kehidupan",
+      "Mengelompokkan contoh",
+      "Mengurutkan"
+     ]
+    }
+   ]
+  }
+ ],
+ "distribusi_total": {
+  "difficulty": {
+   "medium": 606,
+   "hard": 50,
+   "easy": 344
+  },
+  "question_type": {
+   "multiple_choice": 282,
+   "true_false": 231,
+   "fill_in_short": 225,
+   "matching": 17,
+   "performance_task": 47,
+   "ordering": 25,
+   "grouping": 21,
+   "multiple_choice_visual": 23,
+   "contextual": 75,
+   "completion": 54
+  },
+  "cognitive_level": {
+   "memahami": 135,
+   "mengingat": 515,
+   "mencocokkan": 17,
+   "menerapkan": 217,
+   "mengurutkan": 25,
+   "membandingkan": 70,
+   "mengelompokkan": 21
+  }
+ }
+}
