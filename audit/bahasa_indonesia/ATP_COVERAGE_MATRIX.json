@@ -1,0 +1,1033 @@
+[
+ {
+  "tp_id": "TP-BIN-B1-01",
+  "material": "Bab 1. Aku Ciptaan Allah Swt. yang Sempurna",
+  "tp_text": "Murid mampu memahami cara membaca dan menulis dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 27,
+  "PASS": 11,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 16,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 10,
+   "multiple_choice_visual": 1,
+   "contextual": 3,
+   "true_false": 5,
+   "fill_in_short": 3,
+   "completion": 2,
+   "ordering": 2,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 22,
+   "medium": 5
+  },
+  "level_kognitif": {
+   "memahami": 10,
+   "menerapkan": 7,
+   "mengingat": 8,
+   "mengurutkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B1-02",
+  "material": "Bab 1. Aku Ciptaan Allah Swt. yang Sempurna",
+  "tp_text": "Murid mampu mengenal huruf vokal dan konsonan dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 28,
+  "PASS": 26,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 10,
+   "contextual": 2,
+   "true_false": 7,
+   "fill_in_short": 4,
+   "completion": 2,
+   "grouping": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 15,
+   "medium": 13
+  },
+  "level_kognitif": {
+   "mengenali": 5,
+   "menganalisis": 6,
+   "memahami": 5,
+   "menerapkan": 6,
+   "mengingat": 5,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B1-03",
+  "material": "Bab 1. Aku Ciptaan Allah Swt. yang Sempurna",
+  "tp_text": "Murid mampu membaca dan menulis kata yang berawalan huruf a, h, k, m, r, dan t dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 28,
+  "PASS": 26,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 11,
+   "multiple_choice_visual": 3,
+   "true_false": 6,
+   "fill_in_short": 3,
+   "matching": 2,
+   "ordering": 1,
+   "grouping": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 15,
+   "easy": 13
+  },
+  "level_kognitif": {
+   "mengenali": 18,
+   "menganalisis": 5,
+   "mencocokkan": 2,
+   "mengurutkan": 1,
+   "mengelompokkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B1-04",
+  "material": "Bab 1. Aku Ciptaan Allah Swt. yang Sempurna",
+  "tp_text": "Murid mampu menggunakan anggota tubuh ciptaan Allah Swt. untuk belajar membaca dan menulis dengan sungguh-sungguh sebagai wujud syukur kepada-Nya.",
+  "atp_trace": 0.93,
+  "jumlah_soal": 28,
+  "PASS": 20,
+  "REVISE": 2,
+  "NEEDS_REVIEW": 6,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 10,
+   "multiple_choice_visual": 2,
+   "contextual": 3,
+   "true_false": 4,
+   "fill_in_short": 3,
+   "completion": 2,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 21,
+   "medium": 7
+  },
+  "level_kognitif": {
+   "memahami": 10,
+   "menerapkan": 9,
+   "mengingat": 7,
+   "mencocokkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Benar': 1, 'Salah': 3})"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B2-01",
+  "material": "Bab 2. Badanku Sehat dan Kuat",
+  "tp_text": "Murid mampu menyimak cerita yang dibacakan dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 31,
+  "PASS": 31,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "contextual": 7,
+   "true_false": 16,
+   "fill_in_short": 8
+  },
+  "kesulitan": {
+   "medium": 23,
+   "easy": 8
+  },
+  "level_kognitif": {
+   "memahami": 31
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B2-02",
+  "material": "Bab 2. Badanku Sehat dan Kuat",
+  "tp_text": "Murid mampu menceritakan kembali cerita yang dibacakan dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 23,
+  "PASS": 23,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "contextual": 7,
+   "true_false": 12,
+   "ordering": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 13,
+   "easy": 10
+  },
+  "level_kognitif": {
+   "mengurutkan": 16,
+   "mengingat": 4,
+   "menyimpulkan": 1,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B2-03",
+  "material": "Bab 2. Badanku Sehat dan Kuat",
+  "tp_text": "Murid mampu mengenal penggunaan tanda tanya dan tanda seru dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 38,
+  "PASS": 37,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 25,
+   "fill_in_short": 10,
+   "grouping": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 8,
+   "easy": 30
+  },
+  "level_kognitif": {
+   "memahami": 8,
+   "mengenali": 24,
+   "mengingat": 3,
+   "mengelompokkan": 1,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BIN-B2-04",
+  "material": "Bab 2. Badanku Sehat dan Kuat",
+  "tp_text": "Murid mampu membaca dan menulis kata yang diawali huruf c, i, p, dan s dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 47,
+  "PASS": 35,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 12,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 26,
+   "multiple_choice_visual": 7,
+   "fill_in_short": 2,
+   "completion": 3,
+   "matching": 2,
+   "ordering": 2,
+   "grouping": 2,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "medium": 23,
+   "easy": 24
+  },
+  "level_kognitif": {
+   "menganalisis": 9,
+   "mengenali": 23,
+   "memahami": 2,
+   "mengingat": 1,
+   "menerapkan": 6,
+   "mencocokkan": 2,
+   "mengurutkan": 2,
+   "mengelompokkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "9 soal berstatus kandidat duplikat substantif"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B3-01",
+  "material": "Bab 3. Keluargaku Sakinah",
+  "tp_text": "Murid mampu menyimak cerita yang dibacakan dengan saksama.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 30,
+  "PASS": 26,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 3,
+  "REJECT": 0,
+  "tipe": {
+   "contextual": 8,
+   "true_false": 16,
+   "fill_in_short": 6
+  },
+  "kesulitan": {
+   "medium": 22,
+   "easy": 8
+  },
+  "level_kognitif": {
+   "memahami": 30
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B3-02",
+  "material": "Bab 3. Keluargaku Sakinah",
+  "tp_text": "Murid mampu melengkapi kalimat rumpang dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 31,
+  "PASS": 31,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 18,
+   "true_false": 7,
+   "completion": 6
+  },
+  "kesulitan": {
+   "easy": 31
+  },
+  "level_kognitif": {
+   "menerapkan": 31
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BIN-B3-03",
+  "material": "Bab 3. Keluargaku Sakinah",
+  "tp_text": "Murid mampu membaca dan menulis kata yang berawalan huruf b, g, l, n, dan o dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 39,
+  "PASS": 34,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 5,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 18,
+   "multiple_choice_visual": 2,
+   "true_false": 5,
+   "fill_in_short": 6,
+   "matching": 2,
+   "ordering": 2,
+   "grouping": 3,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 26,
+   "easy": 13
+  },
+  "level_kognitif": {
+   "menganalisis": 10,
+   "mengenali": 21,
+   "mencocokkan": 2,
+   "mengurutkan": 2,
+   "mengelompokkan": 3,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BIN-B3-04",
+  "material": "Bab 3. Keluargaku Sakinah",
+  "tp_text": "Murid mampu menceritakan kembali gambar yang diamati menggunakan kalimat sendiri dengan kreatif.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 39,
+  "PASS": 21,
+  "REVISE": 9,
+  "NEEDS_REVIEW": 9,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 15,
+   "multiple_choice_visual": 5,
+   "contextual": 6,
+   "fill_in_short": 4,
+   "completion": 1,
+   "ordering": 2,
+   "performance_task": 6
+  },
+  "kesulitan": {
+   "easy": 25,
+   "medium": 14
+  },
+  "level_kognitif": {
+   "memahami": 15,
+   "menerapkan": 14,
+   "menyimpulkan": 2,
+   "mengurutkan": 3,
+   "mengingat": 5
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BIN-B4-01",
+  "material": "Bab 4. Kebersihan Sebagian dari Iman",
+  "tp_text": "Murid mampu meniru berbagai gerakan yang dilakukan oleh tokoh dalam cerita dengan benar sebagai bentuk kreativitas dan ekspresi diri.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 26,
+  "PASS": 16,
+  "REVISE": 3,
+  "NEEDS_REVIEW": 7,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 8,
+   "multiple_choice_visual": 1,
+   "contextual": 1,
+   "true_false": 7,
+   "fill_in_short": 4,
+   "completion": 2,
+   "ordering": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 17,
+   "medium": 9
+  },
+  "level_kognitif": {
+   "memahami": 11,
+   "menerapkan": 5,
+   "mengurutkan": 3,
+   "mengingat": 7
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B4-02",
+  "material": "Bab 4. Kebersihan Sebagian dari Iman",
+  "tp_text": "Murid mampu membaca dan menulis kata yang berawalan huruf d, e, f, j, dan u dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 34,
+  "PASS": 31,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 3,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 25,
+   "multiple_choice_visual": 4,
+   "matching": 2,
+   "grouping": 3
+  },
+  "kesulitan": {
+   "medium": 23,
+   "easy": 11
+  },
+  "level_kognitif": {
+   "menganalisis": 11,
+   "mengenali": 18,
+   "mencocokkan": 2,
+   "mengelompokkan": 3
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BIN-B4-03",
+  "material": "Bab 4. Kebersihan Sebagian dari Iman",
+  "tp_text": "Murid mampu menceritakan kembali isi teks yang telah dibaca menggunakan bahasa sendiri secara runtut dan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 25,
+  "PASS": 21,
+  "REVISE": 2,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "contextual": 9,
+   "true_false": 8,
+   "fill_in_short": 4,
+   "ordering": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 20,
+   "easy": 5
+  },
+  "level_kognitif": {
+   "memahami": 14,
+   "menyimpulkan": 1,
+   "mengingat": 1,
+   "mengurutkan": 7,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B4-04",
+  "material": "Bab 4. Kebersihan Sebagian dari Iman",
+  "tp_text": "Murid mampu menunjukkan sikap percaya diri dan semangat dalam menuntut ilmu sesuai dengan ajaran Islam.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 26,
+  "PASS": 19,
+  "REVISE": 3,
+  "NEEDS_REVIEW": 4,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 8,
+   "multiple_choice_visual": 1,
+   "contextual": 1,
+   "true_false": 7,
+   "fill_in_short": 4,
+   "completion": 3,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 20,
+   "medium": 6
+  },
+  "level_kognitif": {
+   "memahami": 10,
+   "menerapkan": 7,
+   "mengingat": 9
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B5-01",
+  "material": "Bab 5. Asyiknya Bermain",
+  "tp_text": "Murid mampu mengenal tanda titik pada akhir kalimat dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 31,
+  "PASS": 31,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 15,
+   "true_false": 9,
+   "fill_in_short": 4,
+   "grouping": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 22,
+   "medium": 9
+  },
+  "level_kognitif": {
+   "mengenali": 15,
+   "memahami": 5,
+   "mengingat": 8,
+   "mengelompokkan": 1,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BIN-B5-02",
+  "material": "Bab 5. Asyiknya Bermain",
+  "tp_text": "Murid mampu menggunakan tanda titik pada akhir kalimat dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 28,
+  "PASS": 28,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 10,
+   "true_false": 14,
+   "fill_in_short": 4
+  },
+  "kesulitan": {
+   "medium": 10,
+   "easy": 18
+  },
+  "level_kognitif": {
+   "menerapkan": 28
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B5-03",
+  "material": "Bab 5. Asyiknya Bermain",
+  "tp_text": "Murid mampu membaca dan menulis kata yang berawalan huruf q, v, w, x, y, dan z dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 40,
+  "PASS": 33,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 7,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 15,
+   "multiple_choice_visual": 5,
+   "true_false": 5,
+   "fill_in_short": 4,
+   "matching": 3,
+   "ordering": 4,
+   "grouping": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 25,
+   "easy": 15
+  },
+  "level_kognitif": {
+   "menganalisis": 10,
+   "mengenali": 19,
+   "mencocokkan": 3,
+   "mengurutkan": 4,
+   "mengelompokkan": 2,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jawaban benar/salah condong ({'Salah': 5})",
+   "7 soal berstatus kandidat duplikat substantif"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B5-04",
+  "material": "Bab 5. Asyiknya Bermain",
+  "tp_text": "Murid mampu mengenal ungkapan permisi, tolong, maaf, dan terima kasih dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 40,
+  "PASS": 36,
+  "REVISE": 3,
+  "NEEDS_REVIEW": 1,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 11,
+   "multiple_choice_visual": 2,
+   "contextual": 14,
+   "fill_in_short": 1,
+   "completion": 7,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "medium": 15,
+   "easy": 25
+  },
+  "level_kognitif": {
+   "memahami": 10,
+   "mengenali": 4,
+   "menerapkan": 21,
+   "menyimpulkan": 1,
+   "mengingat": 1,
+   "mengurutkan": 1,
+   "mencocokkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BIN-B6-01",
+  "material": "Bab 6. Rumahku Surgaku",
+  "tp_text": "Murid mampu menyimak cerita yang dibacakan dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 23,
+  "PASS": 19,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 4,
+  "REJECT": 0,
+  "tipe": {
+   "contextual": 5,
+   "true_false": 10,
+   "fill_in_short": 8
+  },
+  "kesulitan": {
+   "medium": 17,
+   "easy": 6
+  },
+  "level_kognitif": {
+   "memahami": 23
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "proporsi benar/salah tinggi",
+   "4 soal berstatus kandidat duplikat substantif"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B6-02",
+  "material": "Bab 6. Rumahku Surgaku",
+  "tp_text": "Murid mampu menceritakan kembali cerita yang didengar dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 18,
+  "PASS": 18,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "contextual": 6,
+   "true_false": 8,
+   "ordering": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 12,
+   "easy": 6
+  },
+  "level_kognitif": {
+   "menyimpulkan": 2,
+   "mengurutkan": 12,
+   "mengingat": 2,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B6-03",
+  "material": "Bab 6. Rumahku Surgaku",
+  "tp_text": "Murid mampu menulis dan menyebutkan bilangan satu sampai sepuluh dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 43,
+  "PASS": 38,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 5,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 32,
+   "multiple_choice_visual": 5,
+   "matching": 3,
+   "ordering": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 20,
+   "easy": 23
+  },
+  "level_kognitif": {
+   "mengingat": 15,
+   "mengenali": 17,
+   "menerapkan": 7,
+   "mencocokkan": 3,
+   "mengurutkan": 1
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BIN-B6-04",
+  "material": "Bab 6. Rumahku Surgaku",
+  "tp_text": "Murid mampu menerapkan ilmu tentang bilangan dan menyimak cerita yang telah dipelajari dalam kehidupan sehari-hari sebagai bentuk mencintai ilmu.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 27,
+  "PASS": 9,
+  "REVISE": 2,
+  "NEEDS_REVIEW": 16,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 9,
+   "multiple_choice_visual": 1,
+   "true_false": 4,
+   "fill_in_short": 9,
+   "completion": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 17,
+   "medium": 10
+  },
+  "level_kognitif": {
+   "memahami": 10,
+   "menerapkan": 5,
+   "mengingat": 12
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "TP berverba praktik/penerapan tetapi porsi soal penerapan/praktik <15%: perlu aktivitas pendamping praktik",
+   "jawaban benar/salah condong ({'Benar': 1, 'Salah': 3})"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B7-01",
+  "material": "Bab 7. Sekolahku Menyenangkan",
+  "tp_text": "Murid mampu menceritakan kembali isi cerita yang dibaca dengan sederhana dan runtut.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 29,
+  "PASS": 27,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "contextual": 11,
+   "true_false": 10,
+   "fill_in_short": 4,
+   "ordering": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 20,
+   "easy": 9
+  },
+  "level_kognitif": {
+   "mengurutkan": 13,
+   "menyimpulkan": 1,
+   "mengingat": 3,
+   "memahami": 10,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B7-02",
+  "material": "Bab 7. Sekolahku Menyenangkan",
+  "tp_text": "Murid mampu menulis arti kata baru yang ditemukan dengan baik.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 36,
+  "PASS": 36,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 30,
+   "fill_in_short": 2,
+   "matching": 4
+  },
+  "kesulitan": {
+   "medium": 36
+  },
+  "level_kognitif": {
+   "memahami": 32,
+   "mencocokkan": 4
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BIN-B7-03",
+  "material": "Bab 7. Sekolahku Menyenangkan",
+  "tp_text": "Murid mampu menemukan arti kata baru dengan bantuan guru, orang tua, atau kamus secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 35,
+  "PASS": 31,
+  "REVISE": 4,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "multiple_choice_visual": 1,
+   "contextual": 3,
+   "true_false": 11,
+   "fill_in_short": 9,
+   "completion": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 19,
+   "medium": 16
+  },
+  "level_kognitif": {
+   "memahami": 18,
+   "menerapkan": 6,
+   "mengingat": 11
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BIN-B7-04",
+  "material": "Bab 7. Sekolahku Menyenangkan",
+  "tp_text": "Murid mampu bercerita sesuai ide atau gagasan yang dimiliki dengan percaya diri.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 39,
+  "PASS": 33,
+  "REVISE": 5,
+  "NEEDS_REVIEW": 1,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 14,
+   "multiple_choice_visual": 1,
+   "true_false": 7,
+   "fill_in_short": 9,
+   "completion": 5,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "easy": 27,
+   "medium": 12
+  },
+  "level_kognitif": {
+   "memahami": 15,
+   "menerapkan": 9,
+   "mengingat": 15
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jawaban benar/salah condong ({'Benar': 2, 'Salah': 5})"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B8-01",
+  "material": "Bab 8. Lingkungan Sekitarku",
+  "tp_text": "Murid mampu membaca kata-kata sederhana tentang arah dan letak serta pekerjaan dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 28,
+  "PASS": 16,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 12,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 24,
+   "matching": 3,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 15,
+   "easy": 13
+  },
+  "level_kognitif": {
+   "memahami": 12,
+   "mengenali": 12,
+   "mencocokkan": 3,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B8-02",
+  "material": "Bab 8. Lingkungan Sekitarku",
+  "tp_text": "Murid mampu menulis kata-kata sederhana tentang arah dan letak serta pekerjaan dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 28,
+  "PASS": 26,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 8,
+   "contextual": 2,
+   "true_false": 8,
+   "fill_in_short": 5,
+   "completion": 4,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 14,
+   "medium": 14
+  },
+  "level_kognitif": {
+   "memahami": 10,
+   "menerapkan": 7,
+   "mengingat": 7,
+   "mengenali": 4
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B8-03",
+  "material": "Bab 8. Lingkungan Sekitarku",
+  "tp_text": "Murid mampu menceritakan letak suatu benda atau arah suatu tempat dengan baik dan benar agar dapat membantu orang lain.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 28,
+  "PASS": 21,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 7,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice_visual": 6,
+   "contextual": 7,
+   "true_false": 5,
+   "fill_in_short": 6,
+   "ordering": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 26,
+   "easy": 2
+  },
+  "level_kognitif": {
+   "menerapkan": 18,
+   "mengurutkan": 9,
+   "menyimpulkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-BIN-B8-04",
+  "material": "Bab 8. Lingkungan Sekitarku",
+  "tp_text": "Murid mampu menerapkan sikap sungguh-sungguh dalam belajar dan mengenal profesi di lingkungan sekitar sebagai wujud mencintai ilmu agar cita-cita di masa depan tercapai.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 27,
+  "PASS": 17,
+  "REVISE": 4,
+  "NEEDS_REVIEW": 6,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "contextual": 2,
+   "true_false": 9,
+   "fill_in_short": 5,
+   "completion": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 19,
+   "medium": 8
+  },
+  "level_kognitif": {
+   "memahami": 9,
+   "menerapkan": 6,
+   "mengingat": 12
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ }
+]

@@ -1,0 +1,239 @@
+{
+ "catatan": "Jumlah label bukan bukti keberhasilan kurikulum; satu soal dapat memiliki lebih dari satu label. Semua label adalah USULAN berbukti yang perlu diverifikasi guru/ahli.",
+ "ringkasan": {
+  "KBC_langsung": {
+   "Cinta Ilmu": 47,
+   "Cinta Allah dan Rasul-Nya": 9,
+   "Cinta Diri dan Sesama": 72
+  },
+  "KBC_konteks": {
+   "Cinta Tanah Air": 53,
+   "Cinta Allah dan Rasul-Nya": 29,
+   "Cinta Ilmu": 169,
+   "Cinta Diri dan Sesama": 218,
+   "Cinta Lingkungan": 20
+  },
+  "KBC_melalui_TP": {
+   "Cinta Allah dan Rasul-Nya": 208,
+   "Cinta Ilmu": 266,
+   "Cinta Lingkungan": 221,
+   "Cinta Diri dan Sesama": 235
+  },
+  "DL_pengalaman": {
+   "Memahami": 808,
+   "Mengaplikasi": 192,
+   "Merefleksi": 6
+  },
+  "DL_prinsip": {
+   "Menggembirakan": 91,
+   "Bermakna": 68,
+   "Berkesadaran": 6
+  },
+  "PL_langsung": {
+   "Komunikasi / Membaca": 9,
+   "Penalaran Kritis / Penyelesaian Masalah": 51,
+   "Kesehatan / Hidup bersih dan sehat": 18,
+   "Penalaran Kritis / Pengambilan Keputusan": 9,
+   "Kesehatan / Kebugaran, kesehatan fisik, dan kesehatan mental": 1,
+   "Kemandirian / Bertanggung Jawab": 3,
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / Hubungan dengan Tuhan YME": 3,
+   "Komunikasi / Menulis": 1,
+   "Komunikasi / Berbicara": 4
+  },
+  "PL_melalui_TP": {
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / perlu ditetapkan guru": 177,
+   "Komunikasi / Membaca": 228,
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / Hubungan dengan Tuhan YME": 31,
+   "Komunikasi / Berbicara": 44,
+   "Kesehatan / Hidup bersih dan sehat": 8,
+   "Kesehatan / Kebugaran, kesehatan fisik, dan kesehatan mental": 37,
+   "Kesehatan / perlu ditetapkan guru": 75,
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / Hubungan dengan sesama manusia": 1,
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / Hubungan dengan lingkungan alam": 10,
+   "Komunikasi / Menulis": 103,
+   "Kewargaan / perlu ditetapkan guru": 106,
+   "Kewargaan / Kewargaan Lokal": 5
+  },
+  "PL_indikatif": {
+   "Penalaran Kritis / Pengambilan Keputusan": 41
+  }
+ },
+ "per_tp": {
+  "TP-BIN-B1-01": {
+   "PL_langsung": {
+    "Komunikasi": 3
+   },
+   "KBC_langsung": {
+    "Cinta Ilmu": 1
+   }
+  },
+  "TP-BIN-B1-02": {
+   "PL_langsung": {
+    "Penalaran Kritis": 6
+   }
+  },
+  "TP-BIN-B1-03": {
+   "PL_langsung": {
+    "Penalaran Kritis": 5,
+    "Komunikasi": 1
+   },
+   "KBC_langsung": {
+    "Cinta Ilmu": 1
+   }
+  },
+  "TP-BIN-B1-04": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 7,
+    "Cinta Ilmu": 5
+   }
+  },
+  "TP-BIN-B2-01": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 7
+   },
+   "PL_langsung": {
+    "Kesehatan": 8
+   }
+  },
+  "TP-BIN-B2-02": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 13
+   },
+   "PL_langsung": {
+    "Kesehatan": 7,
+    "Penalaran Kritis": 1
+   }
+  },
+  "TP-BIN-B2-03": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 4
+   }
+  },
+  "TP-BIN-B2-04": {
+   "PL_langsung": {
+    "Penalaran Kritis": 9,
+    "Kesehatan": 4,
+    "Komunikasi": 2
+   },
+   "KBC_langsung": {
+    "Cinta Ilmu": 5,
+    "Cinta Diri dan Sesama": 2
+   }
+  },
+  "TP-BIN-B3-03": {
+   "PL_langsung": {
+    "Penalaran Kritis": 10,
+    "Komunikasi": 1
+   },
+   "KBC_langsung": {
+    "Cinta Ilmu": 3
+   }
+  },
+  "TP-BIN-B3-04": {
+   "PL_langsung": {
+    "Kemandirian": 3,
+    "Penalaran Kritis": 2
+   }
+  },
+  "TP-BIN-B4-01": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 1
+   }
+  },
+  "TP-BIN-B4-02": {
+   "PL_langsung": {
+    "Penalaran Kritis": 11,
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 1
+   },
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 1,
+    "Cinta Allah dan Rasul-Nya": 1
+   }
+  },
+  "TP-BIN-B4-03": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 7,
+    "Cinta Allah dan Rasul-Nya": 1
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 1,
+    "Penalaran Kritis": 1
+   }
+  },
+  "TP-BIN-B4-04": {
+   "KBC_langsung": {
+    "Cinta Ilmu": 12,
+    "Cinta Diri dan Sesama": 3
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 1
+   }
+  },
+  "TP-BIN-B5-03": {
+   "PL_langsung": {
+    "Penalaran Kritis": 10,
+    "Komunikasi": 2
+   },
+   "KBC_langsung": {
+    "Cinta Ilmu": 2
+   }
+  },
+  "TP-BIN-B5-04": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 24
+   },
+   "PL_langsung": {
+    "Penalaran Kritis": 1
+   }
+  },
+  "TP-BIN-B6-02": {
+   "PL_langsung": {
+    "Penalaran Kritis": 2
+   }
+  },
+  "TP-BIN-B6-03": {
+   "PL_langsung": {
+    "Komunikasi": 1
+   }
+  },
+  "TP-BIN-B7-01": {
+   "PL_langsung": {
+    "Penalaran Kritis": 1
+   }
+  },
+  "TP-BIN-B7-02": {
+   "PL_langsung": {
+    "Komunikasi": 2
+   }
+  },
+  "TP-BIN-B7-03": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 4,
+    "Cinta Ilmu": 10
+   }
+  },
+  "TP-BIN-B7-04": {
+   "PL_langsung": {
+    "Komunikasi": 2
+   }
+  },
+  "TP-BIN-B8-01": {
+   "KBC_langsung": {
+    "Cinta Ilmu": 3
+   }
+  },
+  "TP-BIN-B8-03": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 6
+   },
+   "PL_langsung": {
+    "Penalaran Kritis": 1
+   }
+  },
+  "TP-BIN-B8-04": {
+   "KBC_langsung": {
+    "Cinta Ilmu": 5
+   }
+  }
+ }
+}

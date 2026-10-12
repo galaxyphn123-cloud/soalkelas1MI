@@ -1,0 +1,120 @@
+{
+ "mapel": "Al-Quran Hadis",
+ "tanggal": "2026-10-12",
+ "soal_awal": 1000,
+ "soal_diperiksa": 1000,
+ "status": {
+  "PASS": 751,
+  "NEEDS_REVIEW": 202,
+  "REVISE": 47
+ },
+ "valid_PASS": 751,
+ "perlu_revisi": 47,
+ "ditolak": 0,
+ "perlu_ahli": 202,
+ "duplikat_identik_ID": 0,
+ "duplikat_substantif_pasangan": 17,
+ "tanpa_pemetaan_TP": 0,
+ "atp_tier_mesin": {
+  "SELARAS": 837,
+  "INDIKASI_LEKSIKAL": 65,
+  "INDIKASI_ISTILAH_ABSEN_DI_ATP": 96,
+  "INDIKASI_KUAT_TP_LAIN": 2
+ },
+ "atp_final": {
+  "SELARAS_MESIN": 837,
+  "BELUM_DITINJAU_INDIKASI_LEKSIKAL": 65,
+  "BELUM_DITINJAU_INDIKASI_ISTILAH_ABSEN_DI_ATP": 96,
+  "BELUM_DITINJAU_INDIKASI_KUAT_TP_LAIN": 2
+ },
+ "tinjau_baca_kode": {},
+ "tinjau_baca_dimuat": false,
+ "issue": {
+  "duplikat_substantif_kandidat": 34,
+  "petunjuk_kunci_terpanjang": 51
+ },
+ "kesulitan": {
+  "medium": 553,
+  "easy": 284,
+  "hard": 163
+ },
+ "level_kognitif": {
+  "mengingat": 165,
+  "mengenali": 196,
+  "mencocokkan": 28,
+  "mengurutkan": 28,
+  "mengelompokkan": 19,
+  "menerapkan": 222,
+  "membandingkan": 41,
+  "memahami": 235,
+  "menganalisis": 66
+ },
+ "tipe": {
+  "multiple_choice": 436,
+  "multiple_choice_visual": 38,
+  "true_false": 202,
+  "fill_in_short": 91,
+  "completion": 43,
+  "matching": 28,
+  "ordering": 28,
+  "grouping": 19,
+  "performance_task": 49,
+  "contextual": 66
+ },
+ "kunci_pilgan_posisi": {
+  "D": 135,
+  "B": 135,
+  "A": 135,
+  "C": 135
+ },
+ "kunci_opsi_terpanjang": "250/540",
+ "tf_jawaban": {
+  "Benar": 104,
+  "Salah": 98
+ },
+ "hash_bank_sebelum": "b9bf7a8e113d91f6c9bd778799473c437e86c7062ac8d9fc18e548e6a223f250",
+ "hash_bank_sesudah": "b9bf7a8e113d91f6c9bd778799473c437e86c7062ac8d9fc18e548e6a223f250",
+ "profil": {
+  "KBC_langsung": {
+   "Cinta Allah dan Rasul-Nya": 347,
+   "Cinta Ilmu": 38,
+   "Cinta Diri dan Sesama": 87,
+   "Cinta Lingkungan": 19
+  },
+  "KBC_konteks": {
+   "Cinta Ilmu": 108,
+   "Cinta Tanah Air": 2,
+   "Cinta Allah dan Rasul-Nya": 153,
+   "Cinta Diri dan Sesama": 153,
+   "Cinta Lingkungan": 27
+  },
+  "KBC_melalui_TP": {
+   "Cinta Allah dan Rasul-Nya": 275,
+   "Cinta Ilmu": 126,
+   "Cinta Diri dan Sesama": 13,
+   "Cinta Lingkungan": 38
+  },
+  "DL_pengalaman": {
+   "Memahami": 842,
+   "Mengaplikasi": 158
+  },
+  "DL_prinsip": {
+   "Menggembirakan": 19,
+   "Bermakna": 44
+  },
+  "PL_langsung": {
+   "Penalaran Kritis / Penyelesaian Masalah": 107,
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / Hubungan dengan Tuhan YME": 435,
+   "Kewargaan / Kewargaan Lokal": 3,
+   "Kewargaan / perlu ditetapkan guru": 7
+  },
+  "PL_melalui_TP": {
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / Hubungan dengan Tuhan YME": 340,
+   "Kewargaan / perlu ditetapkan guru": 47,
+   "Kewargaan / Kewargaan Lokal": 4
+  },
+  "PL_indikatif": {
+   "Penalaran Kritis / Pengambilan Keputusan": 47
+  }
+ }
+}

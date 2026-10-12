@@ -1,0 +1,114 @@
+{
+ "catatan": "Jumlah label bukan bukti keberhasilan kurikulum; satu soal dapat memiliki lebih dari satu label. Semua label adalah USULAN berbukti yang perlu diverifikasi guru/ahli.",
+ "ringkasan": {
+  "KBC_langsung": {
+   "Cinta Ilmu": 4,
+   "Cinta Diri dan Sesama": 25
+  },
+  "KBC_konteks": {
+   "Cinta Ilmu": 98,
+   "Cinta Diri dan Sesama": 201,
+   "Cinta Tanah Air": 1,
+   "Cinta Allah dan Rasul-Nya": 4
+  },
+  "KBC_melalui_TP": {
+   "Cinta Ilmu": 246,
+   "Cinta Diri dan Sesama": 87
+  },
+  "DL_pengalaman": {
+   "Memahami": 838,
+   "Mengaplikasi": 162,
+   "Merefleksi": 5
+  },
+  "DL_prinsip": {
+   "Menggembirakan": 263,
+   "Bermakna": 31,
+   "Berkesadaran": 5
+  },
+  "PL_langsung": {
+   "Kreativitas / Karya": 4,
+   "Penalaran Kritis / Pengambilan Keputusan": 22,
+   "Penalaran Kritis / Penyelesaian Masalah": 59,
+   "Kesehatan / Kebugaran, kesehatan fisik, dan kesehatan mental": 77,
+   "Kewargaan / Kewargaan Lokal": 36,
+   "Kesehatan / Hidup bersih dan sehat": 40
+  },
+  "PL_melalui_TP": {
+   "Kesehatan / Kebugaran, kesehatan fisik, dan kesehatan mental": 303,
+   "Kewargaan / Kewargaan Lokal": 31,
+   "Kesehatan / Hidup bersih dan sehat": 113
+  },
+  "PL_indikatif": {
+   "Penalaran Kritis / Pengambilan Keputusan": 14
+  }
+ },
+ "per_tp": {
+  "TP-PJK-TB-03": {
+   "PL_langsung": {
+    "Kreativitas": 4
+   }
+  },
+  "TP-PJK-TB-07": {
+   "PL_langsung": {
+    "Penalaran Kritis": 22
+   }
+  },
+  "TP-PJK-BG-01": {
+   "KBC_langsung": {
+    "Cinta Ilmu": 2
+   },
+   "PL_langsung": {
+    "Penalaran Kritis": 11,
+    "Kesehatan": 11
+   }
+  },
+  "TP-PJK-BG-02": {
+   "PL_langsung": {
+    "Penalaran Kritis": 12,
+    "Kesehatan": 10
+   }
+  },
+  "TP-PJK-BG-03": {
+   "PL_langsung": {
+    "Kewargaan": 36,
+    "Penalaran Kritis": 20,
+    "Kesehatan": 16
+   },
+   "KBC_langsung": {
+    "Cinta Ilmu": 2
+   }
+  },
+  "TP-PJK-BG-04": {
+   "PL_langsung": {
+    "Penalaran Kritis": 16,
+    "Kesehatan": 8
+   }
+  },
+  "TP-PJK-HA-01": {
+   "PL_langsung": {
+    "Kesehatan": 19
+   }
+  },
+  "TP-PJK-HA-02": {
+   "PL_langsung": {
+    "Kesehatan": 29
+   }
+  },
+  "TP-PJK-MH-01": {
+   "PL_langsung": {
+    "Kesehatan": 19
+   },
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 3
+   }
+  },
+  "TP-PJK-MH-02": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 22
+   },
+   "PL_langsung": {
+    "Kesehatan": 5
+   }
+  }
+ }
+}

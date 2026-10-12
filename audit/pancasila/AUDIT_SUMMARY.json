@@ -1,0 +1,121 @@
+{
+ "mapel": "Pancasila",
+ "tanggal": "2026-10-12",
+ "soal_awal": 1000,
+ "soal_diperiksa": 1000,
+ "status": {
+  "NEEDS_REVIEW": 217,
+  "REVISE": 54,
+  "PASS": 729
+ },
+ "valid_PASS": 729,
+ "perlu_revisi": 54,
+ "ditolak": 0,
+ "perlu_ahli": 217,
+ "duplikat_identik_ID": 0,
+ "duplikat_substantif_pasangan": 10,
+ "tanpa_pemetaan_TP": 0,
+ "atp_tier_mesin": {
+  "INDIKASI_LEKSIKAL": 52,
+  "INDIKASI_ISTILAH_ABSEN_DI_ATP": 143,
+  "SELARAS": 795,
+  "INDIKASI_KUAT_TP_LAIN": 10
+ },
+ "atp_final": {
+  "BELUM_DITINJAU_INDIKASI_LEKSIKAL": 52,
+  "BELUM_DITINJAU_INDIKASI_ISTILAH_ABSEN_DI_ATP": 143,
+  "SELARAS_MESIN": 795,
+  "BELUM_DITINJAU_INDIKASI_KUAT_TP_LAIN": 10
+ },
+ "tinjau_baca_kode": {},
+ "tinjau_baca_dimuat": false,
+ "issue": {
+  "petunjuk_kunci_terpanjang": 65,
+  "duplikat_substantif_kandidat": 12
+ },
+ "kesulitan": {
+  "easy": 543,
+  "medium": 451,
+  "hard": 6
+ },
+ "level_kognitif": {
+  "mengingat": 373,
+  "memahami": 238,
+  "menerapkan": 224,
+  "mencocokkan": 23,
+  "mengelompokkan": 10,
+  "mengenali": 48,
+  "menganalisis": 81,
+  "mengurutkan": 3
+ },
+ "tipe": {
+  "multiple_choice": 297,
+  "multiple_choice_visual": 15,
+  "contextual": 58,
+  "true_false": 308,
+  "fill_in_short": 206,
+  "completion": 56,
+  "matching": 23,
+  "grouping": 10,
+  "performance_task": 24,
+  "ordering": 3
+ },
+ "kunci_pilgan_posisi": {
+  "D": 92,
+  "B": 93,
+  "C": 92,
+  "A": 93
+ },
+ "kunci_opsi_terpanjang": "209/370",
+ "tf_jawaban": {
+  "Benar": 155,
+  "Salah": 153
+ },
+ "hash_bank_sebelum": "61f4bceba748b23d42ec6de33e6044d946372dce15af0cd14e92164f53dcdd6b",
+ "hash_bank_sesudah": "61f4bceba748b23d42ec6de33e6044d946372dce15af0cd14e92164f53dcdd6b",
+ "profil": {
+  "KBC_langsung": {
+   "Cinta Lingkungan": 98,
+   "Cinta Tanah Air": 106,
+   "Cinta Ilmu": 2,
+   "Cinta Diri dan Sesama": 113
+  },
+  "KBC_konteks": {
+   "Cinta Ilmu": 54,
+   "Cinta Diri dan Sesama": 250,
+   "Cinta Allah dan Rasul-Nya": 65,
+   "Cinta Lingkungan": 160,
+   "Cinta Tanah Air": 148
+  },
+  "KBC_melalui_TP": {
+   "Cinta Tanah Air": 266,
+   "Cinta Lingkungan": 468,
+   "Cinta Ilmu": 125,
+   "Cinta Diri dan Sesama": 119
+  },
+  "DL_pengalaman": {
+   "Memahami": 862,
+   "Mengaplikasi": 138
+  },
+  "DL_prinsip": {
+   "Menggembirakan": 114,
+   "Bermakna": 51
+  },
+  "PL_langsung": {
+   "Kewargaan / Kewargaan Lokal": 214,
+   "Kewargaan / perlu ditetapkan guru": 53,
+   "Penalaran Kritis / Penyelesaian Masalah": 81,
+   "Kolaborasi / Kerja sama": 35,
+   "Kolaborasi / Peduli": 36,
+   "Kewargaan / Kewargaan Nasional": 44
+  },
+  "PL_melalui_TP": {
+   "Kewargaan / Kewargaan Lokal": 321,
+   "Kewargaan / perlu ditetapkan guru": 191,
+   "Kewargaan / Kewargaan Nasional": 177
+  },
+  "PL_indikatif": {
+   "Penalaran Kritis / Pengambilan Keputusan": 13
+  }
+ }
+}

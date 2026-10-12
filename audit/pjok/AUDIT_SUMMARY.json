@@ -1,0 +1,119 @@
+{
+ "mapel": "PJOK",
+ "tanggal": "2026-10-12",
+ "soal_awal": 1000,
+ "soal_diperiksa": 1000,
+ "status": {
+  "NEEDS_REVIEW": 259,
+  "PASS": 692,
+  "REVISE": 49
+ },
+ "valid_PASS": 692,
+ "perlu_revisi": 49,
+ "ditolak": 0,
+ "perlu_ahli": 259,
+ "duplikat_identik_ID": 0,
+ "duplikat_substantif_pasangan": 29,
+ "tanpa_pemetaan_TP": 0,
+ "atp_tier_mesin": {
+  "INDIKASI_LEKSIKAL": 82,
+  "SELARAS": 776,
+  "INDIKASI_ISTILAH_ABSEN_DI_ATP": 139,
+  "INDIKASI_KUAT_TP_LAIN": 3
+ },
+ "atp_final": {
+  "BELUM_DITINJAU_INDIKASI_LEKSIKAL": 82,
+  "SELARAS_MESIN": 776,
+  "BELUM_DITINJAU_INDIKASI_ISTILAH_ABSEN_DI_ATP": 139,
+  "BELUM_DITINJAU_INDIKASI_KUAT_TP_LAIN": 3
+ },
+ "tinjau_baca_kode": {},
+ "tinjau_baca_dimuat": false,
+ "issue": {
+  "petunjuk_kunci_terpanjang": 67,
+  "duplikat_substantif_kandidat": 43
+ },
+ "kesulitan": {
+  "medium": 525,
+  "easy": 473,
+  "hard": 2
+ },
+ "level_kognitif": {
+  "memahami": 178,
+  "mengingat": 412,
+  "mengenali": 98,
+  "menerapkan": 190,
+  "mencocokkan": 27,
+  "mengurutkan": 3,
+  "mengelompokkan": 11,
+  "mengevaluasi": 22,
+  "menganalisis": 59
+ },
+ "tipe": {
+  "multiple_choice": 363,
+  "multiple_choice_visual": 16,
+  "contextual": 37,
+  "true_false": 200,
+  "fill_in_short": 218,
+  "completion": 25,
+  "matching": 27,
+  "ordering": 3,
+  "grouping": 11,
+  "performance_task": 100
+ },
+ "kunci_pilgan_posisi": {
+  "B": 104,
+  "C": 104,
+  "D": 104,
+  "A": 104
+ },
+ "kunci_opsi_terpanjang": "192/416",
+ "tf_jawaban": {
+  "Benar": 102,
+  "Salah": 98
+ },
+ "hash_bank_sebelum": "137d27911d6ca21665df44a51441f5de358bd2d8683aec1d8a993ba4b48c4f34",
+ "hash_bank_sesudah": "137d27911d6ca21665df44a51441f5de358bd2d8683aec1d8a993ba4b48c4f34",
+ "profil": {
+  "KBC_langsung": {
+   "Cinta Ilmu": 4,
+   "Cinta Diri dan Sesama": 25
+  },
+  "KBC_konteks": {
+   "Cinta Ilmu": 98,
+   "Cinta Diri dan Sesama": 201,
+   "Cinta Tanah Air": 1,
+   "Cinta Allah dan Rasul-Nya": 4
+  },
+  "KBC_melalui_TP": {
+   "Cinta Ilmu": 246,
+   "Cinta Diri dan Sesama": 87
+  },
+  "DL_pengalaman": {
+   "Memahami": 838,
+   "Mengaplikasi": 162,
+   "Merefleksi": 5
+  },
+  "DL_prinsip": {
+   "Menggembirakan": 263,
+   "Bermakna": 31,
+   "Berkesadaran": 5
+  },
+  "PL_langsung": {
+   "Kreativitas / Karya": 4,
+   "Penalaran Kritis / Pengambilan Keputusan": 22,
+   "Penalaran Kritis / Penyelesaian Masalah": 59,
+   "Kesehatan / Kebugaran, kesehatan fisik, dan kesehatan mental": 77,
+   "Kewargaan / Kewargaan Lokal": 36,
+   "Kesehatan / Hidup bersih dan sehat": 40
+  },
+  "PL_melalui_TP": {
+   "Kesehatan / Kebugaran, kesehatan fisik, dan kesehatan mental": 303,
+   "Kewargaan / Kewargaan Lokal": 31,
+   "Kesehatan / Hidup bersih dan sehat": 113
+  },
+  "PL_indikatif": {
+   "Penalaran Kritis / Pengambilan Keputusan": 14
+  }
+ }
+}

@@ -1,0 +1,2257 @@
+[
+ {
+  "tp_id": "TP-ENG-B1-01",
+  "material": "Bab 1. Hello, How Are You? (Salam Sapaan dan Ucapan Berpisah)",
+  "tp_text": "Murid mampu mengidentifikasi diri sendiri.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 13,
+  "PASS": 5,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 8,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "true_false": 2,
+   "fill_in_short": 1,
+   "completion": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 11,
+   "easy": 2
+  },
+  "level_kognitif": {
+   "mengenali": 7,
+   "mengingat": 3,
+   "menerapkan": 3
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Salah': 2})"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B1-02",
+  "material": "Bab 1. Hello, How Are You? (Salam Sapaan dan Ucapan Berpisah)",
+  "tp_text": "Murid mampu menggunakan gerakan tubuh untuk menyapa orang lain secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 12,
+  "PASS": 11,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice_visual": 1,
+   "contextual": 3,
+   "true_false": 4,
+   "completion": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 5,
+   "medium": 7
+  },
+  "level_kognitif": {
+   "menerapkan": 8,
+   "memahami": 4
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Benar': 3, 'Salah': 1})"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B1-03",
+  "material": "Bab 1. Hello, How Are You? (Salam Sapaan dan Ucapan Berpisah)",
+  "tp_text": "Murid mampu menggunakan gerakan tubuh untuk merespon salam sapaan orang lain secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 12,
+  "PASS": 3,
+  "REVISE": 2,
+  "NEEDS_REVIEW": 7,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice_visual": 1,
+   "contextual": 2,
+   "true_false": 5,
+   "completion": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 9,
+   "medium": 3
+  },
+  "level_kognitif": {
+   "menerapkan": 7,
+   "memahami": 5
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B1-04",
+  "material": "Bab 1. Hello, How Are You? (Salam Sapaan dan Ucapan Berpisah)",
+  "tp_text": "Murid mampu memahami kosakata sederhana dalam instruksi dan meresponnya dengan gerakan tubuh secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 13,
+  "PASS": 11,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "multiple_choice_visual": 1,
+   "true_false": 1,
+   "fill_in_short": 1,
+   "matching": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 9,
+   "easy": 4
+  },
+  "level_kognitif": {
+   "mengenali": 5,
+   "mengingat": 4,
+   "menerapkan": 3,
+   "mencocokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Salah': 1})"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B1-05",
+  "material": "Bab 1. Hello, How Are You? (Salam Sapaan dan Ucapan Berpisah)",
+  "tp_text": "Murid mampu menggunakan ungkapan-ungkapan untuk menyapa orang lain dalam Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 13,
+  "PASS": 13,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "multiple_choice_visual": 4,
+   "matching": 1,
+   "ordering": 1,
+   "grouping": 1
+  },
+  "kesulitan": {
+   "easy": 8,
+   "medium": 5
+  },
+  "level_kognitif": {
+   "mengingat": 4,
+   "mengenali": 6,
+   "mencocokkan": 1,
+   "mengurutkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B1-06",
+  "material": "Bab 1. Hello, How Are You? (Salam Sapaan dan Ucapan Berpisah)",
+  "tp_text": "Murid mampu menggunakan ungkapan-ungkapan untuk merespon salam sapaan dari orang lain dalam Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 13,
+  "PASS": 13,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "true_false": 2,
+   "fill_in_short": 2,
+   "ordering": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 12,
+   "easy": 1
+  },
+  "level_kognitif": {
+   "mengenali": 7,
+   "mengingat": 4,
+   "mengurutkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Salah': 2})"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B1-07",
+  "material": "Bab 1. Hello, How Are You? (Salam Sapaan dan Ucapan Berpisah)",
+  "tp_text": "Murid mampu menggunakan ungkapan-ungkapan untuk mengucapkan selamat tinggal kepada orang lain dalam Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 12,
+  "PASS": 12,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "true_false": 1,
+   "fill_in_short": 2,
+   "matching": 1,
+   "grouping": 1
+  },
+  "kesulitan": {
+   "easy": 3,
+   "medium": 9
+  },
+  "level_kognitif": {
+   "mengingat": 5,
+   "mengenali": 5,
+   "mencocokkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Salah': 1})"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B1-08",
+  "material": "Bab 1. Hello, How Are You? (Salam Sapaan dan Ucapan Berpisah)",
+  "tp_text": "Murid mampu menangkap makna dari suatu bacaan yang memuat informasi mengenai salam sapaan dalam konteks kelas.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 10,
+  "PASS": 9,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 1,
+  "REJECT": 0,
+  "tipe": {
+   "contextual": 3,
+   "true_false": 5,
+   "completion": 2
+  },
+  "kesulitan": {
+   "medium": 4,
+   "easy": 6
+  },
+  "level_kognitif": {
+   "menerapkan": 5,
+   "memahami": 5
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "proporsi benar/salah tinggi",
+   "jawaban benar/salah condong ({'Benar': 4, 'Salah': 1})"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B1-09",
+  "material": "Bab 1. Hello, How Are You? (Salam Sapaan dan Ucapan Berpisah)",
+  "tp_text": "Murid mampu menuliskan kosakata sederhana mengenai salam sapaan dan respon salam sapaan dalam Bahasa Inggris secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 14,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "fill_in_short": 4,
+   "ordering": 4
+  },
+  "kesulitan": {
+   "medium": 14
+  },
+  "level_kognitif": {
+   "menerapkan": 14
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B2-01",
+  "material": "Bab 2. It's a Red Book (Benda di Dalam Kelas)",
+  "tp_text": "Murid mampu menggunakan gerakan tubuh untuk bertanya dan merespon jawaban mengenai benda-benda di dalam kelas secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 12,
+  "REVISE": 2,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "contextual": 3,
+   "true_false": 6,
+   "completion": 2,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "easy": 6,
+   "medium": 8
+  },
+  "level_kognitif": {
+   "menerapkan": 8,
+   "memahami": 6
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B2-02",
+  "material": "Bab 2. It's a Red Book (Benda di Dalam Kelas)",
+  "tp_text": "Murid mampu mengucapkan nama-nama benda yang ada di dalam kelas dalam Bahasa Inggris dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 2,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 12,
+  "REJECT": 0,
+  "tipe": {
+   "contextual": 5,
+   "true_false": 5,
+   "completion": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 10,
+   "medium": 4
+  },
+  "level_kognitif": {
+   "menerapkan": 9,
+   "memahami": 5
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "proporsi benar/salah tinggi",
+   "4 soal berstatus kandidat duplikat substantif"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B2-03",
+  "material": "Bab 2. It's a Red Book (Benda di Dalam Kelas)",
+  "tp_text": "Murid mampu mengidentifikasikan nama-nama benda yang ada di dalam kelas dalam Bahasa Inggris dengan tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 13,
+  "PASS": 10,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 3,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "multiple_choice_visual": 2,
+   "true_false": 1,
+   "fill_in_short": 1,
+   "matching": 1,
+   "grouping": 1
+  },
+  "kesulitan": {
+   "easy": 6,
+   "medium": 7
+  },
+  "level_kognitif": {
+   "mengingat": 6,
+   "mengenali": 5,
+   "mencocokkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Salah': 1})"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B2-04",
+  "material": "Bab 2. It's a Red Book (Benda di Dalam Kelas)",
+  "tp_text": "Murid mampu merespon instruksi mengenai permintaan ditunjukkannya sebuah objek benda yang ada di dalam kelas.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 10,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 4,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "true_false": 3,
+   "fill_in_short": 2,
+   "matching": 1,
+   "ordering": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 10,
+   "easy": 4
+  },
+  "level_kognitif": {
+   "mengenali": 5,
+   "mengingat": 6,
+   "mencocokkan": 1,
+   "mengurutkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B2-05",
+  "material": "Bab 2. It's a Red Book (Benda di Dalam Kelas)",
+  "tp_text": "Murid mampu mengidentifikasikan warna benda-benda yang ada di dalam kelas menggunakan Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 12,
+  "PASS": 9,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 3,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "multiple_choice_visual": 3,
+   "true_false": 1,
+   "fill_in_short": 1,
+   "matching": 1
+  },
+  "kesulitan": {
+   "medium": 7,
+   "easy": 5
+  },
+  "level_kognitif": {
+   "mengenali": 8,
+   "mengingat": 3,
+   "mencocokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Salah': 1})",
+   "2 soal berstatus kandidat duplikat substantif"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B2-06",
+  "material": "Bab 2. It's a Red Book (Benda di Dalam Kelas)",
+  "tp_text": "Murid mampu mengidentifikasikan nama dan warna benda-benda yang ada di dalam kelas menggunakan Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 12,
+  "PASS": 12,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "multiple_choice_visual": 2,
+   "true_false": 1,
+   "fill_in_short": 1,
+   "grouping": 1
+  },
+  "kesulitan": {
+   "easy": 4,
+   "medium": 8
+  },
+  "level_kognitif": {
+   "mengingat": 3,
+   "mengenali": 8,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Salah': 1})"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B2-07",
+  "material": "Bab 2. It's a Red Book (Benda di Dalam Kelas)",
+  "tp_text": "Murid mampu mengungkapkan nama dan warna benda-benda yang ada di dalam kelas menggunakan Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 15,
+  "PASS": 15,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "true_false": 3,
+   "fill_in_short": 1,
+   "completion": 1,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "easy": 6,
+   "medium": 9
+  },
+  "level_kognitif": {
+   "mengingat": 6,
+   "mengenali": 3,
+   "memahami": 2,
+   "menerapkan": 4
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B2-08",
+  "material": "Bab 2. It's a Red Book (Benda di Dalam Kelas)",
+  "tp_text": "Murid mampu menuliskan frase sederhana mengenai benda-benda di kelas dalam Bahasa Inggris.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 17,
+  "PASS": 17,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "fill_in_short": 4,
+   "completion": 2,
+   "ordering": 5
+  },
+  "kesulitan": {
+   "medium": 17
+  },
+  "level_kognitif": {
+   "menerapkan": 17
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B3-01",
+  "material": "Bab 3. I Have Two Eyes (Bagian-bagian Wajah)",
+  "tp_text": "Murid mampu mengidentifikasi bagian-bagian wajah dalam Bahasa Inggris dengan tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 22,
+  "PASS": 14,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 8,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 8,
+   "multiple_choice_visual": 6,
+   "true_false": 3,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "medium": 11,
+   "easy": 11
+  },
+  "level_kognitif": {
+   "mengenali": 11,
+   "mengingat": 5,
+   "memahami": 1,
+   "mencocokkan": 1,
+   "mengelompokkan": 1,
+   "menerapkan": 3
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B3-02",
+  "material": "Bab 3. I Have Two Eyes (Bagian-bagian Wajah)",
+  "tp_text": "Murid mampu mengetahui letak bagian wajah tertentu dan meresponnya secara fisik.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 22,
+  "PASS": 13,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 9,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 8,
+   "contextual": 3,
+   "true_false": 6,
+   "completion": 2,
+   "ordering": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 13,
+   "medium": 9
+  },
+  "level_kognitif": {
+   "mengingat": 9,
+   "mengenali": 3,
+   "menerapkan": 7,
+   "memahami": 2,
+   "mengurutkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B3-03",
+  "material": "Bab 3. I Have Two Eyes (Bagian-bagian Wajah)",
+  "tp_text": "Murid mampu mendeskripsikan bagian-bagian wajah dengan Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 22,
+  "PASS": 18,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 4,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 8,
+   "multiple_choice_visual": 1,
+   "contextual": 1,
+   "true_false": 7,
+   "completion": 1,
+   "matching": 1,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "easy": 9,
+   "medium": 13
+  },
+  "level_kognitif": {
+   "mengingat": 9,
+   "mengenali": 4,
+   "menerapkan": 6,
+   "memahami": 2,
+   "mencocokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B3-04",
+  "material": "Bab 3. I Have Two Eyes (Bagian-bagian Wajah)",
+  "tp_text": "Murid mampu mengucapkan nama bagian wajah dan jumlahnya dalam Bahasa Inggris dengan tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 21,
+  "PASS": 11,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 10,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 8,
+   "contextual": 4,
+   "true_false": 4,
+   "fill_in_short": 1,
+   "completion": 1,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 8,
+   "medium": 13
+  },
+  "level_kognitif": {
+   "mengingat": 10,
+   "mengenali": 3,
+   "menerapkan": 6,
+   "mencocokkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "10 soal berstatus kandidat duplikat substantif"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B3-05",
+  "material": "Bab 3. I Have Two Eyes (Bagian-bagian Wajah)",
+  "tp_text": "Murid mampu menuliskan frase sederhana mengenai bagian-bagian wajah dalam Bahasa Inggris.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 24,
+  "PASS": 17,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 7,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "fill_in_short": 9,
+   "completion": 3,
+   "ordering": 5
+  },
+  "kesulitan": {
+   "medium": 24
+  },
+  "level_kognitif": {
+   "menerapkan": 24
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B4-01",
+  "material": "Bab 4. My Family (Anggota Keluarga)",
+  "tp_text": "Murid mampu mengidentifikasikan anggota keluarga dalam Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 11,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 3,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "multiple_choice_visual": 2,
+   "true_false": 3,
+   "fill_in_short": 1,
+   "matching": 1,
+   "grouping": 1
+  },
+  "kesulitan": {
+   "medium": 9,
+   "easy": 5
+  },
+  "level_kognitif": {
+   "mengenali": 6,
+   "mengingat": 6,
+   "mencocokkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B4-02",
+  "material": "Bab 4. My Family (Anggota Keluarga)",
+  "tp_text": "Murid mampu mengucapkan nama-nama anggota keluarga dalam Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 16,
+  "PASS": 2,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 14,
+  "REJECT": 0,
+  "tipe": {
+   "contextual": 8,
+   "true_false": 4,
+   "completion": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 12,
+   "medium": 4
+  },
+  "level_kognitif": {
+   "menerapkan": 12,
+   "memahami": 4
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B4-03",
+  "material": "Bab 4. My Family (Anggota Keluarga)",
+  "tp_text": "Murid mampu menceritakan tentang anggota keluarganya dengan Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 17,
+  "PASS": 11,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 5,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "true_false": 4,
+   "fill_in_short": 1,
+   "completion": 2,
+   "ordering": 2,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 6,
+   "medium": 11
+  },
+  "level_kognitif": {
+   "mengingat": 8,
+   "mengenali": 3,
+   "menerapkan": 6
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Benar': 3, 'Salah': 1})"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B4-04",
+  "material": "Bab 4. My Family (Anggota Keluarga)",
+  "tp_text": "Murid mampu mengidentifikasi bentuk lingkaran dan persegi dalam Bahasa Inggris dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 15,
+  "PASS": 14,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "multiple_choice_visual": 1,
+   "true_false": 4,
+   "grouping": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 8,
+   "medium": 7
+  },
+  "level_kognitif": {
+   "mengingat": 9,
+   "mengenali": 3,
+   "mengelompokkan": 1,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B4-05",
+  "material": "Bab 4. My Family (Anggota Keluarga)",
+  "tp_text": "Murid mampu menentukan warna pada bentuk lingkaran dan persegi dalam Bahasa Inggris dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 16,
+  "PASS": 14,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "multiple_choice_visual": 1,
+   "true_false": 3,
+   "fill_in_short": 1,
+   "matching": 1,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "medium": 10,
+   "easy": 6
+  },
+  "level_kognitif": {
+   "mengenali": 4,
+   "mengingat": 8,
+   "mencocokkan": 1,
+   "menerapkan": 3
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B4-06",
+  "material": "Bab 4. My Family (Anggota Keluarga)",
+  "tp_text": "Murid mampu mengetahui kosakata angka dalam Bahasa Inggris dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 17,
+  "PASS": 16,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 1,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "multiple_choice_visual": 3,
+   "true_false": 2,
+   "fill_in_short": 1,
+   "matching": 1,
+   "ordering": 3,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 8,
+   "easy": 9
+  },
+  "level_kognitif": {
+   "mengenali": 5,
+   "mengingat": 7,
+   "mencocokkan": 1,
+   "mengurutkan": 3,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B4-07",
+  "material": "Bab 4. My Family (Anggota Keluarga)",
+  "tp_text": "Murid mampu menuliskan frase sederhana mengenai jumlah anggota keluarga dan warna bangun datar dalam Bahasa Inggris.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 16,
+  "PASS": 13,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 3,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "fill_in_short": 6,
+   "completion": 3,
+   "ordering": 1
+  },
+  "kesulitan": {
+   "medium": 16
+  },
+  "level_kognitif": {
+   "menerapkan": 16
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B5-01",
+  "material": "Bab 5. This is My House (Ruangan dalam Rumah)",
+  "tp_text": "Murid mampu mengetahui kosakata mengenai ruangan dalam rumah dengan Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 13,
+  "PASS": 3,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 10,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "contextual": 6,
+   "completion": 1,
+   "matching": 1
+  },
+  "kesulitan": {
+   "easy": 10,
+   "medium": 3
+  },
+  "level_kognitif": {
+   "mengingat": 3,
+   "mengenali": 2,
+   "menerapkan": 7,
+   "mencocokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B5-02",
+  "material": "Bab 5. This is My House (Ruangan dalam Rumah)",
+  "tp_text": "Murid mampu mengidentifikasikan nama-nama ruangan dalam rumah dalam Bahasa Inggris dengan tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 15,
+  "PASS": 10,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 5,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "multiple_choice_visual": 1,
+   "true_false": 4,
+   "fill_in_short": 1,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 9,
+   "easy": 6
+  },
+  "level_kognitif": {
+   "mengenali": 3,
+   "mengingat": 8,
+   "mencocokkan": 1,
+   "mengelompokkan": 1,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B5-03",
+  "material": "Bab 5. This is My House (Ruangan dalam Rumah)",
+  "tp_text": "Murid mampu mengidentifikasikan warna dalam Bahasa Inggris dengan tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 10,
+  "PASS": 10,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "multiple_choice_visual": 2,
+   "true_false": 2,
+   "fill_in_short": 1
+  },
+  "kesulitan": {
+   "medium": 6,
+   "easy": 4
+  },
+  "level_kognitif": {
+   "mengenali": 7,
+   "mengingat": 3
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B5-04",
+  "material": "Bab 5. This is My House (Ruangan dalam Rumah)",
+  "tp_text": "Murid mampu mengidentifikasi beberapa bentuk bangun datar dan warnanya dalam Bahasa Inggris dengan tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 15,
+  "PASS": 13,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "multiple_choice_visual": 2,
+   "true_false": 3,
+   "fill_in_short": 1,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 5,
+   "medium": 10
+  },
+  "level_kognitif": {
+   "mengingat": 6,
+   "mengenali": 5,
+   "mencocokkan": 1,
+   "mengelompokkan": 1,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B5-05",
+  "material": "Bab 5. This is My House (Ruangan dalam Rumah)",
+  "tp_text": "Murid mampu mewarnai dengan tepat sesuai dengan instruksi yang diberikan.",
+  "atp_trace": 0.75,
+  "jumlah_soal": 15,
+  "PASS": 5,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 10,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "true_false": 5,
+   "ordering": 1,
+   "performance_task": 4
+  },
+  "kesulitan": {
+   "easy": 7,
+   "medium": 8
+  },
+  "level_kognitif": {
+   "mengingat": 9,
+   "mengenali": 1,
+   "mengurutkan": 1,
+   "menerapkan": 4
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B5-06",
+  "material": "Bab 5. This is My House (Ruangan dalam Rumah)",
+  "tp_text": "Murid mampu mengelaborasikan anggota keluarga dengan posisinya di ruangan rumah dalam Bahasa Inggris secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 5,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 9,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "multiple_choice_visual": 2,
+   "true_false": 2,
+   "fill_in_short": 2,
+   "completion": 2,
+   "ordering": 1
+  },
+  "kesulitan": {
+   "medium": 11,
+   "easy": 3
+  },
+  "level_kognitif": {
+   "mengenali": 4,
+   "mengingat": 5,
+   "menerapkan": 5
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B5-07",
+  "material": "Bab 5. This is My House (Ruangan dalam Rumah)",
+  "tp_text": "Murid mampu menuliskan frase sederhana mengenai warna ruangan rumah dan warna bentuk bangun datar dalam Bahasa Inggris.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 10,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 4,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 4,
+   "fill_in_short": 6,
+   "completion": 2,
+   "ordering": 2
+  },
+  "kesulitan": {
+   "medium": 14
+  },
+  "level_kognitif": {
+   "menerapkan": 14
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B5-08",
+  "material": "Bab 5. This is My House (Ruangan dalam Rumah)",
+  "tp_text": "Murid mampu mendeskripsikan ruangan-ruangan yang ada di rumahnya dengan Bahasa Inggris secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 15,
+  "PASS": 11,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 4,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "true_false": 4,
+   "fill_in_short": 1,
+   "completion": 2,
+   "ordering": 2,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 12,
+   "easy": 3
+  },
+  "level_kognitif": {
+   "menerapkan": 6,
+   "mengingat": 5,
+   "mengenali": 4
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B6-01",
+  "material": "Bab 6. I Have Two Cats (Hewan Peliharaan)",
+  "tp_text": "Murid mampu mengetahui kosakata mengenai hewan peliharaan dalam Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 10,
+  "PASS": 2,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 8,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "contextual": 4,
+   "grouping": 1
+  },
+  "kesulitan": {
+   "easy": 5,
+   "medium": 5
+  },
+  "level_kognitif": {
+   "mengingat": 1,
+   "mengenali": 4,
+   "menerapkan": 4,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B6-02",
+  "material": "Bab 6. I Have Two Cats (Hewan Peliharaan)",
+  "tp_text": "Murid mampu mengidentifikasikan nama hewan peliharaan dalam Bahasa Inggris dengan tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 9,
+  "PASS": 9,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 4,
+   "multiple_choice_visual": 1,
+   "true_false": 3,
+   "matching": 1
+  },
+  "kesulitan": {
+   "easy": 4,
+   "medium": 5
+  },
+  "level_kognitif": {
+   "mengingat": 5,
+   "mengenali": 3,
+   "mencocokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B6-03",
+  "material": "Bab 6. I Have Two Cats (Hewan Peliharaan)",
+  "tp_text": "Murid mampu bermain peran mengenai hewan peliharaan.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 10,
+  "PASS": 8,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 1,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice_visual": 1,
+   "contextual": 4,
+   "true_false": 2,
+   "completion": 2,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 4,
+   "easy": 6
+  },
+  "level_kognitif": {
+   "menerapkan": 8,
+   "memahami": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B6-04",
+  "material": "Bab 6. I Have Two Cats (Hewan Peliharaan)",
+  "tp_text": "Murid mampu mengetahui tindakan yang biasanya dilakukan terhadap hewan peliharaan dalam Bahasa Inggris secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 11,
+  "PASS": 6,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 5,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 4,
+   "true_false": 3,
+   "fill_in_short": 2,
+   "ordering": 1,
+   "grouping": 1
+  },
+  "kesulitan": {
+   "easy": 3,
+   "medium": 8
+  },
+  "level_kognitif": {
+   "mengingat": 5,
+   "mengenali": 4,
+   "mengurutkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B6-05",
+  "material": "Bab 6. I Have Two Cats (Hewan Peliharaan)",
+  "tp_text": "Murid mampu menggambar dan mewarnai hewan peliharaan.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 10,
+  "PASS": 7,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "true_false": 2,
+   "fill_in_short": 1,
+   "matching": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 4,
+   "medium": 6
+  },
+  "level_kognitif": {
+   "mengingat": 6,
+   "mengenali": 2,
+   "mencocokkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "2 soal berstatus kandidat duplikat substantif"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B6-06",
+  "material": "Bab 6. I Have Two Cats (Hewan Peliharaan)",
+  "tp_text": "Murid mampu mengetahui warna hewan peliharaan yang ada dalam Bahasa Inggris secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 10,
+  "PASS": 10,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 4,
+   "multiple_choice_visual": 1,
+   "true_false": 3,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 6,
+   "medium": 4
+  },
+  "level_kognitif": {
+   "mengingat": 7,
+   "mengenali": 1,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B6-07",
+  "material": "Bab 6. I Have Two Cats (Hewan Peliharaan)",
+  "tp_text": "Murid mampu menghitung jumlah hewan peliharaan yang ada dalam Bahasa Inggris secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 8,
+  "PASS": 8,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice_visual": 4,
+   "performance_task": 4
+  },
+  "kesulitan": {
+   "easy": 4,
+   "medium": 4
+  },
+  "level_kognitif": {
+   "mengenali": 4,
+   "menerapkan": 4
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B6-08",
+  "material": "Bab 6. I Have Two Cats (Hewan Peliharaan)",
+  "tp_text": "Murid mampu mendeskripsikan hewan peliharaannya secara singkat menggunakan Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 10,
+  "PASS": 8,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 4,
+   "true_false": 4,
+   "fill_in_short": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 5,
+   "medium": 5
+  },
+  "level_kognitif": {
+   "mengingat": 7,
+   "mengenali": 2,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "proporsi benar/salah tinggi",
+   "jawaban benar/salah condong ({'Benar': 3, 'Salah': 1})"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B6-09",
+  "material": "Bab 6. I Have Two Cats (Hewan Peliharaan)",
+  "tp_text": "Murid mampu menuliskan frase sederhana mengenai hewan peliharaan dan warnanya dalam Bahasa Inggris.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 12,
+  "PASS": 10,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 4,
+   "fill_in_short": 5,
+   "ordering": 3
+  },
+  "kesulitan": {
+   "medium": 12
+  },
+  "level_kognitif": {
+   "menerapkan": 12
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B6-10",
+  "material": "Bab 6. I Have Two Cats (Hewan Peliharaan)",
+  "tp_text": "Murid mampu menyusun gambar sebuah toko hewan peliharaan dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 10,
+  "PASS": 2,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 8,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "true_false": 3,
+   "fill_in_short": 1,
+   "matching": 1
+  },
+  "kesulitan": {
+   "medium": 7,
+   "easy": 3
+  },
+  "level_kognitif": {
+   "mengenali": 3,
+   "mengingat": 6,
+   "mencocokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B6-11",
+  "material": "Bab 6. I Have Two Cats (Hewan Peliharaan)",
+  "tp_text": "Murid mampu mendeskripsikan gambar toko hewan peliharaan dalam Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 11,
+  "PASS": 7,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 4,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 4,
+   "completion": 5,
+   "ordering": 2
+  },
+  "kesulitan": {
+   "medium": 11
+  },
+  "level_kognitif": {
+   "menerapkan": 11
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B7-01",
+  "material": "Bab 7. May I Play With Your Doll (Mainan)",
+  "tp_text": "Murid mampu mengetahui kosakata mengenai mainan dalam Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 11,
+  "PASS": 8,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 3,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "true_false": 3,
+   "fill_in_short": 1,
+   "matching": 1,
+   "grouping": 1
+  },
+  "kesulitan": {
+   "medium": 7,
+   "easy": 4
+  },
+  "level_kognitif": {
+   "mengenali": 3,
+   "mengingat": 6,
+   "mencocokkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B7-02",
+  "material": "Bab 7. May I Play With Your Doll (Mainan)",
+  "tp_text": "Murid mampu mengidentifikasikan nama-nama mainan dalam Bahasa Inggris dengan tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 7,
+  "PASS": 7,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice_visual": 3,
+   "performance_task": 4
+  },
+  "kesulitan": {
+   "easy": 3,
+   "medium": 4
+  },
+  "level_kognitif": {
+   "mengenali": 3,
+   "menerapkan": 4
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B7-03",
+  "material": "Bab 7. May I Play With Your Doll (Mainan)",
+  "tp_text": "Murid mampu mewarnai gambar mainan dan mendeskripsikannya secara singkat menggunakan Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 11,
+  "PASS": 10,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 1,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "true_false": 3,
+   "fill_in_short": 1,
+   "matching": 2
+  },
+  "kesulitan": {
+   "medium": 5,
+   "easy": 6
+  },
+  "level_kognitif": {
+   "mengenali": 2,
+   "mengingat": 7,
+   "mencocokkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B7-04",
+  "material": "Bab 7. May I Play With Your Doll (Mainan)",
+  "tp_text": "Murid mampu mengetahui tindakan yang dilakukan terhadap mainan dalam Bahasa Inggris secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 12,
+  "PASS": 10,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "contextual": 1,
+   "true_false": 3,
+   "fill_in_short": 1,
+   "completion": 1,
+   "ordering": 1
+  },
+  "kesulitan": {
+   "easy": 6,
+   "medium": 6
+  },
+  "level_kognitif": {
+   "mengingat": 8,
+   "menerapkan": 2,
+   "mengenali": 1,
+   "mengurutkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B7-05",
+  "material": "Bab 7. May I Play With Your Doll (Mainan)",
+  "tp_text": "Murid mampu bermain peran mengenai meminta izin meminjam mainan dengan Bahasa Inggris yang tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 14,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "contextual": 7,
+   "ordering": 2
+  },
+  "kesulitan": {
+   "medium": 6,
+   "easy": 8
+  },
+  "level_kognitif": {
+   "mengenali": 2,
+   "menerapkan": 11,
+   "mengingat": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B7-06",
+  "material": "Bab 7. May I Play With Your Doll (Mainan)",
+  "tp_text": "Murid mampu mengidentifikasikan warna mainan dalam Bahasa Inggris dengan tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 11,
+  "PASS": 11,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 4,
+   "true_false": 5,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 7,
+   "medium": 4
+  },
+  "level_kognitif": {
+   "mengingat": 9,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B7-07",
+  "material": "Bab 7. May I Play With Your Doll (Mainan)",
+  "tp_text": "Murid mampu menghitung jumlah mainan dalam Bahasa Inggris dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 7,
+  "PASS": 5,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice_visual": 4,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "easy": 4,
+   "medium": 3
+  },
+  "level_kognitif": {
+   "mengenali": 4,
+   "menerapkan": 3
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "2 soal berstatus kandidat duplikat substantif"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B7-08",
+  "material": "Bab 7. May I Play With Your Doll (Mainan)",
+  "tp_text": "Murid mampu mengetahui ukuran mainan dalam Bahasa Inggris dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 11,
+  "PASS": 11,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "true_false": 3,
+   "fill_in_short": 2,
+   "grouping": 1
+  },
+  "kesulitan": {
+   "medium": 7,
+   "easy": 4
+  },
+  "level_kognitif": {
+   "mengenali": 4,
+   "mengingat": 6,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B7-09",
+  "material": "Bab 7. May I Play With Your Doll (Mainan)",
+  "tp_text": "Murid mampu menuliskan frase sederhana mengenai mainan dan ukurannya dalam Bahasa Inggris.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 11,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 3,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "fill_in_short": 4,
+   "completion": 3,
+   "ordering": 2
+  },
+  "kesulitan": {
+   "medium": 14
+  },
+  "level_kognitif": {
+   "menerapkan": 14
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B7-10",
+  "material": "Bab 7. May I Play With Your Doll (Mainan)",
+  "tp_text": "Murid mampu menceritakan secara singkat mengenai mainan kesukaannya dengan Bahasa Inggris secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 13,
+  "PASS": 10,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 3,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "true_false": 3,
+   "fill_in_short": 1,
+   "completion": 3,
+   "ordering": 1
+  },
+  "kesulitan": {
+   "easy": 2,
+   "medium": 11
+  },
+  "level_kognitif": {
+   "mengingat": 4,
+   "mengenali": 3,
+   "menerapkan": 6
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B8-01",
+  "material": "Bab 8. I Like Mangoes (Buah-buahan)",
+  "tp_text": "Murid mampu mengidentifikasikan nama buah-buahan dalam Bahasa Inggris yang benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 10,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 4,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "multiple_choice_visual": 5,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 8,
+   "medium": 6
+  },
+  "level_kognitif": {
+   "mengingat": 3,
+   "mengenali": 8,
+   "mencocokkan": 1,
+   "mengelompokkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B8-02",
+  "material": "Bab 8. I Like Mangoes (Buah-buahan)",
+  "tp_text": "Murid mampu mengetahui tindakan yang dapat dilakukan terhadap buah-buahan menggunakan kata kerja Bahasa Inggris secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 12,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "true_false": 4,
+   "fill_in_short": 1,
+   "matching": 1,
+   "ordering": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 6,
+   "medium": 8
+  },
+  "level_kognitif": {
+   "mengingat": 9,
+   "mengenali": 2,
+   "mencocokkan": 1,
+   "mengurutkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B8-03",
+  "material": "Bab 8. I Like Mangoes (Buah-buahan)",
+  "tp_text": "Murid mampu bertanya mengenai kesukaan orang lain dengan menggunakan Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 12,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "true_false": 3,
+   "fill_in_short": 2,
+   "completion": 1,
+   "ordering": 2
+  },
+  "kesulitan": {
+   "easy": 6,
+   "medium": 8
+  },
+  "level_kognitif": {
+   "mengingat": 8,
+   "menerapkan": 4,
+   "mengenali": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B8-04",
+  "material": "Bab 8. I Like Mangoes (Buah-buahan)",
+  "tp_text": "Murid mampu menggunakan ungkapan suka untuk mengekspresikan kesukaannya terhadap buah-buahan dalam Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 13,
+  "PASS": 13,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "contextual": 3,
+   "true_false": 2,
+   "completion": 1,
+   "matching": 1,
+   "grouping": 1
+  },
+  "kesulitan": {
+   "medium": 7,
+   "easy": 6
+  },
+  "level_kognitif": {
+   "mengenali": 3,
+   "mengingat": 3,
+   "menerapkan": 4,
+   "memahami": 1,
+   "mencocokkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Salah': 2})"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B8-05",
+  "material": "Bab 8. I Like Mangoes (Buah-buahan)",
+  "tp_text": "Murid mampu menggunakan ungkapan tidak suka untuk mengekspresikan ketidaksukaannya terhadap buah-buahan dalam Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 9,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 4,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "contextual": 1,
+   "true_false": 3,
+   "fill_in_short": 1,
+   "completion": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 7,
+   "medium": 7
+  },
+  "level_kognitif": {
+   "mengingat": 5,
+   "mengenali": 2,
+   "menerapkan": 4,
+   "memahami": 3
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "3 soal berstatus kandidat duplikat substantif"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B8-06",
+  "material": "Bab 8. I Like Mangoes (Buah-buahan)",
+  "tp_text": "Murid mampu menggunakan gerakan tubuh untuk mengekspresikan rasa suka dan tidak suka secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 13,
+  "PASS": 13,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "multiple_choice_visual": 2,
+   "true_false": 2,
+   "fill_in_short": 1,
+   "completion": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 8,
+   "medium": 5
+  },
+  "level_kognitif": {
+   "mengingat": 8,
+   "menerapkan": 5
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B8-07",
+  "material": "Bab 8. I Like Mangoes (Buah-buahan)",
+  "tp_text": "Murid mampu menuliskan frase sederhana mengenai buah-buahan dalam Bahasa Inggris secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 15,
+  "PASS": 11,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 4,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 5,
+   "fill_in_short": 5,
+   "completion": 2,
+   "ordering": 3
+  },
+  "kesulitan": {
+   "medium": 15
+  },
+  "level_kognitif": {
+   "menerapkan": 15
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B8-08",
+  "material": "Bab 8. I Like Mangoes (Buah-buahan)",
+  "tp_text": "Murid mampu menggambar gambar buah kesukaannya.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 14,
+  "PASS": 9,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 4,
+  "REJECT": 0,
+  "tipe": {
+   "contextual": 4,
+   "true_false": 6,
+   "completion": 1,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "medium": 6,
+   "easy": 8
+  },
+  "level_kognitif": {
+   "menerapkan": 8,
+   "memahami": 6
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B9-01",
+  "material": "Bab 9. We Are Having Fun (Kegiatan di Taman Bermain)",
+  "tp_text": "Murid mampu mengidentifikasikan nama-nama permainan yang ada di taman bermain dalam Bahasa Inggris yang benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 18,
+  "PASS": 11,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 6,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "multiple_choice_visual": 4,
+   "true_false": 3,
+   "fill_in_short": 1,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 11,
+   "easy": 7
+  },
+  "level_kognitif": {
+   "mengenali": 9,
+   "mengingat": 5,
+   "mencocokkan": 1,
+   "mengelompokkan": 1,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B9-02",
+  "material": "Bab 9. We Are Having Fun (Kegiatan di Taman Bermain)",
+  "tp_text": "Murid mampu mengetahui tindakan yang dapat dilakukan terhadap permainan di taman bermain menggunakan kata kerja Bahasa Inggris secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 18,
+  "PASS": 13,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 5,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "true_false": 7,
+   "fill_in_short": 1,
+   "matching": 1,
+   "ordering": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 9,
+   "medium": 9
+  },
+  "level_kognitif": {
+   "mengingat": 12,
+   "mengenali": 2,
+   "mencocokkan": 1,
+   "mengurutkan": 1,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "proporsi benar/salah tinggi",
+   "jawaban benar/salah condong ({'Benar': 5, 'Salah': 2})"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B9-03",
+  "material": "Bab 9. We Are Having Fun (Kegiatan di Taman Bermain)",
+  "tp_text": "Murid mampu mengidentifikasikan kata kerja yang tepat untuk permainan tertentu dalam Bahasa Inggris dengan tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 16,
+  "PASS": 16,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "contextual": 3,
+   "true_false": 4,
+   "completion": 2
+  },
+  "kesulitan": {
+   "easy": 7,
+   "medium": 9
+  },
+  "level_kognitif": {
+   "mengingat": 3,
+   "mengenali": 6,
+   "menerapkan": 5,
+   "memahami": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B9-04",
+  "material": "Bab 9. We Are Having Fun (Kegiatan di Taman Bermain)",
+  "tp_text": "Murid mampu menggunakan ungkapan permintaan untuk bermain dengan memperhatikan penggunaan kata kerja dalam Bahasa Inggris yang tepat dalam konteks kelas dan kehidupan sehari-hari.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 19,
+  "PASS": 15,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 3,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "contextual": 5,
+   "true_false": 2,
+   "completion": 2,
+   "ordering": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 9,
+   "medium": 10
+  },
+  "level_kognitif": {
+   "mengingat": 3,
+   "mengenali": 4,
+   "menerapkan": 9,
+   "memahami": 2,
+   "mengurutkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Salah': 2})"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B9-05",
+  "material": "Bab 9. We Are Having Fun (Kegiatan di Taman Bermain)",
+  "tp_text": "Murid mampu menggunakan kalimat present continuous untuk menunjukkan kegiatan yang sedang dilakukannya di taman bermain dalam Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 19,
+  "PASS": 10,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 9,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "multiple_choice_visual": 3,
+   "true_false": 4,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "medium": 10,
+   "easy": 8,
+   "hard": 1
+  },
+  "level_kognitif": {
+   "mengenali": 5,
+   "mengingat": 8,
+   "menerapkan": 4,
+   "mencocokkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-ENG-B9-06",
+  "material": "Bab 9. We Are Having Fun (Kegiatan di Taman Bermain)",
+  "tp_text": "Murid mampu menuliskan frase sederhana mengenai kegiatan di taman bermain terhadap permainannya dalam Bahasa Inggris secara tepat.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 21,
+  "PASS": 21,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "fill_in_short": 8,
+   "completion": 3,
+   "ordering": 4
+  },
+  "kesulitan": {
+   "medium": 21
+  },
+  "level_kognitif": {
+   "menerapkan": 21
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ }
+]

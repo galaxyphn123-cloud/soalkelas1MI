@@ -1,0 +1,893 @@
+[
+ {
+  "tp_id": "TP-AKA-SY-01",
+  "material": "Dua Kalimat Syahadat",
+  "tp_text": "Murid mampu menjelaskan arti dua kalimat syahadat dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 25,
+  "PASS": 24,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 13,
+   "true_false": 3,
+   "fill_in_short": 7,
+   "matching": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 14,
+   "hard": 2,
+   "easy": 9
+  },
+  "level_kognitif": {
+   "memahami": 13,
+   "mengingat": 10,
+   "mencocokkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-SY-02",
+  "material": "Dua Kalimat Syahadat",
+  "tp_text": "Murid mampu menghafalkan dua kalimat syahadat dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 26,
+  "PASS": 23,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 9,
+   "true_false": 7,
+   "fill_in_short": 7,
+   "ordering": 2,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 18,
+   "hard": 2,
+   "easy": 6
+  },
+  "level_kognitif": {
+   "mengingat": 23,
+   "mengurutkan": 2,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-SY-03",
+  "material": "Dua Kalimat Syahadat",
+  "tp_text": "Murid mampu membandingkan kalimat syahadat tauhid dan syahadat rasul dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 26,
+  "PASS": 24,
+  "REVISE": 2,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "true_false": 9,
+   "fill_in_short": 7,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 9,
+   "hard": 4,
+   "medium": 13
+  },
+  "level_kognitif": {
+   "membandingkan": 7,
+   "mengingat": 16,
+   "mencocokkan": 1,
+   "mengelompokkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-SY-04",
+  "material": "Dua Kalimat Syahadat",
+  "tp_text": "Murid mampu menerapkan kalimat syahadat dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 27,
+  "PASS": 15,
+  "REVISE": 9,
+  "NEEDS_REVIEW": 3,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 2,
+   "multiple_choice_visual": 2,
+   "contextual": 10,
+   "true_false": 2,
+   "fill_in_short": 2,
+   "completion": 5,
+   "ordering": 1,
+   "grouping": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 21,
+   "easy": 3,
+   "hard": 3
+  },
+  "level_kognitif": {
+   "menerapkan": 21,
+   "memahami": 2,
+   "mengingat": 2,
+   "mengurutkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Salah': 2})"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-TY-01",
+  "material": "Kalimat Tayibah Basmalah, Hamdalah, dan Taawuz",
+  "tp_text": "Murid mampu menghafal kalimat tayibah basmalah, hamdalah, dan taawuz dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 32,
+  "PASS": 31,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 13,
+   "true_false": 9,
+   "fill_in_short": 7,
+   "ordering": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 18,
+   "easy": 12,
+   "hard": 2
+  },
+  "level_kognitif": {
+   "memahami": 14,
+   "mengingat": 15,
+   "mengurutkan": 1,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-AKA-TY-02",
+  "material": "Kalimat Tayibah Basmalah, Hamdalah, dan Taawuz",
+  "tp_text": "Murid mampu menjelaskan arti kalimat tayibah basmalah, hamdalah, dan taawuz dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 31,
+  "PASS": 30,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 11,
+   "true_false": 11,
+   "fill_in_short": 7,
+   "matching": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 22,
+   "easy": 7,
+   "hard": 2
+  },
+  "level_kognitif": {
+   "mengingat": 28,
+   "memahami": 1,
+   "mencocokkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-TY-03",
+  "material": "Kalimat Tayibah Basmalah, Hamdalah, dan Taawuz",
+  "tp_text": "Murid mampu membiasakan mengucap kalimat tayibah basmalah, hamdalah, dan taawuz dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 40,
+  "PASS": 30,
+  "REVISE": 4,
+  "NEEDS_REVIEW": 6,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 9,
+   "multiple_choice_visual": 3,
+   "contextual": 10,
+   "true_false": 1,
+   "fill_in_short": 6,
+   "completion": 5,
+   "ordering": 2,
+   "grouping": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 22,
+   "medium": 16,
+   "hard": 2
+  },
+  "level_kognitif": {
+   "membandingkan": 9,
+   "menerapkan": 20,
+   "memahami": 1,
+   "mengingat": 6,
+   "mengurutkan": 2,
+   "mengelompokkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jawaban benar/salah condong ({'Salah': 1})"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-SH-01",
+  "material": "Pola Hidup Sehat dan Bersih",
+  "tp_text": "Murid mampu mengidentifikasi pola hidup sehat dan bersih dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 36,
+  "PASS": 14,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 21,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 12,
+   "true_false": 10,
+   "fill_in_short": 12,
+   "matching": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 28,
+   "medium": 8
+  },
+  "level_kognitif": {
+   "memahami": 13,
+   "mengingat": 21,
+   "mencocokkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-AKA-SH-02",
+  "material": "Pola Hidup Sehat dan Bersih",
+  "tp_text": "Murid mampu menyimpulkan cara menjaga kesehatan dan kebersihan dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 37,
+  "PASS": 13,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 23,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 15,
+   "true_false": 7,
+   "fill_in_short": 12,
+   "ordering": 2,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 26,
+   "easy": 7,
+   "hard": 4
+  },
+  "level_kognitif": {
+   "mengingat": 34,
+   "mengurutkan": 2,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-AKA-SH-03",
+  "material": "Pola Hidup Sehat dan Bersih",
+  "tp_text": "Murid mampu menemukan contoh perilaku menjaga kesehatan dan kebersihan dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 41,
+  "PASS": 35,
+  "REVISE": 4,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 11,
+   "true_false": 11,
+   "fill_in_short": 11,
+   "matching": 2,
+   "grouping": 4,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 19,
+   "medium": 22
+  },
+  "level_kognitif": {
+   "membandingkan": 11,
+   "memahami": 1,
+   "mengingat": 21,
+   "mencocokkan": 2,
+   "mengelompokkan": 4,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-AKA-SH-04",
+  "material": "Pola Hidup Sehat dan Bersih",
+  "tp_text": "Murid mampu menerapkan pola hidup sehat dan bersih dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, cinta lingkungan, serta cinta diri dan sesama manusia.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 41,
+  "PASS": 22,
+  "REVISE": 6,
+  "NEEDS_REVIEW": 13,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 3,
+   "multiple_choice_visual": 5,
+   "contextual": 12,
+   "true_false": 3,
+   "fill_in_short": 3,
+   "completion": 8,
+   "ordering": 3,
+   "performance_task": 4
+  },
+  "kesulitan": {
+   "medium": 24,
+   "easy": 17
+  },
+  "level_kognitif": {
+   "menerapkan": 32,
+   "memahami": 3,
+   "mengingat": 3,
+   "mengurutkan": 3
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jawaban benar/salah condong ({'Salah': 3})"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-AB-01",
+  "material": "Adab Belajar",
+  "tp_text": "Murid mampu mengidentifikasi adab belajar dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 54,
+  "PASS": 39,
+  "REVISE": 3,
+  "NEEDS_REVIEW": 12,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 18,
+   "true_false": 13,
+   "fill_in_short": 18,
+   "ordering": 1,
+   "grouping": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 28,
+   "medium": 26
+  },
+  "level_kognitif": {
+   "memahami": 19,
+   "mengingat": 30,
+   "mengurutkan": 1,
+   "mengelompokkan": 2,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-AKA-AB-02",
+  "material": "Adab Belajar",
+  "tp_text": "Murid mampu membandingkan adab belajar di rumah dan di sekolah dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 48,
+  "PASS": 42,
+  "REVISE": 6,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 13,
+   "true_false": 19,
+   "fill_in_short": 13,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 12,
+   "medium": 34,
+   "hard": 2
+  },
+  "level_kognitif": {
+   "mengingat": 44,
+   "memahami": 1,
+   "mencocokkan": 1,
+   "mengelompokkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-AB-03",
+  "material": "Adab Belajar",
+  "tp_text": "Murid mampu menemukan hikmah menerapkan adab belajar dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 48,
+  "PASS": 38,
+  "REVISE": 10,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 14,
+   "true_false": 17,
+   "fill_in_short": 14,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 13,
+   "medium": 33,
+   "hard": 2
+  },
+  "level_kognitif": {
+   "membandingkan": 14,
+   "mengingat": 31,
+   "mencocokkan": 1,
+   "mengelompokkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "TP berverba praktik/penerapan tetapi porsi soal penerapan/praktik <15%: perlu aktivitas pendamping praktik",
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-AB-04",
+  "material": "Adab Belajar",
+  "tp_text": "Murid mampu menerapkan adab belajar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta ilmu.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 57,
+  "PASS": 29,
+  "REVISE": 9,
+  "NEEDS_REVIEW": 19,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 4,
+   "multiple_choice_visual": 5,
+   "contextual": 15,
+   "true_false": 6,
+   "fill_in_short": 4,
+   "completion": 15,
+   "ordering": 3,
+   "performance_task": 5
+  },
+  "kesulitan": {
+   "easy": 30,
+   "medium": 27
+  },
+  "level_kognitif": {
+   "menerapkan": 44,
+   "mengingat": 6,
+   "memahami": 4,
+   "mengurutkan": 3
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jawaban benar/salah condong ({'Salah': 6})"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-KN-01",
+  "material": "Kisah Keteladanan Nabi Muhammad saw.",
+  "tp_text": "Murid mampu menceritakan kisah Nabi Muhammad saw. dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 38,
+  "PASS": 31,
+  "REVISE": 2,
+  "NEEDS_REVIEW": 5,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 18,
+   "true_false": 6,
+   "fill_in_short": 10,
+   "ordering": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 8,
+   "medium": 27,
+   "hard": 3
+  },
+  "level_kognitif": {
+   "memahami": 18,
+   "mengingat": 16,
+   "mengurutkan": 2,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-AKA-KN-02",
+  "material": "Kisah Keteladanan Nabi Muhammad saw.",
+  "tp_text": "Murid mampu menyimpulkan kisah Nabi Muhammad saw. dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 36,
+  "PASS": 34,
+  "REVISE": 2,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 13,
+   "true_false": 10,
+   "fill_in_short": 10,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 14,
+   "medium": 20,
+   "hard": 2
+  },
+  "level_kognitif": {
+   "mengingat": 33,
+   "mencocokkan": 1,
+   "mengelompokkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-AKA-KN-03",
+  "material": "Kisah Keteladanan Nabi Muhammad saw.",
+  "tp_text": "Murid mampu menguraikan silsilah keluarga Nabi Muhammad saw. dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 38,
+  "PASS": 38,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 12,
+   "true_false": 11,
+   "fill_in_short": 10,
+   "matching": 1,
+   "ordering": 1,
+   "grouping": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "hard": 8,
+   "medium": 26,
+   "easy": 4
+  },
+  "level_kognitif": {
+   "membandingkan": 12,
+   "mengingat": 20,
+   "memahami": 1,
+   "mencocokkan": 1,
+   "mengurutkan": 1,
+   "mengelompokkan": 1,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jawaban benar/salah condong ({'Benar': 8, 'Salah': 3})"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-KN-04",
+  "material": "Kisah Keteladanan Nabi Muhammad saw.",
+  "tp_text": "Murid mampu menerapkan keteladanan dari kisah Nabi Muhammad saw. dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 43,
+  "PASS": 21,
+  "REVISE": 11,
+  "NEEDS_REVIEW": 11,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 6,
+   "multiple_choice_visual": 3,
+   "contextual": 11,
+   "true_false": 4,
+   "fill_in_short": 6,
+   "completion": 8,
+   "ordering": 1,
+   "grouping": 1,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "medium": 23,
+   "easy": 20
+  },
+  "level_kognitif": {
+   "menerapkan": 31,
+   "memahami": 3,
+   "mengingat": 7,
+   "mengurutkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jawaban benar/salah condong ({'Salah': 4})"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-RI-01",
+  "material": "Rukun Iman",
+  "tp_text": "Murid mampu memahami arti rukun iman dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 65,
+  "PASS": 58,
+  "REVISE": 7,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 18,
+   "true_false": 23,
+   "fill_in_short": 18,
+   "matching": 1,
+   "ordering": 3,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "medium": 39,
+   "easy": 24,
+   "hard": 2
+  },
+  "level_kognitif": {
+   "memahami": 18,
+   "mengingat": 41,
+   "mencocokkan": 1,
+   "mengurutkan": 3,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-RI-02",
+  "material": "Rukun Iman",
+  "tp_text": "Murid mampu menjelaskan isi rukun iman dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 75,
+  "PASS": 6,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 69,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 24,
+   "true_false": 17,
+   "fill_in_short": 24,
+   "matching": 3,
+   "ordering": 1,
+   "grouping": 3,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "medium": 53,
+   "easy": 20,
+   "hard": 2
+  },
+  "level_kognitif": {
+   "mengingat": 63,
+   "memahami": 2,
+   "mencocokkan": 3,
+   "mengurutkan": 1,
+   "mengelompokkan": 3,
+   "menerapkan": 3
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-AKA-RI-03",
+  "material": "Rukun Iman",
+  "tp_text": "Murid mampu menerapkan perilaku pengamalan rukun iman dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 67,
+  "PASS": 50,
+  "REVISE": 10,
+  "NEEDS_REVIEW": 7,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 10,
+   "multiple_choice_visual": 3,
+   "contextual": 10,
+   "true_false": 18,
+   "fill_in_short": 10,
+   "completion": 10,
+   "matching": 1,
+   "grouping": 1,
+   "performance_task": 4
+  },
+  "kesulitan": {
+   "medium": 50,
+   "easy": 15,
+   "hard": 2
+  },
+  "level_kognitif": {
+   "membandingkan": 10,
+   "menerapkan": 27,
+   "memahami": 10,
+   "mengingat": 18,
+   "mencocokkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-AKA-SW-01",
+  "material": "Sifat Wajib Allah Swt.",
+  "tp_text": "Murid mampu menghafal sifat-sifat wajib Allah Swt. dengan baik dan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 17,
+  "PASS": 17,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 9,
+   "true_false": 3,
+   "fill_in_short": 2,
+   "matching": 1,
+   "ordering": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 5,
+   "medium": 9,
+   "hard": 3
+  },
+  "level_kognitif": {
+   "memahami": 9,
+   "mengingat": 5,
+   "mencocokkan": 1,
+   "mengurutkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-SW-02",
+  "material": "Sifat Wajib Allah Swt.",
+  "tp_text": "Murid mampu menjelaskan sifat-sifat wajib Allah Swt. dengan baik dan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 16,
+  "PASS": 11,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 5,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 8,
+   "true_false": 5,
+   "fill_in_short": 1,
+   "grouping": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 13,
+   "hard": 1,
+   "easy": 2
+  },
+  "level_kognitif": {
+   "mengingat": 13,
+   "memahami": 1,
+   "mengelompokkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-SW-03",
+  "material": "Sifat Wajib Allah Swt.",
+  "tp_text": "Murid mampu menemukan hikmah mempelajari sifat-sifat wajib Allah Swt.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 17,
+  "PASS": 13,
+  "REVISE": 4,
+  "NEEDS_REVIEW": 0,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 7,
+   "true_false": 5,
+   "fill_in_short": 3,
+   "matching": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 12,
+   "easy": 5
+  },
+  "level_kognitif": {
+   "membandingkan": 7,
+   "mengingat": 7,
+   "memahami": 1,
+   "mencocokkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit"
+  ]
+ },
+ {
+  "tp_id": "TP-AKA-SW-04",
+  "material": "Sifat Wajib Allah Swt.",
+  "tp_text": "Murid mampu menerapkan perilaku beriman kepada sifat-sifat wajib Allah Swt. dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 19,
+  "PASS": 12,
+  "REVISE": 6,
+  "NEEDS_REVIEW": 1,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 3,
+   "multiple_choice_visual": 2,
+   "contextual": 7,
+   "true_false": 1,
+   "fill_in_short": 1,
+   "completion": 3,
+   "ordering": 1,
+   "grouping": 1
+  },
+  "kesulitan": {
+   "medium": 12,
+   "easy": 5,
+   "hard": 2
+  },
+  "level_kognitif": {
+   "menerapkan": 15,
+   "mengingat": 2,
+   "mengurutkan": 1,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jumlah soal sedikit",
+   "jawaban benar/salah condong ({'Salah': 1})"
+  ]
+ }
+]

@@ -1,0 +1,173 @@
+{
+ "catatan": "Jumlah label bukan bukti keberhasilan kurikulum; satu soal dapat memiliki lebih dari satu label. Semua label adalah USULAN berbukti yang perlu diverifikasi guru/ahli.",
+ "ringkasan": {
+  "KBC_langsung": {
+   "Cinta Lingkungan": 98,
+   "Cinta Tanah Air": 106,
+   "Cinta Ilmu": 2,
+   "Cinta Diri dan Sesama": 113
+  },
+  "KBC_konteks": {
+   "Cinta Ilmu": 54,
+   "Cinta Diri dan Sesama": 250,
+   "Cinta Allah dan Rasul-Nya": 65,
+   "Cinta Lingkungan": 160,
+   "Cinta Tanah Air": 148
+  },
+  "KBC_melalui_TP": {
+   "Cinta Tanah Air": 266,
+   "Cinta Lingkungan": 468,
+   "Cinta Ilmu": 125,
+   "Cinta Diri dan Sesama": 119
+  },
+  "DL_pengalaman": {
+   "Memahami": 862,
+   "Mengaplikasi": 138
+  },
+  "DL_prinsip": {
+   "Menggembirakan": 114,
+   "Bermakna": 51
+  },
+  "PL_langsung": {
+   "Kewargaan / Kewargaan Lokal": 214,
+   "Kewargaan / perlu ditetapkan guru": 53,
+   "Penalaran Kritis / Penyelesaian Masalah": 81,
+   "Kolaborasi / Kerja sama": 35,
+   "Kolaborasi / Peduli": 36,
+   "Kewargaan / Kewargaan Nasional": 44
+  },
+  "PL_melalui_TP": {
+   "Kewargaan / Kewargaan Lokal": 321,
+   "Kewargaan / perlu ditetapkan guru": 191,
+   "Kewargaan / Kewargaan Nasional": 177
+  },
+  "PL_indikatif": {
+   "Penalaran Kritis / Pengambilan Keputusan": 13
+  }
+ },
+ "per_tp": {
+  "TP-PPN-B1-01": {
+   "KBC_langsung": {
+    "Cinta Lingkungan": 3,
+    "Cinta Tanah Air": 15,
+    "Cinta Ilmu": 2
+   },
+   "PL_langsung": {
+    "Kewargaan": 1
+   }
+  },
+  "TP-PPN-B1-02": {
+   "KBC_langsung": {
+    "Cinta Tanah Air": 3
+   },
+   "PL_langsung": {
+    "Kewargaan": 3
+   }
+  },
+  "TP-PPN-B1-03": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 37,
+    "Cinta Tanah Air": 25
+   },
+   "PL_langsung": {
+    "Kewargaan": 23
+   }
+  },
+  "TP-PPN-B2-01": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 34,
+    "Cinta Lingkungan": 5
+   },
+   "PL_langsung": {
+    "Kewargaan": 24
+   }
+  },
+  "TP-PPN-B2-02": {
+   "PL_langsung": {
+    "Kewargaan": 42,
+    "Penalaran Kritis": 42
+   },
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 17,
+    "Cinta Lingkungan": 2
+   }
+  },
+  "TP-PPN-B2-03": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 13,
+    "Cinta Lingkungan": 2
+   },
+   "PL_langsung": {
+    "Kewargaan": 33,
+    "Kolaborasi": 6
+   }
+  },
+  "TP-PPN-B3-01": {
+   "KBC_langsung": {
+    "Cinta Tanah Air": 25
+   },
+   "PL_langsung": {
+    "Kewargaan": 11
+   }
+  },
+  "TP-PPN-B3-02": {
+   "KBC_langsung": {
+    "Cinta Tanah Air": 11
+   },
+   "PL_langsung": {
+    "Kewargaan": 11
+   }
+  },
+  "TP-PPN-B3-03": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 12
+   },
+   "PL_langsung": {
+    "Kewargaan": 45
+   }
+  },
+  "TP-PPN-B3-04": {
+   "KBC_langsung": {
+    "Cinta Tanah Air": 27
+   },
+   "PL_langsung": {
+    "Kewargaan": 27
+   }
+  },
+  "TP-PPN-B4-01": {
+   "KBC_langsung": {
+    "Cinta Lingkungan": 9
+   },
+   "PL_langsung": {
+    "Kewargaan": 5
+   }
+  },
+  "TP-PPN-B4-02": {
+   "PL_langsung": {
+    "Kewargaan": 26,
+    "Kolaborasi": 31
+   },
+   "KBC_langsung": {
+    "Cinta Lingkungan": 25
+   }
+  },
+  "TP-PPN-B4-03": {
+   "KBC_langsung": {
+    "Cinta Lingkungan": 36
+   },
+   "PL_langsung": {
+    "Kewargaan": 40,
+    "Penalaran Kritis": 39
+   }
+  },
+  "TP-PPN-B4-04": {
+   "PL_langsung": {
+    "Kolaborasi": 34,
+    "Kewargaan": 20
+   },
+   "KBC_langsung": {
+    "Cinta Lingkungan": 16
+   }
+  }
+ }
+}

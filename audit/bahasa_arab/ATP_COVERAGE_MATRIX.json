@@ -1,0 +1,520 @@
+[
+ {
+  "tp_id": "TP-BAR-PK-01",
+  "material": "Perkenalan (التعارف)",
+  "tp_text": "Murid mampu mengenali bunyi dan kosakata tentang perkenalan dengan pola kalimat: مَا اسْمُكَ؟، مَا اسْمُكِ؟، اِسْمِيْ....",
+  "atp_trace": 1.0,
+  "jumlah_soal": 58,
+  "PASS": 24,
+  "REVISE": 3,
+  "NEEDS_REVIEW": 31,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 38,
+   "true_false": 11,
+   "fill_in_short": 5,
+   "matching": 4
+  },
+  "kesulitan": {
+   "medium": 33,
+   "easy": 25
+  },
+  "level_kognitif": {
+   "mengenali": 30,
+   "memahami": 8,
+   "mengingat": 16,
+   "mencocokkan": 4
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BAR-PK-02",
+  "material": "Perkenalan (التعارف)",
+  "tp_text": "Murid mampu menyebutkan bunyi dan kosakata dalam teks tertulis atau teks visual tentang perkenalan.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 67,
+  "PASS": 26,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 41,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 24,
+   "multiple_choice_visual": 9,
+   "contextual": 9,
+   "fill_in_short": 11,
+   "completion": 3,
+   "matching": 2,
+   "ordering": 6,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "easy": 14,
+   "medium": 42,
+   "hard": 11
+  },
+  "level_kognitif": {
+   "mengenali": 41,
+   "menerapkan": 9,
+   "memahami": 9,
+   "mencocokkan": 2,
+   "mengurutkan": 6
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BAR-PK-03",
+  "material": "Perkenalan (التعارف)",
+  "tp_text": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang perkenalan.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 56,
+  "PASS": 46,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 9,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 37,
+   "contextual": 4,
+   "true_false": 7,
+   "fill_in_short": 6,
+   "matching": 2
+  },
+  "kesulitan": {
+   "medium": 40,
+   "hard": 13,
+   "easy": 3
+  },
+  "level_kognitif": {
+   "menganalisis": 46,
+   "memahami": 8,
+   "mencocokkan": 2
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BAR-PK-04",
+  "material": "Perkenalan (التعارف)",
+  "tp_text": "Murid mampu memperkenalkan diri dengan sopan dan ramah kepada teman baru sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 69,
+  "PASS": 33,
+  "REVISE": 3,
+  "NEEDS_REVIEW": 33,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice_visual": 3,
+   "contextual": 12,
+   "true_false": 32,
+   "completion": 9,
+   "ordering": 2,
+   "grouping": 3,
+   "performance_task": 8
+  },
+  "kesulitan": {
+   "easy": 29,
+   "medium": 40
+  },
+  "level_kognitif": {
+   "menerapkan": 32,
+   "memahami": 32,
+   "mengurutkan": 2,
+   "mengelompokkan": 3
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-BAR-KL-01",
+  "material": "Keluargaku (أسرتي)",
+  "tp_text": "Murid mampu mengenali bunyi dan kosakata tentang keluargaku dengan pola kalimat: مَنْ هُوَ؟، مَنْ هِيَ؟، هُوَ أَبِيْ، هِيَ أُمِّيْ.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 59,
+  "PASS": 21,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 38,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 38,
+   "true_false": 11,
+   "fill_in_short": 5,
+   "matching": 5
+  },
+  "kesulitan": {
+   "medium": 34,
+   "easy": 25
+  },
+  "level_kognitif": {
+   "mengenali": 31,
+   "memahami": 7,
+   "mengingat": 16,
+   "mencocokkan": 5
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BAR-KL-02",
+  "material": "Keluargaku (أسرتي)",
+  "tp_text": "Murid mampu menyebutkan bunyi dan kosakata dalam teks tertulis atau teks visual tentang topik keluargaku.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 69,
+  "PASS": 27,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 41,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 22,
+   "multiple_choice_visual": 9,
+   "contextual": 10,
+   "fill_in_short": 13,
+   "completion": 3,
+   "matching": 3,
+   "ordering": 6,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "easy": 13,
+   "medium": 48,
+   "hard": 8
+  },
+  "level_kognitif": {
+   "mengenali": 43,
+   "menerapkan": 7,
+   "memahami": 10,
+   "mencocokkan": 3,
+   "mengurutkan": 6
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "16 soal berstatus kandidat duplikat substantif"
+  ]
+ },
+ {
+  "tp_id": "TP-BAR-KL-03",
+  "material": "Keluargaku (أسرتي)",
+  "tp_text": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang keluargaku.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 53,
+  "PASS": 47,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 6,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 39,
+   "contextual": 3,
+   "true_false": 7,
+   "fill_in_short": 4
+  },
+  "kesulitan": {
+   "medium": 38,
+   "hard": 14,
+   "easy": 1
+  },
+  "level_kognitif": {
+   "menganalisis": 49,
+   "memahami": 4
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jawaban benar/salah condong ({'Benar': 2, 'Salah': 5})"
+  ]
+ },
+ {
+  "tp_id": "TP-BAR-KL-04",
+  "material": "Keluargaku (أسرتي)",
+  "tp_text": "Murid mampu menyayangi dan menghargai anggota keluarga di rumah sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 69,
+  "PASS": 29,
+  "REVISE": 6,
+  "NEEDS_REVIEW": 34,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice_visual": 3,
+   "contextual": 12,
+   "true_false": 32,
+   "completion": 9,
+   "ordering": 2,
+   "grouping": 3,
+   "performance_task": 8
+  },
+  "kesulitan": {
+   "easy": 25,
+   "medium": 44
+  },
+  "level_kognitif": {
+   "menerapkan": 32,
+   "memahami": 32,
+   "mengurutkan": 2,
+   "mengelompokkan": 3
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-BAR-RM-01",
+  "material": "Rumahku (بيتي)",
+  "tp_text": "Murid mampu mengenali bunyi dan kosakata tentang rumahku dengan pola kalimat: هٰذَا بَيْتٌ.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 58,
+  "PASS": 23,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 35,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 39,
+   "true_false": 10,
+   "fill_in_short": 5,
+   "matching": 4
+  },
+  "kesulitan": {
+   "medium": 39,
+   "easy": 19
+  },
+  "level_kognitif": {
+   "mengenali": 30,
+   "memahami": 9,
+   "mengingat": 15,
+   "mencocokkan": 4
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BAR-RM-02",
+  "material": "Rumahku (بيتي)",
+  "tp_text": "Murid mampu menyebutkan bunyi dan kosakata dalam teks tertulis atau teks visual tentang rumahku.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 67,
+  "PASS": 27,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 40,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 20,
+   "multiple_choice_visual": 9,
+   "contextual": 12,
+   "fill_in_short": 12,
+   "completion": 3,
+   "matching": 2,
+   "ordering": 6,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "medium": 47,
+   "easy": 10,
+   "hard": 10
+  },
+  "level_kognitif": {
+   "mengenali": 37,
+   "menerapkan": 10,
+   "memahami": 12,
+   "mencocokkan": 2,
+   "mengurutkan": 6
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "12 soal berstatus kandidat duplikat substantif"
+  ]
+ },
+ {
+  "tp_id": "TP-BAR-RM-03",
+  "material": "Rumahku (بيتي)",
+  "tp_text": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik rumahku.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 56,
+  "PASS": 45,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 11,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 40,
+   "contextual": 1,
+   "true_false": 8,
+   "fill_in_short": 5,
+   "matching": 2
+  },
+  "kesulitan": {
+   "medium": 31,
+   "hard": 23,
+   "easy": 2
+  },
+  "level_kognitif": {
+   "menganalisis": 50,
+   "memahami": 4,
+   "mencocokkan": 2
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BAR-RM-04",
+  "material": "Rumahku (بيتي)",
+  "tp_text": "Murid mampu membiasakan diri menjaga kebersihan dan kerapian lingkungan rumah bersama keluarga, sebagai wujud cinta Allah dan Rasul-Nya serta cinta lingkungan.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 69,
+  "PASS": 36,
+  "REVISE": 3,
+  "NEEDS_REVIEW": 30,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice_visual": 3,
+   "contextual": 12,
+   "true_false": 32,
+   "completion": 9,
+   "ordering": 2,
+   "grouping": 3,
+   "performance_task": 8
+  },
+  "kesulitan": {
+   "easy": 24,
+   "medium": 45
+  },
+  "level_kognitif": {
+   "menerapkan": 32,
+   "memahami": 32,
+   "mengurutkan": 2,
+   "mengelompokkan": 3
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-BAR-SK-01",
+  "material": "Sekolahku (مدرستي)",
+  "tp_text": "Murid mampu mengenali bunyi dan kosakata tentang madrasahku dengan pola kalimat: هٰذِهِ مَدْرَسَةٌ.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 59,
+  "PASS": 22,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 37,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 39,
+   "true_false": 10,
+   "fill_in_short": 5,
+   "matching": 5
+  },
+  "kesulitan": {
+   "easy": 24,
+   "medium": 35
+  },
+  "level_kognitif": {
+   "mengenali": 34,
+   "memahami": 5,
+   "mengingat": 15,
+   "mencocokkan": 5
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BAR-SK-02",
+  "material": "Sekolahku (مدرستي)",
+  "tp_text": "Murid mampu menyebutkan bunyi dan kosakata dalam teks tertulis atau teks visual tentang madrasahku.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 68,
+  "PASS": 27,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 41,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 20,
+   "multiple_choice_visual": 9,
+   "contextual": 11,
+   "fill_in_short": 13,
+   "completion": 4,
+   "matching": 2,
+   "ordering": 6,
+   "performance_task": 3
+  },
+  "kesulitan": {
+   "medium": 45,
+   "easy": 13,
+   "hard": 10
+  },
+  "level_kognitif": {
+   "mengenali": 39,
+   "menerapkan": 10,
+   "memahami": 11,
+   "mencocokkan": 2,
+   "mengurutkan": 6
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "14 soal berstatus kandidat duplikat substantif"
+  ]
+ },
+ {
+  "tp_id": "TP-BAR-SK-03",
+  "material": "Sekolahku (مدرستي)",
+  "tp_text": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik madrasahku.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 54,
+  "PASS": 43,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 11,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 40,
+   "contextual": 1,
+   "true_false": 8,
+   "fill_in_short": 4,
+   "matching": 1
+  },
+  "kesulitan": {
+   "hard": 21,
+   "medium": 32,
+   "easy": 1
+  },
+  "level_kognitif": {
+   "menganalisis": 50,
+   "memahami": 3,
+   "mencocokkan": 1
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-BAR-SK-04",
+  "material": "Sekolahku (مدرستي)",
+  "tp_text": "Murid mampu belajar dengan sungguh-sungguh dan mendengarkan guru sebagai wujud cinta Allah dan Rasul-Nya serta cinta ilmu.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 69,
+  "PASS": 37,
+  "REVISE": 8,
+  "NEEDS_REVIEW": 24,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice_visual": 3,
+   "contextual": 13,
+   "true_false": 32,
+   "completion": 8,
+   "ordering": 2,
+   "grouping": 3,
+   "performance_task": 8
+  },
+  "kesulitan": {
+   "easy": 30,
+   "medium": 39
+  },
+  "level_kognitif": {
+   "menerapkan": 32,
+   "memahami": 32,
+   "mengurutkan": 2,
+   "mengelompokkan": 3
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ }
+]

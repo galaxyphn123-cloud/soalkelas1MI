@@ -1,0 +1,113 @@
+{
+ "mapel": "Bahasa Inggris",
+ "tanggal": "2026-10-12",
+ "soal_awal": 1000,
+ "soal_diperiksa": 1000,
+ "status": {
+  "NEEDS_REVIEW": 239,
+  "PASS": 748,
+  "REVISE": 13
+ },
+ "valid_PASS": 748,
+ "perlu_revisi": 13,
+ "ditolak": 0,
+ "perlu_ahli": 239,
+ "duplikat_identik_ID": 0,
+ "duplikat_substantif_pasangan": 23,
+ "tanpa_pemetaan_TP": 1,
+ "atp_tier_mesin": {
+  "INDIKASI_KUAT_TP_LAIN": 21,
+  "INDIKASI_ISTILAH_ABSEN_DI_ATP": 125,
+  "SELARAS": 795,
+  "INDIKASI_LEKSIKAL": 59
+ },
+ "atp_final": {
+  "BELUM_DITINJAU_INDIKASI_KUAT_TP_LAIN": 21,
+  "BELUM_DITINJAU_INDIKASI_ISTILAH_ABSEN_DI_ATP": 125,
+  "SELARAS_MESIN": 795,
+  "BELUM_DITINJAU_INDIKASI_LEKSIKAL": 59
+ },
+ "tinjau_baca_kode": {},
+ "tinjau_baca_dimuat": false,
+ "issue": {
+  "petunjuk_kunci_terpanjang": 19,
+  "duplikat_substantif_kandidat": 39
+ },
+ "kesulitan": {
+  "medium": 622,
+  "easy": 377,
+  "hard": 1
+ },
+ "level_kognitif": {
+  "mengenali": 215,
+  "mengingat": 299,
+  "menerapkan": 376,
+  "memahami": 52,
+  "mencocokkan": 27,
+  "mengurutkan": 13,
+  "mengelompokkan": 18
+ },
+ "tipe": {
+  "multiple_choice": 352,
+  "true_false": 180,
+  "fill_in_short": 92,
+  "completion": 63,
+  "performance_task": 81,
+  "multiple_choice_visual": 63,
+  "contextual": 70,
+  "matching": 27,
+  "ordering": 54,
+  "grouping": 18
+ },
+ "kunci_pilgan_posisi": {
+  "C": 121,
+  "B": 121,
+  "A": 122,
+  "D": 121
+ },
+ "kunci_opsi_terpanjang": "239/485",
+ "tf_jawaban": {
+  "Salah": 90,
+  "Benar": 90
+ },
+ "hash_bank_sebelum": "69d4143d6ebe4e6e95c8489fc2e67794cb65841ec52075b52e1c097e4bbe34c1",
+ "hash_bank_sesudah": "69d4143d6ebe4e6e95c8489fc2e67794cb65841ec52075b52e1c097e4bbe34c1",
+ "profil": {
+  "KBC_langsung": {
+   "Cinta Diri dan Sesama": 30,
+   "Cinta Ilmu": 7,
+   "Cinta Lingkungan": 3
+  },
+  "KBC_konteks": {
+   "Cinta Ilmu": 147,
+   "Cinta Diri dan Sesama": 69,
+   "Cinta Lingkungan": 11
+  },
+  "KBC_melalui_TP": {
+   "Cinta Diri dan Sesama": 160,
+   "Cinta Ilmu": 20,
+   "Cinta Lingkungan": 105
+  },
+  "DL_pengalaman": {
+   "Memahami": 786,
+   "Mengaplikasi": 214
+  },
+  "DL_prinsip": {
+   "Bermakna": 26,
+   "Menggembirakan": 76
+  },
+  "PL_langsung": {
+   "Komunikasi / perlu ditetapkan guru": 17,
+   "Komunikasi / Berbicara": 4,
+   "Kreativitas / Karya": 21
+  },
+  "PL_melalui_TP": {
+   "Komunikasi / perlu ditetapkan guru": 34,
+   "Komunikasi / Berbicara": 61,
+   "Komunikasi / Menulis": 147
+  },
+  "PL_indikatif": {
+   "Penalaran Kritis / Pengambilan Keputusan": 72
+  }
+ }
+}

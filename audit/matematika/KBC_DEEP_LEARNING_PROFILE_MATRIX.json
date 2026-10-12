@@ -1,0 +1,163 @@
+{
+ "catatan": "Jumlah label bukan bukti keberhasilan kurikulum; satu soal dapat memiliki lebih dari satu label. Semua label adalah USULAN berbukti yang perlu diverifikasi guru/ahli.",
+ "ringkasan": {
+  "KBC_langsung": {
+   "Cinta Ilmu": 12,
+   "Cinta Diri dan Sesama": 35,
+   "Cinta Allah dan Rasul-Nya": 2
+  },
+  "KBC_konteks": {
+   "Cinta Diri dan Sesama": 101,
+   "Cinta Allah dan Rasul-Nya": 9,
+   "Cinta Ilmu": 45,
+   "Cinta Tanah Air": 7,
+   "Cinta Lingkungan": 2
+  },
+  "KBC_melalui_TP": {
+   "Cinta Ilmu": 221,
+   "Cinta Diri dan Sesama": 98,
+   "Cinta Allah dan Rasul-Nya": 30
+  },
+  "DL_pengalaman": {
+   "Memahami": 855,
+   "Mengaplikasi": 145,
+   "Merefleksi": 1
+  },
+  "DL_prinsip": {
+   "Menggembirakan": 25,
+   "Berkesadaran": 1,
+   "Bermakna": 9
+  },
+  "PL_langsung": {
+   "Komunikasi / Berbicara": 2,
+   "Komunikasi / Membaca": 2,
+   "Penalaran Kritis / Penyelesaian Masalah": 162,
+   "Kolaborasi / Peduli": 3,
+   "Kolaborasi / Berbagi": 5,
+   "Kemandirian / Bertanggung Jawab": 2
+  },
+  "PL_melalui_TP": {
+   "Komunikasi / Membaca": 64,
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / Hubungan dengan Tuhan YME": 33
+  },
+  "PL_indikatif": {
+   "Penalaran Kritis / Pengambilan Keputusan": 20
+  }
+ },
+ "per_tp": {
+  "TP-MTK-B1-01": {
+   "PL_langsung": {
+    "Komunikasi": 2
+   },
+   "KBC_langsung": {
+    "Cinta Ilmu": 1
+   }
+  },
+  "TP-MTK-B1-02": {
+   "PL_langsung": {
+    "Penalaran Kritis": 30
+   }
+  },
+  "TP-MTK-B1-04": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 5
+   },
+   "PL_langsung": {
+    "Kolaborasi": 5
+   }
+  },
+  "TP-MTK-B2-01": {
+   "PL_langsung": {
+    "Penalaran Kritis": 35
+   }
+  },
+  "TP-MTK-B2-02": {
+   "PL_langsung": {
+    "Penalaran Kritis": 2
+   }
+  },
+  "TP-MTK-B2-03": {
+   "PL_langsung": {
+    "Kemandirian": 1
+   }
+  },
+  "TP-MTK-B2-04": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 16
+   }
+  },
+  "TP-MTK-B3-02": {
+   "PL_langsung": {
+    "Penalaran Kritis": 2
+   }
+  },
+  "TP-MTK-B3-03": {
+   "PL_langsung": {
+    "Kemandirian": 1
+   }
+  },
+  "TP-MTK-B3-04": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 6
+   },
+   "PL_langsung": {
+    "Kolaborasi": 3
+   }
+  },
+  "TP-MTK-B4-03": {
+   "KBC_langsung": {
+    "Cinta Ilmu": 9,
+    "Cinta Diri dan Sesama": 6,
+    "Cinta Allah dan Rasul-Nya": 2
+   }
+  },
+  "TP-MTK-B5-02": {
+   "PL_langsung": {
+    "Penalaran Kritis": 28
+   }
+  },
+  "TP-MTK-B6-01": {
+   "KBC_langsung": {
+    "Cinta Ilmu": 2
+   },
+   "PL_langsung": {
+    "Komunikasi": 2
+   }
+  },
+  "TP-MTK-B6-03": {
+   "PL_langsung": {
+    "Penalaran Kritis": 30
+   }
+  },
+  "TP-MTK-B7-02": {
+   "PL_langsung": {
+    "Penalaran Kritis": 5
+   }
+  },
+  "TP-MTK-B7-03": {
+   "PL_langsung": {
+    "Penalaran Kritis": 1
+   }
+  },
+  "TP-MTK-B7-04": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 2
+   }
+  },
+  "TP-MTK-B8-01": {
+   "PL_langsung": {
+    "Penalaran Kritis": 1
+   }
+  },
+  "TP-MTK-B8-02": {
+   "PL_langsung": {
+    "Penalaran Kritis": 13
+   }
+  },
+  "TP-MTK-B8-03": {
+   "PL_langsung": {
+    "Penalaran Kritis": 15
+   }
+  }
+ }
+}

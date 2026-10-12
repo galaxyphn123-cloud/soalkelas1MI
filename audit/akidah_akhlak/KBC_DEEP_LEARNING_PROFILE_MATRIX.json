@@ -1,0 +1,248 @@
+{
+ "catatan": "Jumlah label bukan bukti keberhasilan kurikulum; satu soal dapat memiliki lebih dari satu label. Semua label adalah USULAN berbukti yang perlu diverifikasi guru/ahli.",
+ "ringkasan": {
+  "KBC_langsung": {
+   "Cinta Allah dan Rasul-Nya": 297,
+   "Cinta Diri dan Sesama": 97,
+   "Cinta Lingkungan": 9,
+   "Cinta Ilmu": 128
+  },
+  "KBC_konteks": {
+   "Cinta Lingkungan": 42,
+   "Cinta Allah dan Rasul-Nya": 217,
+   "Cinta Diri dan Sesama": 200,
+   "Cinta Ilmu": 152,
+   "Cinta Tanah Air": 3
+  },
+  "KBC_melalui_TP": {
+   "Cinta Allah dan Rasul-Nya": 193,
+   "Cinta Diri dan Sesama": 196,
+   "Cinta Lingkungan": 31,
+   "Cinta Ilmu": 16
+  },
+  "DL_pengalaman": {
+   "Memahami": 824,
+   "Mengaplikasi": 176,
+   "Merefleksi": 1
+  },
+  "DL_prinsip": {
+   "Menggembirakan": 48,
+   "Bermakna": 50,
+   "Berkesadaran": 1
+  },
+  "PL_langsung": {
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / Hubungan dengan Tuhan YME": 250,
+   "Penalaran Kritis / Penyelesaian Masalah": 70,
+   "Kesehatan / Hidup bersih dan sehat": 60,
+   "Kewargaan / perlu ditetapkan guru": 5,
+   "Kewargaan / Kewargaan Lokal": 3
+  },
+  "PL_melalui_TP": {
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / Hubungan dengan Tuhan YME": 311,
+   "Kesehatan / Hidup bersih dan sehat": 95,
+   "Kewargaan / perlu ditetapkan guru": 28,
+   "Kewargaan / Kewargaan Lokal": 5
+  },
+  "PL_indikatif": {
+   "Penalaran Kritis / Pengambilan Keputusan": 46
+  }
+ },
+ "per_tp": {
+  "TP-AKA-SY-01": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 17
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 17
+   }
+  },
+  "TP-AKA-SY-02": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 24
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 20
+   }
+  },
+  "TP-AKA-SY-03": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 22
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 19,
+    "Penalaran Kritis": 7
+   }
+  },
+  "TP-AKA-SY-04": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 22,
+    "Cinta Diri dan Sesama": 6
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 22
+   }
+  },
+  "TP-AKA-TY-03": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 22,
+    "Cinta Diri dan Sesama": 3
+   },
+   "PL_langsung": {
+    "Penalaran Kritis": 9,
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 13
+   }
+  },
+  "TP-AKA-SH-01": {
+   "PL_langsung": {
+    "Kesehatan": 14
+   },
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 10
+   }
+  },
+  "TP-AKA-SH-02": {
+   "PL_langsung": {
+    "Kesehatan": 16
+   },
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 12
+   }
+  },
+  "TP-AKA-SH-03": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 15
+   },
+   "PL_langsung": {
+    "Kesehatan": 12,
+    "Penalaran Kritis": 11
+   }
+  },
+  "TP-AKA-SH-04": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 19,
+    "Cinta Lingkungan": 9,
+    "Cinta Allah dan Rasul-Nya": 2
+   },
+   "PL_langsung": {
+    "Kewargaan": 8,
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 3,
+    "Kesehatan": 18
+   }
+  },
+  "TP-AKA-AB-01": {
+   "KBC_langsung": {
+    "Cinta Ilmu": 41
+   }
+  },
+  "TP-AKA-AB-02": {
+   "KBC_langsung": {
+    "Cinta Ilmu": 25
+   }
+  },
+  "TP-AKA-AB-03": {
+   "KBC_langsung": {
+    "Cinta Ilmu": 26
+   },
+   "PL_langsung": {
+    "Penalaran Kritis": 14
+   }
+  },
+  "TP-AKA-AB-04": {
+   "KBC_langsung": {
+    "Cinta Ilmu": 36,
+    "Cinta Allah dan Rasul-Nya": 3
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 4
+   }
+  },
+  "TP-AKA-KN-01": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 9
+   }
+  },
+  "TP-AKA-KN-02": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 2
+   }
+  },
+  "TP-AKA-KN-03": {
+   "PL_langsung": {
+    "Penalaran Kritis": 12
+   },
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 12,
+    "Cinta Diri dan Sesama": 2
+   }
+  },
+  "TP-AKA-KN-04": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 11,
+    "Cinta Diri dan Sesama": 18
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 5
+   }
+  },
+  "TP-AKA-RI-01": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 43
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 49
+   }
+  },
+  "TP-AKA-RI-02": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 26
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 14
+   }
+  },
+  "TP-AKA-RI-03": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 44,
+    "Cinta Diri dan Sesama": 11
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 47,
+    "Penalaran Kritis": 10
+   }
+  },
+  "TP-AKA-SW-01": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 2
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 2
+   }
+  },
+  "TP-AKA-SW-02": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 6
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 6
+   }
+  },
+  "TP-AKA-SW-03": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 12
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 12,
+    "Penalaran Kritis": 7
+   }
+  },
+  "TP-AKA-SW-04": {
+   "KBC_langsung": {
+    "Cinta Allah dan Rasul-Nya": 18,
+    "Cinta Diri dan Sesama": 1
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 17
+   }
+  }
+ }
+}

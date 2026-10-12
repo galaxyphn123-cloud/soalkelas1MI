@@ -127,14 +127,15 @@ def main(subj):
         elif tier == 'SELARAS': atp_final = 'SELARAS_MESIN'
         else: atp_final = 'SELARAS_TINJAU_BACA' if MANUAL_LOADED else 'BELUM_DITINJAU_' + tier
         for m in man: iss.append(f"tinjau_baca_{m['kode']}")
-        expert = mcodes & {'ATP_INDIKASI_KUAT', 'ATP_INDIKASI', 'AKURASI_AHLI', 'AKURASI_KONFLIK_INTERNAL', 'AMBIGU', 'DISTRAKTOR_AMBIGU', 'USIA_ISI'}
+        expert = mcodes & {'ATP_INDIKASI_KUAT', 'ATP_INDIKASI', 'AKURASI_AHLI', 'AKURASI_KONFLIK_INTERNAL', 'AMBIGU', 'DISTRAKTOR_AMBIGU', 'USIA_ISI', 'DUP_SUBSTANTIF'}
+        dup_open = bool(submap[x['id']]) and 'DUP_DIPERTAHANKAN' not in mcodes and 'DUP_SUBSTANTIF' not in mcodes
         reasons = []
-        if expert or atp_final.startswith('BELUM_DITINJAU') or base['skor']['usia_bahasa'] <= 1 or submap[x['id']]:
+        if expert or atp_final.startswith('BELUM_DITINJAU') or base['skor']['usia_bahasa'] <= 1 or dup_open:
             status = 'NEEDS_REVIEW'
-            reasons = sorted(expert) + (['ATP_leksikal_belum_ditinjau'] if atp_final.startswith('BELUM') else []) + (['beban_baca_tinggi'] if base['skor']['usia_bahasa'] <= 1 else []) + (['kandidat_duplikat_substantif'] if submap[x['id']] else [])
-        elif fatal or dupmap[x['id']] or mcodes & {'KONSTRUKSI', 'BAHASA'} or any(i.startswith(('petunjuk_kunci_terpanjang', 'rujuk_gambar', 'opsi_semua')) for i in iss):
+            reasons = sorted(expert) + (['ATP_leksikal_belum_ditinjau'] if atp_final.startswith('BELUM') else []) + (['beban_baca_tinggi'] if base['skor']['usia_bahasa'] <= 1 else []) + (['kandidat_duplikat_substantif_belum_dinilai'] if dup_open else [])
+        elif fatal or dupmap[x['id']] or mcodes & {'KONSTRUKSI', 'BAHASA', 'AKURASI_SALAH_TEGAS'} or any(i.startswith(('petunjuk_kunci_terpanjang', 'rujuk_gambar', 'opsi_semua')) for i in iss):
             status = 'REVISE'
-            reasons = [i.split(':')[0] for i in iss if i.split(':')[0] in STRUCT_FATAL or i.startswith(('petunjuk_kunci_terpanjang', 'rujuk_gambar', 'opsi_semua'))] + sorted(mcodes & {'KONSTRUKSI', 'BAHASA'}) + (['duplikat_identik'] if dupmap[x['id']] else [])
+            reasons = [i.split(':')[0] for i in iss if i.split(':')[0] in STRUCT_FATAL or i.startswith(('petunjuk_kunci_terpanjang', 'rujuk_gambar', 'opsi_semua'))] + sorted(mcodes & {'KONSTRUKSI', 'BAHASA', 'AKURASI_SALAH_TEGAS'}) + (['duplikat_identik'] if dupmap[x['id']] else [])
         else:
             status = 'PASS'
         base.update(quality_status=status, issues=iss, atp_tier=tier, atp_final=atp_final, atp_bukti=ebid, alasan_status=reasons, tinjau_baca=man)

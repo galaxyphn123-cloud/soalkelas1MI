@@ -1,0 +1,120 @@
+{
+ "catatan": "Jumlah label bukan bukti keberhasilan kurikulum; satu soal dapat memiliki lebih dari satu label. Semua label adalah USULAN berbukti yang perlu diverifikasi guru/ahli.",
+ "ringkasan": {
+  "KBC_langsung": {
+   "Cinta Diri dan Sesama": 30,
+   "Cinta Ilmu": 7,
+   "Cinta Lingkungan": 3
+  },
+  "KBC_konteks": {
+   "Cinta Ilmu": 147,
+   "Cinta Diri dan Sesama": 69,
+   "Cinta Lingkungan": 11
+  },
+  "KBC_melalui_TP": {
+   "Cinta Diri dan Sesama": 160,
+   "Cinta Ilmu": 20,
+   "Cinta Lingkungan": 105
+  },
+  "DL_pengalaman": {
+   "Memahami": 786,
+   "Mengaplikasi": 214
+  },
+  "DL_prinsip": {
+   "Bermakna": 26,
+   "Menggembirakan": 76
+  },
+  "PL_langsung": {
+   "Komunikasi / perlu ditetapkan guru": 17,
+   "Komunikasi / Berbicara": 4,
+   "Kreativitas / Karya": 21
+  },
+  "PL_melalui_TP": {
+   "Komunikasi / perlu ditetapkan guru": 34,
+   "Komunikasi / Berbicara": 61,
+   "Komunikasi / Menulis": 147
+  },
+  "PL_indikatif": {
+   "Penalaran Kritis / Pengambilan Keputusan": 72
+  }
+ },
+ "per_tp": {
+  "TP-ENG-B1-02": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 4
+   },
+   "PL_langsung": {
+    "Komunikasi": 4
+   }
+  },
+  "TP-ENG-B1-03": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 1
+   }
+  },
+  "TP-ENG-B1-05": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 3
+   },
+   "PL_langsung": {
+    "Komunikasi": 2
+   }
+  },
+  "TP-ENG-B1-07": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 4
+   }
+  },
+  "TP-ENG-B2-01": {
+   "PL_langsung": {
+    "Komunikasi": 11
+   },
+   "KBC_langsung": {
+    "Cinta Ilmu": 7
+   }
+  },
+  "TP-ENG-B2-02": {
+   "PL_langsung": {
+    "Komunikasi": 2
+   }
+  },
+  "TP-ENG-B4-01": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 4
+   }
+  },
+  "TP-ENG-B4-02": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 7
+   },
+   "PL_langsung": {
+    "Komunikasi": 2
+   }
+  },
+  "TP-ENG-B5-05": {
+   "PL_langsung": {
+    "Kreativitas": 5
+   }
+  },
+  "TP-ENG-B5-06": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 7
+   }
+  },
+  "TP-ENG-B6-05": {
+   "PL_langsung": {
+    "Kreativitas": 9
+   }
+  },
+  "TP-ENG-B8-08": {
+   "PL_langsung": {
+    "Kreativitas": 7
+   }
+  },
+  "TP-ENG-B9-02": {
+   "KBC_langsung": {
+    "Cinta Lingkungan": 3
+   }
+  }
+ }
+}

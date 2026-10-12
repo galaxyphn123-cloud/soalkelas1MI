@@ -1,0 +1,105 @@
+{
+ "catatan": "Jumlah label bukan bukti keberhasilan kurikulum; satu soal dapat memiliki lebih dari satu label. Semua label adalah USULAN berbukti yang perlu diverifikasi guru/ahli.",
+ "ringkasan": {
+  "KBC_langsung": {
+   "Cinta Diri dan Sesama": 89,
+   "Cinta Allah dan Rasul-Nya": 5,
+   "Cinta Lingkungan": 15,
+   "Cinta Ilmu": 20
+  },
+  "KBC_konteks": {
+   "Cinta Diri dan Sesama": 96,
+   "Cinta Allah dan Rasul-Nya": 6,
+   "Cinta Ilmu": 88,
+   "Cinta Lingkungan": 17
+  },
+  "KBC_melalui_TP": {
+   "Cinta Allah dan Rasul-Nya": 269,
+   "Cinta Diri dan Sesama": 81,
+   "Cinta Lingkungan": 51,
+   "Cinta Ilmu": 34
+  },
+  "DL_pengalaman": {
+   "Memahami": 808,
+   "Mengaplikasi": 192,
+   "Merefleksi": 1
+  },
+  "DL_prinsip": {
+   "Bermakna": 54,
+   "Menggembirakan": 57,
+   "Berkesadaran": 1
+  },
+  "PL_langsung": {
+   "Penalaran Kritis / Penyelesaian Masalah": 195,
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / Hubungan dengan Tuhan YME": 11,
+   "Kewargaan / Kewargaan Lokal": 12,
+   "Kolaborasi / Kerja sama": 2,
+   "Kolaborasi / Peduli": 8
+  },
+  "PL_melalui_TP": {
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / Hubungan dengan Tuhan YME": 265,
+   "Kewargaan / Kewargaan Lokal": 57
+  },
+  "PL_indikatif": {
+   "Penalaran Kritis / Pengambilan Keputusan": 44
+  }
+ },
+ "per_tp": {
+  "TP-BAR-PK-03": {
+   "PL_langsung": {
+    "Penalaran Kritis": 46
+   }
+  },
+  "TP-BAR-PK-04": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 22
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 1
+   }
+  },
+  "TP-BAR-KL-03": {
+   "PL_langsung": {
+    "Penalaran Kritis": 49
+   }
+  },
+  "TP-BAR-KL-04": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 43,
+    "Cinta Allah dan Rasul-Nya": 2
+   },
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 2
+   }
+  },
+  "TP-BAR-RM-03": {
+   "PL_langsung": {
+    "Penalaran Kritis": 50
+   }
+  },
+  "TP-BAR-RM-04": {
+   "KBC_langsung": {
+    "Cinta Diri dan Sesama": 24,
+    "Cinta Lingkungan": 15
+   },
+   "PL_langsung": {
+    "Kewargaan": 12,
+    "Kolaborasi": 10
+   }
+  },
+  "TP-BAR-SK-03": {
+   "PL_langsung": {
+    "Penalaran Kritis": 50
+   }
+  },
+  "TP-BAR-SK-04": {
+   "PL_langsung": {
+    "Keimanan dan Ketakwaan terhadap Tuhan YME": 8
+   },
+   "KBC_langsung": {
+    "Cinta Ilmu": 20,
+    "Cinta Allah dan Rasul-Nya": 3
+   }
+  }
+ }
+}

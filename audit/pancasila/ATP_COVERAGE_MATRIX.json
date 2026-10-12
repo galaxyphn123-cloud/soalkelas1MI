@@ -1,0 +1,465 @@
+[
+ {
+  "tp_id": "TP-PPN-B1-01",
+  "material": "Bab 1. Tentang Diriku",
+  "tp_text": "Murid mampu memahami keberagaman identitas di lingkungan rumah, sekolah, dan masyarakat dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 74,
+  "PASS": 28,
+  "REVISE": 2,
+  "NEEDS_REVIEW": 44,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 22,
+   "multiple_choice_visual": 1,
+   "contextual": 3,
+   "true_false": 20,
+   "fill_in_short": 21,
+   "completion": 1,
+   "matching": 3,
+   "grouping": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 50,
+   "medium": 24
+  },
+  "level_kognitif": {
+   "mengingat": 45,
+   "memahami": 18,
+   "menerapkan": 7,
+   "mencocokkan": 3,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-PPN-B1-02",
+  "material": "Bab 1. Tentang Diriku",
+  "tp_text": "Murid mampu mengidentifikasi berbagai bentuk keberagaman suku bangsa, budaya, dan agama di lingkungan rumah, sekolah, dan masyarakat dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 73,
+  "PASS": 49,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 23,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 48,
+   "multiple_choice_visual": 2,
+   "fill_in_short": 18,
+   "matching": 3,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 36,
+   "medium": 37
+  },
+  "level_kognitif": {
+   "mengingat": 41,
+   "mengenali": 18,
+   "memahami": 7,
+   "menerapkan": 4,
+   "mencocokkan": 3
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-PPN-B1-03",
+  "material": "Bab 1. Tentang Diriku",
+  "tp_text": "Murid mampu melaksanakan sikap menghargai keberagaman identitas dengan penuh cinta dan toleransi dalam kehidupan sehari-hari.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 67,
+  "PASS": 30,
+  "REVISE": 13,
+  "NEEDS_REVIEW": 24,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 10,
+   "multiple_choice_visual": 2,
+   "contextual": 10,
+   "true_false": 23,
+   "fill_in_short": 10,
+   "completion": 10,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 43,
+   "hard": 2,
+   "medium": 22
+  },
+  "level_kognitif": {
+   "memahami": 24,
+   "menerapkan": 24,
+   "mengingat": 19
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-PPN-B2-01",
+  "material": "Bab 2. Menaati Aturan",
+  "tp_text": "Murid mampu memahami pentingnya aturan di lingkungan keluarga dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 80,
+  "PASS": 73,
+  "REVISE": 3,
+  "NEEDS_REVIEW": 4,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 25,
+   "true_false": 24,
+   "fill_in_short": 25,
+   "matching": 5,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 46,
+   "medium": 34
+  },
+  "level_kognitif": {
+   "memahami": 59,
+   "mengingat": 15,
+   "mencocokkan": 5,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-PPN-B2-02",
+  "material": "Bab 2. Menaati Aturan",
+  "tp_text": "Murid mampu menguraikan perilaku menaati dan tidak menaati aturan di lingkungan keluarga dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 58,
+  "PASS": 53,
+  "REVISE": 3,
+  "NEEDS_REVIEW": 2,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 40,
+   "true_false": 8,
+   "fill_in_short": 4,
+   "grouping": 5,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 28,
+   "easy": 30
+  },
+  "level_kognitif": {
+   "menganalisis": 42,
+   "memahami": 4,
+   "mengingat": 6,
+   "mengelompokkan": 5,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jawaban benar/salah condong ({'Salah': 8})"
+  ]
+ },
+ {
+  "tp_id": "TP-PPN-B2-03",
+  "material": "Bab 2. Menaati Aturan",
+  "tp_text": "Murid mampu menerapkan perilaku menaati aturan di lingkungan keluarga dengan benar dalam kehidupan sehari-hari sebagai wujud mengamalkan ajaran Islam untuk kebaikan bersama.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 76,
+  "PASS": 62,
+  "REVISE": 4,
+  "NEEDS_REVIEW": 10,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 4,
+   "multiple_choice_visual": 1,
+   "contextual": 20,
+   "true_false": 24,
+   "fill_in_short": 4,
+   "completion": 20,
+   "ordering": 1,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 28,
+   "medium": 48
+  },
+  "level_kognitif": {
+   "memahami": 4,
+   "menerapkan": 60,
+   "mengingat": 11,
+   "mengurutkan": 1
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-PPN-B3-01",
+  "material": "Bab 3. Negaraku Indonesia",
+  "tp_text": "Murid mampu memahami simbol dan sila Pancasila pada lambang negara dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 87,
+  "PASS": 69,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 17,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 34,
+   "multiple_choice_visual": 2,
+   "true_false": 11,
+   "fill_in_short": 34,
+   "matching": 2,
+   "ordering": 2,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 36,
+   "medium": 49,
+   "hard": 2
+  },
+  "level_kognitif": {
+   "mengingat": 45,
+   "mengenali": 20,
+   "memahami": 14,
+   "menerapkan": 4,
+   "mencocokkan": 2,
+   "mengurutkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "jawaban benar/salah condong ({'Salah': 11})"
+  ]
+ },
+ {
+  "tp_id": "TP-PPN-B3-02",
+  "material": "Bab 3. Negaraku Indonesia",
+  "tp_text": "Murid mampu menguraikan makna penting sila-sila Pancasila sebagai dasar negara dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 69,
+  "PASS": 61,
+  "REVISE": 3,
+  "NEEDS_REVIEW": 5,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 20,
+   "true_false": 27,
+   "fill_in_short": 20,
+   "matching": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "easy": 35,
+   "medium": 34
+  },
+  "level_kognitif": {
+   "mengingat": 45,
+   "mengenali": 10,
+   "memahami": 12,
+   "mencocokkan": 1,
+   "menerapkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-PPN-B3-03",
+  "material": "Bab 3. Negaraku Indonesia",
+  "tp_text": "Murid mampu memahami nilai-nilai Pancasila di lingkungan keluarga dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 63,
+  "PASS": 33,
+  "REVISE": 1,
+  "NEEDS_REVIEW": 29,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 13,
+   "multiple_choice_visual": 1,
+   "contextual": 2,
+   "true_false": 30,
+   "fill_in_short": 13,
+   "completion": 2,
+   "grouping": 1,
+   "performance_task": 1
+  },
+  "kesulitan": {
+   "medium": 40,
+   "easy": 23
+  },
+  "level_kognitif": {
+   "menerapkan": 46,
+   "memahami": 7,
+   "mengingat": 9,
+   "mengelompokkan": 1
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-PPN-B3-04",
+  "material": "Bab 3. Negaraku Indonesia",
+  "tp_text": "Murid mampu melaksanakan nilai-nilai Pancasila dengan benar dalam kehidupan sehari-hari sebagai wujud cinta tanah air.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 67,
+  "PASS": 44,
+  "REVISE": 8,
+  "NEEDS_REVIEW": 15,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 9,
+   "multiple_choice_visual": 1,
+   "contextual": 9,
+   "true_false": 28,
+   "fill_in_short": 9,
+   "completion": 9,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "hard": 2,
+   "easy": 47,
+   "medium": 18
+  },
+  "level_kognitif": {
+   "memahami": 26,
+   "menerapkan": 21,
+   "mengingat": 20
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-PPN-B4-01",
+  "material": "Bab 4. Menjaga Lingkunganku",
+  "tp_text": "Murid mampu mengenal karakteristik lingkungan rumah dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 75,
+  "PASS": 61,
+  "REVISE": 4,
+  "NEEDS_REVIEW": 10,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 18,
+   "multiple_choice_visual": 2,
+   "true_false": 31,
+   "fill_in_short": 18,
+   "matching": 4,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 45,
+   "medium": 30
+  },
+  "level_kognitif": {
+   "memahami": 9,
+   "mengingat": 58,
+   "menerapkan": 4,
+   "mencocokkan": 4
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-PPN-B4-02",
+  "material": "Bab 4. Menjaga Lingkunganku",
+  "tp_text": "Murid mampu memahami bentuk kerja sama di lingkungan rumah dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 80,
+  "PASS": 71,
+  "REVISE": 4,
+  "NEEDS_REVIEW": 5,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 22,
+   "true_false": 29,
+   "fill_in_short": 22,
+   "matching": 5,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 44,
+   "medium": 36
+  },
+  "level_kognitif": {
+   "memahami": 32,
+   "mengingat": 41,
+   "mencocokkan": 5,
+   "menerapkan": 2
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ },
+ {
+  "tp_id": "TP-PPN-B4-03",
+  "material": "Bab 4. Menjaga Lingkunganku",
+  "tp_text": "Murid mampu menguraikan perilaku menjaga lingkungan rumah dengan benar.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 60,
+  "PASS": 49,
+  "REVISE": 0,
+  "NEEDS_REVIEW": 11,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 28,
+   "multiple_choice_visual": 2,
+   "true_false": 21,
+   "fill_in_short": 4,
+   "grouping": 3,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 40,
+   "medium": 20
+  },
+  "level_kognitif": {
+   "menganalisis": 39,
+   "memahami": 6,
+   "menerapkan": 4,
+   "mengingat": 8,
+   "mengelompokkan": 3
+  },
+  "kualitas_cakupan": "memadai",
+  "kekurangan": []
+ },
+ {
+  "tp_id": "TP-PPN-B4-04",
+  "material": "Bab 4. Menjaga Lingkunganku",
+  "tp_text": "Murid mampu melaksanakan kerja sama dalam menjaga lingkungan rumah dengan penuh kepedulian dan kebersamaan dalam kehidupan sehari-hari.",
+  "atp_trace": 1.0,
+  "jumlah_soal": 71,
+  "PASS": 46,
+  "REVISE": 7,
+  "NEEDS_REVIEW": 18,
+  "REJECT": 0,
+  "tipe": {
+   "multiple_choice": 4,
+   "multiple_choice_visual": 1,
+   "contextual": 14,
+   "true_false": 32,
+   "fill_in_short": 4,
+   "completion": 14,
+   "performance_task": 2
+  },
+  "kesulitan": {
+   "easy": 40,
+   "medium": 31
+  },
+  "level_kognitif": {
+   "memahami": 16,
+   "menerapkan": 45,
+   "mengingat": 10
+  },
+  "kualitas_cakupan": "perlu_perhatian",
+  "kekurangan": [
+   "proporsi benar/salah tinggi"
+  ]
+ }
+]
