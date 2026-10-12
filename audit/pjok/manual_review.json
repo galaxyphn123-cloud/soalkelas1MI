@@ -9,7 +9,9 @@
   "501-600 (PJK-BG-0034..0133)",
   "601-700 (PJK-BG-0134..0233)",
   "701-800 (PJK-BG-0234..0267, PJK-HA-0001..0066)",
-  "801-900 (PJK-HA-0067..0133, PJK-MH-0001..0033)"
+  "801-900 (PJK-HA-0067..0133, PJK-MH-0001..0033)",
+  "901-1000 (PJK-MH-0034..0133)",
+  "DUP 29 pasangan kandidat dinilai (20 DUP_DIPERTAHANKAN, 9 DUP_SUBSTANTIF)"
  ],
  "temuan": {
   "PJK-TB-0001": [
@@ -274,6 +276,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kandidat duplikat pola 'Saat menirukan <hewan>' (pasangan 0136~0154, 0136~0166, 0139~0156, 0140~0159, 0149~0154, 0149~0166, 0154~0166): hewan dan gerak berbeda, fakta berbeda; pola templat sama tetapi tidak identik."
    }
   ],
   "PJK-TB-0159": [
@@ -284,6 +290,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kandidat duplikat pola 'Saat menirukan <hewan>' (pasangan 0136~0154, 0136~0166, 0139~0156, 0140~0159, 0149~0154, 0149~0166, 0154~0166): hewan dan gerak berbeda, fakta berbeda; pola templat sama tetapi tidak identik."
    }
   ],
   "PJK-TB-0144": [
@@ -480,12 +490,20 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kandidat duplikat pola 'Saat menirukan <hewan>' (pasangan 0136~0154, 0136~0166, 0139~0156, 0140~0159, 0149~0154, 0149~0166, 0154~0166): hewan dan gerak berbeda, fakta berbeda; pola templat sama tetapi tidak identik."
    }
   ],
   "PJK-TB-0140": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kandidat duplikat pola 'Saat menirukan <hewan>' (pasangan 0136~0154, 0136~0166, 0139~0156, 0140~0159, 0149~0154, 0149~0166, 0154~0166): hewan dan gerak berbeda, fakta berbeda; pola templat sama tetapi tidak identik."
    }
   ],
   "PJK-TB-0141": [
@@ -522,6 +540,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kandidat duplikat pola 'Saat menirukan <hewan>' (pasangan 0136~0154, 0136~0166, 0139~0156, 0140~0159, 0149~0154, 0149~0166, 0154~0166): hewan dan gerak berbeda, fakta berbeda; pola templat sama tetapi tidak identik."
    }
   ],
   "PJK-TB-0150": [
@@ -552,6 +574,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kandidat duplikat pola 'Saat menirukan <hewan>' (pasangan 0136~0154, 0136~0166, 0139~0156, 0140~0159, 0149~0154, 0149~0166, 0154~0166): hewan dan gerak berbeda, fakta berbeda; pola templat sama tetapi tidak identik."
    }
   ],
   "PJK-TB-0155": [
@@ -564,6 +590,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kandidat duplikat pola 'Saat menirukan <hewan>' (pasangan 0136~0154, 0136~0166, 0139~0156, 0140~0159, 0149~0154, 0149~0166, 0154~0166): hewan dan gerak berbeda, fakta berbeda; pola templat sama tetapi tidak identik."
    }
   ],
   "PJK-TB-0161": [
@@ -594,6 +624,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kandidat duplikat pola 'Saat menirukan <hewan>' (pasangan 0136~0154, 0136~0166, 0139~0156, 0140~0159, 0149~0154, 0149~0166, 0154~0166): hewan dan gerak berbeda, fakta berbeda; pola templat sama tetapi tidak identik."
    }
   ],
   "PJK-TB-0167": [
@@ -708,6 +742,10 @@
    {
     "kode": "DISTRAKTOR_AMBIGU",
     "catatan": "Opsi 'tangan' dan 'kedua tangan' juga dapat dibenarkan untuk memantulkan bola; kunci 'telapak tangan' hanya lebih spesifik (pembeda sangat halus bagi kelas 1)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kandidat duplikat pola 'Pada gerakan X bola, bagian tubuh' (0204~0212, 0204~0216, 0212~0216, 0213~0215): gerak dan bagian tubuh berbeda."
    }
   ],
   "PJK-TB-0209": [
@@ -732,6 +770,10 @@
    {
     "kode": "AMBIGU",
     "catatan": "Melempar bola 'dengan tangan' vs 'kedua tangan'/'telapak tangan': lemparan dua tangan (mis. dari dada) sah; TB-0236 menyalahkan 'kedua tangan' padahal dapat benar."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kandidat duplikat pola 'Pada gerakan X bola, bagian tubuh' (0204~0212, 0204~0216, 0212~0216, 0213~0215): gerak dan bagian tubuh berbeda."
    }
   ],
   "PJK-TB-0230": [
@@ -756,6 +798,10 @@
    {
     "kode": "DISTRAKTOR_AMBIGU",
     "catatan": "Menangkap bola: pengecoh 'telapak tangan' dan 'tangan' juga benar secara umum; kunci 'kedua tangan' hanya benar untuk bola besar (lihat TB-0214)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kandidat duplikat pola 'Pada gerakan X bola, bagian tubuh' (0204~0212, 0204~0216, 0212~0216, 0213~0215): gerak dan bagian tubuh berbeda."
    }
   ],
   "PJK-TB-0254": [
@@ -820,6 +866,10 @@
    {
     "kode": "USIA_ISI",
     "catatan": "Materi menyundul bola terlalu teknis/berisiko untuk murid kelas 1."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kandidat duplikat pola 'Pada gerakan X bola, bagian tubuh' (0204~0212, 0204~0216, 0212~0216, 0213~0215): gerak dan bagian tubuh berbeda."
    }
   ],
   "PJK-TB-0233": [
@@ -1074,6 +1124,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan PJK-TB-0340 ~ PJK-TB-0353: aba-aba berbeda ('cepat' vs 'lambat'), kunci berbeda."
    }
   ],
   "PJK-TB-0344": [
@@ -1098,6 +1152,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan PJK-TB-0340 ~ PJK-TB-0353: aba-aba berbeda ('cepat' vs 'lambat'), kunci berbeda."
    }
   ],
   "PJK-TB-0354": [
@@ -1354,42 +1412,70 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan 0402~0404, 0402~0409, 0403~0411, 0403~0418, 0404~0409, 0405~0422, 0411~0418: soal pengurangan dari 10 yang hanya beda angka (pola identik, kunci hasil hitung); banyak varian (mult, true-false, fill) tanpa manfaat variasi dan di luar keterampilan gerak TP-PJK-TB-07."
    }
   ],
   "PJK-TB-0403": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan 0402~0404, 0402~0409, 0403~0411, 0403~0418, 0404~0409, 0405~0422, 0411~0418: soal pengurangan dari 10 yang hanya beda angka (pola identik, kunci hasil hitung); banyak varian (mult, true-false, fill) tanpa manfaat variasi dan di luar keterampilan gerak TP-PJK-TB-07."
    }
   ],
   "PJK-TB-0404": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan 0402~0404, 0402~0409, 0403~0411, 0403~0418, 0404~0409, 0405~0422, 0411~0418: soal pengurangan dari 10 yang hanya beda angka (pola identik, kunci hasil hitung); banyak varian (mult, true-false, fill) tanpa manfaat variasi dan di luar keterampilan gerak TP-PJK-TB-07."
    }
   ],
   "PJK-TB-0405": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan 0402~0404, 0402~0409, 0403~0411, 0403~0418, 0404~0409, 0405~0422, 0411~0418: soal pengurangan dari 10 yang hanya beda angka (pola identik, kunci hasil hitung); banyak varian (mult, true-false, fill) tanpa manfaat variasi dan di luar keterampilan gerak TP-PJK-TB-07."
    }
   ],
   "PJK-TB-0409": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan 0402~0404, 0402~0409, 0403~0411, 0403~0418, 0404~0409, 0405~0422, 0411~0418: soal pengurangan dari 10 yang hanya beda angka (pola identik, kunci hasil hitung); banyak varian (mult, true-false, fill) tanpa manfaat variasi dan di luar keterampilan gerak TP-PJK-TB-07."
    }
   ],
   "PJK-TB-0411": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan 0402~0404, 0402~0409, 0403~0411, 0403~0418, 0404~0409, 0405~0422, 0411~0418: soal pengurangan dari 10 yang hanya beda angka (pola identik, kunci hasil hitung); banyak varian (mult, true-false, fill) tanpa manfaat variasi dan di luar keterampilan gerak TP-PJK-TB-07."
    }
   ],
   "PJK-TB-0418": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan 0402~0404, 0402~0409, 0403~0411, 0403~0418, 0404~0409, 0405~0422, 0411~0418: soal pengurangan dari 10 yang hanya beda angka (pola identik, kunci hasil hitung); banyak varian (mult, true-false, fill) tanpa manfaat variasi dan di luar keterampilan gerak TP-PJK-TB-07."
    }
   ],
   "PJK-TB-0420": [
@@ -1412,6 +1498,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan 0402~0404, 0402~0409, 0403~0411, 0403~0418, 0404~0409, 0405~0422, 0411~0418: soal pengurangan dari 10 yang hanya beda angka (pola identik, kunci hasil hitung); banyak varian (mult, true-false, fill) tanpa manfaat variasi dan di luar keterampilan gerak TP-PJK-TB-07."
    }
   ],
   "PJK-TB-0430": [
@@ -1670,6 +1760,10 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Berdoa sebelum berolahraga dijadikan 'aturan bermain'/fair play; ATP/CP menyebut fair play, aturan, strategi kolaborasi, tidak menyebut doa. Topik di tepi TP-PJK-BG-01."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
    }
   ],
   "PJK-BG-0008": [
@@ -1682,6 +1776,10 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Berdoa sebelum berolahraga dijadikan 'aturan bermain'/fair play; ATP/CP menyebut fair play, aturan, strategi kolaborasi, tidak menyebut doa. Topik di tepi TP-PJK-BG-01."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
    }
   ],
   "PJK-BG-0015": [
@@ -2098,6 +2196,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Pengecoh absurd/tak relevan (kasar, memukul, berbahaya, kacau, bermain di jalan raya, langsung bermain tanpa berdoa pada soal bukan doa); kunci terbaca tanpa pengetahuan materi."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
    }
   ],
   "PJK-BG-0150": [
@@ -2170,6 +2272,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
    }
   ],
   "PJK-BG-0203": [
@@ -2192,6 +2298,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
    }
   ],
   "PJK-BG-0206": [
@@ -2538,6 +2648,10 @@
    {
     "kode": "DISTRAKTOR_AMBIGU",
     "catatan": "Soal 'Dengan [kegiatan], kita berpartisipasi agar ....': opsi 'badan menjadi kuat/bugar/otot kaki kuat/hati gembira' saling tumpang tindih (olahraga membuat badan bugar sekaligus kuat; jalan kaki menguatkan otot kaki; melompat tali menguatkan badan)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan PJK-HA-0004 ~ PJK-HA-0017: kegiatan berbeda (berolahraga vs berenang), kunci berbeda."
    }
   ],
   "PJK-HA-0009": [
@@ -3060,6 +3174,10 @@
    {
     "kode": "BAHASA",
     "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Kentang dikunci bukan sayuran (MH-0035 Salah; MH-0012 pengecoh 'sayuran'), padahal kentang lazim disebut sayuran umbi; pada Isi Piringku dikelompokkan ke makanan pokok (karbohidrat). Perlu keputusan ahli gizi."
    }
   ],
   "PJK-MH-0016": [
@@ -3158,6 +3276,402 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Pengecoh absurd (warna baju, nama pemakan, harga mainan, rasa/suara/warna kulit, sakit/lemah, hanya permen, gambar mainan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0038": [
+   {
+    "kode": "AKURASI_SALAH_TEGAS",
+    "catatan": "'Makanan susu termasuk sumber protein' dikunci Salah, padahal susu sumber protein hewani dan kalsium (bertentangan dengan fakta gizi dan dengan MH-0016 yang menjadikan 'sumber protein' pengecoh). usulan: ubah kunci menjadi Benar, atau ganti pernyataan menjadi 'susu termasuk sayuran' agar jelas Salah."
+   }
+  ],
+  "PJK-MH-0035": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Kentang dikunci bukan sayuran (MH-0035 Salah; MH-0012 pengecoh 'sayuran'), padahal kentang lazim disebut sayuran umbi; pada Isi Piringku dikelompokkan ke makanan pokok (karbohidrat). Perlu keputusan ahli gizi."
+   }
+  ],
+  "PJK-MH-0059": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja berupa menyebut/menggambar (lisan atau gambar), bukan tindakan teramati; MH-0059,0061,0062,0064,0065,0066 hampir identik; rubrik generik tanpa kriteria isi (apa yang dianggap benar tentang manfaat/golongan)."
+   }
+  ],
+  "PJK-MH-0060": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja berupa menyebut/menggambar (lisan atau gambar), bukan tindakan teramati; MH-0059,0061,0062,0064,0065,0066 hampir identik; rubrik generik tanpa kriteria isi (apa yang dianggap benar tentang manfaat/golongan)."
+   }
+  ],
+  "PJK-MH-0061": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja berupa menyebut/menggambar (lisan atau gambar), bukan tindakan teramati; MH-0059,0061,0062,0064,0065,0066 hampir identik; rubrik generik tanpa kriteria isi (apa yang dianggap benar tentang manfaat/golongan)."
+   }
+  ],
+  "PJK-MH-0062": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja berupa menyebut/menggambar (lisan atau gambar), bukan tindakan teramati; MH-0059,0061,0062,0064,0065,0066 hampir identik; rubrik generik tanpa kriteria isi (apa yang dianggap benar tentang manfaat/golongan)."
+   }
+  ],
+  "PJK-MH-0063": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja berupa menyebut/menggambar (lisan atau gambar), bukan tindakan teramati; MH-0059,0061,0062,0064,0065,0066 hampir identik; rubrik generik tanpa kriteria isi (apa yang dianggap benar tentang manfaat/golongan)."
+   }
+  ],
+  "PJK-MH-0064": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja berupa menyebut/menggambar (lisan atau gambar), bukan tindakan teramati; MH-0059,0061,0062,0064,0065,0066 hampir identik; rubrik generik tanpa kriteria isi (apa yang dianggap benar tentang manfaat/golongan)."
+   }
+  ],
+  "PJK-MH-0065": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja berupa menyebut/menggambar (lisan atau gambar), bukan tindakan teramati; MH-0059,0061,0062,0064,0065,0066 hampir identik; rubrik generik tanpa kriteria isi (apa yang dianggap benar tentang manfaat/golongan)."
+   }
+  ],
+  "PJK-MH-0066": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja berupa menyebut/menggambar (lisan atau gambar), bukan tindakan teramati; MH-0059,0061,0062,0064,0065,0066 hampir identik; rubrik generik tanpa kriteria isi (apa yang dianggap benar tentang manfaat/golongan)."
+   }
+  ],
+  "PJK-MH-0039": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pernyataan Salah absurd (tubuh sakit, permen sebagai gizi seimbang, melihat warna kemasan saja); mudah ditebak."
+   }
+  ],
+  "PJK-MH-0040": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pernyataan Salah absurd (tubuh sakit, permen sebagai gizi seimbang, melihat warna kemasan saja); mudah ditebak."
+   }
+  ],
+  "PJK-MH-0041": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pernyataan Salah absurd (tubuh sakit, permen sebagai gizi seimbang, melihat warna kemasan saja); mudah ditebak."
+   }
+  ],
+  "PJK-MH-0067": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi tindakan hampir sinonim ('menjauh dan memanggil orang tua' vs 'menjauh dan memberi tahu orang dewasa' vs 'tidak menyentuh dan memberi tahu orang dewasa'); untuk api, kabel, pisau, obat, makanan basi beberapa opsi sama-sama tepat (MH-0067 obat: opsi A 'tidak menyentuh dan memberi tahu orang dewasa' bahkan tepat; MH-0077 api: 'memberi tahu orang dewasa' setara dengan 'memanggil orang tua'). Kunci bergantung pada pemetaan arbitrer."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Opsi A 'tidak menyentuh dan memberi tahu orang dewasa' dan C 'menjauh dan memberi tahu orang dewasa' sama-sama tepat untuk obat di meja; kunci D hanya berbeda 'orang tua' vs 'orang dewasa'."
+   }
+  ],
+  "PJK-MH-0068": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi tindakan hampir sinonim ('menjauh dan memanggil orang tua' vs 'menjauh dan memberi tahu orang dewasa' vs 'tidak menyentuh dan memberi tahu orang dewasa'); untuk api, kabel, pisau, obat, makanan basi beberapa opsi sama-sama tepat (MH-0067 obat: opsi A 'tidak menyentuh dan memberi tahu orang dewasa' bahkan tepat; MH-0077 api: 'memberi tahu orang dewasa' setara dengan 'memanggil orang tua'). Kunci bergantung pada pemetaan arbitrer."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Menjauh dan memanggil orang tua' dikunci untuk api kompor, tetapi kabel listrik terkelupas (opsi D / pasangan MH-0126) juga tepat dengan tindakan itu; pemetaan tidak unik."
+   }
+  ],
+  "PJK-MH-0073": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi tindakan hampir sinonim ('menjauh dan memanggil orang tua' vs 'menjauh dan memberi tahu orang dewasa' vs 'tidak menyentuh dan memberi tahu orang dewasa'); untuk api, kabel, pisau, obat, makanan basi beberapa opsi sama-sama tepat (MH-0067 obat: opsi A 'tidak menyentuh dan memberi tahu orang dewasa' bahkan tepat; MH-0077 api: 'memberi tahu orang dewasa' setara dengan 'memanggil orang tua'). Kunci bergantung pada pemetaan arbitrer."
+   }
+  ],
+  "PJK-MH-0075": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi tindakan hampir sinonim ('menjauh dan memanggil orang tua' vs 'menjauh dan memberi tahu orang dewasa' vs 'tidak menyentuh dan memberi tahu orang dewasa'); untuk api, kabel, pisau, obat, makanan basi beberapa opsi sama-sama tepat (MH-0067 obat: opsi A 'tidak menyentuh dan memberi tahu orang dewasa' bahkan tepat; MH-0077 api: 'memberi tahu orang dewasa' setara dengan 'memanggil orang tua'). Kunci bergantung pada pemetaan arbitrer."
+   }
+  ],
+  "PJK-MH-0077": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi tindakan hampir sinonim ('menjauh dan memanggil orang tua' vs 'menjauh dan memberi tahu orang dewasa' vs 'tidak menyentuh dan memberi tahu orang dewasa'); untuk api, kabel, pisau, obat, makanan basi beberapa opsi sama-sama tepat (MH-0067 obat: opsi A 'tidak menyentuh dan memberi tahu orang dewasa' bahkan tepat; MH-0077 api: 'memberi tahu orang dewasa' setara dengan 'memanggil orang tua'). Kunci bergantung pada pemetaan arbitrer."
+   }
+  ],
+  "PJK-MH-0080": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi tindakan hampir sinonim ('menjauh dan memanggil orang tua' vs 'menjauh dan memberi tahu orang dewasa' vs 'tidak menyentuh dan memberi tahu orang dewasa'); untuk api, kabel, pisau, obat, makanan basi beberapa opsi sama-sama tepat (MH-0067 obat: opsi A 'tidak menyentuh dan memberi tahu orang dewasa' bahkan tepat; MH-0077 api: 'memberi tahu orang dewasa' setara dengan 'memanggil orang tua'). Kunci bergantung pada pemetaan arbitrer."
+   }
+  ],
+  "PJK-MH-0081": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi tindakan hampir sinonim ('menjauh dan memanggil orang tua' vs 'menjauh dan memberi tahu orang dewasa' vs 'tidak menyentuh dan memberi tahu orang dewasa'); untuk api, kabel, pisau, obat, makanan basi beberapa opsi sama-sama tepat (MH-0067 obat: opsi A 'tidak menyentuh dan memberi tahu orang dewasa' bahkan tepat; MH-0077 api: 'memberi tahu orang dewasa' setara dengan 'memanggil orang tua'). Kunci bergantung pada pemetaan arbitrer."
+   }
+  ],
+  "PJK-MH-0084": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi tindakan hampir sinonim ('menjauh dan memanggil orang tua' vs 'menjauh dan memberi tahu orang dewasa' vs 'tidak menyentuh dan memberi tahu orang dewasa'); untuk api, kabel, pisau, obat, makanan basi beberapa opsi sama-sama tepat (MH-0067 obat: opsi A 'tidak menyentuh dan memberi tahu orang dewasa' bahkan tepat; MH-0077 api: 'memberi tahu orang dewasa' setara dengan 'memanggil orang tua'). Kunci bergantung pada pemetaan arbitrer."
+   }
+  ],
+  "PJK-MH-0087": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi tindakan hampir sinonim ('menjauh dan memanggil orang tua' vs 'menjauh dan memberi tahu orang dewasa' vs 'tidak menyentuh dan memberi tahu orang dewasa'); untuk api, kabel, pisau, obat, makanan basi beberapa opsi sama-sama tepat (MH-0067 obat: opsi A 'tidak menyentuh dan memberi tahu orang dewasa' bahkan tepat; MH-0077 api: 'memberi tahu orang dewasa' setara dengan 'memanggil orang tua'). Kunci bergantung pada pemetaan arbitrer."
+   }
+  ],
+  "PJK-MH-0090": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi tindakan hampir sinonim ('menjauh dan memanggil orang tua' vs 'menjauh dan memberi tahu orang dewasa' vs 'tidak menyentuh dan memberi tahu orang dewasa'); untuk api, kabel, pisau, obat, makanan basi beberapa opsi sama-sama tepat (MH-0067 obat: opsi A 'tidak menyentuh dan memberi tahu orang dewasa' bahkan tepat; MH-0077 api: 'memberi tahu orang dewasa' setara dengan 'memanggil orang tua'). Kunci bergantung pada pemetaan arbitrer."
+   }
+  ],
+  "PJK-MH-0076": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi tindakan hampir sinonim ('menjauh dan memanggil orang tua' vs 'menjauh dan memberi tahu orang dewasa' vs 'tidak menyentuh dan memberi tahu orang dewasa'); untuk api, kabel, pisau, obat, makanan basi beberapa opsi sama-sama tepat (MH-0067 obat: opsi A 'tidak menyentuh dan memberi tahu orang dewasa' bahkan tepat; MH-0077 api: 'memberi tahu orang dewasa' setara dengan 'memanggil orang tua'). Kunci bergantung pada pemetaan arbitrer."
+   }
+  ],
+  "PJK-MH-0086": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi tindakan hampir sinonim ('menjauh dan memanggil orang tua' vs 'menjauh dan memberi tahu orang dewasa' vs 'tidak menyentuh dan memberi tahu orang dewasa'); untuk api, kabel, pisau, obat, makanan basi beberapa opsi sama-sama tepat (MH-0067 obat: opsi A 'tidak menyentuh dan memberi tahu orang dewasa' bahkan tepat; MH-0077 api: 'memberi tahu orang dewasa' setara dengan 'memanggil orang tua'). Kunci bergantung pada pemetaan arbitrer."
+   }
+  ],
+  "PJK-MH-0126": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Menjauh dan memanggil orang tua' dikunci untuk api kompor, tetapi kabel listrik terkelupas (opsi D / pasangan MH-0126) juga tepat dengan tindakan itu; pemetaan tidak unik."
+   }
+  ],
+  "PJK-MH-0102": [
+   {
+    "kode": "AKURASI_SALAH_TEGAS",
+    "catatan": "'Kabel listrik terkelupas: menjauh dan memanggil orang tua' dikunci Salah, padahal tindakan itu aman dan setara dengan kunci MH-0087 ('menjauh dan memberi tahu orang dewasa'). usulan: ganti tindakan menjadi yang jelas salah (mis. 'memegang kabel') atau ubah kunci menjadi Benar."
+   }
+  ],
+  "PJK-MH-0104": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Makanan basi dengan tindakan 'menolak dan segera mencari guru atau orang tua' dikunci Salah; mencari orang dewasa untuk makanan basi tidak salah, hanya tidak khas."
+   }
+  ],
+  "PJK-MH-0111": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian 'Tindakan \"...\" tepat dilakukan jika bertemu ....' terbuka: banyak bahaya (kabel listrik, obat, api) cocok dengan tindakan yang sama."
+   }
+  ],
+  "PJK-MH-0115": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian 'Tindakan \"...\" tepat dilakukan jika bertemu ....' terbuka: banyak bahaya (kabel listrik, obat, api) cocok dengan tindakan yang sama."
+   }
+  ],
+  "PJK-MH-0120": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian 'Tindakan \"...\" tepat dilakukan jika bertemu ....' terbuka: banyak bahaya (kabel listrik, obat, api) cocok dengan tindakan yang sama."
+   }
+  ],
+  "PJK-MH-0096": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Murid kelas 1 diminta 'menjauhkan adik' dari kompor menyala sebelum memanggil ibu; mendekat ke api berisiko. Sebaiknya memanggil orang dewasa tanpa mendekat; perlu keputusan ahli keselamatan."
+   }
+  ],
+  "PJK-MH-0098": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Murid kelas 1 diminta 'menjauhkan adik' dari kompor menyala sebelum memanggil ibu; mendekat ke api berisiko. Sebaiknya memanggil orang dewasa tanpa mendekat; perlu keputusan ahli keselamatan."
+   }
+  ],
+  "PJK-MH-0124": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Murid kelas 1 diminta 'menjauhkan adik' dari kompor menyala sebelum memanggil ibu; mendekat ke api berisiko. Sebaiknya memanggil orang dewasa tanpa mendekat; perlu keputusan ahli keselamatan."
+   }
+  ],
+  "PJK-MH-0083": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menghafal nomor darurat '112' sebagai butir sulit untuk kelas 1; pengecoh 111/000/999 adalah nomor negara lain/arbitrer. Fakta 112 sebagai nomor darurat terpadu Indonesia perlu dikonfirmasi ahli (nomor spesifik: 110 polisi, 113 pemadam, 119/118 ambulans)."
+   }
+  ],
+  "PJK-MH-0114": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menghafal nomor darurat '112' sebagai butir sulit untuk kelas 1; pengecoh 111/000/999 adalah nomor negara lain/arbitrer. Fakta 112 sebagai nomor darurat terpadu Indonesia perlu dikonfirmasi ahli (nomor spesifik: 110 polisi, 113 pemadam, 119/118 ambulans)."
+   }
+  ],
+  "PJK-MH-0105": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'kita berhak menyimpan sendiri' tidak jelas bagi kelas 1 (maksudnya tidak perlu merahasiakan); MH-0116 kunci panjang 'berkata tidak dan segera memberi tahu orang dewasa terpercaya' sulit dicocokkan sebagai isian."
+   }
+  ],
+  "PJK-MH-0116": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'kita berhak menyimpan sendiri' tidak jelas bagi kelas 1 (maksudnya tidak perlu merahasiakan); MH-0116 kunci panjang 'berkata tidak dan segera memberi tahu orang dewasa terpercaya' sulit dicocokkan sebagai isian."
+   }
+  ],
+  "PJK-MH-0071": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hewan, musuh, tidak ada, menarik/memainkan kabel, menutup mata, ceroboh); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0082": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hewan, musuh, tidak ada, menarik/memainkan kabel, menutup mata, ceroboh); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0085": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hewan, musuh, tidak ada, menarik/memainkan kabel, menutup mata, ceroboh); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0088": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hewan, musuh, tidak ada, menarik/memainkan kabel, menutup mata, ceroboh); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0094": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hewan, musuh, tidak ada, menarik/memainkan kabel, menutup mata, ceroboh); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0095": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hewan, musuh, tidak ada, menarik/memainkan kabel, menutup mata, ceroboh); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0129": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Peragakan ...' tanpa kriteria teramati; MH-0131 (api kompor menyala) dan MH-0133 (orang asing) memerlukan simulasi tanpa api/orang asing nyata dan pengawasan guru."
+   }
+  ],
+  "PJK-MH-0130": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Peragakan ...' tanpa kriteria teramati; MH-0131 (api kompor menyala) dan MH-0133 (orang asing) memerlukan simulasi tanpa api/orang asing nyata dan pengawasan guru."
+   }
+  ],
+  "PJK-MH-0131": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Peragakan ...' tanpa kriteria teramati; MH-0131 (api kompor menyala) dan MH-0133 (orang asing) memerlukan simulasi tanpa api/orang asing nyata dan pengawasan guru."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Peragaan di dekat api kompor yang menyala pada murid kelas 1 berisiko; perlu keputusan guru agar disimulasikan tanpa api nyata."
+   }
+  ],
+  "PJK-MH-0132": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Peragakan ...' tanpa kriteria teramati; MH-0131 (api kompor menyala) dan MH-0133 (orang asing) memerlukan simulasi tanpa api/orang asing nyata dan pengawasan guru."
+   }
+  ],
+  "PJK-MH-0133": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Peragakan ...' tanpa kriteria teramati; MH-0131 (api kompor menyala) dan MH-0133 (orang asing) memerlukan simulasi tanpa api/orang asing nyata dan pengawasan guru."
+   }
+  ],
+  "PJK-TB-0212": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kandidat duplikat pola 'Pada gerakan X bola, bagian tubuh' (0204~0212, 0204~0216, 0212~0216, 0213~0215): gerak dan bagian tubuh berbeda."
+   }
+  ],
+  "PJK-TB-0291": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan PJK-TB-0291 ~ PJK-TB-0293: pernyataan benar-salah identik ('berlari sambil menggiring bola menggabungkan lokomotor dan manipulatif'), hanya beda kata 'Gerakan'; kunci sama."
+   }
+  ],
+  "PJK-TB-0293": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan PJK-TB-0291 ~ PJK-TB-0293: pernyataan benar-salah identik ('berlari sambil menggiring bola menggabungkan lokomotor dan manipulatif'), hanya beda kata 'Gerakan'; kunci sama."
+   }
+  ],
+  "PJK-TB-0310": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan PJK-TB-0310 ~ PJK-TB-0311: isian identik ('berlari sambil menggiring bola menggabungkan gerak ....'), hanya beda pembuka; kunci sama."
+   }
+  ],
+  "PJK-TB-0311": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan PJK-TB-0310 ~ PJK-TB-0311: isian identik ('berlari sambil menggiring bola menggabungkan gerak ....'), hanya beda pembuka; kunci sama."
+   }
+  ],
+  "PJK-BG-0016": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
+   }
+  ],
+  "PJK-BG-0023": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
+   }
+  ],
+  "PJK-BG-0072": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
+   }
+  ],
+  "PJK-BG-0092": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
+   }
+  ],
+  "PJK-BG-0140": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
+   }
+  ],
+  "PJK-BG-0160": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
+   }
+  ],
+  "PJK-BG-0157": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
+   }
+  ],
+  "PJK-BG-0148": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
+   }
+  ],
+  "PJK-BG-0156": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan kebalikan (menaati vs tidak menaati aturan yang sama): 0003~0026, 0016~0023, 0072~0092, 0140~0160, 0142~0157, 0148~0156, 0202~0205; kunci berlawanan dan mengukur pembedaan perilaku, bukan duplikat."
+   }
+  ],
+  "PJK-HA-0017": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan PJK-HA-0004 ~ PJK-HA-0017: kegiatan berbeda (berolahraga vs berenang), kunci berbeda."
    }
   ]
  }

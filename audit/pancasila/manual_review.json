@@ -827,6 +827,10 @@
    {
     "kode": "BAHASA",
     "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan PPN-B2-0101~0108: varian positif/negatif aturan 'tidak mengganggu adik' (kunci berlawanan); varian bentuk berguna."
    }
   ],
   "PPN-B2-0102": [
@@ -1033,6 +1037,10 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Salat tepat waktu tidak ada di CP/ATP Pancasila (CP hanya 'aturan di lingkungan keluarga'; TP B2-03 menyebut 'ajaran Islam'); tepi TP, lebih dekat ke mapel Fikih."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan PPN-B2-0145~0160: aturan berbeda (salat vs tidur tepat waktu); fakta berbeda."
    }
   ],
   "PPN-B2-0146": [
@@ -1111,6 +1119,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Pola template: pengecoh diambil dari aturan lain, sehingga kunci dapat diketahui dari kata kunci aturan di stem (sama dengan PPN-B2-0144)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan PPN-B2-0145~0160: aturan berbeda (salat vs tidur tepat waktu); fakta berbeda."
    }
   ],
   "PPN-B2-0161": [
@@ -1637,12 +1649,20 @@
    {
     "kode": "AMBIGU",
     "catatan": "Dua soal sama (musyawarah memilih tempat liburan -> sila 4); kunci benar, tetapi 'musyawarah memilih tempat liburan' dapat pula dikaitkan sila 2 (menghargai) — pengecoh tidak tegas."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Di luar daftar kandidat alat: kedua soal pilihan ganda menguji 'musyawarah memilih tempat liburan -> sila 4' dengan pola identik. Pasangan: PPN-B3-0165 / PPN-B3-0160."
    }
   ],
   "PPN-B3-0165": [
    {
     "kode": "AMBIGU",
     "catatan": "Dua soal sama (musyawarah memilih tempat liburan -> sila 4); kunci benar, tetapi 'musyawarah memilih tempat liburan' dapat pula dikaitkan sila 2 (menghargai) — pengecoh tidak tegas."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Di luar daftar kandidat alat: kedua soal pilihan ganda menguji 'musyawarah memilih tempat liburan -> sila 4' dengan pola identik. Pasangan: PPN-B3-0165 / PPN-B3-0160."
    }
   ],
   "PPN-B3-0182": [
@@ -2061,6 +2081,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Pengecoh berasal dari kebiasaan lain (meludah, hewan peliharaan, keran) sehingga kunci terbaca dari kata kunci kebiasaan di stem."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan PPN-B4-0172~0183: positif vs negatif 'merawat hewan peliharaan' (kunci berlawanan); varian berguna."
    }
   ],
   "PPN-B4-0175": [
@@ -2165,6 +2189,10 @@
    {
     "kode": "BAHASA",
     "catatan": "Stem negatif 'Perilaku yang tidak menaati kebiasaan menjaga lingkungan ...'; berisiko salah baca oleh murid kelas 1."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan PPN-B4-0172~0183: positif vs negatif 'merawat hewan peliharaan' (kunci berlawanan); varian berguna."
    }
   ],
   "PPN-B4-0157": [
@@ -2467,6 +2495,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan PPN-B4-0242~0250: pernyataan Benar/Salah identik ('kerja sama menjaga lingkungan dilakukan dengan (penuh) kepedulian dan kebersamaan') berkunci Benar; mengukur hal yang sama tanpa manfaat variasi. Pasangan: PPN-B4-0250 / PPN-B4-0242."
    }
   ],
   "PPN-B4-0243": [
@@ -2515,12 +2547,46 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan PPN-B4-0242~0250: pernyataan Benar/Salah identik ('kerja sama menjaga lingkungan dilakukan dengan (penuh) kepedulian dan kebersamaan') berkunci Benar; mengukur hal yang sama tanpa manfaat variasi. Pasangan: PPN-B4-0250 / PPN-B4-0242."
    }
   ],
   "PPN-B4-0252": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B2-0108": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan PPN-B2-0101~0108: varian positif/negatif aturan 'tidak mengganggu adik' (kunci berlawanan); varian bentuk berguna."
+   }
+  ],
+  "PPN-B3-0012": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan lambang sila (0012~0013, 0012~0018, 0012~0025, 0013~0018, 0013~0025, 0018~0025): setiap soal menguji lambang sila yang berbeda; fakta berbeda."
+   }
+  ],
+  "PPN-B3-0013": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan lambang sila (0012~0013, 0012~0018, 0012~0025, 0013~0018, 0013~0025, 0018~0025): setiap soal menguji lambang sila yang berbeda; fakta berbeda."
+   }
+  ],
+  "PPN-B3-0018": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan lambang sila (0012~0013, 0012~0018, 0012~0025, 0013~0018, 0013~0025, 0018~0025): setiap soal menguji lambang sila yang berbeda; fakta berbeda."
+   }
+  ],
+  "PPN-B3-0025": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan lambang sila (0012~0013, 0012~0018, 0012~0025, 0013~0018, 0013~0025, 0018~0025): setiap soal menguji lambang sila yang berbeda; fakta berbeda."
    }
   ]
  }
