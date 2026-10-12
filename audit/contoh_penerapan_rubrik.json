@@ -1,0 +1,324 @@
+[
+ {
+  "soal": {
+   "id": "AKA-SH-0127",
+   "question_type": "contextual",
+   "tp": "Murid mampu menerapkan pola hidup sehat dan bersih dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, cinta lingkungan, serta cinta diri dan sesama manusia.",
+   "question": "Jam istirahat, Dina membeli jajanan. Pilihan yang sehat adalah ....",
+   "options": [
+    "A. minuman yang sudah lama dibuka",
+    "B. makanan yang dihinggapi lalat",
+    "C. buah potong yang bersih dan tertutup",
+    "D. gorengan di tempat kotor"
+   ],
+   "answer": "C",
+   "explanation": "Pilih jajanan bersih."
+  },
+  "hasil_audit": {
+   "skor": {
+    "atp": 4,
+    "akurasi": 3,
+    "usia_bahasa": 4,
+    "konstruksi": 3,
+    "keunikan": 4
+   },
+   "bukti_skor": {
+    "atp": "TP tertelusur; kata kunci bersama: bersih, sehat",
+    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
+    "usia_bahasa": "9 kata pada soal",
+    "konstruksi": "konstruksi sesuai tipe soal",
+    "keunikan": "tidak ada duplikat identik"
+   },
+   "kbc_mapping": [
+    {
+     "nilai": "Cinta Allah dan Rasul-Nya",
+     "relevansi": "melalui_TP",
+     "bukti": {
+      "dalam_TP_materi": [
+       "allah",
+       "rasul"
+      ]
+     },
+     "catatan": "hanya terkait lewat teks TP/materi"
+    },
+    {
+     "nilai": "Cinta Diri dan Sesama",
+     "relevansi": "langsung",
+     "bukti": {
+      "dalam_kunci_atau_penjelasan": [
+       "bersih"
+      ],
+      "dalam_TP_materi": [
+       "bersih",
+       "sehat"
+      ]
+     }
+    },
+    {
+     "nilai": "Cinta Lingkungan",
+     "relevansi": "melalui_TP",
+     "bukti": {
+      "dalam_TP_materi": [
+       "lingkungan"
+      ]
+     },
+     "catatan": "hanya terkait lewat teks TP/materi"
+    }
+   ],
+   "deep_learning_mapping": {
+    "pengalaman_belajar": [
+     {
+      "jenis": "Mengaplikasi",
+      "bukti": "tipe contextual meminta penerapan pada situasi/praktik"
+     }
+    ],
+    "prinsip": [],
+    "catatan": "Soal tertulis tidak membuktikan praktik pedagogis, kemitraan, lingkungan, atau pemanfaatan digital; itu dilengkapi aktivitas pendamping guru."
+   },
+   "graduate_profile_mapping": [
+    {
+     "dimensi": "Keimanan dan Ketakwaan terhadap Tuhan YME",
+     "relevansi": "melalui_TP",
+     "bukti": {
+      "dalam_TP_materi": [
+       "allah",
+       "rasul"
+      ]
+     },
+     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
+    },
+    {
+     "dimensi": "Kewargaan",
+     "relevansi": "melalui_TP",
+     "bukti": {
+      "dalam_TP_materi": [
+       "lingkungan"
+      ]
+     },
+     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
+    },
+    {
+     "dimensi": "Kesehatan",
+     "relevansi": "langsung",
+     "bukti": {
+      "dalam_kunci_atau_penjelasan": [
+       "bersih"
+      ],
+      "dalam_TP_materi": [
+       "bersih",
+       "sehat"
+      ]
+     },
+     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
+    }
+   ],
+   "quality_status": "PASS",
+   "issues": []
+  }
+ },
+ {
+  "soal": {
+   "id": "MTK-B2-0086",
+   "question_type": "contextual",
+   "tp": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
+   "question": "Di keranjang ada 4 kursi. Ibu memasukkan 6 kursi lagi. Berapa seluruh kursi di keranjang?",
+   "options": [
+    "A. 11",
+    "B. 6",
+    "C. 10",
+    "D. 7"
+   ],
+   "answer": "C",
+   "explanation": "4 + 6 = 10."
+  },
+  "hasil_audit": {
+   "skor": {
+    "atp": 2,
+    "akurasi": 3,
+    "usia_bahasa": 4,
+    "konstruksi": 3,
+    "keunikan": 4
+   },
+   "bukti_skor": {
+    "atp": "TP tertelusur, tetapi tak ada kata kunci TP/materi/kompetensi pada soal (perlu tinjauan ahli)",
+    "akurasi": "kunci konsisten secara struktur; jawaban hitung diverifikasi program pada pembuatan (belum diverifikasi ulang audit)",
+    "usia_bahasa": "15 kata pada soal",
+    "konstruksi": "konstruksi sesuai tipe soal",
+    "keunikan": "tidak ada duplikat identik"
+   },
+   "kbc_mapping": [
+    {
+     "nilai": "Cinta Diri dan Sesama",
+     "relevansi": "konteks",
+     "bukti": {
+      "dalam_soal": [
+       "ibu"
+      ]
+     },
+     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
+    }
+   ],
+   "deep_learning_mapping": {
+    "pengalaman_belajar": [
+     {
+      "jenis": "Mengaplikasi",
+      "bukti": "tipe contextual meminta penerapan pada situasi/praktik"
+     }
+    ],
+    "prinsip": [],
+    "catatan": "Soal tertulis tidak membuktikan praktik pedagogis, kemitraan, lingkungan, atau pemanfaatan digital; itu dilengkapi aktivitas pendamping guru."
+   },
+   "graduate_profile_mapping": [],
+   "quality_status": "NEEDS_REVIEW",
+   "issues": []
+  }
+ },
+ {
+  "soal": {
+   "id": "PJK-BG-0130",
+   "question_type": "performance_task",
+   "tp": "Murid mampu menerapkan strategi dasar dalam berkolaborasi saat berpartisipasi dalam aktivitas fisik.",
+   "question": "Mainkan estafet sederhana dengan timmu sambil saling menyemangati!",
+   "options": null,
+   "answer": "Dinilai guru: ketepatan gerak, kesungguhan, sikap sportif, dan keselamatan (skala 1-4).",
+   "explanation": "Murid menunjukkan gerak yang tepat, sikap sportif, dan menjaga keselamatan."
+  },
+  "hasil_audit": {
+   "skor": {
+    "atp": 4,
+    "akurasi": 3,
+    "usia_bahasa": 4,
+    "konstruksi": 3,
+    "keunikan": 4
+   },
+   "bukti_skor": {
+    "atp": "TP tertelusur; kata kunci bersama: gerak, unjuk",
+    "akurasi": "tugas kinerja: kunci berupa rubrik guru; ketepatan isi menunggu tinjauan guru",
+    "usia_bahasa": "8 kata pada soal",
+    "konstruksi": "konstruksi sesuai tipe soal",
+    "keunikan": "tidak ada duplikat identik"
+   },
+   "kbc_mapping": [
+    {
+     "nilai": "Cinta Ilmu",
+     "relevansi": "melalui_TP",
+     "bukti": {
+      "dalam_TP_materi": [
+       "belajar"
+      ]
+     },
+     "catatan": "hanya terkait lewat teks TP/materi"
+    },
+    {
+     "nilai": "Cinta Diri dan Sesama",
+     "relevansi": "konteks",
+     "bukti": {
+      "dalam_soal": [
+       "saling"
+      ]
+     },
+     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
+    }
+   ],
+   "deep_learning_mapping": {
+    "pengalaman_belajar": [
+     {
+      "jenis": "Mengaplikasi",
+      "bukti": "tipe performance_task meminta penerapan pada situasi/praktik"
+     }
+    ],
+    "prinsip": [
+     {
+      "jenis": "Menggembirakan",
+      "bukti": "aktivitas bermain/praktik pada soal"
+     }
+    ],
+    "catatan": "Soal tertulis tidak membuktikan praktik pedagogis, kemitraan, lingkungan, atau pemanfaatan digital; itu dilengkapi aktivitas pendamping guru."
+   },
+   "graduate_profile_mapping": [
+    {
+     "dimensi": "Kesehatan",
+     "relevansi": "langsung",
+     "bukti": {
+      "dalam_kunci_atau_penjelasan": [
+       "keselamatan"
+      ],
+      "dalam_TP_materi": [
+       "aktivitas fisik"
+      ]
+     },
+     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
+    }
+   ],
+   "quality_status": "PASS",
+   "issues": []
+  }
+ },
+ {
+  "soal": {
+   "id": "FIK-RI-0227",
+   "question_type": "matching",
+   "tp": "Murid mampu menyebutkan lima rukun Islam secara urut dan benar sebagai dasar keimanan.",
+   "question": "Cocokkan nama bulan Hijriah dengan peristiwa penting di dalamnya!",
+   "options": {
+    "kolom_kiri": [
+     "Ramadan",
+     "Syawal",
+     "Zulhijah"
+    ],
+    "kolom_kanan": [
+     "Bulan puasa wajib",
+     "Bulan Idulfitri",
+     "Bulan ibadah haji"
+    ]
+   },
+   "answer": {
+    "Ramadan": "Bulan puasa wajib",
+    "Syawal": "Bulan Idulfitri",
+    "Zulhijah": "Bulan ibadah haji"
+   },
+   "explanation": "Setiap bulan Hijriah memiliki peristiwa penting yang berbeda-beda."
+  },
+  "hasil_audit": {
+   "skor": {
+    "atp": 2,
+    "akurasi": 3,
+    "usia_bahasa": 4,
+    "konstruksi": 3,
+    "keunikan": 4
+   },
+   "bukti_skor": {
+    "atp": "TP tertelusur, tetapi tak ada kata kunci TP/materi/kompetensi pada soal (perlu tinjauan ahli)",
+    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
+    "usia_bahasa": "9 kata pada soal",
+    "konstruksi": "konstruksi sesuai tipe soal",
+    "keunikan": "tidak ada duplikat identik"
+   },
+   "kbc_mapping": [
+    {
+     "nilai": "Cinta Allah dan Rasul-Nya",
+     "relevansi": "konteks",
+     "bukti": {
+      "dalam_soal": [
+       "ibadah"
+      ]
+     },
+     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
+    }
+   ],
+   "deep_learning_mapping": {
+    "pengalaman_belajar": [
+     {
+      "jenis": "Memahami",
+      "bukti": "tipe matching meminta mengenali/menjelaskan konsep"
+     }
+    ],
+    "prinsip": [],
+    "catatan": "Soal tertulis tidak membuktikan praktik pedagogis, kemitraan, lingkungan, atau pemanfaatan digital; itu dilengkapi aktivitas pendamping guru."
+   },
+   "graduate_profile_mapping": [],
+   "quality_status": "NEEDS_REVIEW",
+   "issues": []
+  }
+ }
+]

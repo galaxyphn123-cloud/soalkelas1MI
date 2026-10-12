@@ -1,0 +1,181 @@
+question_id,subject,tp_id,question_type,quality_status,skor_atp,skor_akurasi,skor_usia_bahasa,skor_konstruksi,skor_keunikan,issues,kbc_langsung,pl_langsung
+FIK-WT-0206,Fikih,TP-FIK-WT-02,completion,PASS,3,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME
+FIK-TH-0045,Fikih,TP-FIK-TH-02,completion,PASS,4,3,4,3,4,,,
+FIK-KS-0186,Fikih,TP-FIK-KS-04,contextual,REVISE,3,3,3,2,4,petunjuk_kunci_terpanjang,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+FIK-KS-0060,Fikih,TP-FIK-KS-03,contextual,REVISE,3,3,4,2,4,petunjuk_kunci_terpanjang,Cinta Allah dan Rasul-Nya,
+FIK-TH-0194,Fikih,TP-FIK-TH-02,fill_in_short,PASS,3,3,4,3,4,,,Kesehatan
+FIK-RI-0073,Fikih,TP-FIK-RI-01,fill_in_short,NEEDS_REVIEW,2,3,4,3,4,,,
+FIK-WT-0133,Fikih,TP-FIK-WT-02,grouping,PASS,3,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME;Kesehatan
+FIK-RI-0103,Fikih,TP-FIK-RI-01,grouping,PASS,4,3,4,3,4,,,
+FIK-RI-0227,Fikih,TP-FIK-RI-01,matching,NEEDS_REVIEW,2,3,4,3,4,,,
+FIK-RI-0044,Fikih,TP-FIK-RI-01,matching,PASS,4,3,4,3,4,,,
+FIK-KS-0190,Fikih,TP-FIK-KS-04,multiple_choice,NEEDS_REVIEW,2,3,4,2,4,petunjuk_kunci_terpanjang,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+FIK-TH-0217,Fikih,TP-FIK-TH-03,multiple_choice,REVISE,3,3,4,2,4,petunjuk_kunci_terpanjang,,Kesehatan
+FIK-RI-0214,Fikih,TP-FIK-RI-02,multiple_choice_visual,PASS,3,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME
+FIK-RI-0058,Fikih,TP-FIK-RI-02,multiple_choice_visual,PASS,3,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME
+FIK-RI-0252,Fikih,TP-FIK-RI-01,ordering,PASS,3,3,4,3,4,,,
+FIK-TH-0029,Fikih,TP-FIK-TH-02,ordering,NEEDS_REVIEW,2,3,4,3,4,,,
+FIK-RI-0144,Fikih,TP-FIK-RI-04,performance_task,PASS,4,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME
+FIK-TH-0161,Fikih,TP-FIK-TH-04,performance_task,NEEDS_REVIEW,2,3,4,3,4,,,Kesehatan
+FIK-KS-0167,Fikih,TP-FIK-KS-02,true_false,PASS,3,3,4,3,4,,Cinta Allah dan Rasul-Nya,
+FIK-WT-0107,Fikih,TP-FIK-WT-01,true_false,PASS,3,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME;Kesehatan
+AQH-HK-0134,Al-Quran Hadis,TP-AQH-HK-04,completion,PASS,4,3,4,3,4,,Cinta Diri dan Sesama,Kesehatan
+AQH-FL-0133,Al-Quran Hadis,TP-AQH-FL-04,completion,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+AQH-HT-0129,Al-Quran Hadis,TP-AQH-HT-04,contextual,REVISE,4,3,4,2,4,petunjuk_kunci_terpanjang,Cinta Allah dan Rasul-Nya;Cinta Ilmu,Keimanan dan Ketakwaan terhadap Tuhan YME
+AQH-IK-0109,Al-Quran Hadis,TP-AQH-IK-04,contextual,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+AQH-HJ-0074,Al-Quran Hadis,TP-AQH-HJ-02,fill_in_short,PASS,4,3,4,3,4,,,
+AQH-HJ-0072,Al-Quran Hadis,TP-AQH-HJ-02,fill_in_short,PASS,4,3,4,3,4,,,
+AQH-FA-0140,Al-Quran Hadis,TP-AQH-FA-04,grouping,NEEDS_REVIEW,4,3,1,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+AQH-HJ-0107,Al-Quran Hadis,TP-AQH-HJ-03,grouping,PASS,3,3,4,3,4,,,
+AQH-FL-0105,Al-Quran Hadis,TP-AQH-FL-03,matching,PASS,4,3,4,3,4,,,
+AQH-IK-0030,Al-Quran Hadis,TP-AQH-IK-01,matching,PASS,4,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME
+AQH-HT-0087,Al-Quran Hadis,TP-AQH-HT-03,multiple_choice,PASS,3,3,4,3,4,,,Penalaran Kritis
+AQH-HT-0022,Al-Quran Hadis,TP-AQH-HT-01,multiple_choice,PASS,4,3,4,3,4,,,
+AQH-HT-0122,Al-Quran Hadis,TP-AQH-HT-04,multiple_choice_visual,NEEDS_REVIEW,2,3,4,3,4,,,
+AQH-IK-0057,Al-Quran Hadis,TP-AQH-IK-02,multiple_choice_visual,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+AQH-HK-0054,Al-Quran Hadis,TP-AQH-HK-02,ordering,PASS,4,3,4,3,4,,,
+AQH-FL-0136,Al-Quran Hadis,TP-AQH-FL-04,ordering,PASS,4,3,4,3,4,,Cinta Ilmu,Keimanan dan Ketakwaan terhadap Tuhan YME
+AQH-NS-0033,Al-Quran Hadis,TP-AQH-NS-01,performance_task,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+AQH-HK-0080,Al-Quran Hadis,TP-AQH-HK-03,performance_task,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+AQH-HK-0044,Al-Quran Hadis,TP-AQH-HK-02,true_false,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+AQH-HJ-0128,Al-Quran Hadis,TP-AQH-HJ-04,true_false,PASS,3,3,4,3,4,,,
+BAR-KL-0234,Bahasa Arab,TP-BAR-KL-04,completion,PASS,3,3,4,3,4,,Cinta Diri dan Sesama,
+BAR-KL-0115,Bahasa Arab,TP-BAR-KL-02,completion,PASS,3,3,4,3,4,,,
+BAR-PK-0165,Bahasa Arab,TP-BAR-PK-03,contextual,PASS,4,3,2,3,4,,,
+BAR-SK-0189,Bahasa Arab,TP-BAR-SK-04,contextual,REVISE,3,3,4,2,4,petunjuk_kunci_terpanjang,,
+BAR-SK-0103,Bahasa Arab,TP-BAR-SK-02,fill_in_short,PASS,4,3,4,3,4,,,
+BAR-PK-0102,Bahasa Arab,TP-BAR-PK-02,fill_in_short,PASS,4,3,4,3,4,,,
+BAR-RM-0242,Bahasa Arab,TP-BAR-RM-04,grouping,NEEDS_REVIEW,2,3,3,3,4,,,
+BAR-KL-0240,Bahasa Arab,TP-BAR-KL-04,grouping,PASS,4,3,3,3,4,,,
+BAR-SK-0117,Bahasa Arab,TP-BAR-SK-02,matching,PASS,4,3,4,3,4,,,
+BAR-KL-0117,Bahasa Arab,TP-BAR-KL-02,matching,PASS,4,3,4,3,4,,,
+BAR-RM-0060,Bahasa Arab,TP-BAR-RM-02,multiple_choice,PASS,4,3,4,3,4,,,
+BAR-KL-0134,Bahasa Arab,TP-BAR-KL-03,multiple_choice,PASS,4,3,4,3,4,,,Penalaran Kritis
+BAR-PK-0183,Bahasa Arab,TP-BAR-PK-04,multiple_choice_visual,NEEDS_REVIEW,2,3,3,3,4,,,
+BAR-KL-0089,Bahasa Arab,TP-BAR-KL-02,multiple_choice_visual,PASS,3,3,4,3,4,,,
+BAR-KL-0120,Bahasa Arab,TP-BAR-KL-02,ordering,PASS,3,3,4,3,4,,,
+BAR-PK-0122,Bahasa Arab,TP-BAR-PK-02,ordering,PASS,3,3,4,3,4,,,
+BAR-PK-0125,Bahasa Arab,TP-BAR-PK-02,performance_task,PASS,4,3,2,3,4,,,
+BAR-RM-0124,Bahasa Arab,TP-BAR-RM-02,performance_task,PASS,4,3,2,3,4,,,
+BAR-PK-0203,Bahasa Arab,TP-BAR-PK-04,true_false,NEEDS_REVIEW,2,3,4,3,4,,Cinta Diri dan Sesama,
+BAR-PK-0228,Bahasa Arab,TP-BAR-PK-04,true_false,NEEDS_REVIEW,2,3,4,3,4,,Cinta Diri dan Sesama,
+AKA-RI-0194,Akidah Akhlak,TP-AKA-RI-03,completion,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+AKA-TY-0093,Akidah Akhlak,TP-AKA-TY-03,completion,PASS,3,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+AKA-KN-0125,Akidah Akhlak,TP-AKA-KN-04,contextual,PASS,3,3,4,3,4,,,
+AKA-SH-0127,Akidah Akhlak,TP-AKA-SH-04,contextual,PASS,4,3,4,3,4,,Cinta Diri dan Sesama,Kesehatan
+AKA-SY-0018,Akidah Akhlak,TP-AKA-SY-01,fill_in_short,PASS,3,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+AKA-KN-0063,Akidah Akhlak,TP-AKA-KN-02,fill_in_short,PASS,3,3,4,3,4,,,
+AKA-KN-0073,Akidah Akhlak,TP-AKA-KN-02,grouping,PASS,3,3,4,3,4,,Cinta Allah dan Rasul-Nya,
+AKA-RI-0137,Akidah Akhlak,TP-AKA-RI-02,grouping,NEEDS_REVIEW,2,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME
+AKA-SW-0049,Akidah Akhlak,TP-AKA-SW-03,matching,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+AKA-RI-0132,Akidah Akhlak,TP-AKA-RI-02,matching,NEEDS_REVIEW,2,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME
+AKA-SH-0003,Akidah Akhlak,TP-AKA-SH-01,multiple_choice,NEEDS_REVIEW,2,3,4,3,4,,,
+AKA-SH-0041,Akidah Akhlak,TP-AKA-SH-02,multiple_choice,PASS,3,3,4,3,4,,,
+AKA-AB-0157,Akidah Akhlak,TP-AKA-AB-04,multiple_choice_visual,PASS,4,3,4,3,4,,Cinta Ilmu,
+AKA-SH-0119,Akidah Akhlak,TP-AKA-SH-04,multiple_choice_visual,PASS,3,3,4,3,4,,,Kesehatan
+AKA-SW-0016,Akidah Akhlak,TP-AKA-SW-01,ordering,PASS,4,3,4,3,4,,,
+AKA-RI-0062,Akidah Akhlak,TP-AKA-RI-01,ordering,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+AKA-SH-0073,Akidah Akhlak,TP-AKA-SH-02,performance_task,PASS,4,3,4,3,4,,,
+AKA-AB-0053,Akidah Akhlak,TP-AKA-AB-01,performance_task,PASS,4,3,4,3,4,,,
+AKA-RI-0171,Akidah Akhlak,TP-AKA-RI-03,true_false,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
+AKA-AB-0175,Akidah Akhlak,TP-AKA-AB-04,true_false,PASS,4,3,4,3,4,,Cinta Ilmu,
+BIN-B5-0129,Bahasa Indonesia,TP-BIN-B5-04,completion,PASS,4,3,4,3,4,,,
+BIN-B6-0109,Bahasa Indonesia,TP-BIN-B6-04,completion,NEEDS_REVIEW,2,3,4,3,4,,,
+BIN-B5-0119,Bahasa Indonesia,TP-BIN-B5-04,contextual,PASS,4,3,4,3,4,,Cinta Diri dan Sesama,
+BIN-B5-0124,Bahasa Indonesia,TP-BIN-B5-04,contextual,PASS,4,3,4,3,4,,,
+BIN-B7-0130,Bahasa Indonesia,TP-BIN-B7-04,fill_in_short,PASS,3,3,4,3,4,,,
+BIN-B5-0025,Bahasa Indonesia,TP-BIN-B5-01,fill_in_short,PASS,4,3,4,3,4,,,
+BIN-B3-0097,Bahasa Indonesia,TP-BIN-B3-03,grouping,PASS,4,3,4,3,4,,,
+BIN-B1-0053,Bahasa Indonesia,TP-BIN-B1-02,grouping,PASS,4,3,4,3,4,,,
+BIN-B1-0079,Bahasa Indonesia,TP-BIN-B1-03,matching,PASS,4,3,4,3,4,,,
+BIN-B7-0062,Bahasa Indonesia,TP-BIN-B7-02,matching,PASS,4,3,4,3,4,,,
+BIN-B3-0039,Bahasa Indonesia,TP-BIN-B3-02,multiple_choice,PASS,4,3,4,3,4,,,
+BIN-B1-0085,Bahasa Indonesia,TP-BIN-B1-04,multiple_choice,NEEDS_REVIEW,2,3,4,3,4,,,
+BIN-B8-0062,Bahasa Indonesia,TP-BIN-B8-03,multiple_choice_visual,PASS,3,3,4,3,4,,,
+BIN-B7-0115,Bahasa Indonesia,TP-BIN-B7-04,multiple_choice_visual,REVISE,4,3,3,2,4,petunjuk_kunci_terpanjang,,Komunikasi
+BIN-B7-0026,Bahasa Indonesia,TP-BIN-B7-01,ordering,PASS,3,3,4,3,4,,,
+BIN-B5-0095,Bahasa Indonesia,TP-BIN-B5-03,ordering,PASS,4,3,4,3,4,,,
+BIN-B6-0083,Bahasa Indonesia,TP-BIN-B6-03,performance_task,PASS,4,3,4,3,4,,,Komunikasi
+BIN-B2-0092,Bahasa Indonesia,TP-BIN-B2-03,performance_task,PASS,4,3,4,3,4,,,
+BIN-B4-0073,Bahasa Indonesia,TP-BIN-B4-03,true_false,PASS,4,3,4,3,4,,,
+BIN-B2-0045,Bahasa Indonesia,TP-BIN-B2-02,true_false,PASS,3,3,4,3,4,,Cinta Diri dan Sesama,
+MTK-B1-0131,Matematika,TP-MTK-B1-04,completion,PASS,4,3,4,3,4,,Cinta Diri dan Sesama,Kolaborasi
+MTK-B2-0100,Matematika,TP-MTK-B2-03,completion,PASS,3,3,3,3,4,,,
+MTK-B2-0086,Matematika,TP-MTK-B2-03,contextual,NEEDS_REVIEW,2,3,4,3,4,,,
+MTK-B7-0108,Matematika,TP-MTK-B7-04,contextual,PASS,3,3,3,3,4,,,
+MTK-B6-0086,Matematika,TP-MTK-B6-03,fill_in_short,NEEDS_REVIEW,2,3,4,3,4,,,Penalaran Kritis
+MTK-B8-0069,Matematika,TP-MTK-B8-02,fill_in_short,PASS,3,3,4,3,4,,,Penalaran Kritis
+MTK-B8-0070,Matematika,TP-MTK-B8-02,grouping,NEEDS_REVIEW,2,3,4,3,4,,,
+MTK-B8-0071,Matematika,TP-MTK-B8-02,grouping,NEEDS_REVIEW,2,3,4,3,4,,,
+MTK-B3-0026,Matematika,TP-MTK-B3-01,matching,NEEDS_REVIEW,2,3,4,3,4,,,
+MTK-B2-0037,Matematika,TP-MTK-B2-01,matching,PASS,4,3,4,3,4,,,
+MTK-B1-0006,Matematika,TP-MTK-B1-01,multiple_choice,PASS,3,3,4,3,4,,,
+MTK-B8-0082,Matematika,TP-MTK-B8-03,multiple_choice,PASS,3,3,3,3,4,,,Penalaran Kritis
+MTK-B7-0052,Matematika,TP-MTK-B7-02,multiple_choice_visual,NEEDS_REVIEW,2,3,4,3,4,,,
+MTK-B4-0050,Matematika,TP-MTK-B4-02,multiple_choice_visual,PASS,4,3,4,3,4,,,
+MTK-B2-0038,Matematika,TP-MTK-B2-01,ordering,PASS,4,3,4,3,4,,,
+MTK-B6-0132,Matematika,TP-MTK-B6-04,ordering,PASS,4,3,4,3,4,,,
+MTK-B6-0133,Matematika,TP-MTK-B6-04,performance_task,PASS,4,3,4,3,4,,,
+MTK-B8-0073,Matematika,TP-MTK-B8-02,performance_task,PASS,4,3,4,3,4,,,
+MTK-B7-0122,Matematika,TP-MTK-B7-04,true_false,PASS,4,3,3,3,4,,,
+MTK-B3-0013,Matematika,TP-MTK-B3-01,true_false,PASS,3,3,4,3,4,,,
+PPN-B2-0205,Pancasila,TP-PPN-B2-03,completion,PASS,4,3,4,3,4,,Cinta Diri dan Sesama,Kewargaan
+PPN-B2-0211,Pancasila,TP-PPN-B2-03,completion,PASS,4,3,4,3,4,,Cinta Diri dan Sesama,
+PPN-B2-0152,Pancasila,TP-PPN-B2-03,contextual,PASS,4,3,3,3,4,,,Kewargaan
+PPN-B2-0145,Pancasila,TP-PPN-B2-03,contextual,PASS,4,3,3,3,4,,,Kewargaan
+PPN-B3-0078,Pancasila,TP-PPN-B3-01,fill_in_short,PASS,4,3,4,3,4,,,
+PPN-B4-0054,Pancasila,TP-PPN-B4-01,fill_in_short,PASS,4,3,4,3,4,,,
+PPN-B2-0133,Pancasila,TP-PPN-B2-02,grouping,PASS,4,3,2,3,4,,,
+PPN-B2-0136,Pancasila,TP-PPN-B2-02,grouping,PASS,4,3,2,3,4,,,
+PPN-B4-0071,Pancasila,TP-PPN-B4-01,matching,NEEDS_REVIEW,2,3,4,3,4,,,
+PPN-B1-0143,Pancasila,TP-PPN-B1-02,matching,NEEDS_REVIEW,2,3,4,3,4,,,
+PPN-B1-0096,Pancasila,TP-PPN-B1-02,multiple_choice,PASS,3,3,4,3,4,,,
+PPN-B3-0098,Pancasila,TP-PPN-B3-02,multiple_choice,PASS,3,3,4,3,4,,,Kewargaan
+PPN-B3-0170,Pancasila,TP-PPN-B3-03,multiple_choice_visual,PASS,3,3,4,3,4,,,Kewargaan
+PPN-B4-0020,Pancasila,TP-PPN-B4-01,multiple_choice_visual,REVISE,4,3,4,2,4,petunjuk_kunci_terpanjang,,
+PPN-B3-0084,Pancasila,TP-PPN-B3-01,ordering,PASS,4,3,4,3,4,,,Kewargaan
+PPN-B3-0085,Pancasila,TP-PPN-B3-01,ordering,PASS,4,3,4,3,4,,,Kewargaan
+PPN-B1-0073,Pancasila,TP-PPN-B1-01,performance_task,PASS,4,3,4,3,4,,,
+PPN-B2-0138,Pancasila,TP-PPN-B2-02,performance_task,PASS,4,3,4,3,4,,,
+PPN-B4-0101,Pancasila,TP-PPN-B4-02,true_false,PASS,4,3,4,3,4,,Cinta Lingkungan,Kewargaan
+PPN-B2-0125,Pancasila,TP-PPN-B2-02,true_false,PASS,4,3,4,3,4,,,Kewargaan;Penalaran Kritis
+PJK-HA-0123,PJOK,TP-PJK-HA-02,completion,PASS,4,3,4,3,4,,,Kesehatan
+PJK-TB-0058,PJOK,TP-PJK-TB-01,completion,NEEDS_REVIEW,2,3,4,3,4,,,
+PJK-BG-0230,PJOK,TP-PJK-BG-04,contextual,PASS,4,3,4,3,4,,,
+PJK-BG-0164,PJOK,TP-PJK-BG-03,contextual,PASS,4,3,3,3,4,,,Kewargaan
+PJK-BG-0053,PJOK,TP-PJK-BG-01,fill_in_short,PASS,4,3,4,3,4,,,Kesehatan
+PJK-MH-0054,PJOK,TP-PJK-MH-01,fill_in_short,PASS,3,3,4,3,4,,,
+PJK-MH-0058,PJOK,TP-PJK-MH-01,grouping,PASS,3,3,4,3,4,,,Kesehatan
+PJK-BG-0193,PJOK,TP-PJK-BG-03,grouping,PASS,4,3,3,3,4,,,
+PJK-TB-0460,PJOK,TP-PJK-TB-07,matching,NEEDS_REVIEW,2,3,4,3,4,,,
+PJK-MH-0127,PJOK,TP-PJK-MH-02,matching,NEEDS_REVIEW,2,3,4,3,4,,,
+PJK-TB-0068,PJOK,TP-PJK-TB-02,multiple_choice,REVISE,3,3,4,2,4,petunjuk_kunci_terpanjang,,
+PJK-BG-0085,PJOK,TP-PJK-BG-02,multiple_choice,PASS,4,3,4,3,4,,,
+PJK-BG-0224,PJOK,TP-PJK-BG-04,multiple_choice_visual,REVISE,3,3,4,2,4,petunjuk_kunci_terpanjang,,
+PJK-TB-0024,PJOK,TP-PJK-TB-01,multiple_choice_visual,NEEDS_REVIEW,2,3,4,3,4,,,
+PJK-BG-0258,PJOK,TP-PJK-BG-04,ordering,PASS,4,3,4,3,4,,,
+PJK-TB-0324,PJOK,TP-PJK-TB-05,ordering,PASS,3,3,4,3,4,,,
+PJK-BG-0130,PJOK,TP-PJK-BG-02,performance_task,PASS,4,3,4,3,4,,,Kesehatan
+PJK-BG-0200,PJOK,TP-PJK-BG-03,performance_task,PASS,4,3,4,3,4,,,Kesehatan
+PJK-HA-0032,PJOK,TP-PJK-HA-01,true_false,PASS,4,3,4,3,4,,,Kesehatan
+PJK-BG-0168,PJOK,TP-PJK-BG-03,true_false,PASS,3,3,4,3,4,,,
+ENG-B8-0067,Bahasa Inggris,TP-ENG-B8-05,completion,PASS,4,3,4,3,4,,,
+ENG-B8-0108,Bahasa Inggris,TP-ENG-B8-08,completion,PASS,4,3,4,3,4,,,Kreativitas
+ENG-B3-0031,Bahasa Inggris,TP-ENG-B3-02,contextual,NEEDS_REVIEW,2,3,4,3,4,,,
+ENG-B2-0001,Bahasa Inggris,TP-ENG-B2-01,contextual,REVISE,4,3,4,2,4,petunjuk_kunci_terpanjang,,Komunikasi
+ENG-B3-0098,Bahasa Inggris,TP-ENG-B3-05,fill_in_short,PASS,4,3,4,3,4,,,
+ENG-B8-0091,Bahasa Inggris,TP-ENG-B8-07,fill_in_short,PASS,4,3,4,3,4,,,
+ENG-B1-0088,Bahasa Inggris,TP-ENG-B1-07,grouping,PASS,4,3,4,3,4,,,
+ENG-B4-0014,Bahasa Inggris,TP-ENG-B4-01,grouping,PASS,4,3,4,3,4,,,
+ENG-B3-0018,Bahasa Inggris,TP-ENG-B3-01,matching,NEEDS_REVIEW,2,3,4,3,4,,,
+ENG-B9-0033,Bahasa Inggris,TP-ENG-B9-02,matching,NEEDS_REVIEW,2,3,4,3,4,,,
+ENG-B5-0014,Bahasa Inggris,TP-ENG-B5-02,multiple_choice,PASS,3,3,4,3,4,,,
+ENG-B5-0069,Bahasa Inggris,TP-ENG-B5-06,multiple_choice,NEEDS_REVIEW,2,3,4,3,4,,Cinta Diri dan Sesama,
+ENG-B7-0070,Bahasa Inggris,TP-ENG-B7-07,multiple_choice_visual,PASS,4,3,4,3,4,,,
+ENG-B5-0075,Bahasa Inggris,TP-ENG-B5-06,multiple_choice_visual,NEEDS_REVIEW,2,3,4,3,4,,,
+ENG-B3-0107,Bahasa Inggris,TP-ENG-B3-05,ordering,NEEDS_REVIEW,2,3,4,3,4,,,
+ENG-B1-0110,Bahasa Inggris,TP-ENG-B1-09,ordering,PASS,4,3,4,3,4,,,
+ENG-B8-0028,Bahasa Inggris,TP-ENG-B8-02,performance_task,PASS,3,3,4,3,4,,,
+ENG-B5-0111,Bahasa Inggris,TP-ENG-B5-08,performance_task,PASS,4,3,4,3,4,,,
+ENG-B6-0056,Bahasa Inggris,TP-ENG-B6-06,true_false,PASS,4,3,4,3,4,,,
+ENG-B2-0020,Bahasa Inggris,TP-ENG-B2-02,true_false,NEEDS_REVIEW,2,3,4,3,4,,,
