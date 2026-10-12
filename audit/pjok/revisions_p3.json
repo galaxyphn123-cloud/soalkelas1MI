@@ -1,0 +1,1346 @@
+{
+ "revisi": {
+  "PJK-BG-0205": {
+   "perubahan": {
+    "question": "Dalam permainan pos rintangan yang sulit, seorang teman satu tim terjatuh. Perilaku yang menaati strategi tim \"saling membantu\" adalah ....",
+    "explanation": "Menolong teman yang terjatuh sesuai dengan strategi tim saling membantu."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0206": {
+   "perubahan": {
+    "question": "Dalam permainan bola kelompok yang cepat, lawan menjaga ketat. Perilaku yang menaati strategi tim \"mengoper bola\" adalah ....",
+    "explanation": "Mengoper bola kepada teman yang bebas sesuai dengan strategi tim mengoper bola."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0208": {
+   "perubahan": {
+    "question": "Sebelum permainan rintangan yang sulit dimulai, tim perlu bersiap. Perilaku yang tidak menaati strategi tim \"menyusun strategi\" adalah ....",
+    "explanation": "Bermain tanpa rencana tidak sesuai dengan strategi tim menyusun strategi."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0209": {
+   "perubahan": {
+    "question": "Dalam permainan tim yang sulit, guru membagi tugas menjadi penyerang, penjaga, dan pengumpan. Perilaku yang tidak menaati strategi tim \"membagi peran\" adalah ....",
+    "explanation": "Memilih peran semaunya sendiri tidak sesuai dengan strategi tim membagi peran."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0210": {
+   "perubahan": {
+    "question": "Sebelum permainan rintangan yang sulit dimulai, tim perlu bersiap. Perilaku yang menaati strategi tim \"menyusun strategi\" adalah ....",
+    "explanation": "Berunding sebelum bermain sesuai dengan strategi tim menyusun strategi."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0211": {
+   "perubahan": {
+    "question": "Dalam permainan tim yang sulit, guru membagi tugas menjadi penyerang, penjaga, dan pengumpan. Perilaku yang menaati strategi tim \"membagi peran\" adalah ....",
+    "explanation": "Menerima peran yang dibagikan sesuai dengan strategi tim membagi peran."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0212": {
+   "perubahan": {
+    "question": "Dalam permainan rintangan yang sulit, seorang teman satu tim tertinggal di belakang. Perilaku yang tidak menaati strategi tim \"memberi semangat\" adalah ....",
+    "explanation": "Mengejek teman yang tertinggal tidak sesuai dengan strategi tim memberi semangat."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0214": {
+   "perubahan": {
+    "question": "Dalam permainan bola kelompok yang ramai, tim perlu saling memberi tahu. Perilaku yang tidak menaati strategi tim \"berkomunikasi\" adalah ....",
+    "explanation": "Diam tanpa memberi isyarat tidak sesuai dengan strategi tim berkomunikasi."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0215": {
+   "perubahan": {
+    "question": "Dalam estafet dengan rintangan, pelari harus bertukar tongkat di pos pertukaran. Perilaku yang menaati strategi tim \"estafet\" adalah ....",
+    "explanation": "Menyerahkan tongkat kepada teman dengan tepat sesuai dengan strategi tim estafet."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0217": {
+   "perubahan": {
+    "question": "Dalam estafet dengan rintangan, pelari harus bertukar tongkat di pos pertukaran. Perilaku yang tidak menaati strategi tim \"estafet\" adalah ....",
+    "explanation": "Menjatuhkan tongkat dengan sengaja tidak sesuai dengan strategi tim estafet."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0219": {
+   "perubahan": {
+    "question": "Dalam permainan rintangan yang sulit, seorang teman satu tim tertinggal di belakang. Perilaku yang menaati strategi tim \"memberi semangat\" adalah ....",
+    "explanation": "Menyemangati teman yang tertinggal sesuai dengan strategi tim memberi semangat."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0221": {
+   "perubahan": {
+    "question": "Dalam permainan bola kelompok, setiap anggota sudah mendapat posisi masing-masing. Perilaku yang menaati strategi tim \"menjaga posisi\" adalah ....",
+    "explanation": "Kembali ke posisi masing-masing sesuai dengan strategi tim menjaga posisi."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0222": {
+   "perubahan": {
+    "question": "Dalam permainan bola kelompok, setiap anggota sudah mendapat posisi masing-masing. Perilaku yang tidak menaati strategi tim \"menjaga posisi\" adalah ....",
+    "explanation": "Berkumpul di satu tempat tidak sesuai dengan strategi tim menjaga posisi."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0223": {
+   "perubahan": {
+    "question": "Dalam permainan bola kelompok yang cepat, lawan menjaga ketat. Perilaku yang tidak menaati strategi tim \"mengoper bola\" adalah ....",
+    "explanation": "Menahan bola sendiri terus tidak sesuai dengan strategi tim mengoper bola."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Konteks permainan menantang dibuat eksplisit agar soal TP-BG-04 berbeda dari soal dasar; label kaku \"(strategi tim)\" dihapus.",
+   "verifikasi": "Opsi dan kunci tidak diubah; hanya konteks dan penjelasan ditambah. Konteks tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0207": {
+   "perubahan": {
+    "question": "Memberi isyarat dengan tangan kepada teman tim saat permainan berlangsung membantu ....",
+    "options": [
+     "A. berkomunikasi dalam permainan",
+     "B. menghentikan permainan sementara",
+     "C. menentukan siapa yang menang",
+     "D. mengubah aturan permainan"
+    ],
+    "explanation": "Isyarat tangan membantu anggota tim berkomunikasi dalam permainan."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd (mengganggu, mengejek) diganti pengecoh masuk akal yang jelas salah dan sejajar panjang.",
+   "verifikasi": "Kunci tetap A. Isyarat tangan tidak menghentikan permainan, tidak menentukan pemenang, dan tidak mengubah aturan."
+  },
+  "PJK-BG-0213": {
+   "perubahan": {
+    "options": [
+     "A. kemampuan satu anggota yang paling kuat",
+     "B. keputusan satu orang tanpa bertanya teman",
+     "C. kesabaran dan kepercayaan antaranggota",
+     "D. kecepatan bermain tanpa menunggu teman"
+    ],
+    "explanation": "Kolaborasi yang menantang membutuhkan kesabaran dan kepercayaan antaranggota."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh afektif absurd (kecurangan, kemarahan, kesombongan) diganti pengecoh masuk akal dan sejajar panjang.",
+   "verifikasi": "Kunci tetap C. Ketiga pengecoh bertumpu pada satu orang/tanpa teman sehingga bertentangan dengan kolaborasi."
+  },
+  "PJK-BG-0216": {
+   "perubahan": {
+    "options": [
+     "A. strategi bersama",
+     "B. rencana milik satu orang saja",
+     "C. tindakan sendiri-sendiri",
+     "D. aturan tanpa teman"
+    ],
+    "explanation": "Dalam permainan yang menantang, tim perlu menyusun strategi bersama."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd (kecurangan, pertengkaran) diganti pengecoh yang bertentangan dengan kerja sama tim.",
+   "verifikasi": "Kunci tetap A. Pengecoh tidak melibatkan seluruh tim sehingga bukan strategi bersama."
+  },
+  "PJK-BG-0218": {
+   "perubahan": {
+    "options": [
+     "A. pembagian peran",
+     "B. pergantian pemain",
+     "C. pemanasan sebelum bermain",
+     "D. penghitungan skor"
+    ],
+    "explanation": "Membagi tim menjadi penyerang dan penjaga adalah contoh pembagian peran."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd (perselisihan, kecurangan, kekacauan) diganti istilah permainan yang masuk akal tetapi bukan pembagian tugas.",
+   "verifikasi": "Kunci tetap A. Penyerang dan penjaga adalah tugas berbeda, bukan pergantian pemain, pemanasan, atau skor."
+  },
+  "PJK-BG-0220": {
+   "perubahan": {
+    "options": [
+     "A. menyalahkan satu orang yang salah langkah",
+     "B. berdiskusi dan mencoba strategi lain",
+     "C. berhenti bermain sampai permainan usai",
+     "D. mengulang cara yang sama tanpa berdiskusi"
+    ],
+    "explanation": "Jika rencana tidak berhasil, tim berdiskusi dan mencoba strategi lain."
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci dan \"saling marah\" diganti pilihan yang lebih masuk akal.",
+   "verifikasi": "Kunci tetap B. Menyalahkan, berhenti, dan mengulang tanpa diskusi tidak memperbaiki strategi."
+  },
+  "PJK-BG-0224": {
+   "perubahan": {
+    "options": [
+     "A. pemanasan badan",
+     "B. penghitungan skor",
+     "C. penyusunan strategi",
+     "D. pembagian hadiah"
+    ],
+    "explanation": "Anak-anak berdiskusi sebelum permainan untuk merencanakan strategi tim."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh afektif absurd (kemalasan, perpecahan, kemarahan) diganti kegiatan permainan yang tidak sesuai gambar.",
+   "verifikasi": "Kunci tetap C. Gambar menunjukkan diskusi melingkar, bukan pemanasan, penghitungan skor, atau pembagian hadiah."
+  },
+  "PJK-BG-0225": {
+   "perubahan": {
+    "question": "Dalam permainan rintangan yang sulit, seorang teman tim Fikri tertinggal di belakang. Agar tim tetap kompak, Fikri ....",
+    "explanation": "Fikri menyemangati teman yang tertinggal agar tim tetap kompak."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat kaku \"tim X menghadapi ... (strategi tim)\" ditulis ulang menjadi skenario permainan menantang yang wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah; skenario tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0226": {
+   "perubahan": {
+    "question": "Dalam permainan operan bola yang ramai, Nisa ingin mengoper bola kepada temannya. Agar temannya siap menerima, Nisa ....",
+    "explanation": "Nisa berkomunikasi dengan menyebut nama teman sebelum mengoper."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat kaku \"tim X menghadapi ... (strategi tim)\" ditulis ulang menjadi skenario permainan menantang yang wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah; skenario tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0227": {
+   "perubahan": {
+    "question": "Tim Bima akan memainkan permainan pos yang sulit dan perlu menyusun strategi. Bima ....",
+    "explanation": "Bima ikut menyusun strategi dengan berunding sebelum bermain."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat kaku \"tim X menghadapi ... (strategi tim)\" ditulis ulang menjadi skenario permainan menantang yang wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah; skenario tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0228": {
+   "perubahan": {
+    "question": "Pada permainan yang sulit, guru membagi tugas tim Salma menjadi penyerang, penjaga, dan pengumpan. Salma ....",
+    "explanation": "Salma menjalankan pembagian peran dengan menerima peran yang dibagikan."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat kaku \"tim X menghadapi ... (strategi tim)\" ditulis ulang menjadi skenario permainan menantang yang wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah; skenario tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0229": {
+   "perubahan": {
+    "question": "Dalam estafet dengan rintangan, Dina bertemu temannya di pos pertukaran. Dina ....",
+    "explanation": "Dina menaati strategi estafet dengan menyerahkan tongkat kepada teman dengan tepat."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat kaku \"tim X menghadapi ... (strategi tim)\" ditulis ulang menjadi skenario permainan menantang yang wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah; skenario tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0230": {
+   "perubahan": {
+    "question": "Dalam permainan rintangan yang sulit, seorang teman Lani terjatuh. Lani ....",
+    "explanation": "Lani menerapkan sikap saling membantu dengan menolong teman yang terjatuh."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat kaku \"tim X menghadapi ... (strategi tim)\" ditulis ulang menjadi skenario permainan menantang yang wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah; skenario tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0231": {
+   "perubahan": {
+    "question": "Dalam permainan bola kelompok, Hasan mendapat posisi sebagai penjaga. Setelah bola berpindah, Hasan ....",
+    "explanation": "Hasan menjaga posisi dengan kembali ke posisi masing-masing."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat kaku \"tim X menghadapi ... (strategi tim)\" ditulis ulang menjadi skenario permainan menantang yang wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah; skenario tidak membuat pengecoh menjadi benar."
+  },
+  "PJK-BG-0232": {
+   "perubahan": {
+    "options": [
+     "A. berlari sendiri-sendiri tanpa menunggu teman",
+     "B. berunding, membagi tugas, lalu bergerak bersama",
+     "C. berebut bola dengan teman satu tim",
+     "D. saling menyalahkan saat bola terjatuh"
+    ],
+    "explanation": "Tim yang baik menyusun strategi bersama: berunding, membagi tugas, lalu bergerak bersama."
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Kunci tetap B; pengecoh tetap bertentangan dengan kerja sama tim."
+  },
+  "PJK-BG-0244": {
+   "perubahan": {
+    "question": "Benar atau salah: Kolaborasi yang menantang membutuhkan keputusan satu orang tanpa bertanya kepada teman.",
+    "explanation": "Salah. Kolaborasi yang menantang membutuhkan kesabaran dan kepercayaan antaranggota."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pernyataan salah absurd (kemarahan) diganti pernyataan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Kunci tetap Salah; kolaborasi menuntut keterlibatan semua anggota."
+  },
+  "PJK-BG-0260": {
+   "perubahan": {
+    "question": "Praktikkan estafet bersama timmu dalam permainan yang menantang! Guru mengamati: (1) tongkat diserahkan kepada teman berikutnya dengan tepat, (2) tongkat tidak dijatuhkan dengan sengaja, (3) pelari berlari di jalurnya tanpa menabrak teman.",
+    "explanation": "Murid menyerahkan tongkat dengan tepat, tidak menjatuhkannya dengan sengaja, dan berlari di jalurnya dengan aman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-BG-0261": {
+   "perubahan": {
+    "question": "Mainkan estafet dengan rintangan dan bagi peran dengan adil! Guru mengamati: (1) setiap anggota mendapat satu peran, (2) tongkat berpindah di pos pertukaran dengan tepat, (3) rintangan dilewati tanpa menabrak teman.",
+    "explanation": "Murid mendapat peran, memindahkan tongkat di pos pertukaran dengan tepat, dan melewati rintangan dengan aman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-BG-0262": {
+   "perubahan": {
+    "question": "Praktikkan saling membantu bersama timmu dalam permainan yang menantang! Guru mengamati: (1) menawarkan bantuan kepada teman yang kesulitan melewati rintangan, (2) membantu dengan cara aman, (3) melanjutkan permainan bersama.",
+    "explanation": "Murid menawarkan bantuan, membantu dengan cara aman, dan melanjutkan permainan bersama tim."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-BG-0263": {
+   "perubahan": {
+    "question": "Praktikkan mengoper bola bersama timmu dalam permainan yang menantang! Guru mengamati: (1) menyebut nama atau memberi isyarat sebelum mengoper, (2) mengoper kepada teman yang bebas, (3) tidak menahan bola sendiri terus.",
+    "explanation": "Murid memberi isyarat sebelum mengoper, mengoper kepada teman yang bebas, dan tidak menahan bola sendiri."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-BG-0264": {
+   "perubahan": {
+    "question": "Praktikkan menjaga posisi bersama timmu dalam permainan yang menantang! Guru mengamati: (1) berdiri di posisi yang disepakati, (2) kembali ke posisi setelah bola berpindah, (3) tidak berkumpul di satu tempat.",
+    "explanation": "Murid berdiri di posisinya, kembali ke posisi setelah bola berpindah, dan tidak berkumpul di satu tempat."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-BG-0265": {
+   "perubahan": {
+    "question": "Praktikkan memberi semangat bersama timmu dalam permainan yang menantang! Guru mengamati: (1) mengucapkan kata penyemangat kepada teman, (2) bertepuk tangan atau mengacungkan jempol, (3) tetap bermain sesuai aturan.",
+    "explanation": "Murid mengucapkan kata penyemangat, bertepuk tangan atau mengacungkan jempol, dan tetap bermain sesuai aturan."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-BG-0266": {
+   "perubahan": {
+    "question": "Praktikkan membagi peran bersama timmu dalam permainan yang menantang! Guru mengamati: (1) setiap anggota menyebut perannya, (2) menjalankan peran sesuai kesepakatan, (3) bergerak tanpa menabrak teman.",
+    "explanation": "Murid menyebut perannya, menjalankan peran sesuai kesepakatan, dan bergerak dengan aman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-BG-0267": {
+   "perubahan": {
+    "question": "Setelah satu putaran permainan, sepakati satu hal yang bisa diperbaiki bersama timmu, lalu peragakan perbaikannya pada satu putaran lagi! Guru mengamati: (1) tim menyepakati satu perbaikan, (2) semua anggota bergerak sesuai kesepakatan, (3) bergantian bicara dengan tertib.",
+    "explanation": "Murid menyepakati satu perbaikan bersama tim, memperagakannya dalam putaran berikutnya, dan bergantian bicara dengan tertib."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Soal diubah menjadi kegiatan gerak teramati agar sesuai rubrik; rubrik inti tidak diubah."
+  },
+  "PJK-HA-0001": {
+   "perubahan": {
+    "options": [
+     "A. menonton televisi",
+     "B. membaca buku cerita",
+     "C. bermain gawai sambil duduk",
+     "D. bermain bola"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh dibuat kegiatan sehari-hari yang masuk akal tetapi tidak banyak bergerak.",
+   "verifikasi": "Kunci tetap D; ketiga pengecoh dilakukan sambil duduk/diam sehingga bukan aktivitas fisik."
+  },
+  "PJK-HA-0018": {
+   "perubahan": {
+    "options": [
+     "A. sandal licin yang mudah terlepas",
+     "B. pakaian sempit yang menghambat gerak",
+     "C. pakaian tebal yang basah oleh keringat",
+     "D. pakaian yang nyaman dan menyerap keringat"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci tetap D; pengecoh menghambat gerak atau tidak nyaman."
+  },
+  "PJK-HA-0025": {
+   "perubahan": {
+    "options": [
+     "A. kegiatan istirahat di kelas",
+     "B. kegiatan membaca di kelas",
+     "C. aktivitas fisik",
+     "D. kegiatan menggambar di meja"
+    ],
+    "explanation": "Senam adalah aktivitas fisik karena seluruh badan bergerak."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kegiatan di kelas yang masuk akal tetapi bukan gerak badan.",
+   "verifikasi": "Kunci tetap C; gambar menunjukkan anak berbaris dan bersenam."
+  },
+  "PJK-HA-0026": {
+   "perubahan": {
+    "options": [
+     "A. ikut dengan gembira dan memakai pelindung",
+     "B. tetap di rumah bermain gawai seharian",
+     "C. menolak ajakan dan melanjutkan tidur siang",
+     "D. berpura-pura sakit agar tidak diajak"
+    ],
+    "explanation": "Dani berpartisipasi aktif dengan ikut bersepeda dan memakai pelindung."
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci tetap A; pengecoh semuanya menolak ajakan bersepeda."
+  },
+  "PJK-HA-0037": {
+   "perubahan": {
+    "answer": "Benar",
+    "explanation": "Benar. Berolahraga membuat badan menjadi bugar."
+   },
+   "jenis": [
+    "AKURASI_SALAH_TEGAS"
+   ],
+   "alasan": "Kunci Salah keliru: kebugaran adalah manfaat berolahraga. Kunci diubah menjadi Benar sesuai usulan audit.",
+   "verifikasi": "Diverifikasi: olahraga/aktivitas fisik teratur meningkatkan kebugaran; pernyataan benar."
+  },
+  "PJK-HA-0060": {
+   "perubahan": {
+    "question": "Lakukan senam pagi bersama teman! Guru mengamati: (1) mengikuti gerakan senam dari awal sampai akhir, (2) gerakan seirama dengan teman, (3) menjaga jarak agar tidak bersenggolan.",
+    "explanation": "Murid mengikuti senam dari awal sampai akhir, bergerak seirama dengan teman, dan menjaga jarak dengan aman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-HA-0062": {
+   "perubahan": {
+    "question": "Peragakan tiga gerakan aktivitas fisik yang biasa kamu lakukan di rumah atau sekolah! Guru mengamati: (1) tiga gerakan berbeda diperagakan, (2) setiap gerakan dilakukan dengan tepat, (3) ruang gerak aman dari teman dan benda lain.",
+    "explanation": "Murid memperagakan tiga gerakan aktivitas fisik yang berbeda dengan tepat dan aman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Tugas diubah dari menyebut menjadi memperagakan agar sesuai rubrik gerak; rubrik inti tidak diubah."
+  },
+  "PJK-HA-0063": {
+   "perubahan": {
+    "question": "Bermainlah bersama temanmu dengan gerakan yang aktif! Guru mengamati: (1) bergerak aktif selama bermain, (2) bergantian dengan teman, (3) berhenti saat ada aba-aba.",
+    "explanation": "Murid bergerak aktif, bergantian dengan teman, dan berhenti saat ada aba-aba."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-HA-0064": {
+   "perubahan": {
+    "question": "Bermainlah di luar kelas bersama teman! Guru mengamati: (1) bergerak aktif selama bermain, (2) menunggu giliran dengan tertib, (3) bermain di area yang ditentukan guru.",
+    "explanation": "Murid bergerak aktif, menunggu giliran, dan bermain di area yang ditentukan guru."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-HA-0066": {
+   "perubahan": {
+    "question": "Lakukan lompat tali bersama teman! Guru mengamati: (1) melompat dengan irama yang beraturan, (2) mendarat dengan lutut sedikit ditekuk, (3) bergantian memutar dan melompat dengan teman.",
+    "explanation": "Murid melompat dengan irama beraturan, mendarat dengan lutut sedikit ditekuk, dan bergantian dengan teman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-HA-0073": {
+   "perubahan": {
+    "options": [
+     "A. lebih lemas dan cepat lelah",
+     "B. lebih sedih dan murung",
+     "C. lebih bugar dan ceria",
+     "D. lebih sering sakit dan lesu"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci tetap C; pengecoh bertentangan dengan manfaat aktif bergerak."
+  },
+  "PJK-HA-0091": {
+   "perubahan": {
+    "options": [
+     "A. kegembiraan dan kebugaran",
+     "B. kesedihan dan rasa kesepian",
+     "C. penyakit dan badan lemas",
+     "D. kemarahan dan rasa kesal"
+    ],
+    "explanation": "Anak yang berlari dengan wajah ceria menunjukkan manfaat olahraga berupa kegembiraan dan kebugaran."
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci tetap A; gambar menunjukkan anak ceria setelah berlari."
+  },
+  "PJK-HA-0092": {
+   "perubahan": {
+    "options": [
+     "A. mengeluh dan meminta ibu pergi sendiri",
+     "B. ikut karena bergerak baik untuk kesehatan",
+     "C. menolak dan terus bermain gawai",
+     "D. tidur lagi sampai sore hari"
+    ],
+    "explanation": "Salma sebaiknya ikut bersepeda karena bergerak baik untuk kesehatan dan mengurangi waktu layar."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan \"marah\"/\"tidur\" diganti perilaku yang masuk akal.",
+   "verifikasi": "Kunci tetap B; semua pengecoh menolak ajakan bergerak."
+  },
+  "PJK-HA-0093": {
+   "perubahan": {
+    "options": [
+     "A. tanda badan sedang sakit",
+     "B. tanda kekurangan istirahat",
+     "C. manfaat aktivitas fisik",
+     "D. akibat bermalas-malasan"
+    ],
+    "explanation": "Badan segar dan hati senang setelah bermain bola adalah manfaat aktivitas fisik."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh \"hukuman\" diganti pengecoh yang masuk akal.",
+   "verifikasi": "Kunci tetap C; perasaan segar dan senang adalah manfaat olahraga."
+  },
+  "PJK-HA-0102": {
+   "perubahan": {
+    "question": "Benar atau salah: Badan terasa segar dan hati senang setelah bermain bola karena kita bermalas-malasan."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat bertumpuk ditulis ulang agar jelas.",
+   "verifikasi": "Kunci tetap Salah; rasa segar dan senang muncul karena bergerak, bukan bermalas-malasan."
+  },
+  "PJK-HA-0128": {
+   "perubahan": {
+    "question": "Susun jadwal olahraga sederhana untuk satu minggu bersama temanmu di kelas, lalu peragakan satu kegiatan pada jadwal itu! Guru mengamati: (1) jadwal memuat sedikitnya tiga hari berbeda, (2) peragaan sesuai kegiatan yang ditulis, (3) ruang gerak aman.",
+    "explanation": "Murid menyusun jadwal sedikitnya tiga hari, memperagakan satu kegiatan sesuai jadwal, dan menjaga keamanan."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Tugas rumah bersama orang tua diubah menjadi tugas kelas dengan peragaan teramati; rubrik inti tidak diubah."
+  },
+  "PJK-HA-0129": {
+   "perubahan": {
+    "question": "Lakukan jalan cepat atau berlari di tempat selama satu menit, lalu ceritakan satu manfaat yang kamu rasakan! Guru mengamati: (1) bergerak terus selama satu menit, (2) menyebut manfaat yang sesuai (misalnya badan segar atau hati senang), (3) menjaga jarak dengan teman.",
+    "explanation": "Murid bergerak selama satu menit, menyebut manfaat yang sesuai, dan menjaga jarak dengan teman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-HA-0130": {
+   "perubahan": {
+    "question": "Lakukan lompat-lompat kecil di tempat selama satu menit, lalu ceritakan perasaanmu setelah berolahraga! Guru mengamati: (1) melompat dengan lutut sedikit ditekuk, (2) menyebut perasaan atau manfaat yang sesuai, (3) menjaga jarak dengan teman.",
+    "explanation": "Murid melompat kecil dengan lutut sedikit ditekuk, menyebut perasaan atau manfaat yang sesuai, dan menjaga jarak dengan teman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-HA-0131": {
+   "perubahan": {
+    "question": "Lakukan senam pagi bersama teman, lalu ceritakan satu manfaat senam yang kamu rasakan! Guru mengamati: (1) mengikuti gerakan senam sampai selesai, (2) menyebut manfaat yang sesuai (misalnya badan segar), (3) gerakan seirama dengan teman.",
+    "explanation": "Murid mengikuti senam sampai selesai, menyebut manfaat yang sesuai, dan bergerak seirama dengan teman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-HA-0133": {
+   "perubahan": {
+    "question": "Ajak temanmu bermain di luar kelas bersama guru, lalu ceritakan perasaanmu! Guru mengamati: (1) mengajak teman dengan kalimat sopan, (2) bermain aktif di area yang ditentukan guru, (3) menyebut perasaan setelah bermain (misalnya senang atau segar).",
+    "explanation": "Murid mengajak teman dengan sopan, bermain aktif di area yang ditentukan guru, dan menyebut perasaannya."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-MH-0001": {
+   "perubahan": {
+    "question": "Ikan termasuk ....",
+    "explanation": "Ikan termasuk sumber protein."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat \"Makanan X termasuk\" diganti kalimat wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah."
+  },
+  "PJK-MH-0004": {
+   "perubahan": {
+    "question": "Wortel termasuk ....",
+    "explanation": "Wortel termasuk sayuran."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat \"Makanan X termasuk\" diganti kalimat wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah."
+  },
+  "PJK-MH-0005": {
+   "perubahan": {
+    "question": "Tahu termasuk ....",
+    "explanation": "Tahu termasuk sumber protein."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat \"Makanan X termasuk\" diganti kalimat wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah."
+  },
+  "PJK-MH-0006": {
+   "perubahan": {
+    "question": "Nasi termasuk ....",
+    "explanation": "Nasi termasuk sumber karbohidrat."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat \"Makanan X termasuk\" diganti kalimat wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah."
+  },
+  "PJK-MH-0007": {
+   "perubahan": {
+    "question": "Pisang termasuk ....",
+    "explanation": "Pisang termasuk buah-buahan."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat \"Makanan X termasuk\" diganti kalimat wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah."
+  },
+  "PJK-MH-0008": {
+   "perubahan": {
+    "question": "Jeruk termasuk ....",
+    "explanation": "Jeruk termasuk buah-buahan."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat \"Makanan X termasuk\" diganti kalimat wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah."
+  },
+  "PJK-MH-0010": {
+   "perubahan": {
+    "question": "Telur termasuk ....",
+    "explanation": "Telur termasuk sumber protein."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat \"Makanan X termasuk\" diganti kalimat wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah."
+  },
+  "PJK-MH-0020": {
+   "perubahan": {
+    "question": "Bayam termasuk ....",
+    "explanation": "Bayam termasuk sayuran."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat \"Makanan X termasuk\" diganti kalimat wajar.",
+   "verifikasi": "Opsi dan kunci tidak diubah."
+  },
+  "PJK-MH-0025": {
+   "perubahan": {
+    "question": "Benar atau salah: Jeruk termasuk buah-buahan.",
+    "explanation": "Benar. Jeruk termasuk buah-buahan."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat \"Makanan X termasuk\" diganti kalimat wajar.",
+   "verifikasi": "Kunci tetap Benar."
+  },
+  "PJK-MH-0026": {
+   "perubahan": {
+    "question": "Benar atau salah: Nasi termasuk sumber karbohidrat.",
+    "explanation": "Benar. Nasi termasuk sumber karbohidrat."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat \"Makanan X termasuk\" diganti kalimat wajar.",
+   "verifikasi": "Kunci tetap Benar."
+  },
+  "PJK-MH-0027": {
+   "perubahan": {
+    "question": "Benar atau salah: Telur termasuk sumber protein.",
+    "explanation": "Benar. Telur termasuk sumber protein."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat \"Makanan X termasuk\" diganti kalimat wajar.",
+   "verifikasi": "Kunci tetap Benar."
+  },
+  "PJK-MH-0030": {
+   "perubahan": {
+    "question": "Benar atau salah: Tahu termasuk sumber protein.",
+    "explanation": "Benar. Tahu termasuk sumber protein."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat \"Makanan X termasuk\" diganti kalimat wajar.",
+   "verifikasi": "Kunci tetap Benar."
+  },
+  "PJK-MH-0032": {
+   "perubahan": {
+    "question": "Benar atau salah: Pisang termasuk buah-buahan.",
+    "explanation": "Benar. Pisang termasuk buah-buahan."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat \"Makanan X termasuk\" diganti kalimat wajar.",
+   "verifikasi": "Kunci tetap Benar."
+  },
+  "PJK-MH-0002": {
+   "perubahan": {
+    "options": [
+     "A. tidak kekurangan cairan",
+     "B. mudah lemas dan lesu",
+     "C. sering pusing karena haus",
+     "D. cepat merasa sangat haus"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh dibuat sejajar panjang dan masuk akal (akibat kurang minum).",
+   "verifikasi": "Kunci tetap A; pengecoh adalah akibat kurang minum, bukan akibat cukup minum."
+  },
+  "PJK-MH-0009": {
+   "perubahan": {
+    "options": [
+     "A. informasi gizi dan tanggal kedaluwarsa",
+     "B. resep masakan keluarga",
+     "C. nama toko tempat membeli",
+     "D. tinggi dan berat badan pembeli"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti hal yang masuk akal tetapi bukan isi label gizi, sejajar panjang.",
+   "verifikasi": "Kunci tetap A; label gizi memuat informasi gizi dan kedaluwarsa, bukan ketiga pengecoh."
+  },
+  "PJK-MH-0013": {
+   "perubahan": {
+    "options": [
+     "A. mengurangi tenaga untuk bergerak",
+     "B. membuat badan menjadi gemuk saja",
+     "C. pertumbuhan dan memperbaiki tubuh",
+     "D. menggantikan air yang diminum"
+    ],
+    "explanation": "Protein berfungsi untuk pertumbuhan dan memperbaiki tubuh."
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci tetap C; protein tidak mengurangi tenaga dan tidak menggantikan air."
+  },
+  "PJK-MH-0017": {
+   "perubahan": {
+    "options": [
+     "A. pembentuk tulang dan gigi",
+     "B. tenaga",
+     "C. pembentuk otot",
+     "D. cairan tubuh"
+    ],
+    "explanation": "Karbohidrat berfungsi sebagai sumber tenaga."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd (rasa, suara, warna kulit) diganti fungsi zat gizi lain yang masuk akal.",
+   "verifikasi": "Kunci tetap B; sumber utama tenaga adalah karbohidrat, sedangkan otot dibentuk protein, tulang oleh kalsium, dan cairan oleh air."
+  },
+  "PJK-MH-0018": {
+   "perubahan": {
+    "options": [
+     "A. mudah terserang penyakit",
+     "B. cepat kehilangan tenaga",
+     "C. sulit tumbuh",
+     "D. sehat"
+    ],
+    "explanation": "Vitamin dalam sayur dan buah membuat tubuh sehat."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh afektif negatif diganti akibat kekurangan gizi yang masuk akal.",
+   "verifikasi": "Kunci tetap D; pengecoh adalah akibat tidak makan sayur dan buah."
+  },
+  "PJK-MH-0019": {
+   "perubahan": {
+    "options": [
+     "A. buah segar seperti jeruk",
+     "B. air putih yang cukup",
+     "C. sayur rebus seperti bayam",
+     "D. makanan manis dan berminyak"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci tetap D; buah, air putih, dan sayur tidak berbahaya bila banyak."
+  },
+  "PJK-MH-0021": {
+   "perubahan": {
+    "options": [
+     "A. disimpan untuk dimakan nanti",
+     "B. dimakan sedikit saja",
+     "C. diberikan kepada teman",
+     "D. tidak dimakan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh dibuat lebih masuk akal.",
+   "verifikasi": "Kunci tetap D; makanan kedaluwarsa tidak aman dimakan maupun diberikan."
+  },
+  "PJK-MH-0023": {
+   "perubahan": {
+    "options": [
+     "A. keripik dan es manis",
+     "B. nasi, ikan, dan sayur",
+     "C. gorengan saja",
+     "D. minuman bersoda"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh \"hanya permen\" diganti pilihan jajanan yang lebih masuk akal.",
+   "verifikasi": "Kunci tetap B; hanya B memuat karbohidrat, protein, dan sayur."
+  },
+  "PJK-MH-0038": {
+   "perubahan": {
+    "answer": "Benar",
+    "explanation": "Benar. Susu mengandung protein dan kalsium."
+   },
+   "jenis": [
+    "AKURASI_SALAH_TEGAS"
+   ],
+   "alasan": "Kunci Salah keliru: susu mengandung protein. Kunci diubah menjadi Benar sesuai usulan audit.",
+   "verifikasi": "Diverifikasi: susu sapi mengandung protein hewani dan kalsium; pernyataan benar."
+  },
+  "PJK-MH-0039": {
+   "perubahan": {
+    "question": "Benar atau salah: Untuk memilih snack kemasan yang baik, cukup melihat gambar kartun di kemasannya tanpa membaca label.",
+    "explanation": "Salah. Kita perlu membaca label gizi dan tanggal kedaluwarsa."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pernyataan salah absurd diganti pernyataan yang lebih masuk akal.",
+   "verifikasi": "Kunci tetap Salah."
+  },
+  "PJK-MH-0040": {
+   "perubahan": {
+    "question": "Benar atau salah: Vitamin dalam sayur dan buah tidak berguna bagi kesehatan tubuh.",
+    "explanation": "Salah. Vitamin dalam sayur dan buah membuat tubuh sehat."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pernyataan salah absurd diganti pernyataan yang lebih masuk akal.",
+   "verifikasi": "Kunci tetap Salah."
+  },
+  "PJK-MH-0041": {
+   "perubahan": {
+    "question": "Benar atau salah: Makanan bergizi seimbang cukup terdiri atas nasi saja.",
+    "explanation": "Salah. Makanan bergizi seimbang terdiri atas karbohidrat, protein, sayur, dan buah."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pernyataan salah absurd (permen) diganti pernyataan yang lebih masuk akal.",
+   "verifikasi": "Kunci tetap Salah."
+  },
+  "PJK-MH-0059": {
+   "perubahan": {
+    "question": "Sebutkan satu manfaat memakan telur dan golongan makanannya!",
+    "explanation": "Murid menyebut telur sebagai sumber protein dan satu manfaatnya, misalnya membantu pertumbuhan dan memperbaiki tubuh, dengan kalimat jelas."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria isi dibuat jelas pada penjelasan; soal dipersempit menjadi satu manfaat.",
+   "verifikasi": "Rubrik inti tidak diubah; kriteria isi sesuai fakta gizi dasar."
+  },
+  "PJK-MH-0061": {
+   "perubahan": {
+    "question": "Sebutkan satu manfaat memakan ikan dan golongan makanannya!",
+    "explanation": "Murid menyebut ikan sebagai sumber protein dan satu manfaatnya, misalnya membantu pertumbuhan dan memperbaiki tubuh, dengan kalimat jelas."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria isi dibuat jelas pada penjelasan; soal dipersempit menjadi satu manfaat.",
+   "verifikasi": "Rubrik inti tidak diubah; kriteria isi sesuai fakta gizi dasar."
+  },
+  "PJK-MH-0062": {
+   "perubahan": {
+    "question": "Sebutkan satu manfaat memakan nasi dan golongan makanannya!",
+    "explanation": "Murid menyebut nasi sebagai sumber karbohidrat dan satu manfaatnya, misalnya menjadi sumber tenaga, dengan kalimat jelas."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria isi dibuat jelas pada penjelasan; soal dipersempit menjadi satu manfaat.",
+   "verifikasi": "Rubrik inti tidak diubah; kriteria isi sesuai fakta gizi dasar."
+  },
+  "PJK-MH-0064": {
+   "perubahan": {
+    "question": "Sebutkan satu manfaat memakan jeruk dan golongan makanannya!",
+    "explanation": "Murid menyebut jeruk sebagai buah-buahan dan satu manfaatnya, misalnya mengandung vitamin yang membuat tubuh sehat, dengan kalimat jelas."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria isi dibuat jelas pada penjelasan; soal dipersempit menjadi satu manfaat.",
+   "verifikasi": "Rubrik inti tidak diubah; kriteria isi sesuai fakta gizi dasar."
+  },
+  "PJK-MH-0065": {
+   "perubahan": {
+    "question": "Sebutkan satu manfaat memakan bayam dan golongan makanannya!",
+    "explanation": "Murid menyebut bayam sebagai sayuran dan satu manfaatnya, misalnya mengandung vitamin yang membuat tubuh sehat, dengan kalimat jelas."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria isi dibuat jelas pada penjelasan; soal dipersempit menjadi satu manfaat.",
+   "verifikasi": "Rubrik inti tidak diubah; kriteria isi sesuai fakta gizi dasar."
+  },
+  "PJK-MH-0066": {
+   "perubahan": {
+    "question": "Sebutkan satu manfaat memakan wortel dan golongan makanannya!",
+    "explanation": "Murid menyebut wortel sebagai sayuran dan satu manfaatnya, misalnya mengandung vitamin yang membuat tubuh sehat, dengan kalimat jelas."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria isi dibuat jelas pada penjelasan; soal dipersempit menjadi satu manfaat.",
+   "verifikasi": "Rubrik inti tidak diubah; kriteria isi sesuai fakta gizi dasar."
+  },
+  "PJK-MH-0060": {
+   "perubahan": {
+    "question": "Sebutkan tiga makanan sehat yang biasa kamu makan dari golongan yang berbeda!",
+    "explanation": "Murid menyebut tiga makanan sehat dari golongan berbeda (misalnya karbohidrat, protein, sayur atau buah) dengan benar."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Soal tidak lagi bergantung ingatan hari ini; kriteria isi jelas.",
+   "verifikasi": "Rubrik inti tidak diubah."
+  },
+  "PJK-MH-0063": {
+   "perubahan": {
+    "question": "Gambar piring makan bergizi seimbang dan jelaskan isinya! Guru mengamati: (1) piring memuat sumber karbohidrat, protein, sayur, dan buah, (2) setiap isi disebut golongannya, (3) gambar tidak memuat jajanan manis atau berminyak.",
+    "explanation": "Murid menggambar piring berisi karbohidrat, protein, sayur, dan buah, serta menyebut golongan tiap isi."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati ditambahkan; rubrik inti tidak diubah.",
+   "verifikasi": "Kriteria sesuai konsep gizi seimbang pada bank."
+  },
+  "PJK-MH-0071": {
+   "perubahan": {
+    "options": [
+     "A. pergi bermain tanpa memberi tahu orang tua",
+     "B. bermain di tepi jalan raya yang ramai",
+     "C. memberi tahu orang tua dan bermain di tempat aman",
+     "D. bermain sendirian di tepi sungai yang dalam"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diperjelas dan disejajarkan panjang.",
+   "verifikasi": "Kunci tetap C; semua pengecoh berisiko."
+  },
+  "PJK-MH-0072": {
+   "perubahan": {
+    "options": [
+     "A. diam saja dan menunggu orang itu pergi",
+     "B. ikut dengan orang itu sebentar saja",
+     "C. menolak dan mencari guru atau orang tua",
+     "D. menerima hadiahnya dan mengikutinya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci tetap C; semua pengecoh tidak menolak dan tidak mencari bantuan orang dewasa tepercaya."
+  },
+  "PJK-MH-0082": {
+   "perubahan": {
+    "options": [
+     "A. dimainkan saat bosan di rumah",
+     "B. tidak dimainkan oleh anak kecil",
+     "C. dibawa ke sekolah untuk dipamerkan",
+     "D. dilempar ke teman saat bermain"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci tetap B; semua pengecoh berbahaya."
+  },
+  "PJK-MH-0085": {
+   "perubahan": {
+    "options": [
+     "A. menarik kabel agar terlepas",
+     "B. memainkannya bersama teman",
+     "C. memegang ujungnya untuk memeriksa",
+     "D. menjauh dan memberi tahu orang dewasa"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci tetap D; semua pengecoh berbahaya."
+  },
+  "PJK-MH-0088": {
+   "perubahan": {
+    "options": [
+     "A. teman bermain lalu melanjutkan permainan",
+     "B. tidak seorang pun agar tidak dimarahi",
+     "C. penjual di kantin sekolah",
+     "D. orang dewasa agar luka dibersihkan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd (hewan, musuh, tidak ada) diganti pilihan yang masuk akal tetapi bukan penanganan yang tepat.",
+   "verifikasi": "Kunci tetap D; luka perlu dibersihkan orang dewasa."
+  },
+  "PJK-MH-0089": {
+   "perubahan": {
+    "options": [
+     "A. menutup mata agar tidak takut pada mobil",
+     "B. berlari menyeberang tanpa menoleh",
+     "C. berhenti di tengah jalan untuk bermain",
+     "D. ditemani orang dewasa dan melihat kiri-kanan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci tetap D; semua pengecoh berbahaya."
+  },
+  "PJK-MH-0093": {
+   "perubahan": {
+    "options": [
+     "A. orang tua atau dokter",
+     "B. teman yang pernah sakit sama",
+     "C. penjual di warung dekat rumah",
+     "D. diri sendiri sesuai perkiraan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci tetap A; teman, penjual, atau diri sendiri bukan pemberi petunjuk obat yang tepat."
+  },
+  "PJK-MH-0094": {
+   "perubahan": {
+    "options": [
+     "A. menyembunyikan luka dari guru",
+     "B. marah kepada teman di lapangan",
+     "C. mencari bantuan orang dewasa",
+     "D. berlari menjauh dari guru"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan dibuat lebih masuk akal.",
+   "verifikasi": "Kunci tetap C; gambar menunjukkan anak memberi tahu guru."
+  },
+  "PJK-MH-0095": {
+   "perubahan": {
+    "options": [
+     "A. tidak peduli pada kendaraan",
+     "B. menyeberang jalan dengan aman",
+     "C. menyeberang tanpa menoleh",
+     "D. berlari di tengah jalan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh abstrak (berani sembarangan, ceroboh) diganti perilaku konkret.",
+   "verifikasi": "Kunci tetap B; anak berhenti, menggandeng ibu, dan menoleh."
+  },
+  "PJK-MH-0097": {
+   "perubahan": {
+    "options": [
+     "A. berjalan mengikuti orang itu ke mobilnya",
+     "B. menerima permen itu lalu ikut naik",
+     "C. diam saja dan menunggu orang itu pergi",
+     "D. menolak dan segera mencari guru atau orang tua"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci tetap D; pengecoh tidak mencari bantuan orang dewasa tepercaya."
+  },
+  "PJK-MH-0102": {
+   "perubahan": {
+    "answer": "Benar",
+    "explanation": "Benar. Saat bertemu kabel listrik yang terkelupas, kita menjauh dan memberi tahu orang dewasa, misalnya orang tua."
+   },
+   "jenis": [
+    "AKURASI_SALAH_TEGAS"
+   ],
+   "alasan": "Kunci Salah keliru: tindakan itu aman dan sesuai MH-0087. Kunci diubah menjadi Benar sesuai usulan audit.",
+   "verifikasi": "Diverifikasi: menjauh dan memanggil orang dewasa adalah tindakan yang tepat."
+  },
+  "PJK-MH-0105": {
+   "perubahan": {
+    "question": "Benar atau salah: Jika seseorang membuat kita merasa tidak nyaman, kita sebaiknya menyimpannya sendiri dan tidak bercerita kepada siapa pun.",
+    "explanation": "Salah. Kita berhak berkata tidak dan segera memberi tahu orang dewasa terpercaya."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat tidak jelas bagi kelas 1 ditulis ulang.",
+   "verifikasi": "Kunci tetap Salah."
+  },
+  "PJK-MH-0129": {
+   "perubahan": {
+    "question": "Peragakan cara menyeberang jalan dengan aman bersama orang dewasa di jalan tiruan yang dibuat guru di halaman sekolah! Guru mengamati: (1) berhenti di tepi jalan, (2) menoleh ke kiri dan kanan, (3) menggandeng orang dewasa dan berjalan tanpa berlari.",
+    "explanation": "Murid berhenti di tepi jalan, menoleh ke kiri dan kanan, serta berjalan menggandeng orang dewasa tanpa berlari."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-MH-0130": {
+   "perubahan": {
+    "question": "Peragakan tindakan yang tepat saat bertemu lantai yang licin pada area tiruan yang ditandai guru! Guru mengamati: (1) berhenti dan melihat lantai, (2) melangkah pelan dengan langkah kecil, (3) memberi tahu guru.",
+    "explanation": "Murid berhenti dan melihat lantai, melangkah pelan dengan langkah kecil, dan memberi tahu guru."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-MH-0132": {
+   "perubahan": {
+    "question": "Peragakan cara melapor kepada guru jika terluka! Guru mengamati: (1) mendekati guru, (2) menyebut bagian tubuh yang terluka, (3) menyampaikan kejadiannya dengan kalimat jelas.",
+    "explanation": "Murid mendekati guru, menyebut bagian yang terluka, dan menyampaikan kejadiannya dengan kalimat jelas."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
+   "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  }
+ },
+ "tidak_direvisi": {
+  "PJK-BG-0254": "Isian menuntut frasa panjang yang harus sama persis; perbaikan memerlukan perubahan kunci/format isian (keputusan ahli), bukan perbaikan redaksi.",
+  "PJK-HA-0132": "Berenang melibatkan risiko keselamatan di air dan memerlukan keputusan ahli/guru tentang pengawasan; tidak diubah.",
+  "PJK-HA-0068": "Pengecoh adalah lawan makna yang relevan dan masuk akal bagi kelas 1; perubahan tidak menambah mutu dan bergantung penilaian ahli.",
+  "PJK-HA-0069": "Pengecoh (lebih bugar, lebih kuat, lebih lincah) sudah masuk akal dan jelas salah; tidak ada perbaikan teridentifikasi yang pasti.",
+  "PJK-HA-0082": "Pengecoh berupa perasaan lain yang wajar sebagai lawan makna; tidak ada perbaikan pasti tanpa keputusan ahli.",
+  "PJK-HA-0085": "Pengecoh berupa lawan makna yang relevan; perbaikan tidak pasti tanpa keputusan ahli.",
+  "PJK-MH-0116": "Kunci isian berupa frasa panjang; perbaikan memerlukan perubahan format/kunci isian (keputusan ahli).",
+  "PJK-MH-0133": "Simulasi orang asing memerlukan protokol pengawasan dan peran yang diputuskan guru/ahli (risiko keselamatan); tidak diubah."
+ }
+}

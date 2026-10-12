@@ -743,6 +743,17 @@
    "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
    "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
   },
+  "PJK-BG-0129": {
+   "perubahan": {
+    "question": "Bersama timmu, bicarakan rencana singkat sebelum bermain! Guru mengamati: (1) setiap anggota menyampaikan satu usul, (2) tim memilih satu rencana bersama, (3) semua anggota menyebutkan tugasnya masing-masing.",
+    "explanation": "Guru mengamati setiap anggota menyampaikan usul, tim memilih rencana bersama, dan semua menyebutkan tugasnya."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
   "PJK-BG-0130": {
    "perubahan": {
     "question": "Mainkan estafet sederhana bersama timmu! Guru mengamati: (1) menunggu giliran di belakang garis, (2) menyerahkan tongkat ke tangan teman, (3) mengucapkan kata semangat kepada teman, misalnya \"Ayo, kamu bisa!\".",
@@ -1164,6 +1175,7 @@
   "PJK-TB-0420": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
   "PJK-TB-0430": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
   "PJK-TB-0431": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
+  "PJK-TB-0435": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
   "PJK-TB-0443": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
   "PJK-TB-0444": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
   "PJK-TB-0446": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",

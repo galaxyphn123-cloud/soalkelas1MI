@@ -1192,6 +1192,21 @@
    ],
    "alasan": "\"Agar menaati kegiatan\" tidak tepat; diganti \"Dalam kegiatan\".",
    "verifikasi": "Kunci tidak berubah; hanya templat stem."
+  },
+  "PPN-B4-0216": {
+   "perubahan": {
+    "options": [
+     "A. paksaan dari orang lain",
+     "B. permusuhan antarwarga",
+     "C. kemalasan dan sikap acuh",
+     "D. kepedulian dan kebersamaan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kerja sama menjaga lingkungan dilakukan dengan kepedulian dan kebersamaan; pengecoh bertentangan dengan kerja sama."
   }
  },
  "tidak_direvisi": {
@@ -1230,6 +1245,7 @@
   "PPN-B4-0247": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
   "PPN-B4-0248": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
   "PPN-B4-0249": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
-  "PPN-B4-0252": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS."
+  "PPN-B4-0252": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B3-0270": "Isian terbuka berkunci frasa persis; perbaikan (rubrik/pilihan ganda) mengubah tipe soal, keputusan ahli."
  }
 }
