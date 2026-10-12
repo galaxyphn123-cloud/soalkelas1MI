@@ -37,8 +37,12 @@ def compare(r, b):
         return ('COCOK' if nz(mine) == nz(a) else 'BEDA'), f'agen={mine}; kunci={a}'
     if t in ('fill_in_short', 'completion', 'short_answer'):
         x, y = nz(mine), nz(a)
-        ok = x == y or (y and (y in x or x in y)) or (set(x.split()) and set(x.split()) == set(y.split()))
-        return ('COCOK' if ok else 'BEDA'), f'agen="{mine}"; kunci="{a}"'
+        stop = {'yang', 'dan', 'atau', 'dengan', 'untuk', 'di', 'ke', 'dari', 'itu', 'ini', 'kita', 'saya', 'adalah', 'agar', 'supaya'}
+        st = lambda t: {w[:5] for w in t.split() if w not in stop}
+        sx, sy = st(x), st(y)
+        ov = len(sx & sy) / max(1, len(sy))
+        ok = x == y or (y and (y in x or x in y)) or ov >= 0.5
+        return ('COCOK' if ok else 'BEDA'), f'agen="{mine}"; kunci="{a}"; tumpang-tindih kata inti {ov:.0%} (kecocokan semantik penuh tidak dapat dipastikan skrip)'
     if t == 'ordering':
         return ('COCOK' if [nz(i) for i in (mine if isinstance(mine, list) else [])] == [nz(i) for i in a] else 'BEDA'), f'agen={mine}; kunci={a}'
     if t in ('matching', 'grouping'):

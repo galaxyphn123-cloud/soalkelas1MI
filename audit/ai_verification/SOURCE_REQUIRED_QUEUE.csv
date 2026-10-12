@@ -1,0 +1,176 @@
+question_id,mapel,tp_id,sumber_dibutuhkan,alasan,jawaban_ai_buta,kunci_bank
+AKA-KN-0036,Akidah Akhlak,TP-AKA-KN-01,Buku teks Akidah Akhlak Kelas 1 MI / kitab sirah nabawiyah,jawaban bergantung sumber: Buku teks Akidah Akhlak Kelas 1 MI / kitab sirah nabawiyah,"['Ibunda Aminah', ""Halimah as-Sa'diyah"", 'Abdul Muthalib', 'Abu Thalib']","[""Ibunda Aminah"", ""Halimah as-Sa'diyah"", ""Abdul Muthalib"", ""Abu Thalib""]"
+AKA-KN-0075,Akidah Akhlak,TP-AKA-KN-03,Buku teks Akidah Akhlak Kelas 1 MI / kitab sirah nabawiyah,jawaban bergantung sumber: Buku teks Akidah Akhlak Kelas 1 MI / kitab sirah nabawiyah,A,A
+AKA-KN-0079,Akidah Akhlak,TP-AKA-KN-03,Buku teks Akidah Akhlak Kelas 1 MI / kitab sirah nabawiyah,jawaban bergantung sumber: Buku teks Akidah Akhlak Kelas 1 MI / kitab sirah nabawiyah,C,C
+AKA-KN-0100,Akidah Akhlak,TP-AKA-KN-03,Buku teks Akidah Akhlak Kelas 1 MI / kitab sirah nabawiyah,jawaban bergantung sumber: Buku teks Akidah Akhlak Kelas 1 MI / kitab sirah nabawiyah,dalam kandungan,dalam kandungan
+AKA-RI-0018,Akidah Akhlak,TP-AKA-RI-01,Buku teks Akidah Akhlak Kelas 1 MI,jawaban bergantung sumber: Buku teks Akidah Akhlak Kelas 1 MI,A,A
+AKA-RI-0059,Akidah Akhlak,TP-AKA-RI-01,Buku teks Akidah Akhlak Kelas 1 MI,jawaban bergantung sumber: Buku teks Akidah Akhlak Kelas 1 MI,"percaya dengan hati, diucapkan, dan diamalkan","percaya dengan hati, diucapkan, dan diamalkan"
+AKA-RI-0069,Akidah Akhlak,TP-AKA-RI-02,Buku teks Akidah Akhlak Kelas 1 MI,jawaban bergantung sumber: Buku teks Akidah Akhlak Kelas 1 MI,C,C
+AKA-RI-0081,Akidah Akhlak,TP-AKA-RI-02,Buku teks Akidah Akhlak Kelas 1 MI,jawaban bergantung sumber: Buku teks Akidah Akhlak Kelas 1 MI,C,C
+AKA-RI-0104,Akidah Akhlak,TP-AKA-RI-02,Buku teks Akidah Akhlak Kelas 1 MI,jawaban bergantung sumber: Buku teks Akidah Akhlak Kelas 1 MI,Salah,Salah
+AKA-RI-0110,Akidah Akhlak,TP-AKA-RI-02,Buku teks Akidah Akhlak Kelas 1 MI,jawaban bergantung sumber: Buku teks Akidah Akhlak Kelas 1 MI,Raqib,Raqib
+AKA-RI-0118,Akidah Akhlak,TP-AKA-RI-02,Buku teks Akidah Akhlak Kelas 1 MI,jawaban bergantung sumber: Buku teks Akidah Akhlak Kelas 1 MI,Atid,Atid
+AKA-RI-0133,Akidah Akhlak,TP-AKA-RI-02,Buku teks Akidah Akhlak Kelas 1 MI,jawaban bergantung sumber: Buku teks Akidah Akhlak Kelas 1 MI,"{'Raqib': 'mencatat amal baik', 'Atid': 'mencatat amal buruk', 'Ridwan': 'menjaga surga', 'Malik': 'menjaga neraka'}","{""Raqib"": ""mencatat amal baik"", ""Atid"": ""mencatat amal buruk"", ""Ridwan"": ""menjaga surga"", ""Malik"": ""menjaga neraka""}"
+AKA-SH-0037,Akidah Akhlak,TP-AKA-SH-02,Buku teks Akidah Akhlak/PJOK Kelas 1 MI,jawaban bergantung sumber: Buku teks Akidah Akhlak/PJOK Kelas 1 MI,D,D
+AKA-SH-0063,Akidah Akhlak,TP-AKA-SH-02,Buku teks Kelas 1 MI,jawaban bergantung sumber: Buku teks Kelas 1 MI,6,6
+AKA-SH-0070,Akidah Akhlak,TP-AKA-SH-02,Buku teks Kelas 1 MI / panduan Kemenkes,jawaban bergantung sumber: Buku teks Kelas 1 MI / panduan Kemenkes,membasahi tangan dengan air mengalir (lalu memberi sabun),membasahi tangan dengan air mengalir dan memberi sabun
+AQH-FA-0042,Al-Quran Hadis,TP-AQH-FA-02,Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,jawaban bergantung sumber: Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,D,D
+AQH-FA-0050,Al-Quran Hadis,TP-AQH-FA-02,Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,jawaban bergantung sumber: Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,D,D
+AQH-FA-0057,Al-Quran Hadis,TP-AQH-FA-02,Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,jawaban bergantung sumber: Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,Benar,Benar
+AQH-FA-0059,Al-Quran Hadis,TP-AQH-FA-02,Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,jawaban bergantung sumber: Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,Salah,Salah
+AQH-FA-0066,Al-Quran Hadis,TP-AQH-FA-02,Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,jawaban bergantung sumber: Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,3,3
+AQH-FA-0067,Al-Quran Hadis,TP-AQH-FA-02,Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,jawaban bergantung sumber: Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,6,6
+AQH-FA-0102,Al-Quran Hadis,TP-AQH-FA-03,Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,jawaban bergantung sumber: Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,"Yang Maha Pengasih, Maha Penyayang","Yang Maha Pengasih, Maha Penyayang"
+AQH-FA-0103,Al-Quran Hadis,TP-AQH-FA-03,Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,jawaban bergantung sumber: Penomoran ayat Al-Fatihah (basmalah ayat 1 atau tidak) bergantung mushaf/Kemenag,"Dengan nama Allah Yang Maha Pengasih, Maha Penyayang","Dengan menyebut nama Allah Yang Maha Pengasih, Maha Penyayang"
+AQH-HJ-0003,Al-Quran Hadis,TP-AQH-HJ-01,Urutan hijaiah standar (28 huruf tanpa hamzah),jawaban bergantung sumber: Urutan hijaiah standar (28 huruf tanpa hamzah),B,B
+AQH-HK-0010,Al-Quran Hadis,TP-AQH-HK-01,Kitab hadis (Shahih Muslim) / buku teks,jawaban bergantung sumber: Kitab hadis (Shahih Muslim) / buku teks,A,A
+AQH-HK-0028,Al-Quran Hadis,TP-AQH-HK-01,Kitab hadis / buku teks,jawaban bergantung sumber: Kitab hadis / buku teks,Muslim,Muslim
+AQH-HK-0077,Al-Quran Hadis,TP-AQH-HK-03,Buku Al-Qur'an Hadis Kelas 1 MI,jawaban bergantung sumber: Buku Al-Qur'an Hadis Kelas 1 MI,Kebersihan itu sebagian dari iman,Kebersihan itu sebagian dari iman
+AQH-HT-0042,Al-Quran Hadis,TP-AQH-HT-02,Kosakata sesuai buku teks,jawaban bergantung sumber: Kosakata sesuai buku teks,C,C
+AQH-HT-0044,Al-Quran Hadis,TP-AQH-HT-02,Kosakata sesuai buku teks,jawaban bergantung sumber: Kosakata sesuai buku teks,A,A
+AQH-HT-0045,Al-Quran Hadis,TP-AQH-HT-02,Kosakata sesuai buku teks,jawaban bergantung sumber: Kosakata sesuai buku teks,C,C
+AQH-HT-0058,Al-Quran Hadis,TP-AQH-HT-02,Kosakata sesuai buku teks,jawaban bergantung sumber: Kosakata sesuai buku teks,C,C
+AQH-NS-0019,Al-Quran Hadis,TP-AQH-NS-01,Tafsir surah An-Nas / buku teks,jawaban bergantung sumber: Tafsir surah An-Nas / buku teks,C,C
+AQH-NS-0028,Al-Quran Hadis,TP-AQH-NS-01,Tafsir / buku teks,jawaban bergantung sumber: Tafsir / buku teks,menyebut nama Allah,menyebut nama Allah
+BAR-RM-0039,Bahasa Arab,TP-BAR-RM-01,Buku teks Bahasa Arab MI kelas 1,jawaban bergantung sumber: Buku teks Bahasa Arab MI kelas 1,D,D
+BAR-RM-0041,Bahasa Arab,TP-BAR-RM-01,Buku teks Bahasa Arab MI kelas 1,jawaban bergantung sumber: Buku teks Bahasa Arab MI kelas 1,Benar,Benar
+BAR-RM-0052,Bahasa Arab,TP-BAR-RM-01,Buku teks Bahasa Arab MI kelas 1,jawaban bergantung sumber: Buku teks Bahasa Arab MI kelas 1,meja makan,meja makan
+BIN-B1-0071,Bahasa Indonesia,TP-BIN-B1-03,KBBI/PUEBI (pemenggalan suku kata),jawaban bergantung sumber: KBBI/PUEBI (pemenggalan suku kata),Benar,Benar
+BIN-B2-0097,Bahasa Indonesia,TP-BIN-B2-04,KBBI/PUEBI (pemenggalan suku kata),jawaban bergantung sumber: KBBI/PUEBI (pemenggalan suku kata),C,C
+BIN-B3-0077,Bahasa Indonesia,TP-BIN-B3-03,KBBI/PUEBI (pemenggalan suku kata),jawaban bergantung sumber: KBBI/PUEBI (pemenggalan suku kata),A,A
+BIN-B5-0060,Bahasa Indonesia,TP-BIN-B5-03,KBBI/PUEBI (pemenggalan suku kata),jawaban bergantung sumber: KBBI/PUEBI (pemenggalan suku kata),A,A
+BIN-B5-0069,Bahasa Indonesia,TP-BIN-B5-03,KBBI/PUEBI (pemenggalan suku kata),jawaban bergantung sumber: KBBI/PUEBI (pemenggalan suku kata),C,C
+BIN-B7-0038,Bahasa Indonesia,TP-BIN-B7-02,KBBI,jawaban bergantung sumber: KBBI,D,D
+BIN-B7-0040,Bahasa Indonesia,TP-BIN-B7-02,KBBI,jawaban bergantung sumber: KBBI,A,A
+BIN-B8-0035,Bahasa Indonesia,TP-BIN-B8-02,PUEBI,jawaban bergantung sumber: PUEBI,A,A
+ENG-B2-0019,Bahasa Inggris,TP-ENG-B2-02,Buku teks Bahasa Inggris Kelas 1 (cara penyebutan 'chalk'),jawaban bergantung sumber: Buku teks Bahasa Inggris Kelas 1 (cara penyebutan 'chalk'),C,C
+ENG-B3-0009,Bahasa Inggris,TP-ENG-B3-01,Buku teks Bahasa Inggris Kelas 1 (kosakata bagian wajah),jawaban bergantung sumber: Buku teks Bahasa Inggris Kelas 1 (kosakata bagian wajah),B,B
+ENG-B6-0099,Bahasa Inggris,TP-ENG-B6-10,Buku teks yang dipakai (kosakata toko yang diajarkan),jawaban bergantung sumber: Buku teks yang dipakai (kosakata toko yang diajarkan),seller (juga: shopkeeper / salesperson),seller
+ENG-B9-0043,Bahasa Inggris,TP-ENG-B9-03,Buku teks bab (kata kerja yang diajarkan untuk tiap permainan),jawaban bergantung sumber: Buku teks bab (kata kerja yang diajarkan untuk tiap permainan),D,D
+FIK-KS-0035,Fikih,TP-FIK-KS-02,Transliterasi resmi/buku teks Fikih Kelas I,jawaban bergantung sumber: Transliterasi resmi/buku teks Fikih Kelas I,A,A
+FIK-KS-0045,Fikih,TP-FIK-KS-02,Kunci penempatan menurut buku teks,jawaban bergantung sumber: Kunci penempatan menurut buku teks,"{'Bagian syahadat tauhid': ['Asyhadu', 'illallah'], 'Bagian syahadat rasul': ['Muhammadar', 'rasulullah']}","{""Bagian syahadat tauhid"": [""Asyhadu"", ""illallah""], ""Bagian syahadat rasul"": [""Muhammadar"", ""rasulullah""]}"
+FIK-KS-0111,Fikih,TP-FIK-KS-02,Buku teks Fikih Kelas I,jawaban bergantung sumber: Buku teks Fikih Kelas I,A,A
+FIK-KS-0157,Fikih,TP-FIK-KS-04,Buku teks Fikih Kelas I,jawaban bergantung sumber: Buku teks Fikih Kelas I,C,C
+FIK-RI-0195,Fikih,TP-FIK-RI-04,Buku teks Fikih Kelas I,jawaban bergantung sumber: Buku teks Fikih Kelas I,A,A
+FIK-RI-0207,Fikih,TP-FIK-RI-04,Buku teks Fikih Kelas I,jawaban bergantung sumber: Buku teks Fikih Kelas I,C,C
+FIK-RI-0237,Fikih,TP-FIK-RI-01,Buku teks Fikih kelas 1 / ketetapan istilah,jawaban bergantung sumber: Buku teks Fikih kelas 1 / ketetapan istilah,Imsak (atau Subuh/terbit fajar),imsak
+FIK-RI-0247,Fikih,TP-FIK-RI-02,Buku teks Fikih kelas 1,jawaban bergantung sumber: Buku teks Fikih kelas 1,Haul (dimiliki penuh selama satu tahun) / milik penuh / melebihi kebutuhan pokok / Islam,Contoh jawaban: harta sudah dimiliki selama satu tahun (haul) / harta milik penuh.
+FIK-TH-0021,Fikih,TP-FIK-TH-01,Buku teks Fikih kelas 1 / mazhab Syafi'i,jawaban bergantung sumber: Buku teks Fikih kelas 1 / mazhab Syafi'i,C,C
+FIK-TH-0025,Fikih,TP-FIK-TH-02,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,D,D
+FIK-TH-0101,Fikih,TP-FIK-TH-01,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,B,B
+FIK-TH-0102,Fikih,TP-FIK-TH-01,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,tawaf,tawaf
+FIK-TH-0107,Fikih,TP-FIK-TH-02,Buku teks Fikih / mazhab Syafi'i,jawaban bergantung sumber: Buku teks Fikih / mazhab Syafi'i,B,B
+FIK-TH-0178,Fikih,TP-FIK-TH-01,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,B,B
+FIK-TH-0186,Fikih,TP-FIK-TH-01,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,Benar,Benar
+FIK-TH-0191,Fikih,TP-FIK-TH-02,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,C,C
+FIK-TH-0215,Fikih,TP-FIK-TH-03,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,D,D
+FIK-WT-0010,Fikih,TP-FIK-WT-01,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,C,C
+FIK-WT-0021,Fikih,TP-FIK-WT-01,Buku teks Fikih / mazhab Syafi'i,jawaban bergantung sumber: Buku teks Fikih / mazhab Syafi'i,A,A
+FIK-WT-0054,Fikih,TP-FIK-WT-02,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,C,C
+FIK-WT-0082,Fikih,TP-FIK-WT-01,Buku teks Fikih / mazhab Syafi'i,jawaban bergantung sumber: Buku teks Fikih / mazhab Syafi'i,B,B
+FIK-WT-0083,Fikih,TP-FIK-WT-01,Buku teks Fikih / mazhab Syafi'i,jawaban bergantung sumber: Buku teks Fikih / mazhab Syafi'i,B,B
+FIK-WT-0084,Fikih,TP-FIK-WT-01,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,Benar,Benar
+FIK-WT-0085,Fikih,TP-FIK-WT-01,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,6 (enam),Enam (6)
+FIK-WT-0086,Fikih,TP-FIK-WT-01,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,4 (empat),Empat (4)
+FIK-WT-0112,Fikih,TP-FIK-WT-01,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,"{'Benar': ['Wudu memiliki 6 rukun', 'Tayamum memiliki 4 rukun'], 'Salah': ['Tayamum menggunakan air', 'Wudu tidak memerlukan niat']}","{""Benar"": [""Wudu memiliki 6 rukun"", ""Tayamum memiliki 4 rukun""], ""Salah"": [""Tayamum menggunakan air"", ""Wudu tidak memerlukan niat""]}"
+FIK-WT-0140,Fikih,TP-FIK-WT-02,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,Tertib (berurutan),tertib (urutan)
+FIK-WT-0141,Fikih,TP-FIK-WT-02,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,C,C
+FIK-WT-0148,Fikih,TP-FIK-WT-03,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,C,C
+FIK-WT-0172,Fikih,TP-FIK-WT-01,Buku teks Fikih,jawaban bergantung sumber: Buku teks Fikih,A,A
+PJK-BG-0006,PJOK,TP-PJK-BG-01,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,C,C
+PJK-BG-0045,PJOK,TP-PJK-BG-01,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,permainan berjalan lancar / adil,permainan berjalan lancar
+PJK-BG-0046,PJOK,TP-PJK-BG-01,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,permainan menjadi adil,permainan menjadi adil
+PJK-BG-0053,PJOK,TP-PJK-BG-01,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,tubuh siap dan tidak cedera,otot siap dan terhindar cedera
+PJK-BG-0078,PJOK,TP-PJK-BG-02,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,A,A
+PJK-BG-0087,PJOK,TP-PJK-BG-02,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,B,B
+PJK-BG-0104,PJOK,TP-PJK-BG-02,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,Benar,Benar
+PJK-BG-0108,PJOK,TP-PJK-BG-02,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,Salah,Salah
+PJK-BG-0122,PJOK,TP-PJK-BG-02,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,tidak ada yang cedera,tidak ada yang cedera
+PJK-BG-0125,PJOK,TP-PJK-BG-02,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,"{'memberi semangat': 'tim menjadi kompak', 'berkomunikasi': 'tidak saling bertabrakan', 'menjaga posisi': 'lapangan terjaga rapi', 'saling membantu': 'tidak ada yang cedera'}","{""memberi semangat"": ""tim menjadi kompak"", ""berkomunikasi"": ""tidak saling bertabrakan"", ""menjaga posisi"": ""lapangan terjaga rapi"", ""saling membantu"": ""tidak ada yang cedera""}"
+PJK-BG-0258,PJOK,TP-PJK-BG-04,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,"['Berkumpul bersama tim', 'Berunding membagi peran', 'Menyepakati strategi', 'Mulai bermain']","[""Berkumpul bersama tim"", ""Berunding membagi peran"", ""Menyepakati strategi"", ""Mulai bermain""]"
+PJK-HA-0014,PJOK,TP-PJK-HA-01,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,C,C
+PJK-HA-0034,PJOK,TP-PJK-HA-01,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,Salah,Salah
+PJK-HA-0038,PJOK,TP-PJK-HA-01,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,Salah,Salah
+PJK-HA-0039,PJOK,TP-PJK-HA-01,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,Salah,Salah
+PJK-HA-0042,PJOK,TP-PJK-HA-01,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,kaki dan jantung menjadi kuat,kaki dan jantung menjadi kuat
+PJK-HA-0049,PJOK,TP-PJK-HA-01,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,badan menjadi bugar,badan menjadi kuat
+PJK-HA-0051,PJOK,TP-PJK-HA-01,Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,jawaban bergantung sumber: Buku teks PJOK Kelas 1 / kunci kurikulum sekolah,hati menjadi gembira,hati menjadi gembira
+PJK-MH-0012,PJOK,TP-PJK-MH-01,Buku teks PJOK/gizi Kelas 1 (klasifikasi kentang),jawaban bergantung sumber: Buku teks PJOK/gizi Kelas 1 (klasifikasi kentang),C,C
+PJK-MH-0035,PJOK,TP-PJK-MH-01,Buku teks PJOK/gizi Kelas 1 (klasifikasi kentang),jawaban bergantung sumber: Buku teks PJOK/gizi Kelas 1 (klasifikasi kentang),Salah,Salah
+PJK-MH-0120,PJOK,TP-PJK-MH-02,Buku teks PJOK Kelas 1,jawaban bergantung sumber: Buku teks PJOK Kelas 1,tidak menyentuh dan memberi tahu orang dewasa,tidak menyentuh dan memberi tahu orang dewasa
+PJK-TB-0001,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),B,B
+PJK-TB-0006,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),B,B
+PJK-TB-0009,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),D,D
+PJK-TB-0011,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),B,B
+PJK-TB-0012,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),B,B
+PJK-TB-0015,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),C,C
+PJK-TB-0022,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),B,B
+PJK-TB-0029,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),Benar,Benar
+PJK-TB-0030,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),Benar,Benar
+PJK-TB-0038,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),Salah,Salah
+PJK-TB-0040,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),meloncat,meloncat
+PJK-TB-0045,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),melompat,melompat
+PJK-TB-0049,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),berguling,berguling
+PJK-TB-0051,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),bertumpu pada dua kaki dan mendarat pada dua kaki,bertumpu pada dua kaki dan mendarat pada dua kaki
+PJK-TB-0054,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),bertumpu pada satu kaki dan mendarat pada kaki yang sama,bertumpu pada satu kaki dan mendarat pada kaki yang sama
+PJK-TB-0057,PJOK,TP-PJK-TB-01,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),meloncat,meloncat
+PJK-TB-0087,PJOK,TP-PJK-TB-02,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),C,C
+PJK-TB-0088,PJOK,TP-PJK-TB-02,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),C,C
+PJK-TB-0111,PJOK,TP-PJK-TB-02,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),menggerakkan benda menjauhi tubuh dengan tenaga,menekan benda menjauhi badan
+PJK-TB-0112,PJOK,TP-PJK-TB-02,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),menekuk badan ke depan di tempat,menekuk badan ke depan di tempat
+PJK-TB-0117,PJOK,TP-PJK-TB-02,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),membawa benda atau tubuh mendekat,membawa benda mendekati badan
+PJK-TB-0119,PJOK,TP-PJK-TB-02,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),melipat sendi seperti lutut atau siku,melipat sendi seperti lutut atau siku
+PJK-TB-0121,PJOK,TP-PJK-TB-02,Buku teks PJOK Kelas 1 (definisi istilah gerak),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (definisi istilah gerak),menggerakkan badan atau kepala berputar di tempat,menggerakkan badan atau kepala berputar di tempat
+PJK-TB-0277,PJOK,TP-PJK-TB-05,Buku teks PJOK Kelas 1 (klasifikasi lokomotor/non-lokomotor),jawaban bergantung sumber: Buku teks PJOK Kelas 1 (klasifikasi lokomotor/non-lokomotor),B,B
+PJK-TB-0290,PJOK,TP-PJK-TB-05,Buku teks PJOK Kelas 1,jawaban bergantung sumber: Buku teks PJOK Kelas 1,Benar,Benar
+PJK-TB-0308,PJOK,TP-PJK-TB-05,Buku teks PJOK Kelas 1,jawaban bergantung sumber: Buku teks PJOK Kelas 1,lokomotor dan non-lokomotor,lokomotor dan non-lokomotor
+PPN-B1-0083,Pancasila,TP-PPN-B1-02,Buku teks Pendidikan Pancasila Kelas 1 (rumah adat),jawaban bergantung sumber: Buku teks Pendidikan Pancasila Kelas 1 (rumah adat),D,D
+PPN-B1-0093,Pancasila,TP-PPN-B1-02,Buku teks Pendidikan Pancasila Kelas 1 (tempat ibadah),jawaban bergantung sumber: Buku teks Pendidikan Pancasila Kelas 1 (tempat ibadah),C,C
+PPN-B1-0106,Pancasila,TP-PPN-B1-02,Buku teks/sumber resmi agama Konghucu,jawaban bergantung sumber: Buku teks/sumber resmi agama Konghucu,B,B
+PPN-B1-0107,Pancasila,TP-PPN-B1-02,Buku teks Pendidikan Pancasila Kelas 1 (hari raya),jawaban bergantung sumber: Buku teks Pendidikan Pancasila Kelas 1 (hari raya),D,D
+PPN-B1-0114,Pancasila,TP-PPN-B1-02,Buku teks Pendidikan Pancasila Kelas 1 (tempat ibadah),jawaban bergantung sumber: Buku teks Pendidikan Pancasila Kelas 1 (tempat ibadah),C,C
+PPN-B1-0131,Pancasila,TP-PPN-B1-02,Buku teks Pendidikan Pancasila Kelas 1 (ejaan nama rumah adat),jawaban bergantung sumber: Buku teks Pendidikan Pancasila Kelas 1 (ejaan nama rumah adat),Rumoh Aceh,Rumoh Aceh
+PPN-B1-0143,Pancasila,TP-PPN-B1-02,Buku teks Pendidikan Pancasila Kelas 1 (tempat ibadah),jawaban bergantung sumber: Buku teks Pendidikan Pancasila Kelas 1 (tempat ibadah),"{'masjid': 'Islam', 'pura': 'Hindu', 'vihara': 'Buddha', 'klenteng': 'Konghucu'}","{""masjid"": ""Islam"", ""pura"": ""Hindu"", ""vihara"": ""Buddha"", ""klenteng"": ""Konghucu""}"
+PPN-B1-0157,Pancasila,TP-PPN-B1-03,Al-Qur'an QS. Al-Kafirun:6 dan terjemahan resmi Kemenag,jawaban bergantung sumber: Al-Qur'an QS. Al-Kafirun:6 dan terjemahan resmi Kemenag,D,D
+PPN-B1-0187,Pancasila,TP-PPN-B1-03,Al-Qur'an QS. Al-Kafirun:6 dan terjemahan resmi Kemenag,jawaban bergantung sumber: Al-Qur'an QS. Al-Kafirun:6 dan terjemahan resmi Kemenag,Salah,Salah
+PPN-B1-0198,Pancasila,TP-PPN-B1-03,Al-Qur'an QS. Al-Kafirun:6 dan terjemahan resmi Kemenag,jawaban bergantung sumber: Al-Qur'an QS. Al-Kafirun:6 dan terjemahan resmi Kemenag,untukmu agamamu dan untukku agamaku,untukmu agamamu dan untukku agamaku
+PPN-B2-0062,Pancasila,TP-PPN-B2-01,Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),jawaban bergantung sumber: Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),"lingkungan menjadi bersih, sehat, dan nyaman",rumah menjadi bersih
+PPN-B2-0065,Pancasila,TP-PPN-B2-01,Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),jawaban bergantung sumber: Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),dipercaya orang lain dan hidup tenang,dipercaya orang lain
+PPN-B2-0066,Pancasila,TP-PPN-B2-01,Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),jawaban bergantung sumber: Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),terhindar dari kuman dan penyakit,badan terhindar dari penyakit
+PPN-B2-0069,Pancasila,TP-PPN-B2-01,Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),jawaban bergantung sumber: Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),terhindar dari bahaya dan menjadi anak baik,terhindar dari kesalahan
+PPN-B2-0070,Pancasila,TP-PPN-B2-01,Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),jawaban bergantung sumber: Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),orang tua tahu keberadaan kita sehingga aman,orang tua tidak khawatir
+PPN-B2-0071,Pancasila,TP-PPN-B2-01,Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),jawaban bergantung sumber: Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),adik nyaman dan rukun,keluarga rukun
+PPN-B2-0073,Pancasila,TP-PPN-B2-01,Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),jawaban bergantung sumber: Buku teks PPKn/Pancasila Kelas 1 (jawaban kunci yang diharapkan),tidak mengganggu orang lain dan rumah tenang,suasana rumah tenang
+PPN-B2-0132,Pancasila,TP-PPN-B2-02,Buku teks (kunci yang diharapkan),jawaban bergantung sumber: Buku teks (kunci yang diharapkan),meminta maaf dan tidak mengulangi lagi,meminta maaf dan memperbaiki diri
+PPN-B2-0141,Pancasila,TP-PPN-B2-03,Hadis tentang rida Allah pada rida orang tua (riwayat At-Tirmidzi) / buku teks,jawaban bergantung sumber: Hadis tentang rida Allah pada rida orang tua (riwayat At-Tirmidzi) / buku teks,D,D
+PPN-B2-0170,Pancasila,TP-PPN-B2-03,Hadis rida Allah pada rida orang tua / buku teks,jawaban bergantung sumber: Hadis rida Allah pada rida orang tua / buku teks,Benar,Benar
+PPN-B2-0188,Pancasila,TP-PPN-B2-03,Buku teks (kunci yang diharapkan),jawaban bergantung sumber: Buku teks (kunci yang diharapkan),taat dan berbakti,taat dan berbakti
+PPN-B2-0190,Pancasila,TP-PPN-B2-03,Hadis rida Allah pada rida orang tua,jawaban bergantung sumber: Hadis rida Allah pada rida orang tua,Allah,Allah
+PPN-B2-0202,Pancasila,TP-PPN-B2-03,Buku teks (kunci yang diharapkan),jawaban bergantung sumber: Buku teks (kunci yang diharapkan),segera salat ketika azan berkumandang,segera salat ketika azan berkumandang
+PPN-B2-0207,Pancasila,TP-PPN-B2-03,Buku teks (kunci yang diharapkan),jawaban bergantung sumber: Buku teks (kunci yang diharapkan),mendengarkan nasihat dan melaksanakannya dengan baik,mendengarkan nasihat dengan baik
+PPN-B2-0208,Pancasila,TP-PPN-B2-03,Buku teks (kunci yang diharapkan),jawaban bergantung sumber: Buku teks (kunci yang diharapkan),menyimpan mainan di tempatnya setelah bermain,menyimpan mainan setelah bermain
+PPN-B2-0211,Pancasila,TP-PPN-B2-03,Buku teks (kunci yang diharapkan),jawaban bergantung sumber: Buku teks (kunci yang diharapkan),berpamitan dan meminta izin kepada orang tua,berpamitan dan meminta izin kepada orang tua
+PPN-B2-0212,Pancasila,TP-PPN-B2-03,Buku teks (urutan kunci),jawaban bergantung sumber: Buku teks (urutan kunci),"['Merapikan mainan', 'Menggosok gigi', 'Berdoa sebelum tidur', 'Tidur tepat waktu']","[""Merapikan mainan"", ""Menggosok gigi"", ""Berdoa sebelum tidur"", ""Tidur tepat waktu""]"
+PPN-B3-0092,Pancasila,TP-PPN-B3-02,Buku teks (pemetaan sila),jawaban bergantung sumber: Buku teks (pemetaan sila),C,C
+PPN-B3-0094,Pancasila,TP-PPN-B3-02,Buku teks (pemetaan sila),jawaban bergantung sumber: Buku teks (pemetaan sila),D,D
+PPN-B3-0120,Pancasila,TP-PPN-B3-02,Buku teks (pemetaan sila),jawaban bergantung sumber: Buku teks (pemetaan sila),Benar,Benar
+PPN-B3-0127,Pancasila,TP-PPN-B3-02,Buku teks (pemetaan sila),jawaban bergantung sumber: Buku teks (pemetaan sila),Salah,Salah
+PPN-B3-0137,Pancasila,TP-PPN-B3-02,Buku teks,jawaban bergantung sumber: Buku teks,5,5
+PPN-B3-0145,Pancasila,TP-PPN-B3-02,Buku teks (pemetaan sila),jawaban bergantung sumber: Buku teks (pemetaan sila),3,3
+PPN-B3-0150,Pancasila,TP-PPN-B3-02,Buku teks,jawaban bergantung sumber: Buku teks,bersikap adil kepada semua orang,bersikap adil kepada semua orang
+PPN-B3-0166,Pancasila,TP-PPN-B3-03,Buku teks (pemetaan sila),jawaban bergantung sumber: Buku teks (pemetaan sila),B,B
+PPN-B3-0168,Pancasila,TP-PPN-B3-03,Buku teks (pemetaan sila),jawaban bergantung sumber: Buku teks (pemetaan sila),D,D
+PPN-B3-0169,Pancasila,TP-PPN-B3-03,Buku teks (pemetaan sila),jawaban bergantung sumber: Buku teks (pemetaan sila),D,D
+PPN-B3-0175,Pancasila,TP-PPN-B3-03,Buku teks (pemetaan sila),jawaban bergantung sumber: Buku teks (pemetaan sila),Benar,Benar
+PPN-B3-0182,Pancasila,TP-PPN-B3-03,Buku teks (pemetaan sila),jawaban bergantung sumber: Buku teks (pemetaan sila),Benar,Benar
+PPN-B3-0187,Pancasila,TP-PPN-B3-03,Pemetaan sikap ke sila bergantung pada buku teks,jawaban bergantung sumber: Pemetaan sikap ke sila bergantung pada buku teks,Benar,Benar
+PPN-B3-0191,Pancasila,TP-PPN-B3-03,Pemetaan sikap ke sila bergantung pada buku teks,jawaban bergantung sumber: Pemetaan sikap ke sila bergantung pada buku teks,Salah,Salah
+PPN-B3-0194,Pancasila,TP-PPN-B3-03,Pemetaan sikap ke sila bergantung pada buku teks,jawaban bergantung sumber: Pemetaan sikap ke sila bergantung pada buku teks,Salah,Salah
+PPN-B3-0197,Pancasila,TP-PPN-B3-03,Pemetaan sikap ke sila bergantung pada buku teks,jawaban bergantung sumber: Pemetaan sikap ke sila bergantung pada buku teks,Salah,Salah
+PPN-B3-0208,Pancasila,TP-PPN-B3-03,Pemetaan sikap ke sila bergantung pada buku teks,jawaban bergantung sumber: Pemetaan sikap ke sila bergantung pada buku teks,5,5
+PPN-B3-0210,Pancasila,TP-PPN-B3-03,Pemetaan sikap ke sila bergantung pada buku teks,jawaban bergantung sumber: Pemetaan sikap ke sila bergantung pada buku teks,3,3
+PPN-B3-0212,Pancasila,TP-PPN-B3-03,Pemetaan sikap ke sila bergantung pada buku teks,jawaban bergantung sumber: Pemetaan sikap ke sila bergantung pada buku teks,3,3
+PPN-B3-0243,Pancasila,TP-PPN-B3-04,Buku teks PAI/Pancasila integrasi keislaman (hubbul wathan),jawaban bergantung sumber: Buku teks PAI/Pancasila integrasi keislaman (hubbul wathan),Benar,Benar
+PPN-B3-0275,Pancasila,TP-PPN-B3-04,Buku teks PAI/Pancasila integrasi keislaman,jawaban bergantung sumber: Buku teks PAI/Pancasila integrasi keislaman,menjaga negeri adalah bagian dari kebaikan,menjaga negeri adalah bagian dari kebaikan
+PPN-B4-0163,Pancasila,TP-PPN-B4-03,Rujukan hadis kebersihan (Muslim: 'ath-thuhuru syathrul iman'),jawaban bergantung sumber: Rujukan hadis kebersihan (Muslim: 'ath-thuhuru syathrul iman'),D,D
+PPN-B4-0207,Pancasila,TP-PPN-B4-03,Rujukan hadis kebersihan,jawaban bergantung sumber: Rujukan hadis kebersihan,kebersihan sebagian dari iman,kebersihan sebagian dari iman

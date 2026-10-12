@@ -1,0 +1,59 @@
+{
+ "total_id": 1302,
+ "status": {
+  "AI_FLAGGED": 314,
+  "AI_VERIFIED": 471,
+  "SOURCE_REQUIRED": 175,
+  "EXPERT_REQUIRED": 342
+ },
+ "dengan_hasil_buta": 1302,
+ "ada_masalah_unik_id": 691,
+ "cek_lolos": {
+  "C01_ID_DAN_BERKAS": {
+   "PASS": 1302
+  },
+  "C02_METADATA_RIWAYAT": {
+   "PASS": 1302
+  },
+  "C03_STRUKTUR_SOAL": {
+   "PASS": 1302
+  },
+  "C04_HITUNG_ULANG": {
+   "NA": 1241,
+   "PASS": 61
+  },
+  "C05_KUNCI_VS_PENJELASAN": {
+   "PASS": 1290,
+   "WARN": 12
+  },
+  "C06_JAWABAN_GANDA_HEURISTIK": {
+   "NA": 660,
+   "PASS": 626,
+   "WARN": 16
+  },
+  "C07_KONFLIK_KUNCI_ANTARSOAL": {
+   "PASS": 1302
+  },
+  "C08_DUPLIKASI": {
+   "PASS": 1275,
+   "WARN": 24,
+   "FAIL": 3
+  },
+  "C09_BEBAN_BACA": {
+   "PASS": 1288,
+   "WARN": 14
+  },
+  "C10_BUKTI_PEMETAAN": {
+   "PASS": 1302
+  },
+  "C11_TP_DI_TEKS_ATP": {
+   "PASS": 385,
+   "WARN": 917
+  },
+  "C12_JAWABAN_BUTA_VS_KUNCI": {
+   "COCOK": 1178,
+   "BEDA": 88,
+   "NA": 36
+  }
+ }
+}
