@@ -9,7 +9,7 @@ Bank soal digital 1.000 soal per mata pelajaran berdasarkan ATP (file ATP/KKTP a
 | 3 | Bahasa Arab | **Selesai** (1.000 soal) | `bahasa_arab/` |
 | 4 | Akidah Akhlak | **Selesai** (1.000 soal) | `akidah_akhlak/` |
 | 5 | Bahasa Indonesia | **Selesai** (1.000 soal) | `bahasa_indonesia/` |
-| 6 | Matematika | Belum | - |
+| 6 | Matematika | **Selesai** (1.000 soal) | `matematika/` |
 | 7 | Pendidikan Pancasila | Belum | - |
 | 8 | PJOK | Belum | - |
 | 9 | Bahasa Inggris | Belum | - |
@@ -46,3 +46,8 @@ Teks soal tidak kembar di dalam mapel maupun terhadap Fikih, Al-Qur'an Hadis, da
 8 bab, 36 TP (ILMA). ATP tidak merinci JP per bab, jadi soal dibagi sebanding jumlah TP: bab 4 TP = 111 soal, bab 5 TP = 139 soal.
 Prefix ID `BIN-B<n>-NNNN`. Pembangkit di `bahasa_indonesia/generator/`
 (`python3 -I build_bin.py ../bin_bank_1000.json`, lalu `python3 -I make_files.py ../bin_bank_1000.json ..`).
+
+## Matematika
+8 bab, 30 TP (ILMA). Soal dibagi sebanding jumlah TP: bab 4 TP = 133/134 soal, bab 3 TP (Mengenal Bentuk, Data) = 100 soal.
+Prefix ID `MTK-B<n>-NNNN`. Kunci soal hitung (penjumlahan, pengurangan, perbandingan, nilai tempat, data) dihitung oleh program.
+Pembangkit di `matematika/generator/` (`python3 -I build_mtk.py ../mtk_bank_1000.json`, lalu `python3 -I make_files.py ../mtk_bank_1000.json ..`).

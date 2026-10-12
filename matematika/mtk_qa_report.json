@@ -1,0 +1,439 @@
+{
+ "subject": "Matematika",
+ "grade": 1,
+ "phase": "A",
+ "sumber": "mtk_bank_1000.json",
+ "tanggal_audit": "2026-10-12",
+ "total_soal": 1000,
+ "id_unik": 1000,
+ "semua_punya_jawaban": true,
+ "semua_punya_penjelasan": true,
+ "teks_soal_unik_non_matching_ordering_grouping": 964,
+ "jumlah_soal_non_matching_ordering_grouping": 964,
+ "teks_soal_sama_tetapi_isi_di_opsi": {
+  "jumlah_teks": 6,
+  "per_tipe": {
+   "matching": 11,
+   "ordering": 8
+  },
+  "catatan": "Hanya tipe matching/ordering/grouping; isi soal ada pada opsi dan jawaban sehingga tidak kembar."
+ },
+ "per_materi": {
+  "Bab 1. Mengenal Bilangan sampai 10": 134,
+  "Bab 2. Penjumlahan sampai dengan 10": 134,
+  "Bab 3. Pengurangan sampai dengan 10": 133,
+  "Bab 4. Mengenal Bentuk": 100,
+  "Bab 5. Pengukuran Panjang": 133,
+  "Bab 6. Bilangan sampai dengan 20": 133,
+  "Bab 7. Penjumlahan dan Pengurangan sampai dengan 20": 133,
+  "Bab 8. Data": 100
+ },
+ "per_tp": {
+  "TP-MTK-B1-01": 34,
+  "TP-MTK-B1-02": 31,
+  "TP-MTK-B1-03": 35,
+  "TP-MTK-B1-04": 34,
+  "TP-MTK-B2-01": 39,
+  "TP-MTK-B2-02": 37,
+  "TP-MTK-B2-03": 29,
+  "TP-MTK-B2-04": 29,
+  "TP-MTK-B3-01": 27,
+  "TP-MTK-B3-02": 52,
+  "TP-MTK-B3-03": 26,
+  "TP-MTK-B3-04": 28,
+  "TP-MTK-B4-01": 34,
+  "TP-MTK-B4-02": 33,
+  "TP-MTK-B4-03": 33,
+  "TP-MTK-B5-01": 39,
+  "TP-MTK-B5-02": 33,
+  "TP-MTK-B5-03": 27,
+  "TP-MTK-B5-04": 34,
+  "TP-MTK-B6-01": 34,
+  "TP-MTK-B6-02": 33,
+  "TP-MTK-B6-03": 30,
+  "TP-MTK-B6-04": 36,
+  "TP-MTK-B7-01": 33,
+  "TP-MTK-B7-02": 34,
+  "TP-MTK-B7-03": 35,
+  "TP-MTK-B7-04": 31,
+  "TP-MTK-B8-01": 34,
+  "TP-MTK-B8-02": 40,
+  "TP-MTK-B8-03": 26
+ },
+ "per_difficulty": {
+  "easy": 563,
+  "medium": 397,
+  "hard": 40
+ },
+ "per_question_type": {
+  "multiple_choice": 366,
+  "multiple_choice_visual": 52,
+  "true_false": 202,
+  "fill_in_short": 199,
+  "matching": 16,
+  "performance_task": 37,
+  "ordering": 14,
+  "contextual": 79,
+  "completion": 29,
+  "grouping": 6
+ },
+ "jumlah_soal_pilihan_ganda_format_ABCD": 497,
+ "posisi_kunci_pilihan_ganda": {
+  "A": 125,
+  "B": 124,
+  "C": 124,
+  "D": 124
+ },
+ "pilihan_ganda_kunci_opsi_terpanjang": 114,
+ "true_false_distribusi_jawaban": {
+  "Benar": 104,
+  "Salah": 98
+ },
+ "soal_visual": 52,
+ "jumlah_temuan_validasi": 0,
+ "temuan_validasi": [],
+ "pasangan_hampir_duplikat_(kemiripan>=0.9)": {
+  "jumlah": 83,
+  "lintas_materi": 6,
+  "dengan_jawaban_sama": 20,
+  "daftar": [
+   [
+    "MTK-B1-0013",
+    "MTK-B1-0028"
+   ],
+   [
+    "MTK-B1-0013",
+    "MTK-B6-0011"
+   ],
+   [
+    "MTK-B1-0016",
+    "MTK-B6-0013"
+   ],
+   [
+    "MTK-B1-0029",
+    "MTK-B6-0027"
+   ],
+   [
+    "MTK-B1-0033",
+    "MTK-B6-0034"
+   ],
+   [
+    "MTK-B1-0068",
+    "MTK-B1-0079"
+   ],
+   [
+    "MTK-B1-0071",
+    "MTK-B1-0077"
+   ],
+   [
+    "MTK-B1-0072",
+    "MTK-B1-0078"
+   ],
+   [
+    "MTK-B1-0075",
+    "MTK-B1-0077"
+   ],
+   [
+    "MTK-B1-0080",
+    "MTK-B1-0090"
+   ],
+   [
+    "MTK-B1-0081",
+    "MTK-B1-0084"
+   ],
+   [
+    "MTK-B1-0084",
+    "MTK-B1-0089"
+   ],
+   [
+    "MTK-B1-0085",
+    "MTK-B1-0087"
+   ],
+   [
+    "MTK-B1-0086",
+    "MTK-B1-0088"
+   ],
+   [
+    "MTK-B2-0070",
+    "MTK-B3-0076"
+   ],
+   [
+    "MTK-B2-0076",
+    "MTK-B7-0067"
+   ],
+   [
+    "MTK-B2-0078",
+    "MTK-B2-0099"
+   ],
+   [
+    "MTK-B2-0081",
+    "MTK-B2-0100"
+   ],
+   [
+    "MTK-B2-0086",
+    "MTK-B2-0102"
+   ],
+   [
+    "MTK-B2-0087",
+    "MTK-B2-0104"
+   ],
+   [
+    "MTK-B2-0114",
+    "MTK-B2-0125"
+   ],
+   [
+    "MTK-B3-0011",
+    "MTK-B3-0015"
+   ],
+   [
+    "MTK-B3-0085",
+    "MTK-B3-0099"
+   ],
+   [
+    "MTK-B3-0091",
+    "MTK-B3-0094"
+   ],
+   [
+    "MTK-B3-0114",
+    "MTK-B3-0123"
+   ],
+   [
+    "MTK-B4-0035",
+    "MTK-B4-0037"
+   ],
+   [
+    "MTK-B4-0038",
+    "MTK-B4-0040"
+   ],
+   [
+    "MTK-B4-0038",
+    "MTK-B4-0045"
+   ],
+   [
+    "MTK-B4-0038",
+    "MTK-B4-0046"
+   ],
+   [
+    "MTK-B4-0038",
+    "MTK-B4-0048"
+   ],
+   [
+    "MTK-B4-0040",
+    "MTK-B4-0045"
+   ],
+   [
+    "MTK-B4-0040",
+    "MTK-B4-0046"
+   ],
+   [
+    "MTK-B4-0040",
+    "MTK-B4-0048"
+   ],
+   [
+    "MTK-B4-0045",
+    "MTK-B4-0046"
+   ],
+   [
+    "MTK-B4-0045",
+    "MTK-B4-0048"
+   ],
+   [
+    "MTK-B4-0046",
+    "MTK-B4-0048"
+   ],
+   [
+    "MTK-B4-0084",
+    "MTK-B4-0088"
+   ],
+   [
+    "MTK-B5-0017",
+    "MTK-B5-0025"
+   ],
+   [
+    "MTK-B5-0019",
+    "MTK-B5-0022"
+   ],
+   [
+    "MTK-B5-0040",
+    "MTK-B5-0053"
+   ],
+   [
+    "MTK-B5-0041",
+    "MTK-B5-0044"
+   ],
+   [
+    "MTK-B5-0042",
+    "MTK-B5-0051"
+   ],
+   [
+    "MTK-B5-0045",
+    "MTK-B5-0054"
+   ],
+   [
+    "MTK-B5-0045",
+    "MTK-B5-0060"
+   ],
+   [
+    "MTK-B5-0045",
+    "MTK-B5-0064"
+   ],
+   [
+    "MTK-B5-0046",
+    "MTK-B5-0057"
+   ],
+   [
+    "MTK-B5-0047",
+    "MTK-B5-0061"
+   ],
+   [
+    "MTK-B5-0048",
+    "MTK-B5-0062"
+   ],
+   [
+    "MTK-B5-0049",
+    "MTK-B5-0058"
+   ],
+   [
+    "MTK-B5-0050",
+    "MTK-B5-0059"
+   ],
+   [
+    "MTK-B5-0054",
+    "MTK-B5-0060"
+   ],
+   [
+    "MTK-B5-0055",
+    "MTK-B5-0056"
+   ],
+   [
+    "MTK-B5-0063",
+    "MTK-B5-0065"
+   ],
+   [
+    "MTK-B6-0022",
+    "MTK-B6-0030"
+   ],
+   [
+    "MTK-B6-0026",
+    "MTK-B6-0028"
+   ],
+   [
+    "MTK-B6-0036",
+    "MTK-B6-0044"
+   ],
+   [
+    "MTK-B6-0044",
+    "MTK-B6-0045"
+   ],
+   [
+    "MTK-B6-0087",
+    "MTK-B6-0091"
+   ],
+   [
+    "MTK-B6-0105",
+    "MTK-B6-0109"
+   ],
+   [
+    "MTK-B6-0112",
+    "MTK-B6-0115"
+   ],
+   [
+    "MTK-B6-0112",
+    "MTK-B6-0118"
+   ],
+   [
+    "MTK-B6-0113",
+    "MTK-B6-0115"
+   ],
+   [
+    "MTK-B7-0006",
+    "MTK-B7-0008"
+   ],
+   [
+    "MTK-B7-0018",
+    "MTK-B7-0053"
+   ],
+   [
+    "MTK-B7-0022",
+    "MTK-B7-0089"
+   ],
+   [
+    "MTK-B7-0105",
+    "MTK-B7-0106"
+   ],
+   [
+    "MTK-B7-0105",
+    "MTK-B7-0111"
+   ],
+   [
+    "MTK-B7-0105",
+    "MTK-B7-0113"
+   ],
+   [
+    "MTK-B7-0106",
+    "MTK-B7-0111"
+   ],
+   [
+    "MTK-B7-0106",
+    "MTK-B7-0113"
+   ],
+   [
+    "MTK-B7-0106",
+    "MTK-B7-0115"
+   ],
+   [
+    "MTK-B7-0109",
+    "MTK-B7-0115"
+   ],
+   [
+    "MTK-B7-0109",
+    "MTK-B7-0131"
+   ],
+   [
+    "MTK-B7-0111",
+    "MTK-B7-0113"
+   ],
+   [
+    "MTK-B7-0115",
+    "MTK-B7-0131"
+   ],
+   [
+    "MTK-B7-0118",
+    "MTK-B7-0126"
+   ],
+   [
+    "MTK-B7-0120",
+    "MTK-B7-0123"
+   ],
+   [
+    "MTK-B8-0014",
+    "MTK-B8-0023"
+   ],
+   [
+    "MTK-B8-0017",
+    "MTK-B8-0021"
+   ],
+   [
+    "MTK-B8-0042",
+    "MTK-B8-0069"
+   ],
+   [
+    "MTK-B8-0043",
+    "MTK-B8-0059"
+   ],
+   [
+    "MTK-B8-0052",
+    "MTK-B8-0056"
+   ],
+   [
+    "MTK-B8-0053",
+    "MTK-B8-0057"
+   ]
+  ]
+ },
+ "cek_duplikat_lintas_materi": "Dilakukan saat pemilihan soal (kunci teks + opsi + gambar) dan diverifikasi ulang pada audit ini.",
+ "catatan": [
+  "Kunci soal hitung dihitung oleh program; soal konsep, bentuk, pengukuran, dan data ditulis dari fakta dan skenario sesuai TP pada ATP ILMA.",
+  "Soal bergambar memuat deskripsi ilustrasi pada visual_prompt."
+ ]
+}

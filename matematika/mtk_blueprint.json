@@ -1,0 +1,884 @@
+{
+ "subject": "Matematika",
+ "grade": 1,
+ "phase": "A",
+ "jenjang": "MI",
+ "sumber_atp": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "total_soal": 1000,
+ "catatan": "ATP tidak merinci JP per bab; soal dibagi sebanding jumlah TP (bab 4 TP = 133/134 soal, bab 3 TP = 100 soal; 8 bab, 30 TP).",
+ "materi": [
+  {
+   "material": "Bab 1. Mengenal Bilangan sampai 10",
+   "prefix": "MTK-B1",
+   "alokasi_jp": null,
+   "jumlah_soal": 134,
+   "tp": [
+    {
+     "tp_id": "TP-MTK-B1-01",
+     "tp": "Murid mampu menghitung, membaca, dan menulis bilangan sampai 10 dengan percaya diri.",
+     "jumlah_soal": 34,
+     "distribusi_difficulty": {
+      "easy": 31,
+      "medium": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "multiple_choice_visual": 3,
+      "true_false": 7,
+      "fill_in_short": 4,
+      "matching": 3,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 10,
+      "mengenali": 16,
+      "menerapkan": 5,
+      "mencocokkan": 3
+     },
+     "kompetensi": [
+      "Menghitung, membaca, dan menulis bilangan 1-10"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B1-02",
+     "tp": "Murid mampu membandingkan bilangan sampai 10 dengan benar.",
+     "jumlah_soal": 31,
+     "distribusi_difficulty": {
+      "easy": 25,
+      "medium": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "multiple_choice_visual": 3,
+      "true_false": 3,
+      "fill_in_short": 9,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 30,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Membandingkan bilangan sampai 10"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B1-03",
+     "tp": "Murid mampu mengurutkan bilangan sampai 10 dengan benar.",
+     "jumlah_soal": 35,
+     "distribusi_difficulty": {
+      "medium": 15,
+      "easy": 20
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 14,
+      "true_false": 11,
+      "fill_in_short": 5,
+      "ordering": 4,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengurutkan": 34,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mengurutkan bilangan sampai 10"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B1-04",
+     "tp": "Murid mampu menerapkan pengetahuan tentang bilangan dalam kehidupan sehari-hari sesuai ajaran Islam, seperti untuk berbagi secara adil dan bersedekah.",
+     "jumlah_soal": 34,
+     "distribusi_difficulty": {
+      "easy": 12,
+      "medium": 22
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "multiple_choice_visual": 1,
+      "contextual": 13,
+      "true_false": 6,
+      "fill_in_short": 4,
+      "completion": 2,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 6,
+      "menerapkan": 23,
+      "mengingat": 5
+     },
+     "kompetensi": [
+      "Berbagi adil dan bersedekah",
+      "Memahami konsep",
+      "Menerapkan konsep dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 2. Penjumlahan sampai dengan 10",
+   "prefix": "MTK-B2",
+   "alokasi_jp": null,
+   "jumlah_soal": 134,
+   "tp": [
+    {
+     "tp_id": "TP-MTK-B2-01",
+     "tp": "Murid mampu menemukan pasangan bilangan dengan benar.",
+     "jumlah_soal": 39,
+     "distribusi_difficulty": {
+      "easy": 33,
+      "medium": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 21,
+      "true_false": 2,
+      "fill_in_short": 12,
+      "matching": 2,
+      "ordering": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "menganalisis": 35,
+      "mencocokkan": 2,
+      "mengurutkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Menemukan pasangan bilangan"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B2-02",
+     "tp": "Murid mampu melakukan operasi penjumlahan dengan benar.",
+     "jumlah_soal": 37,
+     "distribusi_difficulty": {
+      "easy": 29,
+      "medium": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 23,
+      "multiple_choice_visual": 6,
+      "fill_in_short": 7,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 35,
+      "menganalisis": 2
+     },
+     "kompetensi": [
+      "Penjumlahan sampai 10"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B2-03",
+     "tp": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
+     "jumlah_soal": 29,
+     "distribusi_difficulty": {
+      "medium": 18,
+      "easy": 11
+     },
+     "distribusi_question_type": {
+      "contextual": 11,
+      "true_false": 11,
+      "completion": 6,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 29
+     },
+     "kompetensi": [
+      "Soal cerita penjumlahan"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B2-04",
+     "tp": "Murid mampu menerapkan ilmu tentang penjumlahan dalam kehidupan sehari-hari dengan sikap yang jujur dan mengharapkan rida-Nya.",
+     "jumlah_soal": 29,
+     "distribusi_difficulty": {
+      "easy": 19,
+      "medium": 10
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "multiple_choice_visual": 1,
+      "contextual": 2,
+      "true_false": 14,
+      "fill_in_short": 5,
+      "completion": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 10,
+      "menerapkan": 5,
+      "mengingat": 14
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan konsep dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 3. Pengurangan sampai dengan 10",
+   "prefix": "MTK-B3",
+   "alokasi_jp": null,
+   "jumlah_soal": 133,
+   "tp": [
+    {
+     "tp_id": "TP-MTK-B3-01",
+     "tp": "Murid mampu mengenal cara melakukan pengurangan.",
+     "jumlah_soal": 27,
+     "distribusi_difficulty": {
+      "easy": 12,
+      "medium": 15
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 8,
+      "multiple_choice_visual": 1,
+      "true_false": 8,
+      "fill_in_short": 8,
+      "matching": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 9,
+      "menerapkan": 2,
+      "mengingat": 15,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Mencocokkan",
+      "Menerapkan konsep dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B3-02",
+     "tp": "Murid mampu melakukan operasi pengurangan dengan benar.",
+     "jumlah_soal": 52,
+     "distribusi_difficulty": {
+      "easy": 44,
+      "medium": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 36,
+      "multiple_choice_visual": 6,
+      "fill_in_short": 9,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 50,
+      "menganalisis": 2
+     },
+     "kompetensi": [
+      "Pengurangan sampai 10"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B3-03",
+     "tp": "Murid mampu menyelesaikan soal cerita pengurangan dengan benar.",
+     "jumlah_soal": 26,
+     "distribusi_difficulty": {
+      "medium": 17,
+      "easy": 9
+     },
+     "distribusi_question_type": {
+      "contextual": 9,
+      "true_false": 9,
+      "completion": 7,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 26
+     },
+     "kompetensi": [
+      "Soal cerita pengurangan"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B3-04",
+     "tp": "Murid mampu menerapkan operasi hitung pengurangan dalam konteks berbagi sebagai wujud kepedulian terhadap sesama.",
+     "jumlah_soal": 28,
+     "distribusi_difficulty": {
+      "easy": 17,
+      "medium": 11
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "contextual": 4,
+      "true_false": 10,
+      "fill_in_short": 9,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 7,
+      "menerapkan": 16,
+      "mengingat": 5
+     },
+     "kompetensi": [
+      "Berbagi sebagai wujud kepedulian",
+      "Memahami konsep",
+      "Menerapkan konsep dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 4. Mengenal Bentuk",
+   "prefix": "MTK-B4",
+   "alokasi_jp": null,
+   "jumlah_soal": 100,
+   "tp": [
+    {
+     "tp_id": "TP-MTK-B4-01",
+     "tp": "Murid mampu mendeskripsikan benda berdasarkan bentuk dengan benar sebagai bagian dari mengamalkan ilmu dengan baik.",
+     "jumlah_soal": 34,
+     "distribusi_difficulty": {
+      "medium": 11,
+      "easy": 23
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "multiple_choice_visual": 1,
+      "contextual": 1,
+      "true_false": 5,
+      "fill_in_short": 6,
+      "completion": 1,
+      "matching": 3,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 6,
+      "mengenali": 16,
+      "menerapkan": 5,
+      "mengingat": 4,
+      "mencocokkan": 3
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Mencocokkan",
+      "Mendeskripsikan benda berdasarkan bentuk",
+      "Menerapkan konsep dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B4-02",
+     "tp": "Murid mampu mengelompokkan benda berdasarkan bentuknya dengan benar.",
+     "jumlah_soal": 33,
+     "distribusi_difficulty": {
+      "medium": 27,
+      "easy": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 14,
+      "multiple_choice_visual": 3,
+      "true_false": 5,
+      "fill_in_short": 7,
+      "grouping": 3,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengelompokkan": 32,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mengelompokkan benda berdasarkan bentuk"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B4-03",
+     "tp": "Murid mampu menyusun dan mengurai bentuk benda dengan sabar dan tekun sebagai bentuk ikhtiar dalam belajar dan mengembangkan potensi yang diberikan Allah Swt.",
+     "jumlah_soal": 33,
+     "distribusi_difficulty": {
+      "easy": 17,
+      "medium": 16
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 8,
+      "multiple_choice_visual": 1,
+      "contextual": 2,
+      "true_false": 10,
+      "fill_in_short": 7,
+      "completion": 2,
+      "ordering": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 13,
+      "menerapkan": 7,
+      "mengingat": 12,
+      "mengurutkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan konsep dalam kehidupan",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 5. Pengukuran Panjang",
+   "prefix": "MTK-B5",
+   "alokasi_jp": null,
+   "jumlah_soal": 133,
+   "tp": [
+    {
+     "tp_id": "TP-MTK-B5-01",
+     "tp": "Murid mampu mengenal alat ukur panjang benda dengan benar.",
+     "jumlah_soal": 39,
+     "distribusi_difficulty": {
+      "easy": 27,
+      "medium": 12
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 10,
+      "multiple_choice_visual": 2,
+      "true_false": 15,
+      "fill_in_short": 10,
+      "matching": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 12,
+      "menerapkan": 3,
+      "mengingat": 23,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Mencocokkan",
+      "Menerapkan konsep dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B5-02",
+     "tp": "Murid mampu membandingkan panjang benda dengan benar.",
+     "jumlah_soal": 33,
+     "distribusi_difficulty": {
+      "medium": 30,
+      "easy": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 26,
+      "true_false": 2,
+      "ordering": 4,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 28,
+      "mengurutkan": 4,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Membandingkan panjang benda"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B5-03",
+     "tp": "Murid mampu mengukur panjang benda dengan satuan tidak baku.",
+     "jumlah_soal": 27,
+     "distribusi_difficulty": {
+      "hard": 20,
+      "easy": 6,
+      "medium": 1
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 10,
+      "multiple_choice_visual": 5,
+      "fill_in_short": 10,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 27
+     },
+     "kompetensi": [
+      "Mengukur panjang dengan satuan tidak baku"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B5-04",
+     "tp": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
+     "jumlah_soal": 34,
+     "distribusi_difficulty": {
+      "easy": 14,
+      "hard": 12,
+      "medium": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "contextual": 13,
+      "true_false": 10,
+      "fill_in_short": 4,
+      "completion": 2,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 7,
+      "menerapkan": 19,
+      "mengingat": 8
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan konsep dalam kehidupan",
+      "Menerapkan pengukuran panjang dengan bertanggung jawab",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 6. Bilangan sampai dengan 20",
+   "prefix": "MTK-B6",
+   "alokasi_jp": null,
+   "jumlah_soal": 133,
+   "tp": [
+    {
+     "tp_id": "TP-MTK-B6-01",
+     "tp": "Murid mampu menulis, membaca, dan menghitung banyak benda sampai 20 dengan benar sehingga menjadi ilmu yang bermanfaat untuk diri sendiri dan orang lain.",
+     "jumlah_soal": 34,
+     "distribusi_difficulty": {
+      "easy": 32,
+      "medium": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 12,
+      "multiple_choice_visual": 2,
+      "true_false": 7,
+      "fill_in_short": 9,
+      "matching": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 20,
+      "mengingat": 8,
+      "menerapkan": 4,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Menghitung, membaca, dan menulis bilangan 11-20"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B6-02",
+     "tp": "Murid mampu mengenal nilai tempat dengan benar.",
+     "jumlah_soal": 33,
+     "distribusi_difficulty": {
+      "medium": 15,
+      "easy": 18
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 12,
+      "multiple_choice_visual": 3,
+      "true_false": 7,
+      "fill_in_short": 8,
+      "matching": 2,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 26,
+      "menerapkan": 4,
+      "mengingat": 1,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Mengenal nilai tempat"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B6-03",
+     "tp": "Murid mampu membandingkan banyak benda sampai 20 dengan benar.",
+     "jumlah_soal": 30,
+     "distribusi_difficulty": {
+      "easy": 24,
+      "medium": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 12,
+      "multiple_choice_visual": 2,
+      "true_false": 4,
+      "fill_in_short": 12
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 30
+     },
+     "kompetensi": [
+      "Membandingkan bilangan sampai 20"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B6-04",
+     "tp": "Murid mampu mengurutkan bilangan sampai 20 dengan benar.",
+     "jumlah_soal": 36,
+     "distribusi_difficulty": {
+      "medium": 18,
+      "easy": 18
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 12,
+      "contextual": 1,
+      "true_false": 9,
+      "fill_in_short": 8,
+      "completion": 1,
+      "ordering": 4,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengurutkan": 30,
+      "memahami": 1,
+      "menerapkan": 3,
+      "mengingat": 2
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan konsep dalam kehidupan",
+      "Mengurutkan bilangan sampai 20"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 7. Penjumlahan dan Pengurangan sampai dengan 20",
+   "prefix": "MTK-B7",
+   "alokasi_jp": null,
+   "jumlah_soal": 133,
+   "tp": [
+    {
+     "tp_id": "TP-MTK-B7-01",
+     "tp": "Murid mampu mengenal penjumlahan dan pengurangan sampai 20.",
+     "jumlah_soal": 33,
+     "distribusi_difficulty": {
+      "medium": 26,
+      "easy": 7
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "multiple_choice_visual": 1,
+      "true_false": 7,
+      "fill_in_short": 9,
+      "matching": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 27,
+      "menerapkan": 1,
+      "mengingat": 4,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Mencocokkan",
+      "Menerapkan konsep dalam kehidupan",
+      "Mengenal kalimat matematika dan simbol"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B7-02",
+     "tp": "Murid mampu melakukan penjumlahan sampai 20 dengan benar.",
+     "jumlah_soal": 34,
+     "distribusi_difficulty": {
+      "easy": 25,
+      "medium": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 16,
+      "multiple_choice_visual": 3,
+      "true_false": 5,
+      "fill_in_short": 8,
+      "completion": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 29,
+      "menganalisis": 5
+     },
+     "kompetensi": [
+      "Penjumlahan sampai 20",
+      "Soal cerita penjumlahan"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B7-03",
+     "tp": "Murid mampu melakukan pengurangan sampai 20 dengan benar.",
+     "jumlah_soal": 35,
+     "distribusi_difficulty": {
+      "easy": 29,
+      "medium": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "multiple_choice_visual": 3,
+      "true_false": 6,
+      "fill_in_short": 8,
+      "completion": 2,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 34,
+      "menganalisis": 1
+     },
+     "kompetensi": [
+      "Pengurangan sampai 20",
+      "Soal cerita pengurangan"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B7-04",
+     "tp": "Murid mampu mengamalkan ilmu penjumlahan dan pengurangan dengan jujur dalam kehidupan sehari-hari.",
+     "jumlah_soal": 31,
+     "distribusi_difficulty": {
+      "easy": 12,
+      "medium": 19
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 2,
+      "contextual": 13,
+      "true_false": 9,
+      "fill_in_short": 2,
+      "completion": 4,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 2,
+      "menerapkan": 26,
+      "mengingat": 3
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan konsep dalam kehidupan",
+      "Mengamalkan ilmu penjumlahan dan pengurangan dengan jujur",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 8. Data",
+   "prefix": "MTK-B8",
+   "alokasi_jp": null,
+   "jumlah_soal": 100,
+   "tp": [
+    {
+     "tp_id": "TP-MTK-B8-01",
+     "tp": "Murid mampu mengenal berbagai cara dalam menyajikan data.",
+     "jumlah_soal": 34,
+     "distribusi_difficulty": {
+      "easy": 21,
+      "medium": 13
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "multiple_choice_visual": 5,
+      "true_false": 12,
+      "fill_in_short": 7,
+      "matching": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 8,
+      "membandingkan": 1,
+      "menerapkan": 6,
+      "mengingat": 18,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Mencocokkan",
+      "Mengenal cara menyajikan data"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B8-02",
+     "tp": "Murid mampu mengelompokkan data dengan benar.",
+     "jumlah_soal": 40,
+     "distribusi_difficulty": {
+      "medium": 21,
+      "easy": 19
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "true_false": 8,
+      "fill_in_short": 12,
+      "grouping": 3,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 6,
+      "memahami": 2,
+      "mengenali": 7,
+      "mengingat": 13,
+      "menganalisis": 7,
+      "mengelompokkan": 3,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Mengelompokkan",
+      "Mengelompokkan data",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-MTK-B8-03",
+     "tp": "Murid mampu membandingkan dan menyajikan data dalam bentuk diagram turus dan gambar tiga kategori sebagai wujud cinta ilmu dengan benar.",
+     "jumlah_soal": 26,
+     "distribusi_difficulty": {
+      "medium": 18,
+      "hard": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "contextual": 10,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "membandingkan": 7,
+      "menganalisis": 8,
+      "menerapkan": 11
+     },
+     "kompetensi": [
+      "Membandingkan dan menyajikan data"
+     ]
+    }
+   ]
+  }
+ ],
+ "distribusi_total": {
+  "difficulty": {
+   "easy": 563,
+   "medium": 397,
+   "hard": 40
+  },
+  "question_type": {
+   "multiple_choice": 366,
+   "multiple_choice_visual": 52,
+   "true_false": 202,
+   "fill_in_short": 199,
+   "matching": 16,
+   "performance_task": 37,
+   "ordering": 14,
+   "contextual": 79,
+   "completion": 29,
+   "grouping": 6
+  },
+  "cognitive_level": {
+   "mengingat": 145,
+   "mengenali": 59,
+   "menerapkan": 377,
+   "mencocokkan": 16,
+   "membandingkan": 102,
+   "mengurutkan": 70,
+   "memahami": 136,
+   "menganalisis": 60,
+   "mengelompokkan": 35
+  }
+ }
+}
