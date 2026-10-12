@@ -1,0 +1,575 @@
+{
+ "subject": "PJOK",
+ "grade": 1,
+ "phase": "A",
+ "jenjang": "MI",
+ "sumber_atp": "ATP PJOK KM Revisi Kelas 1 (Fase A)",
+ "total_soal": 1000,
+ "catatan": "ATP tidak merinci JP per elemen; soal dibagi sebanding jumlah TP dari 15 ATP: Terampil Bergerak 7 TP = 467 soal, Belajar melalui Gerak 4 TP = 267, Bergaya Hidup Aktif 2 TP = 133, Memilih Hidup yang Menyehatkan 2 TP = 133. Porsi tugas kinerja (praktik) dinaikkan karena PJOK berbasis unjuk kerja.",
+ "materi": [
+  {
+   "material": "Terampil Bergerak",
+   "prefix": "PJK-TB",
+   "alokasi_jp": null,
+   "jumlah_soal": 467,
+   "tp": [
+    {
+     "tp_id": "TP-PJK-TB-01",
+     "tp": "Murid mampu mempraktikkan keterampilan gerak lokomotor dan menerapkannya dalam berbagai situasi gerak.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "medium": 39,
+      "easy": 28
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 23,
+      "multiple_choice_visual": 2,
+      "contextual": 1,
+      "true_false": 13,
+      "fill_in_short": 18,
+      "completion": 1,
+      "matching": 2,
+      "ordering": 1,
+      "grouping": 1,
+      "performance_task": 5
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 10,
+      "mengingat": 32,
+      "mengenali": 12,
+      "menerapkan": 9,
+      "mencocokkan": 2,
+      "mengurutkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Mengelompokkan",
+      "Mengenal gerak lokomotor",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PJK-TB-02",
+     "tp": "Murid mampu mempraktikkan keterampilan gerak non-lokomotor dan menerapkannya dalam berbagai situasi gerak.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "medium": 39,
+      "easy": 28
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 24,
+      "multiple_choice_visual": 1,
+      "contextual": 1,
+      "true_false": 14,
+      "fill_in_short": 17,
+      "completion": 1,
+      "matching": 2,
+      "performance_task": 7
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 13,
+      "memahami": 9,
+      "mengingat": 33,
+      "menerapkan": 10,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Mengenal gerak non-lokomotor",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PJK-TB-03",
+     "tp": "Murid mampu mengeksplorasi berbagai cara menggerakkan tubuh.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "easy": 27,
+      "medium": 40
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 40,
+      "multiple_choice_visual": 1,
+      "contextual": 1,
+      "fill_in_short": 16,
+      "completion": 1,
+      "matching": 2,
+      "performance_task": 6
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 26,
+      "memahami": 8,
+      "mengenali": 22,
+      "menerapkan": 9,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Mengeksplorasi gerak",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PJK-TB-04",
+     "tp": "Murid mampu memanipulasi objek dengan berbagai bagian tubuh.",
+     "jumlah_soal": 66,
+     "distribusi_difficulty": {
+      "easy": 36,
+      "medium": 30
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 16,
+      "multiple_choice_visual": 1,
+      "contextual": 1,
+      "true_false": 21,
+      "fill_in_short": 16,
+      "completion": 1,
+      "matching": 2,
+      "performance_task": 8
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 9,
+      "mengingat": 44,
+      "menerapkan": 11,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Memanipulasi objek",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PJK-TB-05",
+     "tp": "Murid mampu mempraktikkan keterampilan gerak fundamental dalam situasi yang lebih kompleks.",
+     "jumlah_soal": 66,
+     "distribusi_difficulty": {
+      "easy": 34,
+      "medium": 32
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "multiple_choice_visual": 1,
+      "contextual": 1,
+      "true_false": 22,
+      "fill_in_short": 15,
+      "completion": 1,
+      "matching": 1,
+      "ordering": 1,
+      "performance_task": 9
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 44,
+      "memahami": 8,
+      "menerapkan": 12,
+      "mencocokkan": 1,
+      "mengurutkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Menggabungkan gerak fundamental",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PJK-TB-06",
+     "tp": "Murid mampu mengeksplorasi berbagai metode menggerakkan tubuh dan mengontrol gerakannya.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "easy": 30,
+      "medium": 37
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 24,
+      "multiple_choice_visual": 1,
+      "contextual": 1,
+      "true_false": 13,
+      "fill_in_short": 18,
+      "completion": 1,
+      "matching": 3,
+      "performance_task": 6
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 30,
+      "mengenali": 15,
+      "memahami": 10,
+      "menerapkan": 9,
+      "mencocokkan": 3
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Mengontrol gerakan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PJK-TB-07",
+     "tp": "Murid mampu memanipulasi objek dengan akurasi dan kontrol yang lebih meningkat di berbagai ruang serta mengevaluasi efektivitasnya.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "easy": 19,
+      "medium": 48
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 25,
+      "multiple_choice_visual": 1,
+      "contextual": 3,
+      "true_false": 10,
+      "fill_in_short": 19,
+      "completion": 1,
+      "matching": 2,
+      "performance_task": 6
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 25,
+      "mengevaluasi": 22,
+      "memahami": 9,
+      "menerapkan": 9,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Memanipulasi objek dengan akurat",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Mengevaluasi hasil gerak",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Belajar melalui Gerak",
+   "prefix": "PJK-BG",
+   "alokasi_jp": null,
+   "jumlah_soal": 267,
+   "tp": [
+    {
+     "tp_id": "TP-PJK-BG-01",
+     "tp": "Murid mampu mengikuti dan menerapkan peraturan dasar untuk mengembangkan permainan yang fair play dalam berbagai aktivitas fisik.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "easy": 39,
+      "medium": 28
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 26,
+      "multiple_choice_visual": 1,
+      "contextual": 2,
+      "true_false": 15,
+      "fill_in_short": 13,
+      "matching": 3,
+      "grouping": 3,
+      "performance_task": 4
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 31,
+      "menganalisis": 11,
+      "menerapkan": 7,
+      "mengingat": 12,
+      "mencocokkan": 3,
+      "mengelompokkan": 3
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Memahami manfaat aturan bermain",
+      "Menaati aturan bermain",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PJK-BG-02",
+     "tp": "Murid mampu menerapkan strategi dasar dalam berkolaborasi saat berpartisipasi dalam aktivitas fisik.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "easy": 35,
+      "medium": 32
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 26,
+      "multiple_choice_visual": 1,
+      "contextual": 5,
+      "true_false": 12,
+      "fill_in_short": 13,
+      "matching": 2,
+      "grouping": 1,
+      "performance_task": 7
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 28,
+      "menganalisis": 12,
+      "menerapkan": 14,
+      "mengingat": 10,
+      "mencocokkan": 2,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Memahami manfaat kerja sama",
+      "Menerapkan kerja sama",
+      "Menerapkan kerja sama dalam tim",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PJK-BG-03",
+     "tp": "Murid mampu menerapkan aturan secara konsisten untuk mengembangkan permainan yang fair play dalam berbagai aktivitas fisik.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "easy": 32,
+      "medium": 35
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 26,
+      "contextual": 6,
+      "true_false": 13,
+      "fill_in_short": 6,
+      "completion": 5,
+      "grouping": 3,
+      "performance_task": 8
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 8,
+      "menganalisis": 20,
+      "menerapkan": 25,
+      "mengingat": 11,
+      "mengelompokkan": 3
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menaati aturan secara konsisten",
+      "Menerapkan aturan secara konsisten",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PJK-BG-04",
+     "tp": "Murid mampu menerapkan strategi kolaborasi yang lebih menantang selama aktivitas fisik.",
+     "jumlah_soal": 66,
+     "distribusi_difficulty": {
+      "medium": 37,
+      "easy": 29
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 22,
+      "multiple_choice_visual": 1,
+      "contextual": 8,
+      "true_false": 13,
+      "fill_in_short": 6,
+      "completion": 6,
+      "ordering": 1,
+      "grouping": 1,
+      "performance_task": 8
+     },
+     "distribusi_cognitive_level": {
+      "menganalisis": 16,
+      "memahami": 8,
+      "menerapkan": 30,
+      "mengingat": 10,
+      "mengurutkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan kolaborasi menantang",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Mengurutkan",
+      "Menyusun strategi kolaborasi menantang",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bergaya Hidup Aktif",
+   "prefix": "PJK-HA",
+   "alokasi_jp": null,
+   "jumlah_soal": 133,
+   "tp": [
+    {
+     "tp_id": "TP-PJK-HA-01",
+     "tp": "Murid mampu berpartisipasi dalam berbagai aktivitas fisik dan mengeksplorasi manfaatnya.",
+     "jumlah_soal": 66,
+     "distribusi_difficulty": {
+      "easy": 34,
+      "medium": 32
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 24,
+      "multiple_choice_visual": 1,
+      "contextual": 1,
+      "true_false": 14,
+      "fill_in_short": 16,
+      "completion": 1,
+      "matching": 2,
+      "performance_task": 7
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 8,
+      "mengenali": 11,
+      "mengingat": 35,
+      "menerapkan": 10,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Berpartisipasi dalam aktivitas fisik",
+      "Memahami konsep",
+      "Mencocokkan",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PJK-HA-02",
+     "tp": "Murid mampu berpartisipasi dalam berbagai aktivitas fisik dan memahami manfaatnya.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "easy": 32,
+      "medium": 35
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 24,
+      "multiple_choice_visual": 1,
+      "contextual": 2,
+      "true_false": 13,
+      "fill_in_short": 16,
+      "completion": 2,
+      "matching": 2,
+      "grouping": 1,
+      "performance_task": 6
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 33,
+      "memahami": 9,
+      "mengenali": 11,
+      "menerapkan": 11,
+      "mencocokkan": 2,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Memahami manfaat aktivitas fisik",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Mengelompokkan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Memilih Hidup yang Menyehatkan",
+   "prefix": "PJK-MH",
+   "alokasi_jp": null,
+   "jumlah_soal": 133,
+   "tp": [
+    {
+     "tp_id": "TP-PJK-MH-01",
+     "tp": "Murid mampu mengenali gaya hidup aktif dan sehat, manfaat makanan bergizi seimbang, serta informasi gizi pada produk makanan yang berdampak pada kesehatan.",
+     "jumlah_soal": 66,
+     "distribusi_difficulty": {
+      "easy": 39,
+      "medium": 27
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 21,
+      "multiple_choice_visual": 1,
+      "contextual": 2,
+      "true_false": 17,
+      "fill_in_short": 14,
+      "completion": 2,
+      "grouping": 1,
+      "performance_task": 8
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 39,
+      "memahami": 12,
+      "mengenali": 1,
+      "menerapkan": 13,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Mengelompokkan",
+      "Mengenal makanan bergizi",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PJK-MH-02",
+     "tp": "Murid mampu mengenali risiko kesehatan dan keselamatan serta strategi untuk mencari bantuan dari orang yang dipercaya.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "easy": 31,
+      "medium": 34,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 27,
+      "multiple_choice_visual": 2,
+      "contextual": 2,
+      "true_false": 10,
+      "fill_in_short": 15,
+      "completion": 2,
+      "matching": 4,
+      "performance_task": 5
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 28,
+      "mengenali": 13,
+      "memahami": 11,
+      "menerapkan": 11,
+      "mencocokkan": 4
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan sikap dan gerak dalam kehidupan",
+      "Mengenali risiko dan mencari bantuan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  }
+ ],
+ "distribusi_total": {
+  "difficulty": {
+   "medium": 525,
+   "easy": 473,
+   "hard": 2
+  },
+  "question_type": {
+   "multiple_choice": 363,
+   "multiple_choice_visual": 16,
+   "contextual": 37,
+   "true_false": 200,
+   "fill_in_short": 218,
+   "completion": 25,
+   "matching": 27,
+   "ordering": 3,
+   "grouping": 11,
+   "performance_task": 100
+  },
+  "cognitive_level": {
+   "memahami": 178,
+   "mengingat": 412,
+   "mengenali": 98,
+   "menerapkan": 190,
+   "mencocokkan": 27,
+   "mengurutkan": 3,
+   "mengelompokkan": 11,
+   "mengevaluasi": 22,
+   "menganalisis": 59
+  }
+ }
+}
