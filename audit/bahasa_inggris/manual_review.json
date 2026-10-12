@@ -9,7 +9,8 @@
   "500-600 (ENG-B5-0056..0111, ENG-B6-0001..0044)",
   "600-700 (ENG-B6-0045..0111, ENG-B7-0001..0033)",
   "700-800 (ENG-B7-0034..0111, ENG-B8-0001..0022)",
-  "800-900 (ENG-B8-0023..0111, ENG-B9-0001..0011)"
+  "800-900 (ENG-B8-0023..0111, ENG-B9-0001..0011)",
+  "900-1000 (ENG-B9-0012..0111)"
  ],
  "temuan": {
   "ENG-B1-0051": [
@@ -270,12 +271,20 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Pengecoh 'apple/house/cat' di luar kosakata kelas dan mudah dieliminasi; pengecoh 'It is a apple' berisi bentuk salah (a apple) yang justru ditampilkan kepada murid. Usulan: ganti dengan benda kelas lain dan hindari 'a apple'."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Templat sama, kosakata berbeda (table vs book); pasangan ENG-B2-0016~0017."
    }
   ],
   "ENG-B2-0017": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Pengecoh 'apple/house/cat' di luar kosakata kelas dan mudah dieliminasi; pengecoh 'It is a apple' berisi bentuk salah (a apple) yang justru ditampilkan kepada murid. Usulan: ganti dengan benda kelas lain dan hindari 'a apple'."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Templat sama, kosakata berbeda (table vs book); pasangan ENG-B2-0016~0017."
    }
   ],
   "ENG-B2-0018": [
@@ -462,6 +471,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'I two ears have.') sehingga mudah ditebak dari struktur/huruf besar; menuntut membaca kalimat tertulis (tepi CP Fase A, TP hanya 'frase sederhana')."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kalimat berbeda (two ears vs two eyes); pasangan ENG-B3-0089~0091."
    }
   ],
   "ENG-B3-0090": [
@@ -474,6 +487,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'I two ears have.') sehingga mudah ditebak dari struktur/huruf besar; menuntut membaca kalimat tertulis (tepi CP Fase A, TP hanya 'frase sederhana')."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kalimat berbeda (two ears vs two eyes); pasangan ENG-B3-0089~0091."
    }
   ],
   "ENG-B3-0092": [
@@ -570,6 +587,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Hubungan kekerabatan (uncle/aunt/brother/sister) tidak dapat dibedakan dari gambar; deskripsi gambar sendiri memuat jawaban ('seorang paman', 'seorang bibi', 'bersama saudaranya'). Deskripsi tidak memadai dan membocorkan kunci."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kosakata berbeda (brother vs sister); pasangan ENG-B4-0017~0022."
    }
   ],
   "ENG-B4-0018": [
@@ -588,6 +609,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Hubungan kekerabatan (uncle/aunt/brother/sister) tidak dapat dibedakan dari gambar; deskripsi gambar sendiri memuat jawaban ('seorang paman', 'seorang bibi', 'bersama saudaranya'). Deskripsi tidak memadai dan membocorkan kunci."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kosakata berbeda (brother vs sister); pasangan ENG-B4-0017~0022."
    }
   ],
   "ENG-B4-0027": [
@@ -1504,6 +1529,10 @@
    {
     "kode": "AMBIGU",
     "catatan": "Opsi C 'What fruit do you like?' dan D 'What fruit do you like, Teacher?' keduanya wajar untuk menanyakan buah kesukaan guru; kunci D hanya beda sapaan 'Teacher'."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pola sama dan himpunan opsi hampir identik; satu-satunya beda sapaan 'Teacher' (guru vs teman); tidak ada manfaat variasi dan 0029 menimbulkan ambiguitas. Pasangan ENG-B8-0029~0034."
    }
   ],
   "ENG-B8-0031": [
@@ -1516,6 +1545,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Like apples you do?') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kalimat berbeda (Yes, I do vs I like red apples); pasangan ENG-B8-0083~0086."
    }
   ],
   "ENG-B8-0084": [
@@ -1534,6 +1567,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Like apples you do?') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kalimat berbeda (Yes, I do vs I like red apples); pasangan ENG-B8-0083~0086."
    }
   ],
   "ENG-B8-0087": [
@@ -1676,6 +1713,420 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Murid boleh menggambar 'buah kesukaanmu' tetapi diminta mengucapkan kalimat tetap tentang mango/watermelon/pineapple; ucapan tidak cocok dengan gambar sehingga tidak dapat dinilai konsisten."
+   }
+  ],
+  "ENG-B9-0016": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengelompokan 'memakai pasir' hanya berisi satu anggota (sandbox) dan lima lainnya 'tidak memakai pasir'; kategori tidak informatif dan tidak menguji kosakata."
+   }
+  ],
+  "ENG-B9-0020": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Jump the rope' vs 'jump rope' (0004, 0090, 0110 memakai 'jump rope'/'jumping rope'); ahli perlu menentukan satu bentuk idiomatis ('jump rope'/'skip rope') dan kesesuaiannya dengan 'Let us jump rope'."
+   }
+  ],
+  "ENG-B9-0021": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Jump the rope' vs 'jump rope' (0004, 0090, 0110 memakai 'jump rope'/'jumping rope'); ahli perlu menentukan satu bentuk idiomatis ('jump rope'/'skip rope') dan kesesuaiannya dengan 'Let us jump rope'."
+   }
+  ],
+  "ENG-B9-0025": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Jump the rope' vs 'jump rope' (0004, 0090, 0110 memakai 'jump rope'/'jumping rope'); ahli perlu menentukan satu bentuk idiomatis ('jump rope'/'skip rope') dan kesesuaiannya dengan 'Let us jump rope'."
+   }
+  ],
+  "ENG-B9-0033": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Jump the rope' vs 'jump rope' (0004, 0090, 0110 memakai 'jump rope'/'jumping rope'); ahli perlu menentukan satu bentuk idiomatis ('jump rope'/'skip rope') dan kesesuaiannya dengan 'Let us jump rope'."
+   }
+  ],
+  "ENG-B9-0045": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Jump the rope' vs 'jump rope' (0004, 0090, 0110 memakai 'jump rope'/'jumping rope'); ahli perlu menentukan satu bentuk idiomatis ('jump rope'/'skip rope') dan kesesuaiannya dengan 'Let us jump rope'."
+   }
+  ],
+  "ENG-B9-0051": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Jump the rope' vs 'jump rope' (0004, 0090, 0110 memakai 'jump rope'/'jumping rope'); ahli perlu menentukan satu bentuk idiomatis ('jump rope'/'skip rope') dan kesesuaiannya dengan 'Let us jump rope'."
+   }
+  ],
+  "ENG-B9-0041": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'bola lempar' bukan istilah wajar (maksudnya melempar bola); redaksi tidak alami."
+   }
+  ],
+  "ENG-B9-0043": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "'ride' dijadikan kunci untuk jungkat-jungkit, tetapi 'ride the slide/swing' juga dapat diterima; pengecoh perosotan/ayunan dapat dibenarkan."
+   }
+  ],
+  "ENG-B9-0046": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Bergelantungan di panjatan besi' lebih dekat 'hang/swing' daripada 'climb'; kunci climb meragukan."
+   }
+  ],
+  "ENG-B9-0054": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Can I play with you?' bermakna meminta bergabung (sama dengan 'May I join you?' di 0059), tetapi kunci C 'mengajak temanmu bermain denganmu' berarah terbalik dan hampir sama dengan opsi B 'mengajak teman bermain bersama'; dua opsi dapat dibenarkan."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Kunci 'mengajak temanmu bermain denganmu' menyiratkan ajakan, padahal ungkapan ini permintaan izin bergabung; redaksi membingungkan."
+   }
+  ],
+  "ENG-B9-0075": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'bentuk -ing dari kata kerja' adalah metabahasa tata bahasa yang tidak sesuai kelas 1; TP B9-05 menuntut penggunaan kalimat, bukan penamaan bentuk gramatikal."
+   }
+  ],
+  "ENG-B9-0076": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'bentuk -ing dari kata kerja' adalah metabahasa tata bahasa yang tidak sesuai kelas 1; TP B9-05 menuntut penggunaan kalimat, bukan penamaan bentuk gramatikal."
+   }
+  ],
+  "ENG-B9-0077": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'bentuk -ing dari kata kerja' adalah metabahasa tata bahasa yang tidak sesuai kelas 1; TP B9-05 menuntut penggunaan kalimat, bukan penamaan bentuk gramatikal."
+   }
+  ],
+  "ENG-B9-0078": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'bentuk -ing dari kata kerja' adalah metabahasa tata bahasa yang tidak sesuai kelas 1; TP B9-05 menuntut penggunaan kalimat, bukan penamaan bentuk gramatikal."
+   }
+  ],
+  "ENG-B9-0082": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'bentuk -ing dari kata kerja' adalah metabahasa tata bahasa yang tidak sesuai kelas 1; TP B9-05 menuntut penggunaan kalimat, bukan penamaan bentuk gramatikal."
+   }
+  ],
+  "ENG-B9-0084": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'bentuk -ing dari kata kerja' adalah metabahasa tata bahasa yang tidak sesuai kelas 1; TP B9-05 menuntut penggunaan kalimat, bukan penamaan bentuk gramatikal."
+   }
+  ],
+  "ENG-B9-0087": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Membedakan present continuous dan simple present ('I swing every day', 'They run in the morning') terlalu abstrak untuk kelas 1; tingkat 'hard' satu-satunya di bank."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kalimat kebiasaan (simple present: 'every day', 'in the morning') di luar TP Bab 9 yang hanya memuat present continuous (TP B9-05)."
+   }
+  ],
+  "ENG-B9-0091": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Am sandbox digging in I the.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B9-0092": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Am sandbox digging in I the.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B9-0093": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Am sandbox digging in I the.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B9-0094": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Am sandbox digging in I the.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B9-0095": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Am sandbox digging in I the.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B9-0096": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Am sandbox digging in I the.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B9-0097": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf u-r-n dapat disusun 'run' dan 'urn'; kunci tidak unik."
+   }
+  ],
+  "ENG-B9-0098": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf d-i-e-s-l dapat disusun 'slide', 'sidle', 'isled'; kunci tidak unik."
+   }
+  ],
+  "ENG-B9-0099": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B9-0100": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B9-0101": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B9-0102": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B9-0103": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf t-r-w-o-h dapat disusun 'throw' dan 'worth'; kunci tidak unik."
+   }
+  ],
+  "ENG-B9-0104": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf g-s-w-i-n dapat disusun 'swing' dan 'wings'; kunci tidak unik."
+   }
+  ],
+  "ENG-B9-0105": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian 'Can I play on .... swing?' dapat dijawab the/a/your/that; kunci 'the' tidak unik."
+   }
+  ],
+  "ENG-B9-0106": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian 'I am .... on the swing. (aku sedang bermain ayunan)' dapat dijawab playing atau swinging; kunci tidak unik."
+   }
+  ],
+  "ENG-B2-0023": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Templat sama dengan benda berbeda (buku vs tas sekolah); pasangan ENG-B2-0023~0024."
+   }
+  ],
+  "ENG-B2-0024": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Templat sama dengan benda berbeda (buku vs tas sekolah); pasangan ENG-B2-0023~0024."
+   }
+  ],
+  "ENG-B2-0062": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Warna berbeda (black vs brown); pasangan ENG-B2-0062~0063."
+   }
+  ],
+  "ENG-B2-0063": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Warna berbeda (black vs brown); pasangan ENG-B2-0062~0063."
+   }
+  ],
+  "ENG-B3-0010": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Bagian wajah berbeda (mouth vs nose); pasangan ENG-B3-0010~0014."
+   }
+  ],
+  "ENG-B3-0014": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Bagian wajah berbeda (mouth vs nose); pasangan ENG-B3-0010~0014."
+   }
+  ],
+  "ENG-B3-0024": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Instruksi untuk bagian wajah berbeda (mouth vs cheeks); pasangan ENG-B3-0024~0028."
+   }
+  ],
+  "ENG-B3-0028": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Instruksi untuk bagian wajah berbeda (mouth vs cheeks); pasangan ENG-B3-0024~0028."
+   }
+  ],
+  "ENG-B3-0067": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Bagian wajah berbeda (nose vs mouth); pasangan ENG-B3-0067~0074."
+   }
+  ],
+  "ENG-B3-0074": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Bagian wajah berbeda (nose vs mouth); pasangan ENG-B3-0067~0074."
+   }
+  ],
+  "ENG-B3-0068": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kosakata berbeda (one mouth vs one nose); pasangan ENG-B3-0068~0070."
+   }
+  ],
+  "ENG-B3-0070": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kosakata berbeda (one mouth vs one nose); pasangan ENG-B3-0068~0070."
+   }
+  ],
+  "ENG-B3-0071": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Bagian wajah dan jumlah berbeda (two eyes, one chin, two cheeks); pasangan 0071~0072, 0071~0073, 0072~0073."
+   }
+  ],
+  "ENG-B3-0072": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Bagian wajah dan jumlah berbeda (two eyes, one chin, two cheeks); pasangan 0071~0072, 0071~0073, 0072~0073."
+   }
+  ],
+  "ENG-B3-0073": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Bagian wajah dan jumlah berbeda (two eyes, one chin, two cheeks); pasangan 0071~0072, 0071~0073, 0072~0073."
+   }
+  ],
+  "ENG-B3-0075": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Templat 'How many ... do I have?' dengan bagian wajah berbeda; pasangan 0075~0077, 0075~0078, 0077~0078."
+   }
+  ],
+  "ENG-B3-0077": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Templat 'How many ... do I have?' dengan bagian wajah berbeda; pasangan 0075~0077, 0075~0078, 0077~0078."
+   }
+  ],
+  "ENG-B3-0078": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Templat 'How many ... do I have?' dengan bagian wajah berbeda; pasangan 0075~0077, 0075~0078, 0077~0078."
+   }
+  ],
+  "ENG-B4-0064": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Warna berbeda (orange vs green square); pasangan ENG-B4-0064~0066."
+   }
+  ],
+  "ENG-B4-0066": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Warna berbeda (orange vs green square); pasangan ENG-B4-0064~0066."
+   }
+  ],
+  "ENG-B6-0041": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Perintah berbeda (Draw a cat vs Draw a bird); pasangan ENG-B6-0041~0044."
+   }
+  ],
+  "ENG-B6-0044": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Perintah berbeda (Draw a cat vs Draw a bird); pasangan ENG-B6-0041~0044."
+   }
+  ],
+  "ENG-B7-0067": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Angka berbeda (eight vs nine); pasangan ENG-B7-0067~0069."
+   }
+  ],
+  "ENG-B7-0069": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Angka berbeda (eight vs nine); pasangan ENG-B7-0067~0069."
+   }
+  ],
+  "ENG-B8-0034": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pola sama dan himpunan opsi hampir identik; satu-satunya beda sapaan 'Teacher' (guru vs teman); tidak ada manfaat variasi dan 0029 menimbulkan ambiguitas. Pasangan ENG-B8-0029~0034."
+   }
+  ],
+  "ENG-B8-0056": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Buah berbeda (rambutan, pineapples, papaya); pasangan 0056~0058, 0058~0060."
+   }
+  ],
+  "ENG-B8-0058": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Buah berbeda (rambutan, pineapples, papaya); pasangan 0056~0058, 0058~0060."
+   }
+  ],
+  "ENG-B8-0060": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Buah berbeda (rambutan, pineapples, papaya); pasangan 0056~0058, 0058~0060."
+   }
+  ],
+  "ENG-B9-0061": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Konteks, kunci ('May I join you?') dan pengecoh identik; hanya perosotan vs ayunan berbeda, tanpa manfaat variasi (0062 jungkat-jungkit satu templat). Pasangan ENG-B9-0061~0064."
+   }
+  ],
+  "ENG-B9-0064": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Konteks, kunci ('May I join you?') dan pengecoh identik; hanya perosotan vs ayunan berbeda, tanpa manfaat variasi (0062 jungkat-jungkit satu templat). Pasangan ENG-B9-0061~0064."
+   }
+  ],
+  "ENG-B9-0062": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Templat dan kunci identik dengan ENG-B9-0061 dan 0064 (hanya jungkat-jungkit); anggota klaster yang sama."
    }
   ]
  }
