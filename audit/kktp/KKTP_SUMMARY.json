@@ -1,0 +1,25 @@
+{
+ "total_soal_dinilai": 4330,
+ "per_mapel_status": {
+  "Akidah Akhlak|INDIKASI_DI_LUAR_KKTP": 55,
+  "Akidah Akhlak|SESUAI_BAB_KKTP": 945,
+  "Al-Qur'an Hadis|BAB_TIDAK_TERCANTUM_DI_KKTP": 143,
+  "Al-Qur'an Hadis|INDIKASI_DI_LUAR_KKTP": 6,
+  "Al-Qur'an Hadis|SESUAI_BAB_KKTP": 851,
+  "Bahasa Arab|BAB_TIDAK_TERCANTUM_DI_KKTP": 250,
+  "Bahasa Arab|SESUAI_BAB_KKTP": 1080,
+  "Fikih|INDIKASI_DI_LUAR_KKTP": 106,
+  "Fikih|PERLU_TINJAU_AHLI_KKTP": 4,
+  "Fikih|SESUAI_BAB_KKTP": 890
+ },
+ "bab_belum_ada_soal": [
+  "Akidah Akhlak Bab 8 ADAB MANDI DAN BERPAKAIAN",
+  "Akidah Akhlak Bab 9 JUJUR, TERIMA KASIH, DAN RENDAH HATI",
+  "Al-Qur'an Hadis Bab 6 Mengenal Surah Al-Lahab",
+  "Al-Qur'an Hadis Bab 8 Mengenal Surah An-Nashr",
+  "Al-Qur'an Hadis Bab 9 Mengenal Surah Al-Kafirun",
+  "Al-Qur'an Hadis Bab 10 Mengenal Surah Al-Kautsar",
+  "Al-Qur'an Hadis Bab 11 Mengenal Surah Al-Ma'un",
+  "Al-Qur'an Hadis Bab 12 Mengenal Surah Quraisy"
+ ]
+}

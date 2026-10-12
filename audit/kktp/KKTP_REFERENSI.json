@@ -1,0 +1,554 @@
+{
+ "Fikih": {
+  "berkas": "Kriteria Ketercapaian Tujuan Pembelajaran (KKTP) Fikih MI Kelas 1.docx.md",
+  "bab": [
+   {
+    "bab": 1,
+    "judul": "Islam Agamaku (Rukun Islam)",
+    "tp": [
+     {
+      "kode": "1.1",
+      "tp": "Menyebutkan lima rukun Islam secara berurutan.",
+      "indikator": "Peserta didik mampu menyebutkan kelima rukun Islam (Syahadat, Salat, Zakat, Puasa, Haji) secara lisan dengan urutan yang benar."
+     },
+     {
+      "kode": "1.2",
+      "tp": "Menjelaskan makna sederhana dari setiap rukun Islam.",
+      "indikator": "Peserta didik mampu menceritakan dengan bahasanya sendiri makna dasar dari minimal tiga rukun Islam (contoh: \"Salat itu berbicara dengan Allah\")."
+     }
+    ]
+   },
+   {
+    "bab": 2,
+    "judul": "Allah Tuhanku, Muhammad Nabiku (Syahadatain)",
+    "tp": [
+     {
+      "kode": "2.1",
+      "tp": "Melafalkan dua kalimat syahadat (syahadatain) dengan benar.",
+      "indikator": "Peserta didik mampu melafalkan Syahadat Tauhid dan Syahadat Rasul dengan fasih dan makhraj yang cukup jelas."
+     },
+     {
+      "kode": "2.2",
+      "tp": "Menjelaskan arti sederhana dari syahadatain.",
+      "indikator": "Peserta didik mampu menyatakan arti sederhana dari Syahadat Tauhid (\"Hanya Allah Tuhan kita\") dan Syahadat Rasul (\"Nabi Muhammad utusan Allah\")."
+     },
+     {
+      "kode": "2.3",
+      "tp": "Mengidentifikasi contoh perilaku yang mencerminkan makna syahadatain.",
+      "indikator": "Peserta didik mampu memberikan satu contoh perbuatan yang menunjukkan keyakinan pada Allah (misal: berdoa) dan satu contoh meneladani Rasul (misal: jujur)."
+     }
+    ]
+   },
+   {
+    "bab": 3,
+    "judul": "Allah Mencintai Orang yang Suci (Thaharah dari Najis)",
+    "tp": [
+     {
+      "kode": "3.1",
+      "tp": "Menjelaskan pengertian najis dan memberikan contohnya.",
+      "indikator": "Peserta didik mampu menyebutkan bahwa najis adalah kotoran yang harus disucikan dan memberikan minimal dua contoh najis sedang (misal: air kencing, kotoran cicak)."
+     },
+     {
+      "kode": "3.2",
+      "tp": "Membedakan najis ringan dan sedang.",
+      "indikator": "Peserta didik mampu mengidentifikasi gambar air kencing bayi laki-laki sebagai najis ringan dan gambar najis lainnya sebagai najis sedang."
+     },
+     {
+      "kode": "3.3",
+      "tp": "Mendemonstrasikan cara menyucikan najis sedang.",
+      "indikator": "Peserta didik mampu mempraktikkan cara membersihkan noda (sebagai simulasi najis) pada kain menggunakan air hingga bersih."
+     },
+     {
+      "kode": "3.4",
+      "tp": "Menjelaskan pengertian dan tata cara istinja'.",
+      "indikator": "Peserta didik mampu menjelaskan bahwa istinja' adalah bersuci setelah buang air dan menyebutkan alat utamanya adalah air."
+     }
+    ]
+   },
+   {
+    "bab": 4,
+    "judul": "Berwudu itu Mudah (Wudu)",
+    "tp": [
+     {
+      "kode": "4.1",
+      "tp": "Menjelaskan pengertian dan syarat sah wudu.",
+      "indikator": "Peserta didik mampu menyatakan bahwa wudu adalah cara bersuci dari hadas kecil sebelum salat."
+     },
+     {
+      "kode": "4.2",
+      "tp": "Mengidentifikasi rukun dan sunnah wudu.",
+      "indikator": "Peserta didik mampu membedakan minimal tiga rukun wudu (misal: niat, wajah, tangan) dan dua sunnah wudu (misal: kumur-kumur, cuci tangan)."
+     },
+     {
+      "kode": "4.3",
+      "tp": "Mendemonstrasikan tata cara wudu dengan tertib.",
+      "indikator": "Peserta didik mampu mempraktikkan gerakan rukun wudu secara berurutan dengan benar."
+     },
+     {
+      "kode": "4.4",
+      "tp": "Menyebutkan hal-hal yang membatalkan wudu.",
+      "indikator": "Peserta didik mampu menyebutkan minimal dua hal yang membatalkan wudu (misal: buang angin, tidur)."
+     }
+    ]
+   },
+   {
+    "bab": 5,
+    "judul": "Aku Bisa Tayamum (Tayamum)",
+    "tp": [
+     {
+      "kode": "5.1",
+      "tp": "Menjelaskan sebab-sebab dibolehkannya tayamum.",
+      "indikator": "Peserta didik mampu menyebutkan salah satu dari dua sebab bolehnya tayamum (tidak ada air atau sakit)."
+     },
+     {
+      "kode": "5.2",
+      "tp": "Mengidentifikasi rukun tayamum.",
+      "indikator": "Peserta didik mampu menyebutkan rukun tayamum (niat, usap wajah, usap tangan)."
+     },
+     {
+      "kode": "5.3",
+      "tp": "Mendemonstrasikan tata cara tayamum dengan benar.",
+      "indikator": "Peserta didik mampu mempraktikkan gerakan tayamum dari awal hingga akhir dengan urutan yang benar."
+     }
+    ]
+   }
+  ]
+ },
+ "Akidah Akhlak": {
+  "berkas": "KKTP Akidah 1.docx.md",
+  "bab": [
+   {
+    "bab": 1,
+    "judul": "DUA KALIMAT SYAHADAT",
+    "tp": [
+     {
+      "kode": "1.1",
+      "tp": "Peserta didik dapat mengenal Dua Kalimat Syahadat.",
+      "indikator": "Peserta didik mampu menyebutkan bahwa Dua Kalimat Syahadat adalah Rukun Islam yang pertama."
+     },
+     {
+      "kode": "1.2",
+      "tp": "Peserta didik dapat melafalkan Dua Kalimat Syahadat.",
+      "indikator": "Peserta didik mampu melafalkan kalimat Syahadat Tauhid dan Syahadat Rasul dengan fasih dan benar."
+     }
+    ]
+   },
+   {
+    "bab": 2,
+    "judul": "KALIMAT TAYIBAH",
+    "tp": [
+     {
+      "kode": "2.1",
+      "tp": "Peserta didik dapat melafalkan kalimat tayibah.",
+      "indikator": "Peserta didik mampu melafalkan kalimat Basmalah, Hamdalah, dan Taawuz dengan benar."
+     },
+     {
+      "kode": "2.2",
+      "tp": "Peserta didik dapat mengidentifikasi waktu penggunaannya.",
+      "indikator": "Peserta didik mampu memberikan contoh situasi yang tepat untuk mengucapkan Basmalah, Hamdalah, dan Taawuz."
+     }
+    ]
+   },
+   {
+    "bab": 3,
+    "judul": "HIDUP SEHAT DAN BERSIH",
+    "tp": [
+     {
+      "kode": "3.1",
+      "tp": "Peserta didik dapat menerapkan cara menjaga kebersihan diri.",
+      "indikator": "Peserta didik mampu mendemonstrasikan 6 langkah cuci tangan pakai sabun dengan benar."
+     },
+     {
+      "kode": "3.2",
+      "tp": "Peserta didik dapat melafalkan hadis tentang kebersihan.",
+      "indikator": "Peserta didik mampu melafalkan hadis *\"An-naẓāfatu minal-īmān\"* beserta arti sederhananya."
+     }
+    ]
+   },
+   {
+    "bab": 4,
+    "judul": "ADAB BELAJAR",
+    "tp": [
+     {
+      "kode": "4.1",
+      "tp": "Peserta didik dapat menyebutkan adab-adab belajar.",
+      "indikator": "Peserta didik mampu menyebutkan minimal dua adab sebelum, dua adab saat, dan dua adab sesudah belajar."
+     },
+     {
+      "kode": "4.2",
+      "tp": "Peserta didik dapat menerapkan adab belajar.",
+      "indikator": "Peserta didik mempraktikkan sikap memperhatikan guru dan berdoa sebelum dan sesudah belajar secara konsisten."
+     }
+    ]
+   },
+   {
+    "bab": 5,
+    "judul": "KISAH KETELADANAN NABI MUHAMMAD SAW.",
+    "tp": [
+     {
+      "kode": "5.1",
+      "tp": "Peserta didik dapat menceritakan kembali kisah Nabi.",
+      "indikator": "Peserta didik mampu menceritakan kembali salah satu kisah keteladanan Nabi dengan bahasa sendiri."
+     },
+     {
+      "kode": "5.2",
+      "tp": "Peserta didik dapat meneladani sifat Nabi.",
+      "indikator": "Peserta didik mampu memberikan contoh perilaku jujur atau kasih sayang dalam kehidupan sehari-hari di sekolah."
+     }
+    ]
+   },
+   {
+    "bab": 6,
+    "judul": "RUKUN IMAN",
+    "tp": [
+     {
+      "kode": "6.1",
+      "tp": "Peserta didik dapat menyebutkan enam Rukun Iman.",
+      "indikator": "Peserta didik mampu menyebutkan keenam Rukun Iman secara lengkap dan berurutan."
+     },
+     {
+      "kode": "6.2",
+      "tp": "Peserta didik dapat menjelaskan arti sederhana Rukun Iman.",
+      "indikator": "Peserta didik mampu menjelaskan arti dari minimal tiga Rukun Iman dengan bahasanya sendiri."
+     }
+    ]
+   },
+   {
+    "bab": 7,
+    "judul": "SIFAT WAJIB ALLAH SWT.",
+    "tp": [
+     {
+      "kode": "7.1",
+      "tp": "Peserta didik dapat menjelaskan arti sifat Wujud, Qidam, Baqa'.",
+      "indikator": "Peserta didik mampu menjelaskan arti sederhana dari sifat Wujud, Qidam, dan Baqa'."
+     },
+     {
+      "kode": "7.2",
+      "tp": "Peserta didik dapat menunjukkan bukti sifat Allah.",
+      "indikator": "Peserta didik mampu memberikan contoh ciptaan Allah sebagai bukti sifat Wujud-Nya."
+     }
+    ]
+   },
+   {
+    "bab": 8,
+    "judul": "ADAB MANDI DAN BERPAKAIAN",
+    "tp": [
+     {
+      "kode": "8.1",
+      "tp": "Peserta didik dapat menjelaskan tentang aurat.",
+      "indikator": "Peserta didik mampu menjelaskan pengertian aurat secara sederhana dan menunjukkan batasannya pada gambar."
+     },
+     {
+      "kode": "8.2",
+      "tp": "Peserta didik dapat mempraktikkan adab berpakaian.",
+      "indikator": "Peserta didik mampu mendemonstrasikan cara memakai pakaian atau sepatu dengan mendahulukan bagian kanan."
+     }
+    ]
+   },
+   {
+    "bab": 9,
+    "judul": "JUJUR, TERIMA KASIH, DAN RENDAH HATI",
+    "tp": [
+     {
+      "kode": "9.1",
+      "tp": "Peserta didik dapat menjelaskan arti akhlak terpuji.",
+      "indikator": "Peserta didik mampu menjelaskan arti dari jujur, terima kasih, dan rendah hati dengan kalimat sederhana."
+     },
+     {
+      "kode": "9.2",
+      "tp": "Peserta didik dapat menerapkan akhlak terpuji.",
+      "indikator": "Peserta didik mempraktikkan ucapan terima kasih secara spontan dan menunjukkan sikap mau berbagi dengan teman."
+     }
+    ]
+   }
+  ]
+ },
+ "Al-Qur'an Hadis": {
+  "berkas": "KKTP Al-Qur_an Hadis MI Kelas 1.docx.md",
+  "bab": [
+   {
+    "bab": 1,
+    "judul": "Mengenal Huruf Hijaiyah (1)",
+    "tp": [
+     {
+      "kode": "1.1",
+      "tp": "Melafalkan huruf-huruf hijaiyah ( ا \\- خ ) dengan makhraj sederhana.",
+      "indikator": "Peserta didik mampu melafalkan bunyi huruf hijaiyah dari Alif (ا) sampai Kha' (خ) sesuai contoh dari guru."
+     },
+     {
+      "kode": "1.2",
+      "tp": "Mengidentifikasi bentuk huruf hijaiyah ( ا \\- خ ).",
+      "indikator": "Peserta didik mampu menunjuk atau menyebutkan nama huruf hijaiyah dari Alif (ا) sampai Kha' (خ) yang ditunjukkan secara acak."
+     },
+     {
+      "kode": "1.3",
+      "tp": "Melafalkan huruf hijaiyah ( ا \\- خ ) berharakat Fathah, Kasrah, Dammah.",
+      "indikator": "Peserta didik mampu melafalkan bunyi huruf hijaiyah dari Alif (ا) sampai Kha' (خ) ketika diberi harakat dasar (a, i, u)."
+     }
+    ]
+   },
+   {
+    "bab": 2,
+    "judul": "Mengenal Surah al-Fatihah",
+    "tp": [
+     {
+      "kode": "2.1",
+      "tp": "Melafalkan ayat-ayat Surah Al-Fatihah.",
+      "indikator": "Peserta didik mampu menirukan pelafalan ayat per ayat Surah Al-Fatihah dengan tartil sederhana."
+     },
+     {
+      "kode": "2.2",
+      "tp": "Menunjukkan hafalan Surah Al-Fatihah.",
+      "indikator": "Peserta didik mampu melafalkan 7 ayat Surah Al-Fatihah secara urut dari hafalannya."
+     },
+     {
+      "kode": "2.3",
+      "tp": "Menjelaskan informasi dasar tentang Surah Al-Fatihah.",
+      "indikator": "Peserta didik mampu menyebutkan bahwa Al-Fatihah adalah surah pertama, artinya \"Pembukaan\", dan berjumlah 7 ayat."
+     }
+    ]
+   },
+   {
+    "bab": 3,
+    "judul": "Mengenal Surah An-Nas",
+    "tp": [
+     {
+      "kode": "3.1",
+      "tp": "Melafalkan ayat-ayat Surah An-Nas.",
+      "indikator": "Peserta didik mampu menirukan pelafalan ayat per ayat Surah An-Nas dengan tartil sederhana."
+     },
+     {
+      "kode": "3.2",
+      "tp": "Menunjukkan hafalan Surah An-Nas.",
+      "indikator": "Peserta didik mampu melafalkan 6 ayat Surah An-Nas secara urut dari hafalannya."
+     },
+     {
+      "kode": "3.3",
+      "tp": "Menjelaskan fungsi Surah An-Nas sebagai doa perlindungan.",
+      "indikator": "Peserta didik mampu menjelaskan dengan kalimat sederhana bahwa Surah An-Nas dibaca untuk memohon perlindungan Allah."
+     }
+    ]
+   },
+   {
+    "bab": 4,
+    "judul": "Mengenal Surah Al-Falaq",
+    "tp": [
+     {
+      "kode": "4.1",
+      "tp": "Melafalkan ayat-ayat Surah Al-Falaq.",
+      "indikator": "Peserta didik mampu menirukan pelafalan ayat per ayat Surah Al-Falaq dengan tartil sederhana."
+     },
+     {
+      "kode": "4.2",
+      "tp": "Menunjukkan hafalan Surah Al-Falaq.",
+      "indikator": "Peserta didik mampu melafalkan 5 ayat Surah Al-Falaq secara urut dari hafalannya."
+     },
+     {
+      "kode": "4.3",
+      "tp": "Menjelaskan fungsi Surah Al-Falaq & mengenal istilah *mu'awwidzatain*.",
+      "indikator": "Peserta didik mampu menyebutkan bahwa Al-Falaq dan An-Nas adalah surah perlindungan (*mu'awwidzatain*)."
+     }
+    ]
+   },
+   {
+    "bab": 5,
+    "judul": "Mengenal Surah Al-Ikhlas",
+    "tp": [
+     {
+      "kode": "5.1",
+      "tp": "Melafalkan ayat-ayat Surah Al-Ikhlas.",
+      "indikator": "Peserta didik mampu menirukan pelafalan ayat per ayat Surah Al-Ikhlas dengan tartil sederhana."
+     },
+     {
+      "kode": "5.2",
+      "tp": "Menunjukkan hafalan Surah Al-Ikhlas.",
+      "indikator": "Peserta didik mampu melafalkan 4 ayat Surah Al-Ikhlas secara urut dari hafalannya."
+     },
+     {
+      "kode": "5.3",
+      "tp": "Menjelaskan makna \"Allahu Ahad\" & \"Allahu Ash-Shamad\".",
+      "indikator": "Peserta didik mampu menjelaskan bahwa \"Allahu Ahad\" artinya Allah Maha Esa dan \"Allahu Ash-Shamad\" artinya Allah tempat meminta."
+     }
+    ]
+   },
+   {
+    "bab": 6,
+    "judul": "Mengenal Surah Al-Lahab",
+    "tp": [
+     {
+      "kode": "6.1",
+      "tp": "Melafalkan ayat-ayat Surah Al-Lahab.",
+      "indikator": "Peserta didik mampu menirukan pelafalan ayat per ayat Surah Al-Lahab dengan tartil sederhana."
+     },
+     {
+      "kode": "6.2",
+      "tp": "Menunjukkan hafalan Surah Al-Lahab.",
+      "indikator": "Peserta didik mampu melafalkan 5 ayat Surah Al-Lahab secara urut dari hafalannya."
+     },
+     {
+      "kode": "6.3",
+      "tp": "Menceritakan sebab turunnya surah & mengambil ibrahnya.",
+      "indikator": "Peserta didik mampu menyebutkan bahwa perbuatan Abu Lahab (menyakiti Nabi) adalah perbuatan yang tidak boleh ditiru."
+     }
+    ]
+   },
+   {
+    "bab": 7,
+    "judul": "Mengenal Huruf Hijaiyah (2)",
+    "tp": [
+     {
+      "kode": "7.1",
+      "tp": "Melafalkan huruf hijaiyah berharakat Tanwin.",
+      "indikator": "Peserta didik mampu membedakan dan melafalkan bunyi huruf dengan harakat Fathatain, Kasratain, dan Dhammatain."
+     },
+     {
+      "kode": "7.2",
+      "tp": "Melafalkan gabungan huruf yang mengandung Sukun.",
+      "indikator": "Peserta didik mampu melafalkan bunyi konsonan mati pada gabungan dua huruf (contoh: *ab, um, is*)."
+     },
+     {
+      "kode": "7.3",
+      "tp": "Melafalkan huruf hijaiyah berharakat Tasydid.",
+      "indikator": "Peserta didik mampu melafalkan bunyi huruf ganda dengan penekanan yang benar (contoh: *rab-ba, sum-ma*)."
+     }
+    ]
+   },
+   {
+    "bab": 8,
+    "judul": "Mengenal Surah An-Nashr",
+    "tp": [
+     {
+      "kode": "8.2",
+      "tp": "Menunjukkan hafalan Surah An-Nashr.",
+      "indikator": "Peserta didik mampu melafalkan 3 ayat Surah An-Nashr secara urut dari hafalannya."
+     },
+     {
+      "kode": "8.3",
+      "tp": "Menjelaskan tiga perintah Allah dalam surah.",
+      "indikator": "Peserta didik mampu menyebutkan perintah untuk memuji Allah (bertasbih dan bertahmid) dan meminta ampun (beristighfar)."
+     }
+    ]
+   },
+   {
+    "bab": 9,
+    "judul": "Mengenal Surah Al-Kafirun",
+    "tp": [
+     {
+      "kode": "9.2",
+      "tp": "Menunjukkan hafalan Surah Al-Kafirun.",
+      "indikator": "Peserta didik mampu melafalkan 6 ayat Surah Al-Kafirun secara urut dari hafalannya."
+     },
+     {
+      "kode": "9.3",
+      "tp": "Menjelaskan makna \"Lakum diinukum waliya diin\".",
+      "indikator": "Peserta didik mampu menjelaskan dengan kalimat sederhana bahwa kita harus menghargai teman yang berbeda agama."
+     }
+    ]
+   },
+   {
+    "bab": 10,
+    "judul": "Mengenal Surah Al-Kautsar",
+    "tp": [
+     {
+      "kode": "10.2",
+      "tp": "Menunjukkan hafalan Surah Al-Kautsar.",
+      "indikator": "Peserta didik mampu melafalkan 3 ayat Surah Al-Kautsar secara urut dari hafalannya."
+     },
+     {
+      "kode": "10.3",
+      "tp": "Menyebutkan dua perintah Allah sebagai wujud syukur.",
+      "indikator": "Peserta didik mampu menyebutkan perintah untuk salat dan berkurban sebagai cara bersyukur."
+     }
+    ]
+   },
+   {
+    "bab": 11,
+    "judul": "Mengenal Surah Al-Ma'un",
+    "tp": [
+     {
+      "kode": "11.2",
+      "tp": "Menunjukkan hafalan Surah Al-Ma'un.",
+      "indikator": "Peserta didik mampu melafalkan 7 ayat Surah Al-Ma'un secara urut dari hafalannya."
+     },
+     {
+      "kode": "11.3",
+      "tp": "Menyebutkan ciri-ciri pendusta agama.",
+      "indikator": "Peserta didik mampu menyebutkan minimal dua contoh ciri pendusta agama (misal: tidak sayang anak yatim, tidak mau menolong)."
+     }
+    ]
+   },
+   {
+    "bab": 12,
+    "judul": "Mengenal Surah Quraisy",
+    "tp": [
+     {
+      "kode": "12.2",
+      "tp": "Menunjukkan hafalan Surah Quraisy.",
+      "indikator": "Peserta didik mampu melafalkan 4 ayat Surah Quraisy secara urut dari hafalannya."
+     },
+     {
+      "kode": "12.3",
+      "tp": "Menyebutkan dua nikmat utama dalam surah.",
+      "indikator": "Peserta didik mampu menyebutkan nikmat makanan (dihilangkan dari lapar) dan nikmat rasa aman (dihilangkan dari takut)."
+     }
+    ]
+   },
+   {
+    "bab": 13,
+    "judul": "Aku Cinta Kebersihan",
+    "tp": [
+     {
+      "kode": "13.1",
+      "tp": "Melafalkan hadis tentang kebersihan.",
+      "indikator": "Peserta didik mampu melafalkan hadis \"Ath-thuhuuru syathrul-iimaan\" dengan fasih."
+     },
+     {
+      "kode": "13.2",
+      "tp": "Menunjukkan hafalan hadis tentang kebersihan.",
+      "indikator": "Peserta didik mampu melafalkan hadis tentang kebersihan dari hafalannya."
+     },
+     {
+      "kode": "13.3",
+      "tp": "Menjelaskan arti \"kebersihan sebagian dari iman\".",
+      "indikator": "Peserta didik mampu menjelaskan bahwa orang yang beriman harus suka menjaga kebersihan."
+     }
+    ]
+   }
+  ]
+ },
+ "Bahasa Arab": {
+  "berkas": "KKTP Bahasa Arab K-I (Deep Learning).docx",
+  "bab": [
+   {
+    "bab": 1,
+    "judul": "التعارف (Perkenalan)",
+    "jumlah_alur_tp": 3
+   },
+   {
+    "bab": 2,
+    "judul": "أسرتي (Keluargaku)",
+    "jumlah_alur_tp": 3
+   },
+   {
+    "bab": 3,
+    "judul": "هوايتي (Hobiku)",
+    "jumlah_alur_tp": 4
+   },
+   {
+    "bab": 4,
+    "judul": "بيتي (Rumahku)",
+    "jumlah_alur_tp": 3
+   },
+   {
+    "bab": 5,
+    "judul": "أسماء الفواكه (Nama-nama Buah)",
+    "jumlah_alur_tp": 3
+   },
+   {
+    "bab": 6,
+    "judul": "الألوان (Warna-warna)",
+    "jumlah_alur_tp": 3
+   }
+  ]
+ }
+}

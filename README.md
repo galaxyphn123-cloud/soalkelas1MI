@@ -71,3 +71,7 @@ dan membaca-memirsa; menulis hanya sampai frasa/kalimat sederhana. Prefix ID `EN
 Seluruh 9.000 soal diaudit terhadap ATP, Kurikulum Berbasis Cinta, Pembelajaran Mendalam, dan dimensi Profil Lulusan (mesin otomatis + tinjau baca model AI; bukan validasi ahli).
 Hasil: lihat `audit/MASTER_AUDIT_REPORT.md`. Bank asli tidak diubah; versi perbaikan ada di `audit/FINAL/<mapel>_final.json` (PASS 7.698, NEEDS_REVIEW 1.302 yang ditahan menunggu guru/ahli).
 Antrean verifikasi: `audit/ANTRIAN_VERIFIKASI_AHLI_SEMUA.csv`. Catatan: `sumber_atp` pada blueprint Bahasa Arab, Akidah Akhlak, Bahasa Indonesia, Matematika, dan Pancasila telah dikoreksi.
+
+
+## Tindak lanjut KKTP
+Lihat `audit/kktp/LAPORAN_KKTP.md`. Ringkas: 330 soal tambahan Bahasa Arab untuk Hobiku, Buah, dan Warna (`bahasa_arab/tambahan_kktp/`, belum diverifikasi ahli), matriks keselarasan KKTP↔bank untuk Fikih, Akidah Akhlak, Al-Qur'an Hadis, dan Bahasa Arab (`audit/kktp/`). Bank asli 9.000 soal tidak diubah; 330 soal baru belum termasuk dalam audit 9.000 soal.
