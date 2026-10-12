@@ -1,0 +1,144 @@
+{
+ "mapel": "Fikih",
+ "tanggal": "2026-10-12",
+ "soal_awal": 1000,
+ "soal_diperiksa": 1000,
+ "status": {
+  "PASS": 569,
+  "REVISE": 266,
+  "NEEDS_REVIEW": 165
+ },
+ "valid_PASS": 569,
+ "perlu_revisi": 266,
+ "ditolak": 0,
+ "perlu_ahli": 165,
+ "duplikat_identik_ID": 0,
+ "duplikat_substantif_pasangan": 0,
+ "tanpa_pemetaan_TP": 0,
+ "atp_tier_mesin": {
+  "SELARAS": 662,
+  "INDIKASI_ISTILAH_ABSEN_DI_ATP": 279,
+  "INDIKASI_LEKSIKAL": 48,
+  "INDIKASI_KUAT_TP_LAIN": 11
+ },
+ "atp_final": {
+  "SELARAS_MESIN": 634,
+  "SELARAS_TINJAU_BACA": 278,
+  "INDIKASI_TINJAU_BACA": 85,
+  "INDIKASI_KUAT_DOKUMEN": 3
+ },
+ "tinjau_baca_kode": {
+  "AKURASI_AHLI": 33,
+  "ATP_INDIKASI": 85,
+  "USIA_ISI": 54,
+  "ATP_INDIKASI_KUAT": 3,
+  "KONSTRUKSI": 1,
+  "BAHASA": 3,
+  "AMBIGU": 4,
+  "DISTRAKTOR_AMBIGU": 1,
+  "AKURASI_KONFLIK_INTERNAL": 3
+ },
+ "tinjau_baca_dimuat": true,
+ "issue": {
+  "petunjuk_kunci_terpanjang": 260,
+  "tinjau_baca_AKURASI_AHLI": 33,
+  "isian_jawaban_terbuka": 46,
+  "grouping_kunci_tak_valid": 1,
+  "tinjau_baca_ATP_INDIKASI": 85,
+  "tinjau_baca_USIA_ISI": 54,
+  "tinjau_baca_ATP_INDIKASI_KUAT": 3,
+  "tinjau_baca_KONSTRUKSI": 1,
+  "tinjau_baca_BAHASA": 3,
+  "tinjau_baca_AMBIGU": 4,
+  "tinjau_baca_DISTRAKTOR_AMBIGU": 1,
+  "opsi_semua_benar": 1,
+  "tinjau_baca_AKURASI_KONFLIK_INTERNAL": 3
+ },
+ "kesulitan": {
+  "easy": 115,
+  "medium": 722,
+  "hard": 163
+ },
+ "level_kognitif": {
+  "mengingat": 248,
+  "mencocokkan": 35,
+  "mengurutkan": 19,
+  "mengenali": 40,
+  "memahami": 283,
+  "menerapkan": 265,
+  "memecahkan_masalah": 30,
+  "membandingkan": 18,
+  "mengelompokkan": 34,
+  "menganalisis": 28
+ },
+ "tipe": {
+  "multiple_choice": 392,
+  "matching": 35,
+  "ordering": 19,
+  "true_false": 210,
+  "fill_in_short": 78,
+  "completion": 52,
+  "multiple_choice_visual": 43,
+  "contextual": 82,
+  "grouping": 34,
+  "performance_task": 55
+ },
+ "kunci_pilgan_posisi": {
+  "C": 129,
+  "B": 129,
+  "A": 129,
+  "D": 130
+ },
+ "kunci_opsi_terpanjang": "402/517",
+ "tf_jawaban": {
+  "Benar": 168,
+  "Salah": 42
+ },
+ "hash_bank_sebelum": "e001e39621f15f75df5a0e8d83f0bed3c9feeb899df709af8d8c399ac8ace052",
+ "hash_bank_sesudah": "e001e39621f15f75df5a0e8d83f0bed3c9feeb899df709af8d8c399ac8ace052",
+ "profil": {
+  "KBC_langsung": {
+   "Cinta Allah dan Rasul-Nya": 261,
+   "Cinta Diri dan Sesama": 52,
+   "Cinta Lingkungan": 34
+  },
+  "KBC_konteks": {
+   "Cinta Allah dan Rasul-Nya": 214,
+   "Cinta Ilmu": 164,
+   "Cinta Diri dan Sesama": 256,
+   "Cinta Tanah Air": 2,
+   "Cinta Lingkungan": 13
+  },
+  "KBC_melalui_TP": {
+   "Cinta Allah dan Rasul-Nya": 189,
+   "Cinta Diri dan Sesama": 46,
+   "Cinta Lingkungan": 119
+  },
+  "DL_pengalaman": {
+   "Memahami": 811,
+   "Mengaplikasi": 189,
+   "Merefleksi": 4
+  },
+  "DL_prinsip": {
+   "Menggembirakan": 65,
+   "Bermakna": 69,
+   "Berkesadaran": 4
+  },
+  "PL_langsung": {
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / Hubungan dengan Tuhan YME": 361,
+   "Penalaran Kritis / Penyelesaian Masalah": 76,
+   "Komunikasi / Berbicara": 12,
+   "Kewargaan / Kewargaan Lokal": 4,
+   "Kewargaan / perlu ditetapkan guru": 22
+  },
+  "PL_melalui_TP": {
+   "Keimanan dan Ketakwaan terhadap Tuhan YME / Hubungan dengan Tuhan YME": 167,
+   "Komunikasi / Berbicara": 38,
+   "Kewargaan / perlu ditetapkan guru": 107,
+   "Kewargaan / Kewargaan Lokal": 23
+  },
+  "PL_indikatif": {
+   "Penalaran Kritis / Pengambilan Keputusan": 53
+  }
+ }
+}

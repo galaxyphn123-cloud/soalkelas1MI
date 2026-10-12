@@ -3,7 +3,7 @@ FIK-WT-0206,Fikih,TP-FIK-WT-02,completion,PASS,3,3,4,3,4,,,Keimanan dan Ketakwaa
 FIK-TH-0045,Fikih,TP-FIK-TH-02,completion,PASS,4,3,4,3,4,,,
 FIK-KS-0186,Fikih,TP-FIK-KS-04,contextual,REVISE,3,3,3,2,4,petunjuk_kunci_terpanjang,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
 FIK-KS-0060,Fikih,TP-FIK-KS-03,contextual,REVISE,3,3,4,2,4,petunjuk_kunci_terpanjang,Cinta Allah dan Rasul-Nya,
-FIK-TH-0194,Fikih,TP-FIK-TH-02,fill_in_short,PASS,3,3,4,3,4,,,Kesehatan
+FIK-TH-0194,Fikih,TP-FIK-TH-02,fill_in_short,REVISE,3,3,4,3,4,isian_jawaban_terbuka:butuh rubrik/penilaian guru; bukan isian singkat berkunci tunggal,,Kesehatan
 FIK-RI-0073,Fikih,TP-FIK-RI-01,fill_in_short,NEEDS_REVIEW,2,3,4,3,4,,,
 FIK-WT-0133,Fikih,TP-FIK-WT-02,grouping,PASS,3,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME;Kesehatan
 FIK-RI-0103,Fikih,TP-FIK-RI-01,grouping,PASS,4,3,4,3,4,,,
@@ -15,9 +15,9 @@ FIK-RI-0214,Fikih,TP-FIK-RI-02,multiple_choice_visual,PASS,3,3,4,3,4,,,Keimanan 
 FIK-RI-0058,Fikih,TP-FIK-RI-02,multiple_choice_visual,PASS,3,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME
 FIK-RI-0252,Fikih,TP-FIK-RI-01,ordering,PASS,3,3,4,3,4,,,
 FIK-TH-0029,Fikih,TP-FIK-TH-02,ordering,NEEDS_REVIEW,2,3,4,3,4,,,
-FIK-RI-0144,Fikih,TP-FIK-RI-04,performance_task,PASS,4,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME
+FIK-RI-0144,Fikih,TP-FIK-RI-04,performance_task,PASS,3,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME
 FIK-TH-0161,Fikih,TP-FIK-TH-04,performance_task,NEEDS_REVIEW,2,3,4,3,4,,,Kesehatan
-FIK-KS-0167,Fikih,TP-FIK-KS-02,true_false,PASS,3,3,4,3,4,,Cinta Allah dan Rasul-Nya,
+FIK-KS-0167,Fikih,TP-FIK-KS-02,true_false,NEEDS_REVIEW,2,3,4,3,4,,Cinta Allah dan Rasul-Nya,
 FIK-WT-0107,Fikih,TP-FIK-WT-01,true_false,PASS,3,3,4,3,4,,,Keimanan dan Ketakwaan terhadap Tuhan YME;Kesehatan
 AQH-HK-0134,Al-Quran Hadis,TP-AQH-HK-04,completion,PASS,4,3,4,3,4,,Cinta Diri dan Sesama,Kesehatan
 AQH-FL-0133,Al-Quran Hadis,TP-AQH-FL-04,completion,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
@@ -38,7 +38,7 @@ AQH-FL-0136,Al-Quran Hadis,TP-AQH-FL-04,ordering,PASS,4,3,4,3,4,,Cinta Ilmu,Keim
 AQH-NS-0033,Al-Quran Hadis,TP-AQH-NS-01,performance_task,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
 AQH-HK-0080,Al-Quran Hadis,TP-AQH-HK-03,performance_task,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
 AQH-HK-0044,Al-Quran Hadis,TP-AQH-HK-02,true_false,PASS,4,3,4,3,4,,Cinta Allah dan Rasul-Nya,Keimanan dan Ketakwaan terhadap Tuhan YME
-AQH-HJ-0128,Al-Quran Hadis,TP-AQH-HJ-04,true_false,PASS,3,3,4,3,4,,,
+AQH-HJ-0128,Al-Quran Hadis,TP-AQH-HJ-04,true_false,NEEDS_REVIEW,2,3,4,3,4,,,
 BAR-KL-0234,Bahasa Arab,TP-BAR-KL-04,completion,PASS,3,3,4,3,4,,Cinta Diri dan Sesama,
 BAR-KL-0115,Bahasa Arab,TP-BAR-KL-02,completion,PASS,3,3,4,3,4,,,
 BAR-PK-0165,Bahasa Arab,TP-BAR-PK-03,contextual,PASS,4,3,2,3,4,,,
@@ -49,7 +49,7 @@ BAR-RM-0242,Bahasa Arab,TP-BAR-RM-04,grouping,NEEDS_REVIEW,2,3,3,3,4,,,
 BAR-KL-0240,Bahasa Arab,TP-BAR-KL-04,grouping,PASS,4,3,3,3,4,,,
 BAR-SK-0117,Bahasa Arab,TP-BAR-SK-02,matching,PASS,4,3,4,3,4,,,
 BAR-KL-0117,Bahasa Arab,TP-BAR-KL-02,matching,PASS,4,3,4,3,4,,,
-BAR-RM-0060,Bahasa Arab,TP-BAR-RM-02,multiple_choice,PASS,4,3,4,3,4,,,
+BAR-RM-0060,Bahasa Arab,TP-BAR-RM-02,multiple_choice,PASS,3,3,4,3,4,,,
 BAR-KL-0134,Bahasa Arab,TP-BAR-KL-03,multiple_choice,PASS,4,3,4,3,4,,,Penalaran Kritis
 BAR-PK-0183,Bahasa Arab,TP-BAR-PK-04,multiple_choice_visual,NEEDS_REVIEW,2,3,3,3,4,,,
 BAR-KL-0089,Bahasa Arab,TP-BAR-KL-02,multiple_choice_visual,PASS,3,3,4,3,4,,,
@@ -89,7 +89,7 @@ BIN-B3-0097,Bahasa Indonesia,TP-BIN-B3-03,grouping,PASS,4,3,4,3,4,,,
 BIN-B1-0053,Bahasa Indonesia,TP-BIN-B1-02,grouping,PASS,4,3,4,3,4,,,
 BIN-B1-0079,Bahasa Indonesia,TP-BIN-B1-03,matching,PASS,4,3,4,3,4,,,
 BIN-B7-0062,Bahasa Indonesia,TP-BIN-B7-02,matching,PASS,4,3,4,3,4,,,
-BIN-B3-0039,Bahasa Indonesia,TP-BIN-B3-02,multiple_choice,PASS,4,3,4,3,4,,,
+BIN-B3-0039,Bahasa Indonesia,TP-BIN-B3-02,multiple_choice,PASS,3,3,4,3,4,,,
 BIN-B1-0085,Bahasa Indonesia,TP-BIN-B1-04,multiple_choice,NEEDS_REVIEW,2,3,4,3,4,,,
 BIN-B8-0062,Bahasa Indonesia,TP-BIN-B8-03,multiple_choice_visual,PASS,3,3,4,3,4,,,
 BIN-B7-0115,Bahasa Indonesia,TP-BIN-B7-04,multiple_choice_visual,REVISE,4,3,3,2,4,petunjuk_kunci_terpanjang,,Komunikasi
@@ -97,10 +97,10 @@ BIN-B7-0026,Bahasa Indonesia,TP-BIN-B7-01,ordering,PASS,3,3,4,3,4,,,
 BIN-B5-0095,Bahasa Indonesia,TP-BIN-B5-03,ordering,PASS,4,3,4,3,4,,,
 BIN-B6-0083,Bahasa Indonesia,TP-BIN-B6-03,performance_task,PASS,4,3,4,3,4,,,Komunikasi
 BIN-B2-0092,Bahasa Indonesia,TP-BIN-B2-03,performance_task,PASS,4,3,4,3,4,,,
-BIN-B4-0073,Bahasa Indonesia,TP-BIN-B4-03,true_false,PASS,4,3,4,3,4,,,
+BIN-B4-0073,Bahasa Indonesia,TP-BIN-B4-03,true_false,PASS,3,3,4,3,4,,,
 BIN-B2-0045,Bahasa Indonesia,TP-BIN-B2-02,true_false,PASS,3,3,4,3,4,,Cinta Diri dan Sesama,
 MTK-B1-0131,Matematika,TP-MTK-B1-04,completion,PASS,4,3,4,3,4,,Cinta Diri dan Sesama,Kolaborasi
-MTK-B2-0100,Matematika,TP-MTK-B2-03,completion,PASS,3,3,3,3,4,,,
+MTK-B2-0100,Matematika,TP-MTK-B2-03,completion,NEEDS_REVIEW,2,3,3,3,4,,,
 MTK-B2-0086,Matematika,TP-MTK-B2-03,contextual,NEEDS_REVIEW,2,3,4,3,4,,,
 MTK-B7-0108,Matematika,TP-MTK-B7-04,contextual,PASS,3,3,3,3,4,,,
 MTK-B6-0086,Matematika,TP-MTK-B6-03,fill_in_short,NEEDS_REVIEW,2,3,4,3,4,,,Penalaran Kritis
@@ -117,7 +117,7 @@ MTK-B2-0038,Matematika,TP-MTK-B2-01,ordering,PASS,4,3,4,3,4,,,
 MTK-B6-0132,Matematika,TP-MTK-B6-04,ordering,PASS,4,3,4,3,4,,,
 MTK-B6-0133,Matematika,TP-MTK-B6-04,performance_task,PASS,4,3,4,3,4,,,
 MTK-B8-0073,Matematika,TP-MTK-B8-02,performance_task,PASS,4,3,4,3,4,,,
-MTK-B7-0122,Matematika,TP-MTK-B7-04,true_false,PASS,4,3,3,3,4,,,
+MTK-B7-0122,Matematika,TP-MTK-B7-04,true_false,PASS,3,3,3,3,4,,,
 MTK-B3-0013,Matematika,TP-MTK-B3-01,true_false,PASS,3,3,4,3,4,,,
 PPN-B2-0205,Pancasila,TP-PPN-B2-03,completion,PASS,4,3,4,3,4,,Cinta Diri dan Sesama,Kewargaan
 PPN-B2-0211,Pancasila,TP-PPN-B2-03,completion,PASS,4,3,4,3,4,,Cinta Diri dan Sesama,

@@ -1,0 +1,60 @@
+{
+ "jumlah_bank": 1000,
+ "jumlah_audit": 1000,
+ "id_sama_urutan": true,
+ "id_unik": true,
+ "status_jumlah": {
+  "PASS": 569,
+  "REVISE": 266,
+  "NEEDS_REVIEW": 165
+ },
+ "status_total_cocok": true,
+ "celah_nomor_ID": {
+  "FIK-RI": [
+   126
+  ]
+ },
+ "hash_bank_tidak_berubah": true,
+ "deterministik_hash_sama": true,
+ "struktur_independen": {
+  "kunci_terpanjang_menonjol": 260,
+  "isian_terbuka": 46,
+  "grouping_tak_valid": 1
+ },
+ "struktur_mesin": {
+  "kunci_terpanjang_menonjol": 260,
+  "isian_terbuka": 46,
+  "grouping_tak_valid": 1
+ },
+ "struktur_cocok": true,
+ "validasi_silang_ATP_ngram": {
+  "catatan": "persentase soal yang TP-nya berada di luar 3 teratas menurut kemiripan n-gram karakter (metode independen dari kata kunci)",
+  "SELARAS_MESIN": [
+   634,
+   0.224,
+   2.53
+  ],
+  "SELARAS_TINJAU_BACA": [
+   278,
+   0.745,
+   7.54
+  ],
+  "INDIKASI_TINJAU_BACA": [
+   85,
+   0.506,
+   5.05
+  ],
+  "INDIKASI_KUAT_DOKUMEN": [
+   3,
+   0.333,
+   6.67
+  ],
+  "format": "(jumlah, proporsi rank>3, rata-rata rank)"
+ },
+ "tinjau_baca_vs_mesin": {
+  "ATP_indikasi_hasil_baca": 88,
+  "juga_ditandai_mesin_(tier != SELARAS)": 60,
+  "lolos_mesin_(tier=SELARAS)": 28
+ },
+ "mesin_ditandai_dan_dinyatakan_selaras_oleh_bacaan": 278
+}

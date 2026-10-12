@@ -1,0 +1,1101 @@
+{
+ "catatan": "Tinjauan baca oleh model AI (bukan ahli). Hanya pengecualian yang dicatat; soal lain yang dibaca dianggap tidak bermasalah menurut pembaca. Semua temuan perlu keputusan guru/ahli.",
+ "reviewed_ranges": [
+  "0-90 (FIK-RI-0001..0090)",
+  "91-190 (FIK-RI-0091..0191)",
+  "191-290 (FIK-RI-0192..0268, FIK-KS-0001..0023)",
+  "291-390 (FIK-KS-0024..0123)",
+  "391-490 (FIK-KS-0124..0200, FIK-TH-0001..0023)",
+  "491-590 (FIK-TH-0024..0123)",
+  "591-690 (FIK-TH-0124..0223)",
+  "691-790 (FIK-TH-0224..0267, FIK-WT-0001..0056)",
+  "791-890 (FIK-WT-0057..0156)",
+  "891-1000 (FIK-WT-0157..0266)"
+ ],
+ "temuan": {
+  "FIK-RI-0066": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Syahadat dikaitkan dengan 'membaca doa sebelum tidur'; doa tidur bukan syahadat sehingga kaitan ke rukun Islam ke-1 meragukan."
+   }
+  ],
+  "FIK-RI-0088": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pernyataan benar: doa sebelum makan sebagai cara menghayati rukun Islam; doa makan bukan rukun Islam, kaitan perlu diputuskan ahli."
+   }
+  ],
+  "FIK-RI-0074": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Kotak amal digolongkan zakat (rukun ke-3); kotak amal umumnya infak/sedekah, bertentangan dengan pembedaan zakat-sedekah pada FIK-RI-0061."
+   }
+  ],
+  "FIK-RI-0020": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Bingkisan sembako ke tetangga dijawab Zakat; bisa sedekah, potensi lebih dari satu jawaban."
+   }
+  ],
+  "FIK-RI-0030": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "CP memuat salat fardu, tetapi ATP tidak punya TP/materi gerakan salat; soal praktik takbiratulihram berada di luar TP rukun Islam."
+   }
+  ],
+  "FIK-RI-0068": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Praktik duduk tasyahud: sama dengan FIK-RI-0030 (CP salat fardu, tidak ada TP gerakan salat)."
+   }
+  ],
+  "FIK-RI-0086": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Praktik rukuk dan sujud: sama dengan FIK-RI-0030."
+   }
+  ],
+  "FIK-RI-0147": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0148": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0149": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0150": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0151": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0152": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0153": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0154": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0155": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0156": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0157": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0158": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0159": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0160": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0161": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0162": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Waktu salat dan jumlah rakaat: CP memuat salat fardu, tetapi ATP Fikih tidak punya TP/materi salat; TP RI-01 hanya 'menyebutkan lima rukun Islam'."
+   }
+  ],
+  "FIK-RI-0108": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Salat Jumat/berjemaah/imam-makmum: CP memuat salat berjemaah, tetapi tidak ada TP salat berjemaah pada ATP."
+   }
+  ],
+  "FIK-RI-0109": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Salat Jumat/berjemaah/imam-makmum: CP memuat salat berjemaah, tetapi tidak ada TP salat berjemaah pada ATP."
+   }
+  ],
+  "FIK-RI-0183": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Salat Jumat/berjemaah/imam-makmum: CP memuat salat berjemaah, tetapi tidak ada TP salat berjemaah pada ATP."
+   }
+  ],
+  "FIK-RI-0184": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Salat Jumat/berjemaah/imam-makmum: CP memuat salat berjemaah, tetapi tidak ada TP salat berjemaah pada ATP."
+   }
+  ],
+  "FIK-RI-0185": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Salat Jumat/berjemaah/imam-makmum: CP memuat salat berjemaah, tetapi tidak ada TP salat berjemaah pada ATP."
+   }
+  ],
+  "FIK-RI-0187": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Salat Jumat/berjemaah/imam-makmum: CP memuat salat berjemaah, tetapi tidak ada TP salat berjemaah pada ATP."
+   }
+  ],
+  "FIK-RI-0189": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Salat Jumat/berjemaah/imam-makmum: CP memuat salat berjemaah, tetapi tidak ada TP salat berjemaah pada ATP."
+   }
+  ],
+  "FIK-RI-0190": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Salat Jumat/berjemaah/imam-makmum: CP memuat salat berjemaah, tetapi tidak ada TP salat berjemaah pada ATP."
+   }
+  ],
+  "FIK-RI-0191": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Salat Jumat/berjemaah/imam-makmum: CP memuat salat berjemaah, tetapi tidak ada TP salat berjemaah pada ATP."
+   }
+  ],
+  "FIK-RI-0170": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Hari raya/kurban adalah topik turunan rukun Islam (puasa/haji); tidak ada pada TP/CP; perlu keputusan apakah termasuk 'makna rukun Islam secara sederhana'."
+   }
+  ],
+  "FIK-RI-0171": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Hari raya/kurban adalah topik turunan rukun Islam (puasa/haji); tidak ada pada TP/CP; perlu keputusan apakah termasuk 'makna rukun Islam secara sederhana'."
+   }
+  ],
+  "FIK-RI-0172": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Hari raya/kurban adalah topik turunan rukun Islam (puasa/haji); tidak ada pada TP/CP; perlu keputusan apakah termasuk 'makna rukun Islam secara sederhana'."
+   }
+  ],
+  "FIK-RI-0173": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Hari raya/kurban adalah topik turunan rukun Islam (puasa/haji); tidak ada pada TP/CP; perlu keputusan apakah termasuk 'makna rukun Islam secara sederhana'."
+   }
+  ],
+  "FIK-RI-0174": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Hari raya/kurban adalah topik turunan rukun Islam (puasa/haji); tidak ada pada TP/CP; perlu keputusan apakah termasuk 'makna rukun Islam secara sederhana'."
+   }
+  ],
+  "FIK-RI-0175": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Hari raya/kurban adalah topik turunan rukun Islam (puasa/haji); tidak ada pada TP/CP; perlu keputusan apakah termasuk 'makna rukun Islam secara sederhana'."
+   }
+  ],
+  "FIK-RI-0176": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Hari raya/kurban adalah topik turunan rukun Islam (puasa/haji); tidak ada pada TP/CP; perlu keputusan apakah termasuk 'makna rukun Islam secara sederhana'."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Kurban dijawab 'rukun Islam ke-3 (berbagi)'; kurban bukan zakat sehingga kunci diragukan."
+   }
+  ],
+  "FIK-RI-0099": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Urutan 'paling sering' antara Puasa Ramadan dan Zakat fitrah ambigu (keduanya setahun sekali; puasa sebulan penuh); dasar pengurutan tidak jelas."
+   }
+  ],
+  "FIK-RI-0110": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah nisab/zakat mal terlalu abstrak untuk kelas 1; perlu pertimbangan guru apakah sesuai usia."
+   }
+  ],
+  "FIK-RI-0120": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah nisab/zakat mal terlalu abstrak untuk kelas 1; perlu pertimbangan guru apakah sesuai usia."
+   }
+  ],
+  "FIK-RI-0165": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah nisab/zakat mal terlalu abstrak untuk kelas 1; perlu pertimbangan guru apakah sesuai usia."
+   }
+  ],
+  "FIK-RI-0166": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah nisab/zakat mal terlalu abstrak untuk kelas 1; perlu pertimbangan guru apakah sesuai usia."
+   }
+  ],
+  "FIK-RI-0163": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah wukuf/Arafah/ihram tanpa jahitan/ketentuan waktu haji cukup rinci untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-RI-0164": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah wukuf/Arafah/ihram tanpa jahitan/ketentuan waktu haji cukup rinci untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-RI-0179": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah wukuf/Arafah/ihram tanpa jahitan/ketentuan waktu haji cukup rinci untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-RI-0181": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah wukuf/Arafah/ihram tanpa jahitan/ketentuan waktu haji cukup rinci untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-RI-0192": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Azan/muazin/imam-makmum: CP memuat 'melafalkan azan dan ikamah' dan salat berjemaah, tetapi ATP tidak memiliki TP/materi azan atau salat berjemaah."
+   }
+  ],
+  "FIK-RI-0193": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Azan/muazin/imam-makmum: CP memuat 'melafalkan azan dan ikamah' dan salat berjemaah, tetapi ATP tidak memiliki TP/materi azan atau salat berjemaah."
+   }
+  ],
+  "FIK-RI-0194": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Azan/muazin/imam-makmum: CP memuat 'melafalkan azan dan ikamah' dan salat berjemaah, tetapi ATP tidak memiliki TP/materi azan atau salat berjemaah."
+   }
+  ],
+  "FIK-RI-0195": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Azan/muazin/imam-makmum: CP memuat 'melafalkan azan dan ikamah' dan salat berjemaah, tetapi ATP tidak memiliki TP/materi azan atau salat berjemaah."
+   }
+  ],
+  "FIK-RI-0196": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Azan/muazin/imam-makmum: CP memuat 'melafalkan azan dan ikamah' dan salat berjemaah, tetapi ATP tidak memiliki TP/materi azan atau salat berjemaah."
+   }
+  ],
+  "FIK-RI-0197": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Azan/muazin/imam-makmum: CP memuat 'melafalkan azan dan ikamah' dan salat berjemaah, tetapi ATP tidak memiliki TP/materi azan atau salat berjemaah."
+   }
+  ],
+  "FIK-RI-0198": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Azan/muazin/imam-makmum: CP memuat 'melafalkan azan dan ikamah' dan salat berjemaah, tetapi ATP tidak memiliki TP/materi azan atau salat berjemaah."
+   }
+  ],
+  "FIK-RI-0209": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Gerakan/jumlah rakaat/peran salat berjemaah: CP memuat salat fardu dan berjemaah; tidak ada TP khusus pada ATP."
+   }
+  ],
+  "FIK-RI-0217": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Gerakan/jumlah rakaat/peran salat berjemaah: CP memuat salat fardu dan berjemaah; tidak ada TP khusus pada ATP."
+   }
+  ],
+  "FIK-RI-0218": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Gerakan/jumlah rakaat/peran salat berjemaah: CP memuat salat fardu dan berjemaah; tidak ada TP khusus pada ATP."
+   }
+  ],
+  "FIK-RI-0225": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Gerakan/jumlah rakaat/peran salat berjemaah: CP memuat salat fardu dan berjemaah; tidak ada TP khusus pada ATP."
+   }
+  ],
+  "FIK-RI-0229": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Gerakan/jumlah rakaat/peran salat berjemaah: CP memuat salat fardu dan berjemaah; tidak ada TP khusus pada ATP."
+   }
+  ],
+  "FIK-RI-0234": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Gerakan/jumlah rakaat/peran salat berjemaah: CP memuat salat fardu dan berjemaah; tidak ada TP khusus pada ATP."
+   }
+  ],
+  "FIK-RI-0236": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Gerakan/jumlah rakaat/peran salat berjemaah: CP memuat salat fardu dan berjemaah; tidak ada TP khusus pada ATP."
+   }
+  ],
+  "FIK-RI-0242": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Gerakan/jumlah rakaat/peran salat berjemaah: CP memuat salat fardu dan berjemaah; tidak ada TP khusus pada ATP."
+   }
+  ],
+  "FIK-RI-0248": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Gerakan/jumlah rakaat/peran salat berjemaah: CP memuat salat fardu dan berjemaah; tidak ada TP khusus pada ATP."
+   }
+  ],
+  "FIK-RI-0252": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Gerakan/jumlah rakaat/peran salat berjemaah: CP memuat salat fardu dan berjemaah; tidak ada TP khusus pada ATP."
+   }
+  ],
+  "FIK-RI-0256": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Gerakan/jumlah rakaat/peran salat berjemaah: CP memuat salat fardu dan berjemaah; tidak ada TP khusus pada ATP."
+   }
+  ],
+  "FIK-RI-0261": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Gerakan/jumlah rakaat/peran salat berjemaah: CP memuat salat fardu dan berjemaah; tidak ada TP khusus pada ATP."
+   }
+  ],
+  "FIK-RI-0205": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Topik kurban/hari raya turunan dari rukun Islam; tidak tercantum pada CP/TP; perlu keputusan."
+   }
+  ],
+  "FIK-RI-0206": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Topik kurban/hari raya turunan dari rukun Islam; tidak tercantum pada CP/TP; perlu keputusan."
+   }
+  ],
+  "FIK-RI-0211": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Topik kurban/hari raya turunan dari rukun Islam; tidak tercantum pada CP/TP; perlu keputusan."
+   }
+  ],
+  "FIK-RI-0215": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Topik kurban/hari raya turunan dari rukun Islam; tidak tercantum pada CP/TP; perlu keputusan."
+   }
+  ],
+  "FIK-RI-0220": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Topik kurban/hari raya turunan dari rukun Islam; tidak tercantum pada CP/TP; perlu keputusan."
+   }
+  ],
+  "FIK-RI-0231": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Topik kurban/hari raya turunan dari rukun Islam; tidak tercantum pada CP/TP; perlu keputusan."
+   }
+  ],
+  "FIK-RI-0227": [
+   {
+    "kode": "ATP_INDIKASI_KUAT",
+    "catatan": "Bulan Hijriah dan urutan bulan: istilah 'Hijriah'/nama bulan tidak ada pada teks CP maupun ATP Fikih; terkait hanya secara tidak langsung melalui puasa Ramadan dan haji."
+   }
+  ],
+  "FIK-RI-0250": [
+   {
+    "kode": "ATP_INDIKASI_KUAT",
+    "catatan": "Bulan Hijriah dan urutan bulan: istilah 'Hijriah'/nama bulan tidak ada pada teks CP maupun ATP Fikih; terkait hanya secara tidak langsung melalui puasa Ramadan dan haji."
+   }
+  ],
+  "FIK-RI-0258": [
+   {
+    "kode": "ATP_INDIKASI_KUAT",
+    "catatan": "Bulan Hijriah dan urutan bulan: istilah 'Hijriah'/nama bulan tidak ada pada teks CP maupun ATP Fikih; terkait hanya secara tidak langsung melalui puasa Ramadan dan haji."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal mengelompokkan sudah memuat jawaban pada butir ('Idulfitri di bulan Syawal'); tugas menjadi trivial."
+   }
+  ],
+  "FIK-RI-0246": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Makna ucapan salam 'Assalamualaikum' tidak terkait langsung dengan TP rukun Islam 04."
+   }
+  ],
+  "FIK-RI-0228": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah imsak/iftar/nisab/haul/balig pada soal terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-RI-0237": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah imsak/iftar/nisab/haul/balig pada soal terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-RI-0233": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah imsak/iftar/nisab/haul/balig pada soal terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-RI-0247": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah imsak/iftar/nisab/haul/balig pada soal terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-RI-0235": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah imsak/iftar/nisab/haul/balig pada soal terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-RI-0207": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Ketentuan qada salat yang tertinggal (hard) terlalu rinci untuk kelas 1."
+   }
+  ],
+  "FIK-RI-0253": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Stem 'peristiwa dalam bulan Ramadan' memuat Idulfitri yang jatuh pada 1 Syawal; urutan awal puasa-tarawih juga tidak tepat (tarawih malam pertama mendahului puasa)."
+   }
+  ],
+  "FIK-KS-0016": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Contoh jawaban 'sebelum tidur' sebagai waktu mengucapkan syahadat; dasar tidak jelas, sama dengan FIK-RI-0066."
+   }
+  ],
+  "FIK-RI-0265": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif ('TIDAK tepat') kurang sesuai kelas 1."
+   }
+  ],
+  "FIK-KS-0035": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pengecoh 'Asyhadu anna ...' / tanpa 'Wa' pada syahadat rasul mirip lafal yang lazim diucapkan; potensi lebih dari satu jawaban benar atau perbedaan ejaan (Muhammadar/Muhammadan); perlu ahli."
+   }
+  ],
+  "FIK-KS-0036": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pengecoh 'Asyhadu anna ...' / tanpa 'Wa' pada syahadat rasul mirip lafal yang lazim diucapkan; potensi lebih dari satu jawaban benar atau perbedaan ejaan (Muhammadar/Muhammadan); perlu ahli."
+   }
+  ],
+  "FIK-KS-0045": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kata 'Asyhadu' muncul pada kedua kalimat syahadat (tauhid dan rasul); butir ini dapat masuk dua kelompok."
+   }
+  ],
+  "FIK-KS-0097": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Perbedaan azan dan ikamah: CP memuat azan dan ikamah, tetapi tidak ada TP azan/ikamah; keterkaitan ke TP syahadatain lemah."
+   }
+  ],
+  "FIK-KS-0098": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Perbedaan azan dan ikamah: CP memuat azan dan ikamah, tetapi tidak ada TP azan/ikamah; keterkaitan ke TP syahadatain lemah."
+   }
+  ],
+  "FIK-KS-0104": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Instruksi membingungkan ('huruf hijaiah pertama ... tulis bunyi awalnya') dan kunci 'A (alif/hamzah)' tidak tunggal."
+   }
+  ],
+  "FIK-KS-0111": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Tasydid pada 'illallah' dan perubahan bunyi 'Muhammadar' (tajwid) terlalu teknis untuk kelas 1."
+   }
+  ],
+  "FIK-KS-0117": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Tasydid pada 'illallah' dan perubahan bunyi 'Muhammadar' (tajwid) terlalu teknis untuk kelas 1."
+   }
+  ],
+  "FIK-KS-0118": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Pengelompokan kata kerja/bukan kata kerja pada lafal Arab (tata bahasa) di luar TP syahadatain dan terlalu teknis untuk kelas 1."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Analisis jenis kata Arab tidak ada pada CP/ATP Fikih."
+   }
+  ],
+  "FIK-KS-0157": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Basmalah dijawab sebagai 'pengamalan syahadat tauhid'; kaitan basmalah-syahadat adalah tafsir yang perlu ditetapkan ahli (jawaban benar hanya karena eliminasi pilihan lain)."
+   }
+  ],
+  "FIK-KS-0161": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Azan/ikamah (urutan azan dan ikamah) tidak ada TP khusus; CP memuat azan dan ikamah."
+   }
+  ],
+  "FIK-KS-0175": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Fungsi gramatikal kata Arab (la/ilaha/illa; peniadaan-penegasan) terlalu teknis untuk kelas 1."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Analisis tata bahasa Arab lafal syahadat tidak ada pada CP/ATP Fikih."
+   }
+  ],
+  "FIK-KS-0176": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Fungsi gramatikal kata Arab (la/ilaha/illa; peniadaan-penegasan) terlalu teknis untuk kelas 1."
+   }
+  ],
+  "FIK-KS-0178": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Fungsi gramatikal kata Arab (la/ilaha/illa; peniadaan-penegasan) terlalu teknis untuk kelas 1."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Analisis tata bahasa Arab lafal syahadat tidak ada pada CP/ATP Fikih."
+   }
+  ],
+  "FIK-KS-0182": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Fungsi gramatikal kata Arab (la/ilaha/illa; peniadaan-penegasan) terlalu teknis untuk kelas 1."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Analisis tata bahasa Arab lafal syahadat tidak ada pada CP/ATP Fikih."
+   }
+  ],
+  "FIK-TH-0021": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Salat dengan pakaian bernajis tanpa disadari 'perlu diulang' adalah masalah khilafiah antar mazhab; perlu ahli."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Ketentuan mengulang salat karena najis terlalu rinci untuk kelas 1."
+   }
+  ],
+  "FIK-TH-0025": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'Pasir' dapat dianggap benda padat bersih untuk beristinja (istijmar) pada sebagian pendapat; potensi dua jawaban."
+   }
+  ],
+  "FIK-TH-0032": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Tingkatan najis (mughalladzah/mukhaffafah/mutawassitah) dan istilah Arab terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-TH-0033": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Tingkatan najis (mughalladzah/mukhaffafah/mutawassitah) dan istilah Arab terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Ketentuan najis bayi laki-laki diperciki, najis anjing tujuh kali, dan usapan batu tiga kali bersifat mazhab (Syafii); mazhab rujukan harus ditetapkan ahli."
+   }
+  ],
+  "FIK-TH-0034": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Tingkatan najis (mughalladzah/mukhaffafah/mutawassitah) dan istilah Arab terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-TH-0035": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Tingkatan najis (mughalladzah/mukhaffafah/mutawassitah) dan istilah Arab terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-TH-0042": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Tingkatan najis (mughalladzah/mukhaffafah/mutawassitah) dan istilah Arab terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-TH-0044": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Tingkatan najis (mughalladzah/mukhaffafah/mutawassitah) dan istilah Arab terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-TH-0045": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Tingkatan najis (mughalladzah/mukhaffafah/mutawassitah) dan istilah Arab terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Ketentuan najis bayi laki-laki diperciki, najis anjing tujuh kali, dan usapan batu tiga kali bersifat mazhab (Syafii); mazhab rujukan harus ditetapkan ahli."
+   }
+  ],
+  "FIK-TH-0117": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Tingkatan najis (mughalladzah/mukhaffafah/mutawassitah) dan istilah Arab terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-TH-0118": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Tingkatan najis (mughalladzah/mukhaffafah/mutawassitah) dan istilah Arab terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-TH-0119": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Tingkatan najis (mughalladzah/mukhaffafah/mutawassitah) dan istilah Arab terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-TH-0120": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Tingkatan najis (mughalladzah/mukhaffafah/mutawassitah) dan istilah Arab terlalu teknis untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-TH-0107": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Ketentuan najis bayi laki-laki diperciki, najis anjing tujuh kali, dan usapan batu tiga kali bersifat mazhab (Syafii); mazhab rujukan harus ditetapkan ahli."
+   }
+  ],
+  "FIK-TH-0101": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Membaca Al-Qur'an (menyentuh mushaf)' mencampur membaca dan menyentuh mushaf; syarat suci berlaku untuk menyentuh mushaf; redaksi perlu ahli."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Syarat suci untuk tawaf/menyentuh mushaf terlalu rinci untuk kelas 1."
+   }
+  ],
+  "FIK-TH-0102": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Syarat suci untuk tawaf/menyentuh mushaf terlalu rinci untuk kelas 1."
+   }
+  ],
+  "FIK-TH-0130": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah tingkatan najis (ringan/sedang/berat, mukhaffafah/mughalladzah) terlalu teknis untuk kelas 1."
+   }
+  ],
+  "FIK-TH-0193": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah tingkatan najis (ringan/sedang/berat, mukhaffafah/mughalladzah) terlalu teknis untuk kelas 1."
+   }
+  ],
+  "FIK-TH-0194": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah tingkatan najis (ringan/sedang/berat, mukhaffafah/mughalladzah) terlalu teknis untuk kelas 1."
+   }
+  ],
+  "FIK-TH-0195": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah tingkatan najis (ringan/sedang/berat, mukhaffafah/mughalladzah) terlalu teknis untuk kelas 1."
+   }
+  ],
+  "FIK-TH-0196": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah tingkatan najis (ringan/sedang/berat, mukhaffafah/mughalladzah) terlalu teknis untuk kelas 1."
+   }
+  ],
+  "FIK-TH-0197": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah tingkatan najis (ringan/sedang/berat, mukhaffafah/mughalladzah) terlalu teknis untuk kelas 1."
+   }
+  ],
+  "FIK-TH-0178": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Khamr dinyatakan 'najis' adalah pendapat sebagian mazhab; pendapat lain menyatakan suci walau haram; perlu ahli."
+   }
+  ],
+  "FIK-TH-0214": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Hikmah larangan bangkai/khamr (makanan-minuman terlarang) berada di luar bahasan taharah pada TP TH-03 (hikmah bersuci)."
+   }
+  ],
+  "FIK-TH-0216": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Hikmah larangan bangkai/khamr (makanan-minuman terlarang) berada di luar bahasan taharah pada TP TH-03 (hikmah bersuci)."
+   }
+  ],
+  "FIK-TH-0177": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Hikmah larangan bangkai/khamr (makanan-minuman terlarang) berada di luar bahasan taharah pada TP TH-03 (hikmah bersuci)."
+   }
+  ],
+  "FIK-TH-0186": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kebersihan hati (iri, dengki) adalah topik akhlak/tasawuf, bukan bersuci dari hadas dan najis pada TP taharah; selaras dengan nilai KBC tetapi perlu keputusan ahli."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pernyataan 'taharah mencakup kebersihan hati' menggeser pengertian taharah fikih; perlu ahli."
+   }
+  ],
+  "FIK-TH-0187": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kebersihan hati (iri, dengki) adalah topik akhlak/tasawuf, bukan bersuci dari hadas dan najis pada TP taharah; selaras dengan nilai KBC tetapi perlu keputusan ahli."
+   }
+  ],
+  "FIK-TH-0188": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kebersihan hati (iri, dengki) adalah topik akhlak/tasawuf, bukan bersuci dari hadas dan najis pada TP taharah; selaras dengan nilai KBC tetapi perlu keputusan ahli."
+   }
+  ],
+  "FIK-TH-0189": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kebersihan hati (iri, dengki) adalah topik akhlak/tasawuf, bukan bersuci dari hadas dan najis pada TP taharah; selaras dengan nilai KBC tetapi perlu keputusan ahli."
+   }
+  ],
+  "FIK-TH-0190": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kebersihan hati (iri, dengki) adalah topik akhlak/tasawuf, bukan bersuci dari hadas dan najis pada TP taharah; selaras dengan nilai KBC tetapi perlu keputusan ahli."
+   }
+  ],
+  "FIK-TH-0218": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kebersihan hati (iri, dengki) adalah topik akhlak/tasawuf, bukan bersuci dari hadas dan najis pada TP taharah; selaras dengan nilai KBC tetapi perlu keputusan ahli."
+   }
+  ],
+  "FIK-TH-0219": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kebersihan hati (iri, dengki) adalah topik akhlak/tasawuf, bukan bersuci dari hadas dan najis pada TP taharah; selaras dengan nilai KBC tetapi perlu keputusan ahli."
+   }
+  ],
+  "FIK-TH-0220": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kebersihan hati (iri, dengki) adalah topik akhlak/tasawuf, bukan bersuci dari hadas dan najis pada TP taharah; selaras dengan nilai KBC tetapi perlu keputusan ahli."
+   }
+  ],
+  "FIK-TH-0191": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah air musta'mal terlalu teknis untuk kelas 1."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Status air musta'mal (suci tetapi tidak mensucikan) berbeda antar mazhab; kunci 'sebaiknya diganti' perlu ahli."
+   }
+  ],
+  "FIK-TH-0215": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah air musta'mal terlalu teknis untuk kelas 1."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Status air musta'mal (suci tetapi tidak mensucikan) berbeda antar mazhab; kunci 'sebaiknya diganti' perlu ahli."
+   }
+  ],
+  "FIK-TH-0209": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Gambar mencuci 'berulang kali dengan sabun' dapat mengarah ke najis berat; kunci 'sedang' (kotoran hewan) tidak tegas dari gambar."
+   }
+  ],
+  "FIK-TH-0199": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Langkah mencuci tangan dengan sabun adalah kebersihan umum (PHBS), bukan tata cara bersuci dari hadas/najis pada TP TH-02."
+   }
+  ],
+  "FIK-TH-0224": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kebersihan batin/hati sebagai bagian taharah (sama dengan FIK-TH-0186..0190); bukan bersuci dari hadas dan najis."
+   }
+  ],
+  "FIK-TH-0226": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kebersihan batin/hati sebagai bagian taharah (sama dengan FIK-TH-0186..0190); bukan bersuci dari hadas dan najis."
+   }
+  ],
+  "FIK-TH-0227": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kebersihan batin/hati sebagai bagian taharah (sama dengan FIK-TH-0186..0190); bukan bersuci dari hadas dan najis."
+   }
+  ],
+  "FIK-TH-0263": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kebersihan batin/hati sebagai bagian taharah (sama dengan FIK-TH-0186..0190); bukan bersuci dari hadas dan najis."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Definisi taharah mencakup 'lahir dan batin' menggeser pengertian fikih taharah; perlu ahli."
+   }
+  ],
+  "FIK-TH-0225": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Hikmah larangan bangkai (makanan) di luar bahasan taharah (sama dengan FIK-TH-0214)."
+   }
+  ],
+  "FIK-WT-0020": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Tertib sebagai syarat sah wudu mengikuti mazhab Syafii; mazhab lain tidak mewajibkan; mazhab rujukan harus ditetapkan."
+   }
+  ],
+  "FIK-WT-0021": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Tertib sebagai syarat sah wudu mengikuti mazhab Syafii; mazhab lain tidak mewajibkan; mazhab rujukan harus ditetapkan."
+   }
+  ],
+  "FIK-WT-0022": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Tertib sebagai syarat sah wudu mengikuti mazhab Syafii; mazhab lain tidak mewajibkan; mazhab rujukan harus ditetapkan."
+   }
+  ],
+  "FIK-WT-0048": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Kunci 'satu kali' tepukan tayamum tidak konsisten dengan 'mengusap tangan sampai siku' (FIK-WT-0046/0051) yang mengikuti mazhab Syafii (dua tepukan); kunci perlu diverifikasi ahli."
+   },
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "WT-0205 menyatakan tangan 'ditepukkan lagi ke debu' sebelum mengusap tangan (dua tepukan), sedangkan WT-0048 dan WT-0216 menetapkan tepukan 'satu kali'. Kunci saling bertentangan dalam bank yang sama."
+   }
+  ],
+  "FIK-WT-0054": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Sunnah membasuh sela jenggot tidak relevan bagi murid kelas 1."
+   }
+  ],
+  "FIK-WT-0083": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Jumlah rukun tayamum 'empat' berbeda dari penghitungan Syafii yang lazim (lima, termasuk memindahkan debu); kunci bergantung mazhab dan harus ditetapkan ahli."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menghafal jumlah dan urutan rukun wudu/tayamum (6 dan 4) rinci untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-WT-0086": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Jumlah rukun tayamum 'empat' berbeda dari penghitungan Syafii yang lazim (lima, termasuk memindahkan debu); kunci bergantung mazhab dan harus ditetapkan ahli."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menghafal jumlah dan urutan rukun wudu/tayamum (6 dan 4) rinci untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-WT-0141": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Jumlah rukun tayamum 'empat' berbeda dari penghitungan Syafii yang lazim (lima, termasuk memindahkan debu); kunci bergantung mazhab dan harus ditetapkan ahli."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menghafal jumlah dan urutan rukun wudu/tayamum (6 dan 4) rinci untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-WT-0112": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Jumlah rukun tayamum 'empat' berbeda dari penghitungan Syafii yang lazim (lima, termasuk memindahkan debu); kunci bergantung mazhab dan harus ditetapkan ahli."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menghafal jumlah dan urutan rukun wudu/tayamum (6 dan 4) rinci untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-WT-0082": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menghafal jumlah dan urutan rukun wudu/tayamum (6 dan 4) rinci untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-WT-0084": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menghafal jumlah dan urutan rukun wudu/tayamum (6 dan 4) rinci untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-WT-0085": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menghafal jumlah dan urutan rukun wudu/tayamum (6 dan 4) rinci untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-WT-0140": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menghafal jumlah dan urutan rukun wudu/tayamum (6 dan 4) rinci untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "FIK-WT-0120": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Kunci 'Salah' (telinga diusap dengan air terpisah): Syafii menyunahkan air baru untuk telinga; mazhab lain berbeda; tidak konsisten dengan acuan Syafii pada butir lain."
+   }
+  ],
+  "FIK-WT-0010": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pasir/pasir laut: butir WT-0010 menjadikan 'pasir laut' sebagai pengecoh salah, sedangkan WT-0148 membenarkan tayamum dengan pasir kering bersih; ketentuan bahan tayamum (debu/tanah vs pasir) harus ditetapkan ahli agar konsisten."
+   }
+  ],
+  "FIK-WT-0148": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pasir/pasir laut: butir WT-0010 menjadikan 'pasir laut' sebagai pengecoh salah, sedangkan WT-0148 membenarkan tayamum dengan pasir kering bersih; ketentuan bahan tayamum (debu/tanah vs pasir) harus ditetapkan ahli agar konsisten."
+   }
+  ],
+  "FIK-WT-0024": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pasir/pasir laut: butir WT-0010 menjadikan 'pasir laut' sebagai pengecoh salah, sedangkan WT-0148 membenarkan tayamum dengan pasir kering bersih; ketentuan bahan tayamum (debu/tanah vs pasir) harus ditetapkan ahli agar konsisten."
+   }
+  ],
+  "FIK-WT-0116": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Batas wajah (batas tumbuh rambut-dagu, telinga ke telinga) terlalu rinci untuk kelas 1."
+   }
+  ],
+  "FIK-WT-0216": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "WT-0205 menyatakan tangan 'ditepukkan lagi ke debu' sebelum mengusap tangan (dua tepukan), sedangkan WT-0048 dan WT-0216 menetapkan tepukan 'satu kali'. Kunci saling bertentangan dalam bank yang sama."
+   }
+  ],
+  "FIK-WT-0205": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "WT-0205 menyatakan tangan 'ditepukkan lagi ke debu' sebelum mengusap tangan (dua tepukan), sedangkan WT-0048 dan WT-0216 menetapkan tepukan 'satu kali'. Kunci saling bertentangan dalam bank yang sama."
+   }
+  ],
+  "FIK-WT-0164": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kunci 'hadas kecil' untuk tujuan wudu dan tayamum bertentangan dengan WT-0165 (tayamum juga pengganti mandi wajib/hadas besar); opsi A (hadas besar) tidak sepenuhnya salah."
+   }
+  ],
+  "FIK-WT-0076": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Keraguan setelah 'tertidur sebentar': wudu batal atau tidak bergantung posisi tidur; kunci 'berwudu kembali' berbeda arah dengan kaidah keyakinan pada WT-0172."
+   }
+  ],
+  "FIK-WT-0254": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif ('BUKAN') kurang sesuai kelas 1."
+   }
+  ],
+  "FIK-WT-0172": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kaidah keyakinan vs keraguan terlalu abstrak untuk kelas 1."
+   }
+  ]
+ }
+}

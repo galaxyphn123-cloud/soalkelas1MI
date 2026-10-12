@@ -20,9 +20,11 @@ def norm(s):
     return re.sub(r'\s+', ' ', t).strip()
 
 def stem(w):
-    for p in ('meng', 'meny', 'mem', 'men', 'me', 'ber', 'per', 'pen', 'peng', 'di', 'ter', 'se'):
+    for p in ('meng', 'meny', 'mem', 'men', 'ber', 'per', 'pen', 'peng', 'ter'):
         if w.startswith(p) and len(w) - len(p) >= 4: w = w[len(p):]; break
-    for q in ('kan', 'an', 'i', 'nya', 'lah'):
+    else:
+        if w.startswith('di') and len(w) >= 8: w = w[2:]
+    for q in ('kan', 'nya', 'lah'):
         if w.endswith(q) and len(w) - len(q) >= 4: w = w[:-len(q)]; break
     return w
 
@@ -41,14 +43,14 @@ def load():
 LEX = {
  'KBC_ALLAH': r'\b(allah|rasul|rasulullah|nabi|muhammad|syahadat|syahadatain|salat|shalat|doa|zikir|iman|ibadah|asmaul|rahmat|al-qur|alquran|quran|surah|hadis|bismillah|alhamdulillah|syukur|takbir|ikhlas)\b',
  'KBC_ILMU': r'\b(belajar|ilmu|guru|membaca|literasi|rajin|bertanya|buku|sekolah|tekun|pelajaran)\b',
- 'KBC_DIRI_SESAMA': r'\b(teman|keluarga|ayah|ibu|orang tua|kakak|adik|tetangga|saling|menolong|membantu|sopan|jujur|sabar|menghormati|menyayangi|berbagi|maaf|tolong|terima kasih|bersih|kebersihan|sehat|kesehatan|akhlak|santun|toleran|menghargai)\b',
+ 'KBC_DIRI_SESAMA': r'\b(sesama|orang lain|manusia|diri sendiri|teman|keluarga|ayah|ibu|orang tua|kakak|adik|tetangga|saling|menolong|membantu|sopan|jujur|sabar|menghormati|menyayangi|berbagi|maaf|tolong|terima kasih|bersih|kebersihan|sehat|kesehatan|akhlak|santun|toleran|menghargai)\b',
  'KBC_LINGKUNGAN': r'\b(lingkungan|sampah|pohon|tanaman|menyiram|merawat tanaman|alam|membuang sampah|taman|hemat|ciptaan|kebersihan lingkungan|lingkungan bersih)\b',
  'KBC_TANAH_AIR': r'\b(indonesia|tanah air|bangsa|negara|bendera|pancasila|garuda|merah putih|persatuan|keberagaman|suku|budaya|daerah|nusantara|bhinneka|gotong royong|lagu kebangsaan)\b',
  'PL_KEIMANAN': r'\b(allah|rasul|salat|shalat|doa|syahadat|iman|ibadah|wudu|tayamum|puasa|zakat|surah|ayat|hadis|akidah|akhlak|malaikat|kitab|berdoa|bismillah)\b',
  'PL_KEWARGAAN': r'\b(aturan|sila|pancasila|keberagaman|toleransi|tanah air|gotong royong|menaati|lingkungan|bendera|negara|suku|budaya|hak|kewajiban|tanggung jawab|musyawarah)\b',
  'PL_KOLABORASI': r'\b(kerja sama|bekerja sama|bersama|tim|kelompok|gotong royong|berbagi|giliran|estafet|saling|membantu|menolong|beregu)\b',
  'PL_KEMANDIRIAN': r'\b(mandiri|sendiri|tanggung jawab|merapikan|inisiatif|mencoba|berani|tanpa bantuan|menyelesaikan|mengurus|membereskan)\b',
- 'PL_KESEHATAN': r'\b(sehat|kesehatan|bersih|kebersihan|olahraga|gizi|bergizi|makanan|minum|cuci tangan|tidur|istirahat|bugar|aktivitas fisik|keselamatan|bahaya|cedera|pemanasan|taharah|wudu)\b',
+ 'PL_KESEHATAN': r'\b(sehat|kesehatan|penyakit|kuman|cuci tangan|mencuci tangan|sabun|sikat gigi|menggosok gigi|gosok gigi|mandi|kuku|olahraga|gizi|bergizi|istirahat|bugar|aktivitas fisik|keselamatan|bahaya|cedera|pemanasan)\b',
  'PL_KREATIVITAS': r'\b(menggambar|mewarnai|mengarang|menciptakan|membuat|merancang|menyusun gambar|bernyanyi|menari|berimajinasi|mengeksplorasi|bereksplorasi|variasi|cerita sendiri)\b',
  'PL_KOMUNIKASI': r'\b(ucapkan|ceritakan|sebutkan|tanyakan|menyapa|berkenalan|bercerita|dialog|percakapan|berbicara|menyampaikan|mengucapkan|melafalkan|menjawab|bertanya|menulis|menuliskan)\b',
 }
@@ -90,6 +92,11 @@ def structure(x):
             if max(txt, key=len) == key and len(key) >= 1.5 * sorted(map(len, txt))[-2] and len(key) > 12: iss.append(('petunjuk_kunci_terpanjang', ''))
     if t == 'true_false' and a not in ('Benar', 'Salah'): iss.append(('tf_kunci_tak_valid', a))
     if t in ('fill_in_short', 'completion') and not str(a).strip(): iss.append(('isian_tanpa_kunci', ''))
+    if t == 'grouping':
+        if not isinstance(a, dict) or any(not isinstance(v, list) for v in a.values()): iss.append(('grouping_kunci_tak_valid', 'nilai kelompok bukan daftar'))
+    if t == 'matching' and not (isinstance(a, dict) and isinstance(o, dict) and set(a) == set(o.get('kolom_kiri', [])) and sorted(a.values()) == sorted(o.get('kolom_kanan', []))): iss.append(('matching_kunci_tak_valid', ''))
+    if t == 'ordering' and not (isinstance(a, list) and isinstance(o, list) and sorted(a) == sorted(o)): iss.append(('ordering_kunci_tak_valid', ''))
+    if t in ('fill_in_short', 'completion') and isinstance(a, str) and re.match(r'\s*contoh jawaban', a.lower()): iss.append(('isian_jawaban_terbuka', 'butuh rubrik/penilaian guru; bukan isian singkat berkunci tunggal'))
     if x['visual_required'] and not x['visual_prompt']: iss.append(('visual_tanpa_deskripsi', ''))
     if re.search(r'(perhatikan|lihat|pada)\s+gambar', x['question'].lower()) and not x['visual_required']: iss.append(('rujuk_gambar_tanpa_visual', ''))
     return iss
@@ -138,11 +145,19 @@ def sc_konstruksi(x, iss):
     return 3, 'konstruksi sesuai tipe soal'
 
 # ----------------------------------------------------------------------------- pemetaan KBC / PM / PL (dengan bukti)
+TP_NILAI = [(r'cinta\s+allah|cinta\s+kepada\s+allah', 'Cinta Allah dan Rasul-Nya'), (r'cinta\s+ilmu', 'Cinta Ilmu'), (r'cinta\s+diri|sesama\s+manusia|cinta\s+sesama', 'Cinta Diri dan Sesama'),
+             (r'cinta\s+lingkungan', 'Cinta Lingkungan'), (r'cinta\s+tanah\s+air', 'Cinta Tanah Air')]
+
+def tp_nilai(tp):
+    t = tp.lower()
+    return [n for rx, n in TP_NILAI if re.search(rx, t)]
+
 def kbc(x):
     qonly = qtext(x); kt = keytext(x)
     out = []
     for key, name in (('KBC_ALLAH', 'Cinta Allah dan Rasul-Nya'), ('KBC_ILMU', 'Cinta Ilmu'), ('KBC_DIRI_SESAMA', 'Cinta Diri dan Sesama'), ('KBC_LINGKUNGAN', 'Cinta Lingkungan'), ('KBC_TANAH_AIR', 'Cinta Tanah Air')):
         e_k = ev(key, kt); e_q = ev(key, qonly); e_tp = ev(key, x['tp'] + ' ' + x['material'])
+        if name in tp_nilai(x['tp']): e_tp = e_tp + ['(TP menyebut: ' + name + ')']
         if e_k and e_tp: out.append({'nilai': name, 'relevansi': 'langsung', 'bukti': {'dalam_kunci_atau_penjelasan': e_k, 'dalam_TP_materi': e_tp}})
         elif e_tp and (e_q or e_k): out.append({'nilai': name, 'relevansi': 'konteks', 'bukti': {'dalam_soal': e_q, 'dalam_TP_materi': e_tp}, 'catatan': 'nilai muncul pada TP/latar soal, tetapi kunci tidak mengukurnya'})
         elif e_tp: out.append({'nilai': name, 'relevansi': 'melalui_TP', 'bukti': {'dalam_TP_materi': e_tp}, 'catatan': 'hanya terkait lewat teks TP/materi'})
@@ -157,16 +172,51 @@ def pm(x):
         exp.append(('Memahami', f'tipe {t} meminta mengenali/menjelaskan konsep'))
     if t in ('contextual', 'completion') or (t == 'performance_task'):
         exp.append(('Mengaplikasi', f'tipe {t} meminta penerapan pada situasi/praktik'))
-    if re.search(r'\b(nilai|menurutmu|perasaanmu|apa yang kamu rasakan|bagaimana perasaan|refleksi|sudah tepat\?|hasilmu|ceritakan mengapa)\b', qonly.lower()):
+    if re.search(r'\b(menurutmu|perasaanmu|apa yang kamu rasakan|bagaimana perasaan|refleksi|merefleksikan|menilai dirimu|nilai lemparanmu|hasilmu|ceritakan pengalamanmu|kebiasaan yang ingin kamu tingkatkan)\b', qonly.lower()):
         exp.append(('Merefleksi', 'soal meminta penilaian diri/perasaan'))
     if re.search(r'\b(nama|tokoh|teman|keluarga|rumah|sekolah|pasar|di rumah|di sekolah|taman)\b', qonly.lower()) and t in ('contextual', 'performance_task', 'multiple_choice_visual'):
         prin.append(('Bermakna', 'konteks kehidupan sehari-hari anak pada soal'))
-    if t == 'performance_task' or re.search(r'\b(permainan|bermain|bernyanyi|tebak|lagu|menari|estafet)\b', qonly.lower()):
+    if re.search(r'\b(permainan|bermain|bernyanyi|tebak|lagu|menari|estafet|drama|simulasi|poster|gambarlah|menggambar|kartu|video|peragakan)\b', qonly.lower()):
         prin.append(('Menggembirakan', 'aktivitas bermain/praktik pada soal'))
     if 'Merefleksi' in [e for e, _ in exp]:
         prin.append(('Berkesadaran', 'soal mengajak menyadari proses/perasaan sendiri'))
     return {'pengalaman_belajar': [{'jenis': a, 'bukti': b} for a, b in exp], 'prinsip': [{'jenis': a, 'bukti': b} for a, b in prin],
             'catatan': 'Soal tertulis tidak membuktikan praktik pedagogis, kemitraan, lingkungan, atau pemanfaatan digital; itu dilengkapi aktivitas pendamping guru.'}
+
+# Subdimensi & indikator tingkat "Berkembang" dikutip dari dokumen "Dimensi Kompetensi Profil Lulusan SD/MI" (audit/sumber/profil_lulusan_sd_indikator.txt).
+# Penetapan level (Berkembang/Cakap/Mahir) untuk kelas 1 adalah keputusan guru; mesin hanya mengusulkan subdimensi.
+PL_SUB = {
+ 'Keimanan dan Ketakwaan terhadap Tuhan YME': [
+   ('Hubungan dengan Tuhan YME', r'\b(allah|rasul|salat|shalat|doa|berdoa|syahadat|syahadatain|ibadah|wudu|tayamum|puasa|zakat|haji|zikir|iman|surah|ayat|hadis|takbir|azan|ikamah)\b', 'Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.'),
+   ('Hubungan dengan sesama manusia', r'\b(jujur|peduli|tanggung jawab|menolong|membantu|adil|berbagi|sopan|menghormati|menyayangi)\b', 'Mengenal dan mencoba bersikap jujur, peduli, dan tanggung jawab dengan bimbingan.'),
+   ('Hubungan dengan lingkungan alam', r'\b(lingkungan|kebersihan lingkungan|sampah|tanaman|alam)\b', 'Menunjukkan pemahaman tentang pentingnya menjaga kebersihan lingkungan dan kelestarian alam dengan bimbingan.')],
+ 'Kewargaan': [
+   ('Kewargaan Lokal', r'\b(aturan|norma|keluarga|sekolah|tetangga|menaati|musyawarah)\b', 'Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.'),
+   ('Kewargaan Nasional', r'\b(indonesia|negara|pancasila|sila|bendera|tanah air|bangsa|garuda)\b', 'Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di lingkup nasional.')],
+ 'Penalaran Kritis': [
+   ('Penyelesaian Masalah', r'.', 'Menyelesaikan masalah sederhana dan menghasilkan solusi namun kurang tepat.'),
+   ('Pengambilan Keputusan', r'.', 'Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.')],
+ 'Kreativitas': [('Karya', r'.', 'Membuat tindakan dan/atau karya sederhana yang kreatif sesuai minat dan kesukaannya.')],
+ 'Kolaborasi': [
+   ('Peduli', r'\b(peduli|menolong|membantu|menghibur|saling)\b', 'Mulai menunjukkan kepedulian pada teman sebaya dan anggota keluarga dengan bimbingan guru dan orang tua.'),
+   ('Berbagi', r'\b(berbagi|sedekah|zakat|memberi)\b', 'Mulai berbagi hal yang dianggap penting dan berharga kepada teman sebaya dan anggota keluarga dengan bimbingan.'),
+   ('Kerja sama', r'.', 'Mulai bekerjasama dengan teman sebaya dan anggota keluarga dengan bimbingan guru dan orang tua.')],
+ 'Kemandirian': [('Bertanggung Jawab', r'.', 'Melakukan upaya mencapai tujuan pembelajaran sesuai arahan.')],
+ 'Kesehatan': [
+   ('Hidup bersih dan sehat', r'\b(kebersihan diri|cuci tangan|mencuci tangan|mandi|sabun|sikat gigi|gosok gigi|menggosok gigi|kuku|kuman|penyakit|sehat|kesehatan)\b', 'Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.'),
+   ('Kebugaran, kesehatan fisik, dan kesehatan mental', r'\b(olahraga|gizi|bergizi|makan|bugar|tidur|aktivitas fisik)\b', 'Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.'),
+   ('Kesehatan Lingkungan', r'\b(lingkungan|sampah)\b', 'Berperan aktif meningkatkan kesehatan lingkungan rumah dan sekolah dengan bimbingan penuh.')],
+ 'Komunikasi': [
+   ('Berbicara', r'\b(ucapkan|ceritakan|sebutkan|tanyakan|melafalkan|mengucapkan|berbicara|bercerita|lafal)\b', 'Menyampaikan, menggali, dan menanggapi secara lisan berbagai jenis informasi melalui teks lisan sederhana namun belum tepat dan lancar.'),
+   ('Menyimak', r'\b(dengar|menyimak|simak|didengar)\b', 'Mendengarkan secara aktif sejumlah teks lisan sederhana yang dipilih untuk mendapatkan informasi eksplisit dan implisit.'),
+   ('Membaca', r'\b(baca|membaca|bacaan|teks)\b', 'Membaca secara aktif sejumlah teks tertulis sederhana yang dipilih untuk mendapatkan informasi eksplisit dan implisit.'),
+   ('Menulis', r'\b(tulis|menulis|menuliskan|susun)\b', 'Menyampaikan, menggali, dan menanggapi secara lisan berbagai jenis informasi melalui teks tertulis sederhana namun belum tepat dan lancar.')],
+}
+
+def pl_sub(dim, text):
+    for name, rx, ind in PL_SUB.get(dim, []):
+        if re.search(rx, text.lower()): return name, ind
+    return None, None
 
 PL_NAMA = [('PL_KEIMANAN', 'Keimanan dan Ketakwaan terhadap Tuhan YME'), ('PL_KEWARGAAN', 'Kewargaan'), ('PL_KOLABORASI', 'Kolaborasi'), ('PL_KEMANDIRIAN', 'Kemandirian'),
            ('PL_KESEHATAN', 'Kesehatan'), ('PL_KREATIVITAS', 'Kreativitas'), ('PL_KOMUNIKASI', 'Komunikasi')]
@@ -183,6 +233,12 @@ def pl(x):
     elif x['question_type'] in ('grouping', 'ordering'):
         out.append({'dimensi': 'Penalaran Kritis', 'relevansi': 'indikatif', 'bukti': {'tipe': x['question_type']}, 'catatan': 'mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut'})
     for d in out:
+        sub, ind = pl_sub(d['dimensi'], keytext(x) + ' ' + x['question'] + ' ' + x['tp'])
+        if d['dimensi'] == 'Penalaran Kritis':
+            sub = 'Penyelesaian Masalah' if x['cognitive_level'] in ('memecahkan_masalah', 'menganalisis', 'membandingkan') else 'Pengambilan Keputusan'
+            ind = dict((a, c) for a, b, c in PL_SUB['Penalaran Kritis'])[sub]
+        d['subdimensi'] = sub or 'perlu ditetapkan guru'
+        d['indikator_acuan_berkembang'] = ind
         d['keterbatasan'] = 'Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru' if x['question_type'] != 'performance_task' else 'Tugas kinerja dinilai guru dengan rubrik'
     return out
 

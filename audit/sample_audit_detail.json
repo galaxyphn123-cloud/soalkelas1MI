@@ -48,6 +48,8 @@
       "wudu"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -58,6 +60,8 @@
       "wudu"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -109,6 +113,8 @@
       "taharah"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -195,6 +201,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -323,11 +331,15 @@
       "taharah"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
-  "quality_status": "PASS",
-  "issues": []
+  "quality_status": "REVISE",
+  "issues": [
+   "isian_jawaban_terbuka:butuh rubrik/penilaian guru; bukan isian singkat berkunci tunggal"
+  ]
  },
  {
   "question_id": "FIK-RI-0073",
@@ -423,6 +435,8 @@
       "wudu"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -436,6 +450,8 @@
       "wudu"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -445,6 +461,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -516,6 +534,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -681,6 +701,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -752,6 +774,8 @@
       "taharah"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -817,6 +841,8 @@
       "allah"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -880,6 +906,8 @@
       "allah"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -935,6 +963,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -986,6 +1016,8 @@
       "taharah"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -995,6 +1027,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -1007,14 +1041,14 @@
   "tp_id": "TP-FIK-RI-04",
   "question_type": "performance_task",
   "skor": {
-   "atp": 4,
+   "atp": 3,
    "akurasi": 3,
    "usia_bahasa": 4,
    "konstruksi": 3,
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: praktik, sama",
+   "atp": "TP tertelusur; satu kata kunci bersama: praktik",
    "akurasi": "tugas kinerja: kunci berupa rubrik guru; ketepatan isi menunggu tinjauan guru",
    "usia_bahasa": "16 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -1061,6 +1095,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    }
   ],
@@ -1148,6 +1184,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    },
    {
@@ -1158,6 +1196,8 @@
       "lingkungan"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    },
    {
@@ -1171,6 +1211,8 @@
       "taharah"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    }
   ],
@@ -1183,14 +1225,14 @@
   "tp_id": "TP-FIK-KS-02",
   "question_type": "true_false",
   "skor": {
-   "atp": 3,
+   "atp": 2,
    "akurasi": 3,
    "usia_bahasa": 4,
    "konstruksi": 3,
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; satu kata kunci bersama: lafal",
+   "atp": "TP tertelusur, tetapi tak ada kata kunci TP/materi/kompetensi pada soal (perlu tinjauan ahli)",
    "akurasi": "kunci valid secara struktur; catatan: penjelasan tidak memuat kata kunci jawaban; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "15 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -1229,10 +1271,12 @@
       "melafalkan"
      ]
     },
+    "subdimensi": "Berbicara",
+    "indikator_acuan_berkembang": "Menyampaikan, menggali, dan menanggapi secara lisan berbagai jenis informasi melalui teks lisan sederhana namun belum tepat dan lancar.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
-  "quality_status": "PASS",
+  "quality_status": "NEEDS_REVIEW",
   "issues": []
  },
  {
@@ -1284,6 +1328,8 @@
       "wudu"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -1297,6 +1343,8 @@
       "wudu"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -1316,7 +1364,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: diri, kebersih",
+   "atp": "TP tertelusur; kata kunci bersama: diri, kebersihan",
    "akurasi": "kunci valid secara struktur; catatan: penjelasan tidak memuat kata kunci jawaban; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "5 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -1385,6 +1433,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -1395,6 +1445,8 @@
       "lingkungan"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -1409,6 +1461,8 @@
       "kebersihan"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -1491,6 +1545,8 @@
       "surah"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -1510,7 +1566,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: allah, cinta, ilmu, ulis",
+   "atp": "TP tertelusur; kata kunci bersama: allah, cinta, ilmu",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "13 kata pada soal",
    "konstruksi": "catatan: petunjuk_kunci_terpanjang",
@@ -1581,6 +1637,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -1662,6 +1720,8 @@
       "surah"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -1681,7 +1741,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: baca, harakat, huruf",
+   "atp": "TP tertelusur; kata kunci bersama: harakat, huruf",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "5 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -1721,7 +1781,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: baca, harakat, huruf",
+   "atp": "TP tertelusur; kata kunci bersama: harakat, huruf",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "5 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -1830,6 +1890,8 @@
       "surah"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -1839,6 +1901,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -1889,6 +1953,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -1948,6 +2014,8 @@
       "surah"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -2013,6 +2081,8 @@
       "surah"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -2063,6 +2133,8 @@
      "level_kognitif": "menganalisis",
      "tipe": "multiple_choice"
     },
+    "subdimensi": "Penyelesaian Masalah",
+    "indikator_acuan_berkembang": "Menyelesaikan masalah sederhana dan menghasilkan solusi namun kurang tepat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -2171,6 +2243,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -2190,7 +2264,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: hafal, ikhlas, surah",
+   "atp": "TP tertelusur; kata kunci bersama: ikhlas, surah",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "17 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -2234,6 +2308,8 @@
       "surah"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -2253,7 +2329,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: hadis, kebersih, tentang",
+   "atp": "TP tertelusur; kata kunci bersama: hadis, kebersihan, tentang",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "9 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -2306,6 +2382,8 @@
       "hadis"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -2316,6 +2394,8 @@
       "kebersihan"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -2325,6 +2405,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -2401,6 +2483,8 @@
       "surah"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -2410,6 +2494,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -2476,6 +2562,8 @@
       "surah"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    }
   ],
@@ -2495,7 +2583,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: arti, ebut, hadis, kebersih",
+   "atp": "TP tertelusur; kata kunci bersama: arti, ebut, hadis, kebersihan",
    "akurasi": "tugas kinerja: kunci berupa rubrik guru; ketepatan isi menunggu tinjauan guru",
    "usia_bahasa": "8 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -2565,6 +2653,8 @@
       "hadis"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    },
    {
@@ -2575,6 +2665,8 @@
       "kebersihan"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    }
   ],
@@ -2594,7 +2686,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: hadis, kebersih, tentang",
+   "atp": "TP tertelusur; kata kunci bersama: hadis, kebersihan, tentang",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "11 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -2649,6 +2741,8 @@
       "hadis"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -2659,6 +2753,8 @@
       "kebersihan"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -2671,14 +2767,14 @@
   "tp_id": "TP-AQH-HJ-04",
   "question_type": "true_false",
   "skor": {
-   "atp": 3,
+   "atp": 2,
    "akurasi": 3,
    "usia_bahasa": 4,
    "konstruksi": 3,
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; satu kata kunci bersama: baca",
+   "atp": "TP tertelusur, tetapi tak ada kata kunci TP/materi/kompetensi pada soal (perlu tinjauan ahli)",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "7 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -2727,10 +2823,12 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
-  "quality_status": "PASS",
+  "quality_status": "NEEDS_REVIEW",
   "issues": []
  },
  {
@@ -2800,6 +2898,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -2961,6 +3061,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -2982,7 +3084,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: buny, kata, tulis",
+   "atp": "TP tertelusur; kata kunci bersama: bunyi, kata, tulis",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "6 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -3022,7 +3124,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: buny, kata, tulis",
+   "atp": "TP tertelusur; kata kunci bersama: bunyi, kata, tulis",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "6 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -3122,6 +3224,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -3132,6 +3236,8 @@
       "lingkungan"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -3142,6 +3248,8 @@
       "kebersihan"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -3151,6 +3259,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -3227,6 +3337,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -3236,6 +3348,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -3255,7 +3369,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: buny, kata",
+   "atp": "TP tertelusur; kata kunci bersama: bunyi, kata",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "6 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -3295,7 +3409,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: buny, kata",
+   "atp": "TP tertelusur; kata kunci bersama: bunyi, kata",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "6 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -3328,14 +3442,14 @@
   "tp_id": "TP-BAR-RM-02",
   "question_type": "multiple_choice",
   "skor": {
-   "atp": 4,
+   "atp": 3,
    "akurasi": 3,
    "usia_bahasa": 4,
    "konstruksi": 3,
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: baca, kalimat",
+   "atp": "TP tertelusur; satu kata kunci bersama: kalimat",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "7 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -3406,6 +3520,8 @@
      "level_kognitif": "menganalisis",
      "tipe": "multiple_choice"
     },
+    "subdimensi": "Penyelesaian Masalah",
+    "indikator_acuan_berkembang": "Menyelesaikan masalah sederhana dan menghasilkan solusi namun kurang tepat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -3490,6 +3606,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -3549,7 +3667,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; satu kata kunci bersama: cakap",
+   "atp": "TP tertelusur; satu kata kunci bersama: cakapan",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "7 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -3580,6 +3698,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -3630,6 +3750,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -3649,7 +3771,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: baca, derhana, teks",
+   "atp": "TP tertelusur; kata kunci bersama: baca, sederhana, teks",
    "akurasi": "tugas kinerja: kunci berupa rubrik guru; ketepatan isi menunggu tinjauan guru",
    "usia_bahasa": "39 kata pada soal (cukup panjang untuk kelas 1)",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -3694,7 +3816,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: baca, derhana, teks",
+   "atp": "TP tertelusur; kata kunci bersama: baca, sederhana, teks",
    "akurasi": "tugas kinerja: kunci berupa rubrik guru; ketepatan isi menunggu tinjauan guru",
    "usia_bahasa": "38 kata pada soal (cukup panjang untuk kelas 1)",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -3791,6 +3913,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -3862,6 +3986,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -3927,6 +4053,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -3990,6 +4118,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -4053,6 +4183,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -4134,6 +4266,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -4144,6 +4278,8 @@
       "lingkungan"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -4158,6 +4294,8 @@
       "sehat"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -4221,6 +4359,8 @@
       "syahadat"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -4358,6 +4498,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -4422,6 +4564,8 @@
       "iman"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -4431,6 +4575,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -4502,6 +4648,8 @@
       "allah"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -4561,6 +4709,8 @@
       "iman"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -4622,6 +4772,8 @@
       "sehat"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -4687,6 +4839,8 @@
       "sehat"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -4758,6 +4912,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -4845,6 +5001,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -4855,6 +5013,8 @@
       "lingkungan"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -4869,6 +5029,8 @@
       "sehat"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -4928,6 +5090,8 @@
       "allah"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -4937,6 +5101,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -4998,6 +5164,8 @@
       "iman"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -5007,6 +5175,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -5026,7 +5196,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: bersih, hidup, kebersih, sehat",
+   "atp": "TP tertelusur; kata kunci bersama: bersih, hidup, kebersihan, sehat",
    "akurasi": "tugas kinerja: kunci berupa rubrik guru; ketepatan isi menunggu tinjauan guru",
    "usia_bahasa": "8 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -5078,6 +5248,8 @@
       "sehat"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    }
   ],
@@ -5228,6 +5400,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -5299,6 +5473,8 @@
       "rasul"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -5318,7 +5494,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: misi, ungkap",
+   "atp": "TP tertelusur; kata kunci bersama: misi, ungkapan",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "7 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -5484,7 +5660,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: misi, ungkap",
+   "atp": "TP tertelusur; kata kunci bersama: misi, ungkapan",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "14 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -5568,6 +5744,8 @@
       "bercerita"
      ]
     },
+    "subdimensi": "Berbicara",
+    "indikator_acuan_berkembang": "Menyampaikan, menggali, dan menanggapi secara lisan berbagai jenis informasi melalui teks lisan sederhana namun belum tepat dan lancar.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -5627,7 +5805,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: awal, huruf, kata",
+   "atp": "TP tertelusur; kata kunci bersama: huruf, kata",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "12 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -5667,6 +5845,8 @@
       "menulis"
      ]
     },
+    "subdimensi": "Membaca",
+    "indikator_acuan_berkembang": "Membaca secara aktif sejumlah teks tertulis sederhana yang dipilih untuk mendapatkan informasi eksplisit dan implisit.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -5676,6 +5856,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -5742,6 +5924,8 @@
       "allah"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -5751,6 +5935,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -5770,7 +5956,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: awal, huruf, kata",
+   "atp": "TP tertelusur; kata kunci bersama: huruf, kata",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "5 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -5827,6 +6013,8 @@
       "allah"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -5837,6 +6025,8 @@
       "menulis"
      ]
     },
+    "subdimensi": "Membaca",
+    "indikator_acuan_berkembang": "Membaca secara aktif sejumlah teks tertulis sederhana yang dipilih untuk mendapatkan informasi eksplisit dan implisit.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -5894,6 +6084,8 @@
       "menulis"
      ]
     },
+    "subdimensi": "Menulis",
+    "indikator_acuan_berkembang": "Menyampaikan, menggali, dan menanggapi secara lisan berbagai jenis informasi melalui teks tertulis sederhana namun belum tepat dan lancar.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -5906,14 +6098,14 @@
   "tp_id": "TP-BIN-B3-02",
   "question_type": "multiple_choice",
   "skor": {
-   "atp": 4,
+   "atp": 3,
    "akurasi": 3,
    "usia_bahasa": 4,
    "konstruksi": 3,
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: kalimat, lengkap",
+   "atp": "TP tertelusur; satu kata kunci bersama: kalimat",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "7 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -6030,6 +6222,8 @@
       "allah"
      ]
     },
+    "subdimensi": "Hubungan dengan Tuhan YME",
+    "indikator_acuan_berkembang": "Mengenai ajaran Tuhan Yang Maha Esa melalui cerita, doa, dan praktek ibadah sesuai agamanya serta mulai memahami nilai kebaikan dalam kehidupan nyata.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -6040,6 +6234,8 @@
       "menulis"
      ]
     },
+    "subdimensi": "Membaca",
+    "indikator_acuan_berkembang": "Membaca secara aktif sejumlah teks tertulis sederhana yang dipilih untuk mendapatkan informasi eksplisit dan implisit.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -6106,6 +6302,8 @@
       "lingkungan"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -6174,6 +6372,8 @@
       "bercerita"
      ]
     },
+    "subdimensi": "Berbicara",
+    "indikator_acuan_berkembang": "Menyampaikan, menggali, dan menanggapi secara lisan berbagai jenis informasi melalui teks lisan sederhana namun belum tepat dan lancar.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -6232,6 +6432,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -6251,7 +6453,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: awal, huruf, kata",
+   "atp": "TP tertelusur; kata kunci bersama: huruf, kata",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "11 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -6288,6 +6490,8 @@
       "menulis"
      ]
     },
+    "subdimensi": "Membaca",
+    "indikator_acuan_berkembang": "Membaca secara aktif sejumlah teks tertulis sederhana yang dipilih untuk mendapatkan informasi eksplisit dan implisit.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -6297,6 +6501,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -6316,7 +6522,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: bilang, sampa, ulis",
+   "atp": "TP tertelusur; kata kunci bersama: bilangan, sampai, ulis",
    "akurasi": "tugas kinerja: kunci berupa rubrik guru; ketepatan isi menunggu tinjauan guru",
    "usia_bahasa": "10 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -6356,6 +6562,8 @@
       "menulis"
      ]
     },
+    "subdimensi": "Menulis",
+    "indikator_acuan_berkembang": "Menyampaikan, menggali, dan menanggapi secara lisan berbagai jenis informasi melalui teks tertulis sederhana namun belum tepat dan lancar.",
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    }
   ],
@@ -6417,6 +6625,8 @@
       "sehat"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    }
   ],
@@ -6429,14 +6639,14 @@
   "tp_id": "TP-BIN-B4-03",
   "question_type": "true_false",
   "skor": {
-   "atp": 4,
+   "atp": 3,
    "akurasi": 3,
    "usia_bahasa": 4,
    "konstruksi": 3,
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: cerita, telah",
+   "atp": "TP tertelusur; satu kata kunci bersama: cerita",
    "akurasi": "kunci valid secara struktur; catatan: penjelasan tidak memuat kata kunci jawaban; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "15 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -6488,6 +6698,8 @@
       "iman"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -6498,6 +6710,8 @@
       "kebersihan"
      ]
     },
+    "subdimensi": "Hidup bersih dan sehat",
+    "indikator_acuan_berkembang": "Berperilaku hidup bersih dan sehat dengan memperhatikan dan menjaga kebersihan diri namun masih perlu bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -6556,6 +6770,8 @@
       "sehat"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -6617,6 +6833,8 @@
       "berbagi"
      ]
     },
+    "subdimensi": "Berbagi",
+    "indikator_acuan_berkembang": "Mulai berbagi hal yang dianggap penting dan berharga kepada teman sebaya dan anggota keluarga dengan bimbingan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -6629,14 +6847,14 @@
   "tp_id": "TP-MTK-B2-03",
   "question_type": "completion",
   "skor": {
-   "atp": 3,
+   "atp": 2,
    "akurasi": 3,
    "usia_bahasa": 3,
    "konstruksi": 3,
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; satu kata kunci bersama: jumlah",
+   "atp": "TP tertelusur, tetapi tak ada kata kunci TP/materi/kompetensi pada soal (perlu tinjauan ahli)",
    "akurasi": "kunci konsisten secara struktur; jawaban hitung diverifikasi program pada pembuatan (belum diverifikasi ulang audit)",
    "usia_bahasa": "20 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -6660,7 +6878,7 @@
    "catatan": "Soal tertulis tidak membuktikan praktik pedagogis, kemitraan, lingkungan, atau pemanfaatan digital; itu dilengkapi aktivitas pendamping guru."
   },
   "graduate_profile_mapping": [],
-  "quality_status": "PASS",
+  "quality_status": "NEEDS_REVIEW",
   "issues": []
  },
  {
@@ -6815,6 +7033,8 @@
      "level_kognitif": "membandingkan",
      "tipe": "fill_in_short"
     },
+    "subdimensi": "Penyelesaian Masalah",
+    "indikator_acuan_berkembang": "Menyelesaikan masalah sederhana dan menghasilkan solusi namun kurang tepat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -6871,6 +7091,8 @@
      "level_kognitif": "menganalisis",
      "tipe": "fill_in_short"
     },
+    "subdimensi": "Penyelesaian Masalah",
+    "indikator_acuan_berkembang": "Menyelesaikan masalah sederhana dan menghasilkan solusi namun kurang tepat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -6921,6 +7143,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -6971,6 +7195,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -7030,7 +7256,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: bilang, jumlah, pasang",
+   "atp": "TP tertelusur; kata kunci bersama: bilangan, pasangan",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "5 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -7070,7 +7296,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; satu kata kunci bersama: bilang",
+   "atp": "TP tertelusur; satu kata kunci bersama: bilangan",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "6 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -7107,6 +7333,8 @@
       "menulis"
      ]
     },
+    "subdimensi": "Membaca",
+    "indikator_acuan_berkembang": "Membaca secara aktif sejumlah teks tertulis sederhana yang dipilih untuk mendapatkan informasi eksplisit dan implisit.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -7162,6 +7390,8 @@
      "level_kognitif": "menganalisis",
      "tipe": "multiple_choice"
     },
+    "subdimensi": "Penyelesaian Masalah",
+    "indikator_acuan_berkembang": "Menyelesaikan masalah sederhana dan menghasilkan solusi namun kurang tepat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -7261,7 +7491,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: bilang, jumlah, pasang",
+   "atp": "TP tertelusur; kata kunci bersama: bilangan, pasangan",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "11 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -7292,6 +7522,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -7311,7 +7543,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: bilang, urut",
+   "atp": "TP tertelusur; kata kunci bersama: bilangan, urut",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "6 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -7342,6 +7574,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -7361,7 +7595,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: bilang, sampa, urut",
+   "atp": "TP tertelusur; kata kunci bersama: bilangan, sampai, urut",
    "akurasi": "tugas kinerja: kunci berupa rubrik guru; ketepatan isi menunggu tinjauan guru",
    "usia_bahasa": "10 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -7444,14 +7678,14 @@
   "tp_id": "TP-MTK-B7-04",
   "question_type": "true_false",
   "skor": {
-   "atp": 4,
+   "atp": 3,
    "akurasi": 3,
    "usia_bahasa": 3,
    "konstruksi": 3,
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: jujur, jumlah",
+   "atp": "TP tertelusur; satu kata kunci bersama: jujur",
    "akurasi": "kunci valid secara struktur; catatan: penjelasan tidak memuat kata kunci jawaban; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "28 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -7512,7 +7746,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; satu kata kunci bersama: gurang",
+   "atp": "TP tertelusur; satu kata kunci bersama: gurangan",
    "akurasi": "kunci valid secara struktur; catatan: penjelasan tidak memuat kata kunci jawaban; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "14 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -7552,7 +7786,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: aati, atur, keluarga",
+   "atp": "TP tertelusur; kata kunci bersama: aati, aturan, keluarga",
    "akurasi": "kunci valid secara struktur; catatan: penjelasan tidak memuat kata kunci jawaban; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "12 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -7611,6 +7845,8 @@
       "menaati"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -7630,7 +7866,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: aati, atur",
+   "atp": "TP tertelusur; kata kunci bersama: aati, aturan",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "10 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -7681,6 +7917,8 @@
       "menaati"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -7700,7 +7938,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: aati, atur, wujud",
+   "atp": "TP tertelusur; kata kunci bersama: aati, aturan, wujud",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "21 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -7761,6 +7999,8 @@
       "menaati"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -7780,7 +8020,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: aati, atur, wujud",
+   "atp": "TP tertelusur; kata kunci bersama: aati, aturan, wujud",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "19 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -7851,6 +8091,8 @@
       "menaati"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -7870,7 +8112,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: buny, sila",
+   "atp": "TP tertelusur; kata kunci bersama: bunyi, sila",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "10 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -7911,6 +8153,8 @@
       "sila"
      ]
     },
+    "subdimensi": "Kewargaan Nasional",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di lingkup nasional.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -7930,7 +8174,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: lingkung, rumah",
+   "atp": "TP tertelusur; kata kunci bersama: lingkungan, rumah",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "12 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -7980,6 +8224,8 @@
       "lingkungan"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -7999,7 +8245,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: aati, atur, ilaku, tidak",
+   "atp": "TP tertelusur; kata kunci bersama: aati, aturan, ilaku, tidak",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "37 kata pada soal (cukup panjang untuk kelas 1)",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -8058,6 +8304,8 @@
       "menaati"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -8067,6 +8315,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -8086,7 +8336,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: aati, atur, ilaku, tidak",
+   "atp": "TP tertelusur; kata kunci bersama: aati, aturan, ilaku, tidak",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "34 kata pada soal (cukup panjang untuk kelas 1)",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -8154,6 +8404,8 @@
       "menaati"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -8163,6 +8415,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -8219,6 +8473,8 @@
       "lingkungan"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -8301,6 +8557,8 @@
       "suku"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -8393,6 +8651,8 @@
       "suku"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -8456,6 +8716,8 @@
       "sila"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -8555,6 +8817,8 @@
       "pancasila"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -8574,7 +8838,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: lingkung, rumah",
+   "atp": "TP tertelusur; kata kunci bersama: lingkungan, rumah",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "18 kata pada soal",
    "konstruksi": "catatan: petunjuk_kunci_terpanjang",
@@ -8630,6 +8894,8 @@
       "lingkungan"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -8708,6 +8974,8 @@
       "sila"
      ]
     },
+    "subdimensi": "Kewargaan Nasional",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di lingkup nasional.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -8717,6 +8985,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -8785,6 +9055,8 @@
       "sila"
      ]
     },
+    "subdimensi": "Kewargaan Nasional",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di lingkup nasional.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -8794,6 +9066,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -8880,6 +9154,8 @@
       "lingkungan"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    }
   ],
@@ -8899,7 +9175,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: aati, atur, ilaku, tidak",
+   "atp": "TP tertelusur; kata kunci bersama: aati, aturan, ilaku, tidak",
    "akurasi": "tugas kinerja: kunci berupa rubrik guru; ketepatan isi menunggu tinjauan guru",
    "usia_bahasa": "10 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -8953,6 +9229,8 @@
       "menaati"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    }
   ],
@@ -8972,7 +9250,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: lingkung, sama",
+   "atp": "TP tertelusur; kata kunci bersama: lingkungan, sama",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "13 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -9024,6 +9302,8 @@
       "lingkungan"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -9043,7 +9323,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: aati, atur, tidak",
+   "atp": "TP tertelusur; kata kunci bersama: aati, aturan, tidak",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "14 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -9095,6 +9375,8 @@
       "menaati"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -9104,6 +9386,8 @@
      "level_kognitif": "menganalisis",
      "tipe": "true_false"
     },
+    "subdimensi": "Penyelesaian Masalah",
+    "indikator_acuan_berkembang": "Menyelesaikan masalah sederhana dan menghasilkan solusi namun kurang tepat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -9164,6 +9448,8 @@
       "aktivitas fisik"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -9223,7 +9509,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: antang, strateg",
+   "atp": "TP tertelusur; kata kunci bersama: antang, strategi",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "15 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -9282,6 +9568,8 @@
       "aktivitas fisik"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -9301,7 +9589,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: atur, konsisten, main",
+   "atp": "TP tertelusur; kata kunci bersama: aturan, konsisten",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "21 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -9349,6 +9637,8 @@
       "aturan"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -9359,6 +9649,8 @@
       "aktivitas fisik"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -9378,7 +9670,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: atur, main, manfaat",
+   "atp": "TP tertelusur; kata kunci bersama: aturan, main, manfaat",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "7 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -9423,6 +9715,8 @@
       "aktivitas fisik"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -9442,7 +9736,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; satu kata kunci bersama: makan",
+   "atp": "TP tertelusur; satu kata kunci bersama: makanan",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "4 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -9483,6 +9777,8 @@
       "makanan"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -9502,7 +9798,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; satu kata kunci bersama: makan",
+   "atp": "TP tertelusur; satu kata kunci bersama: makanan",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "11 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -9546,6 +9842,8 @@
       "makanan"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -9555,6 +9853,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -9574,7 +9874,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: aati, atur",
+   "atp": "TP tertelusur; kata kunci bersama: aati, aturan",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "29 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -9611,6 +9911,8 @@
       "aturan"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -9621,6 +9923,8 @@
       "aktivitas fisik"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -9630,6 +9934,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -9730,6 +10036,8 @@
       "keselamatan"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -9843,6 +10151,8 @@
       "aktivitas fisik"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -9862,7 +10172,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; satu kata kunci bersama: strateg",
+   "atp": "TP tertelusur; satu kata kunci bersama: strategi",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "14 kata pada soal",
    "konstruksi": "catatan: petunjuk_kunci_terpanjang",
@@ -9904,6 +10214,8 @@
       "aktivitas fisik"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -9965,7 +10277,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: strateg, urut",
+   "atp": "TP tertelusur; kata kunci bersama: strategi, urut",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "6 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -10007,6 +10319,8 @@
       "aktivitas fisik"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -10016,6 +10330,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -10066,6 +10382,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -10140,6 +10458,8 @@
       "aktivitas fisik"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    }
   ],
@@ -10159,7 +10479,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: gerak, main, unjuk",
+   "atp": "TP tertelusur; kata kunci bersama: gerak, mainan, unjuk",
    "akurasi": "tugas kinerja: kunci berupa rubrik guru; ketepatan isi menunggu tinjauan guru",
    "usia_bahasa": "8 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -10201,6 +10521,8 @@
       "aturan"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    },
    {
@@ -10214,6 +10536,8 @@
       "aktivitas fisik"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tugas kinerja dinilai guru dengan rubrik"
    }
   ],
@@ -10233,7 +10557,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: aktivitas, fisik, partisipas",
+   "atp": "TP tertelusur; kata kunci bersama: aktivitas, fisik, partisipasi",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "15 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -10273,6 +10597,8 @@
       "aktivitas fisik"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -10292,7 +10618,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; satu kata kunci bersama: atur",
+   "atp": "TP tertelusur; satu kata kunci bersama: aturan",
    "akurasi": "kunci valid secara struktur; catatan: penjelasan tidak memuat kata kunci jawaban; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "11 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -10329,6 +10655,8 @@
       "aturan"
      ]
     },
+    "subdimensi": "Kewargaan Lokal",
+    "indikator_acuan_berkembang": "Menunjukkan kesadaran atas aturan, norma, dan nilai sosial budaya yang berlaku di keluarga, satuan pendidikan, dan masyarakat.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -10339,6 +10667,8 @@
       "aktivitas fisik"
      ]
     },
+    "subdimensi": "Kebugaran, kesehatan fisik, dan kesehatan mental",
+    "indikator_acuan_berkembang": "Berperilaku sehat fisik dan mental, menjaga kebugaran dengan berolahraga secara teratur, menerapkan pola makan sehat dan bergizi seimbang, serta mengendalikan emosi dengan bimbingan penuh.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -10358,7 +10688,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: atak, like, suka, tidak",
+   "atp": "TP tertelusur; kata kunci bersama: atakan, like, suka, tidak",
    "akurasi": "kunci valid secara struktur; catatan: penjelasan tidak memuat kata kunci jawaban; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "15 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -10438,6 +10768,8 @@
       "menggambar"
      ]
     },
+    "subdimensi": "Karya",
+    "indikator_acuan_berkembang": "Membuat tindakan dan/atau karya sederhana yang kreatif sesuai minat dan kesukaannya.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -10502,7 +10834,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: gera, jawab, tanya, tubuh",
+   "atp": "TP tertelusur; kata kunci bersama: gera, tanya, tubuh",
    "akurasi": "kunci valid secara struktur; catatan: penjelasan tidak memuat kata kunci jawaban; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "16 kata pada soal",
    "konstruksi": "catatan: petunjuk_kunci_terpanjang",
@@ -10547,6 +10879,8 @@
       "bertanya"
      ]
     },
+    "subdimensi": "perlu ditetapkan guru",
+    "indikator_acuan_berkembang": null,
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -10600,6 +10934,8 @@
       "menuliskan"
      ]
     },
+    "subdimensi": "Menulis",
+    "indikator_acuan_berkembang": "Menyampaikan, menggali, dan menanggapi secara lisan berbagai jenis informasi melalui teks tertulis sederhana namun belum tepat dan lancar.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -10651,6 +10987,8 @@
       "menuliskan"
      ]
     },
+    "subdimensi": "Menulis",
+    "indikator_acuan_berkembang": "Menyampaikan, menggali, dan menanggapi secara lisan berbagai jenis informasi melalui teks tertulis sederhana namun belum tepat dan lancar.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -10670,7 +11008,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: hello, ucap, ungkap",
+   "atp": "TP tertelusur; kata kunci bersama: hello, ucapan, ungkapan",
    "akurasi": "kunci valid secara struktur; penjelasan memuat kunci; kebenaran fakta menunggu tinjauan ahli/guru",
    "usia_bahasa": "15 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -10702,6 +11040,8 @@
       "mengucapkan"
      ]
     },
+    "subdimensi": "Berbicara",
+    "indikator_acuan_berkembang": "Menyampaikan, menggali, dan menanggapi secara lisan berbagai jenis informasi melalui teks lisan sederhana namun belum tepat dan lancar.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -10711,6 +11051,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -10769,6 +11111,8 @@
      "tipe": "grouping"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -11092,6 +11436,8 @@
       "menuliskan"
      ]
     },
+    "subdimensi": "Menulis",
+    "indikator_acuan_berkembang": "Menyampaikan, menggali, dan menanggapi secara lisan berbagai jenis informasi melalui teks tertulis sederhana namun belum tepat dan lancar.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -11101,6 +11447,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -11152,6 +11500,8 @@
       "menuliskan"
      ]
     },
+    "subdimensi": "Menulis",
+    "indikator_acuan_berkembang": "Menyampaikan, menggali, dan menanggapi secara lisan berbagai jenis informasi melalui teks tertulis sederhana namun belum tepat dan lancar.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    },
    {
@@ -11161,6 +11511,8 @@
      "tipe": "ordering"
     },
     "catatan": "mengelompokkan/mengurutkan melatih logika dasar; bukan bukti penalaran kritis tingkat lanjut",
+    "subdimensi": "Pengambilan Keputusan",
+    "indikator_acuan_berkembang": "Mengambil keputusan namun belum logis dan belum berdasarkan informasi yang relevan.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
@@ -11225,7 +11577,7 @@
    "keunikan": 4
   },
   "bukti_skor": {
-   "atp": "TP tertelusur; kata kunci bersama: deskripsi, ruang, rumah",
+   "atp": "TP tertelusur; kata kunci bersama: deskripsi, ruangan, rumah",
    "akurasi": "tugas kinerja: kunci berupa rubrik guru; ketepatan isi menunggu tinjauan guru",
    "usia_bahasa": "12 kata pada soal",
    "konstruksi": "konstruksi sesuai tipe soal",
@@ -11346,6 +11698,8 @@
       "mengucapkan"
      ]
     },
+    "subdimensi": "Berbicara",
+    "indikator_acuan_berkembang": "Menyampaikan, menggali, dan menanggapi secara lisan berbagai jenis informasi melalui teks lisan sederhana namun belum tepat dan lancar.",
     "keterbatasan": "Tes tertulis hanya mengukur pengetahuan/pemahaman; perilaku nyata perlu observasi/rubrik guru"
    }
   ],
