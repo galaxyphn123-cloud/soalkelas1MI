@@ -1,0 +1,980 @@
+{
+ "subject": "Bahasa Indonesia",
+ "grade": 1,
+ "phase": "A",
+ "jenjang": "MI",
+ "sumber_atp": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "total_soal": 1000,
+ "catatan": "ATP tidak merinci JP per bab; soal dibagi sebanding jumlah TP (bab 4 TP = 111 soal, bab 5 TP = 139 soal; 8 bab, 36 TP).",
+ "materi": [
+  {
+   "material": "Bab 1. Aku Ciptaan Allah Swt. yang Sempurna",
+   "prefix": "BIN-B1",
+   "alokasi_jp": null,
+   "jumlah_soal": 111,
+   "tp": [
+    {
+     "tp_id": "TP-BIN-B1-01",
+     "tp": "Murid mampu memahami cara membaca dan menulis dengan benar.",
+     "jumlah_soal": 27,
+     "distribusi_difficulty": {
+      "easy": 22,
+      "medium": 5
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 10,
+      "multiple_choice_visual": 1,
+      "contextual": 3,
+      "true_false": 5,
+      "fill_in_short": 3,
+      "completion": 2,
+      "ordering": 2,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 10,
+      "menerapkan": 7,
+      "mengingat": 8,
+      "mengurutkan": 2
+     },
+     "kompetensi": [
+      "Menerapkan sikap dan ilmu",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja",
+      "mahami cara membaca dan menulis dengan benar."
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B1-02",
+     "tp": "Murid mampu mengenal huruf vokal dan konsonan dengan benar.",
+     "jumlah_soal": 28,
+     "distribusi_difficulty": {
+      "easy": 15,
+      "medium": 13
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 10,
+      "contextual": 2,
+      "true_false": 7,
+      "fill_in_short": 4,
+      "completion": 2,
+      "grouping": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 5,
+      "menganalisis": 6,
+      "memahami": 5,
+      "menerapkan": 6,
+      "mengingat": 5,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Memahami materi",
+      "Menerapkan sikap dan ilmu",
+      "Mengelompokkan",
+      "Mengenal huruf vokal dan konsonan",
+      "Praktik dan unjuk kerja",
+      "ngenal huruf vokal dan konsonan dengan benar."
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B1-03",
+     "tp": "Murid mampu membaca dan menulis kata yang berawalan huruf a, h, k, m, r, dan t dengan benar.",
+     "jumlah_soal": 28,
+     "distribusi_difficulty": {
+      "medium": 15,
+      "easy": 13
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 11,
+      "multiple_choice_visual": 3,
+      "true_false": 6,
+      "fill_in_short": 3,
+      "matching": 2,
+      "ordering": 1,
+      "grouping": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 18,
+      "menganalisis": 5,
+      "mencocokkan": 2,
+      "mengurutkan": 1,
+      "mengelompokkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Membaca dan menulis kata berawalan huruf a, h, k, m, r, t"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B1-04",
+     "tp": "Murid mampu menggunakan anggota tubuh ciptaan Allah Swt. untuk belajar membaca dan menulis dengan sungguh-sungguh sebagai wujud syukur kepada-Nya.",
+     "jumlah_soal": 28,
+     "distribusi_difficulty": {
+      "easy": 21,
+      "medium": 7
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 10,
+      "multiple_choice_visual": 2,
+      "contextual": 3,
+      "true_false": 4,
+      "fill_in_short": 3,
+      "completion": 2,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 10,
+      "menerapkan": 9,
+      "mengingat": 7,
+      "mencocokkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Mencocokkan",
+      "Menerapkan sikap dan ilmu",
+      "Mengelompokkan",
+      "Praktik dan unjuk kerja",
+      "nggunakan anggota tubuh ciptaan Allah Swt. untuk belajar"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 2. Badanku Sehat dan Kuat",
+   "prefix": "BIN-B2",
+   "alokasi_jp": null,
+   "jumlah_soal": 139,
+   "tp": [
+    {
+     "tp_id": "TP-BIN-B2-01",
+     "tp": "Murid mampu menyimak cerita yang dibacakan dengan benar.",
+     "jumlah_soal": 31,
+     "distribusi_difficulty": {
+      "medium": 23,
+      "easy": 8
+     },
+     "distribusi_question_type": {
+      "contextual": 7,
+      "true_false": 16,
+      "fill_in_short": 8
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 31
+     },
+     "kompetensi": [
+      "Menyimak cerita"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B2-02",
+     "tp": "Murid mampu menceritakan kembali cerita yang dibacakan dengan benar.",
+     "jumlah_soal": 23,
+     "distribusi_difficulty": {
+      "medium": 13,
+      "easy": 10
+     },
+     "distribusi_question_type": {
+      "contextual": 7,
+      "true_false": 12,
+      "ordering": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengurutkan": 16,
+      "mengingat": 4,
+      "menyimpulkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Menceritakan kembali cerita"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B2-03",
+     "tp": "Murid mampu mengenal penggunaan tanda tanya dan tanda seru dengan benar.",
+     "jumlah_soal": 38,
+     "distribusi_difficulty": {
+      "medium": 8,
+      "easy": 30
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 25,
+      "fill_in_short": 10,
+      "grouping": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 8,
+      "mengenali": 24,
+      "mengingat": 3,
+      "mengelompokkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Mengelompokkan",
+      "Mengenal tanda tanya dan tanda seru",
+      "Praktik dan unjuk kerja",
+      "ngenal penggunaan tanda tanya dan tanda seru dengan bena"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B2-04",
+     "tp": "Murid mampu membaca dan menulis kata yang diawali huruf c, i, p, dan s dengan benar.",
+     "jumlah_soal": 47,
+     "distribusi_difficulty": {
+      "medium": 23,
+      "easy": 24
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 26,
+      "multiple_choice_visual": 7,
+      "fill_in_short": 2,
+      "completion": 3,
+      "matching": 2,
+      "ordering": 2,
+      "grouping": 2,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "menganalisis": 9,
+      "mengenali": 23,
+      "memahami": 2,
+      "mengingat": 1,
+      "menerapkan": 6,
+      "mencocokkan": 2,
+      "mengurutkan": 2,
+      "mengelompokkan": 2
+     },
+     "kompetensi": [
+      "Membaca dan menulis kata berawalan huruf c, i, p, s",
+      "Mencocokkan",
+      "Menerapkan sikap dan ilmu",
+      "Praktik dan unjuk kerja",
+      "nerapkan ilmu yang dipelajari dengan sungguh-sungguh seb"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 3. Keluargaku Sakinah",
+   "prefix": "BIN-B3",
+   "alokasi_jp": null,
+   "jumlah_soal": 139,
+   "tp": [
+    {
+     "tp_id": "TP-BIN-B3-01",
+     "tp": "Murid mampu menyimak cerita yang dibacakan dengan saksama.",
+     "jumlah_soal": 30,
+     "distribusi_difficulty": {
+      "medium": 22,
+      "easy": 8
+     },
+     "distribusi_question_type": {
+      "contextual": 8,
+      "true_false": 16,
+      "fill_in_short": 6
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 30
+     },
+     "kompetensi": [
+      "Menyimak cerita"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B3-02",
+     "tp": "Murid mampu melengkapi kalimat rumpang dengan benar.",
+     "jumlah_soal": 31,
+     "distribusi_difficulty": {
+      "easy": 31
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 18,
+      "true_false": 7,
+      "completion": 6
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 31
+     },
+     "kompetensi": [
+      "Melengkapi kalimat rumpang"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B3-03",
+     "tp": "Murid mampu membaca dan menulis kata yang berawalan huruf b, g, l, n, dan o dengan benar.",
+     "jumlah_soal": 39,
+     "distribusi_difficulty": {
+      "medium": 26,
+      "easy": 13
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 18,
+      "multiple_choice_visual": 2,
+      "true_false": 5,
+      "fill_in_short": 6,
+      "matching": 2,
+      "ordering": 2,
+      "grouping": 3,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "menganalisis": 10,
+      "mengenali": 21,
+      "mencocokkan": 2,
+      "mengurutkan": 2,
+      "mengelompokkan": 3,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Membaca dan menulis kata berawalan huruf b, g, l, n, o"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B3-04",
+     "tp": "Murid mampu menceritakan kembali gambar yang diamati menggunakan kalimat sendiri dengan kreatif.",
+     "jumlah_soal": 39,
+     "distribusi_difficulty": {
+      "easy": 25,
+      "medium": 14
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "multiple_choice_visual": 5,
+      "contextual": 6,
+      "fill_in_short": 4,
+      "completion": 1,
+      "ordering": 2,
+      "performance_task": 6
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 15,
+      "menerapkan": 14,
+      "menyimpulkan": 2,
+      "mengurutkan": 3,
+      "mengingat": 5
+     },
+     "kompetensi": [
+      "Menceritakan kembali cerita",
+      "Menerapkan sikap dan ilmu",
+      "Praktik dan unjuk kerja",
+      "nceritakan kembali gambar yang diamati menggunakan kalim",
+      "nunjukkan sikap belajar dengan sungguh-sungguh dalam keg"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 4. Kebersihan Sebagian dari Iman",
+   "prefix": "BIN-B4",
+   "alokasi_jp": null,
+   "jumlah_soal": 111,
+   "tp": [
+    {
+     "tp_id": "TP-BIN-B4-01",
+     "tp": "Murid mampu meniru berbagai gerakan yang dilakukan oleh tokoh dalam cerita dengan benar sebagai bentuk kreativitas dan ekspresi diri.",
+     "jumlah_soal": 26,
+     "distribusi_difficulty": {
+      "easy": 17,
+      "medium": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 8,
+      "multiple_choice_visual": 1,
+      "contextual": 1,
+      "true_false": 7,
+      "fill_in_short": 4,
+      "completion": 2,
+      "ordering": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 11,
+      "menerapkan": 5,
+      "mengurutkan": 3,
+      "mengingat": 7
+     },
+     "kompetensi": [
+      "Menceritakan kembali cerita",
+      "Menerapkan sikap dan ilmu",
+      "Menyimak cerita",
+      "Praktik dan unjuk kerja",
+      "niru berbagai gerakan yang dilakukan oleh tokoh dalam ce"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B4-02",
+     "tp": "Murid mampu membaca dan menulis kata yang berawalan huruf d, e, f, j, dan u dengan benar.",
+     "jumlah_soal": 34,
+     "distribusi_difficulty": {
+      "medium": 23,
+      "easy": 11
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 25,
+      "multiple_choice_visual": 4,
+      "matching": 2,
+      "grouping": 3
+     },
+     "distribusi_cognitive_level": {
+      "menganalisis": 11,
+      "mengenali": 18,
+      "mencocokkan": 2,
+      "mengelompokkan": 3
+     },
+     "kompetensi": [
+      "Membaca dan menulis kata berawalan huruf d, e, f, j, u"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B4-03",
+     "tp": "Murid mampu menceritakan kembali isi teks yang telah dibaca menggunakan bahasa sendiri secara runtut dan benar.",
+     "jumlah_soal": 25,
+     "distribusi_difficulty": {
+      "medium": 20,
+      "easy": 5
+     },
+     "distribusi_question_type": {
+      "contextual": 9,
+      "true_false": 8,
+      "fill_in_short": 4,
+      "ordering": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 14,
+      "menyimpulkan": 1,
+      "mengingat": 1,
+      "mengurutkan": 7,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Menceritakan kembali cerita",
+      "Menyimak cerita"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B4-04",
+     "tp": "Murid mampu menunjukkan sikap percaya diri dan semangat dalam menuntut ilmu sesuai dengan ajaran Islam.",
+     "jumlah_soal": 26,
+     "distribusi_difficulty": {
+      "easy": 20,
+      "medium": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 8,
+      "multiple_choice_visual": 1,
+      "contextual": 1,
+      "true_false": 7,
+      "fill_in_short": 4,
+      "completion": 3,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 10,
+      "menerapkan": 7,
+      "mengingat": 9
+     },
+     "kompetensi": [
+      "Menerapkan sikap dan ilmu",
+      "Praktik dan unjuk kerja",
+      "nunjukkan sikap percaya diri dan semangat dalam menuntut"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 5. Asyiknya Bermain",
+   "prefix": "BIN-B5",
+   "alokasi_jp": null,
+   "jumlah_soal": 139,
+   "tp": [
+    {
+     "tp_id": "TP-BIN-B5-01",
+     "tp": "Murid mampu mengenal tanda titik pada akhir kalimat dengan benar.",
+     "jumlah_soal": 31,
+     "distribusi_difficulty": {
+      "easy": 22,
+      "medium": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "true_false": 9,
+      "fill_in_short": 4,
+      "grouping": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 15,
+      "memahami": 5,
+      "mengingat": 8,
+      "mengelompokkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Mengelompokkan",
+      "Mengenal tanda titik pada akhir kalimat",
+      "Praktik dan unjuk kerja",
+      "ngenal tanda titik pada akhir kalimat dengan benar."
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B5-02",
+     "tp": "Murid mampu menggunakan tanda titik pada akhir kalimat dengan benar.",
+     "jumlah_soal": 28,
+     "distribusi_difficulty": {
+      "medium": 10,
+      "easy": 18
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 10,
+      "true_false": 14,
+      "fill_in_short": 4
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 28
+     },
+     "kompetensi": [
+      "Menggunakan tanda titik pada akhir kalimat"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B5-03",
+     "tp": "Murid mampu membaca dan menulis kata yang berawalan huruf q, v, w, x, y, dan z dengan benar.",
+     "jumlah_soal": 40,
+     "distribusi_difficulty": {
+      "medium": 25,
+      "easy": 15
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 15,
+      "multiple_choice_visual": 5,
+      "true_false": 5,
+      "fill_in_short": 4,
+      "matching": 3,
+      "ordering": 4,
+      "grouping": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "menganalisis": 10,
+      "mengenali": 19,
+      "mencocokkan": 3,
+      "mengurutkan": 4,
+      "mengelompokkan": 2,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Membaca dan menulis kata berawalan huruf q, v, w, x, y, z"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B5-04",
+     "tp": "Murid mampu mengenal ungkapan permisi, tolong, maaf, dan terima kasih dengan benar.",
+     "jumlah_soal": 40,
+     "distribusi_difficulty": {
+      "medium": 15,
+      "easy": 25
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 11,
+      "multiple_choice_visual": 2,
+      "contextual": 14,
+      "fill_in_short": 1,
+      "completion": 7,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 10,
+      "mengenali": 4,
+      "menerapkan": 21,
+      "menyimpulkan": 1,
+      "mengingat": 1,
+      "mengurutkan": 1,
+      "mencocokkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Menceritakan kembali cerita",
+      "Menerapkan sikap dan ilmu",
+      "Mengenal ungkapan permisi, tolong, maaf, terima kasih",
+      "Menggunakan ungkapan sesuai kondisi",
+      "Menyimak cerita",
+      "Praktik dan unjuk kerja",
+      "nggunakan ungkapan permisi, tolong, maaf, dan terima kas"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 6. Rumahku Surgaku",
+   "prefix": "BIN-B6",
+   "alokasi_jp": null,
+   "jumlah_soal": 111,
+   "tp": [
+    {
+     "tp_id": "TP-BIN-B6-01",
+     "tp": "Murid mampu menyimak cerita yang dibacakan dengan benar.",
+     "jumlah_soal": 23,
+     "distribusi_difficulty": {
+      "medium": 17,
+      "easy": 6
+     },
+     "distribusi_question_type": {
+      "contextual": 5,
+      "true_false": 10,
+      "fill_in_short": 8
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 23
+     },
+     "kompetensi": [
+      "Menyimak cerita"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B6-02",
+     "tp": "Murid mampu menceritakan kembali cerita yang didengar dengan benar.",
+     "jumlah_soal": 18,
+     "distribusi_difficulty": {
+      "medium": 12,
+      "easy": 6
+     },
+     "distribusi_question_type": {
+      "contextual": 6,
+      "true_false": 8,
+      "ordering": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "menyimpulkan": 2,
+      "mengurutkan": 12,
+      "mengingat": 2,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Menceritakan kembali cerita"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B6-03",
+     "tp": "Murid mampu menulis dan menyebutkan bilangan satu sampai sepuluh dengan benar.",
+     "jumlah_soal": 43,
+     "distribusi_difficulty": {
+      "medium": 20,
+      "easy": 23
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 32,
+      "multiple_choice_visual": 5,
+      "matching": 3,
+      "ordering": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 15,
+      "mengenali": 17,
+      "menerapkan": 7,
+      "mencocokkan": 3,
+      "mengurutkan": 1
+     },
+     "kompetensi": [
+      "Menulis dan menyebutkan bilangan satu sampai sepuluh"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B6-04",
+     "tp": "Murid mampu menerapkan ilmu tentang bilangan dan menyimak cerita yang telah dipelajari dalam kehidupan sehari-hari sebagai bentuk mencintai ilmu.",
+     "jumlah_soal": 27,
+     "distribusi_difficulty": {
+      "easy": 17,
+      "medium": 10
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 9,
+      "multiple_choice_visual": 1,
+      "true_false": 4,
+      "fill_in_short": 9,
+      "completion": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 10,
+      "menerapkan": 5,
+      "mengingat": 12
+     },
+     "kompetensi": [
+      "Menerapkan sikap dan ilmu",
+      "Praktik dan unjuk kerja",
+      "nerapkan ilmu tentang bilangan dan menyimak cerita yang "
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 7. Sekolahku Menyenangkan",
+   "prefix": "BIN-B7",
+   "alokasi_jp": null,
+   "jumlah_soal": 139,
+   "tp": [
+    {
+     "tp_id": "TP-BIN-B7-01",
+     "tp": "Murid mampu menceritakan kembali isi cerita yang dibaca dengan sederhana dan runtut.",
+     "jumlah_soal": 29,
+     "distribusi_difficulty": {
+      "medium": 20,
+      "easy": 9
+     },
+     "distribusi_question_type": {
+      "contextual": 11,
+      "true_false": 10,
+      "fill_in_short": 4,
+      "ordering": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengurutkan": 13,
+      "menyimpulkan": 1,
+      "mengingat": 3,
+      "memahami": 10,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Menceritakan kembali cerita",
+      "Menyimak cerita"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B7-02",
+     "tp": "Murid mampu menulis arti kata baru yang ditemukan dengan baik.",
+     "jumlah_soal": 36,
+     "distribusi_difficulty": {
+      "medium": 36
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 30,
+      "fill_in_short": 2,
+      "matching": 4
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 32,
+      "mencocokkan": 4
+     },
+     "kompetensi": [
+      "Menulis arti kata baru"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B7-03",
+     "tp": "Murid mampu menemukan arti kata baru dengan bantuan guru, orang tua, atau kamus secara tepat.",
+     "jumlah_soal": 35,
+     "distribusi_difficulty": {
+      "easy": 19,
+      "medium": 16
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "multiple_choice_visual": 1,
+      "contextual": 3,
+      "true_false": 11,
+      "fill_in_short": 9,
+      "completion": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 18,
+      "menerapkan": 6,
+      "mengingat": 11
+     },
+     "kompetensi": [
+      "Memahami materi",
+      "Menerapkan sikap dan ilmu",
+      "Menyimak cerita",
+      "Praktik dan unjuk kerja",
+      "nemukan arti kata baru dengan bantuan guru, orang tua, a"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B7-04",
+     "tp": "Murid mampu bercerita sesuai ide atau gagasan yang dimiliki dengan percaya diri.",
+     "jumlah_soal": 39,
+     "distribusi_difficulty": {
+      "easy": 27,
+      "medium": 12
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 14,
+      "multiple_choice_visual": 1,
+      "true_false": 7,
+      "fill_in_short": 9,
+      "completion": 5,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 15,
+      "menerapkan": 9,
+      "mengingat": 15
+     },
+     "kompetensi": [
+      "Memahami materi",
+      "Menerapkan sikap dan ilmu",
+      "Praktik dan unjuk kerja",
+      "mperhatikan adab ketika bercerita sesuai ajaran Islam.",
+      "rcerita sesuai ide atau gagasan yang dimiliki dengan per"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 8. Lingkungan Sekitarku",
+   "prefix": "BIN-B8",
+   "alokasi_jp": null,
+   "jumlah_soal": 111,
+   "tp": [
+    {
+     "tp_id": "TP-BIN-B8-01",
+     "tp": "Murid mampu membaca kata-kata sederhana tentang arah dan letak serta pekerjaan dengan benar.",
+     "jumlah_soal": 28,
+     "distribusi_difficulty": {
+      "medium": 15,
+      "easy": 13
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 24,
+      "matching": 3,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 12,
+      "mengenali": 12,
+      "mencocokkan": 3,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Membaca kata letak dan pekerjaan"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B8-02",
+     "tp": "Murid mampu menulis kata-kata sederhana tentang arah dan letak serta pekerjaan dengan benar.",
+     "jumlah_soal": 28,
+     "distribusi_difficulty": {
+      "easy": 14,
+      "medium": 14
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 8,
+      "contextual": 2,
+      "true_false": 8,
+      "fill_in_short": 5,
+      "completion": 4,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 10,
+      "menerapkan": 7,
+      "mengingat": 7,
+      "mengenali": 4
+     },
+     "kompetensi": [
+      "Memahami materi",
+      "Menerapkan sikap dan ilmu",
+      "Menulis kata letak",
+      "Menulis kata pekerjaan",
+      "Praktik dan unjuk kerja",
+      "nulis kata-kata sederhana tentang arah dan letak serta p"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B8-03",
+     "tp": "Murid mampu menceritakan letak suatu benda atau arah suatu tempat dengan baik dan benar agar dapat membantu orang lain.",
+     "jumlah_soal": 28,
+     "distribusi_difficulty": {
+      "medium": 26,
+      "easy": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 6,
+      "contextual": 7,
+      "true_false": 5,
+      "fill_in_short": 6,
+      "ordering": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 18,
+      "mengurutkan": 9,
+      "menyimpulkan": 1
+     },
+     "kompetensi": [
+      "Menceritakan kembali cerita",
+      "Menceritakan letak benda dan arah"
+     ]
+    },
+    {
+     "tp_id": "TP-BIN-B8-04",
+     "tp": "Murid mampu menerapkan sikap sungguh-sungguh dalam belajar dan mengenal profesi di lingkungan sekitar sebagai wujud mencintai ilmu agar cita-cita di masa depan tercapai.",
+     "jumlah_soal": 27,
+     "distribusi_difficulty": {
+      "easy": 19,
+      "medium": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "contextual": 2,
+      "true_false": 9,
+      "fill_in_short": 5,
+      "completion": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 9,
+      "menerapkan": 6,
+      "mengingat": 12
+     },
+     "kompetensi": [
+      "Menerapkan sikap dan ilmu",
+      "Praktik dan unjuk kerja",
+      "nerapkan sikap sungguh-sungguh dalam belajar dan mengena"
+     ]
+    }
+   ]
+  }
+ ],
+ "distribusi_total": {
+  "difficulty": {
+   "easy": 508,
+   "medium": 492
+  },
+  "question_type": {
+   "multiple_choice": 366,
+   "multiple_choice_visual": 47,
+   "contextual": 97,
+   "true_false": 200,
+   "fill_in_short": 131,
+   "completion": 43,
+   "ordering": 25,
+   "performance_task": 52,
+   "grouping": 16,
+   "matching": 23
+  },
+  "cognitive_level": {
+   "memahami": 300,
+   "menerapkan": 209,
+   "mengingat": 136,
+   "mengurutkan": 76,
+   "mengenali": 180,
+   "menganalisis": 51,
+   "mengelompokkan": 16,
+   "mencocokkan": 23,
+   "menyimpulkan": 9
+  }
+ }
+}

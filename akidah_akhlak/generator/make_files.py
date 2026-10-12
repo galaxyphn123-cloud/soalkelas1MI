@@ -65,7 +65,7 @@ for x in q:
                 if it not in x['question']: add(x['id'], 'grouping_item_tak_ada_di_soal', it)
     if x['visual_required'] and not x['visual_prompt']: add(x['id'], 'visual_prompt_kosong')
     if t == 'multiple_choice_visual' and not x['visual_required']: add(x['id'], 'visual_flag_tak_konsisten')
-    if re.search(r'\bgambar\b', x['question'].lower()) and not x['visual_required']: add(x['id'], 'rujuk_gamaka_tanpa_visual')
+    if re.search(r'(perhatikan|pada|lihat)\s+gambar', x['question'].lower()) and not x['visual_required']: add(x['id'], 'rujuk_gambar_tanpa_visual')
     if not x['id'].startswith('AKA-' + code(x)): add(x['id'], 'prefix_tak_cocok')
     if x['difficulty'] not in ('easy', 'medium', 'hard'): add(x['id'], 'difficulty_tak_valid')
 # duplikat: teks soal identik (kecuali tipe yang isinya di opsi: dibandingkan bersama opsi/jawaban)

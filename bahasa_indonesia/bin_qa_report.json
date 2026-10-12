@@ -1,0 +1,547 @@
+{
+ "subject": "Bahasa Indonesia",
+ "grade": 1,
+ "phase": "A",
+ "sumber": "bin_bank_1000.json",
+ "tanggal_audit": "2026-10-12",
+ "total_soal": 1000,
+ "id_unik": 1000,
+ "semua_punya_jawaban": true,
+ "semua_punya_penjelasan": true,
+ "teks_soal_unik_non_matching_ordering_grouping": 936,
+ "jumlah_soal_non_matching_ordering_grouping": 936,
+ "teks_soal_sama_tetapi_isi_di_opsi": {
+  "jumlah_teks": 4,
+  "per_tipe": {
+   "matching": 20
+  },
+  "catatan": "Hanya tipe matching/ordering/grouping; isi soal ada pada opsi dan jawaban sehingga tidak kembar."
+ },
+ "per_materi": {
+  "Bab 1. Aku Ciptaan Allah Swt. yang Sempurna": 111,
+  "Bab 2. Badanku Sehat dan Kuat": 139,
+  "Bab 3. Keluargaku Sakinah": 139,
+  "Bab 4. Kebersihan Sebagian dari Iman": 111,
+  "Bab 5. Asyiknya Bermain": 139,
+  "Bab 6. Rumahku Surgaku": 111,
+  "Bab 7. Sekolahku Menyenangkan": 139,
+  "Bab 8. Lingkungan Sekitarku": 111
+ },
+ "per_tp": {
+  "TP-BIN-B1-01": 27,
+  "TP-BIN-B1-02": 28,
+  "TP-BIN-B1-03": 28,
+  "TP-BIN-B1-04": 28,
+  "TP-BIN-B2-01": 31,
+  "TP-BIN-B2-02": 23,
+  "TP-BIN-B2-03": 38,
+  "TP-BIN-B2-04": 47,
+  "TP-BIN-B3-01": 30,
+  "TP-BIN-B3-02": 31,
+  "TP-BIN-B3-03": 39,
+  "TP-BIN-B3-04": 39,
+  "TP-BIN-B4-01": 26,
+  "TP-BIN-B4-02": 34,
+  "TP-BIN-B4-03": 25,
+  "TP-BIN-B4-04": 26,
+  "TP-BIN-B5-01": 31,
+  "TP-BIN-B5-02": 28,
+  "TP-BIN-B5-03": 40,
+  "TP-BIN-B5-04": 40,
+  "TP-BIN-B6-01": 23,
+  "TP-BIN-B6-02": 18,
+  "TP-BIN-B6-03": 43,
+  "TP-BIN-B6-04": 27,
+  "TP-BIN-B7-01": 29,
+  "TP-BIN-B7-02": 36,
+  "TP-BIN-B7-03": 35,
+  "TP-BIN-B7-04": 39,
+  "TP-BIN-B8-01": 28,
+  "TP-BIN-B8-02": 28,
+  "TP-BIN-B8-03": 28,
+  "TP-BIN-B8-04": 27
+ },
+ "per_difficulty": {
+  "easy": 508,
+  "medium": 492
+ },
+ "per_question_type": {
+  "multiple_choice": 366,
+  "multiple_choice_visual": 47,
+  "contextual": 97,
+  "true_false": 200,
+  "fill_in_short": 131,
+  "completion": 43,
+  "ordering": 25,
+  "performance_task": 52,
+  "grouping": 16,
+  "matching": 23
+ },
+ "jumlah_soal_pilihan_ganda_format_ABCD": 510,
+ "posisi_kunci_pilihan_ganda": {
+  "A": 128,
+  "B": 128,
+  "C": 127,
+  "D": 127
+ },
+ "pilihan_ganda_kunci_opsi_terpanjang": 201,
+ "true_false_distribusi_jawaban": {
+  "Benar": 100,
+  "Salah": 100
+ },
+ "soal_visual": 47,
+ "jumlah_temuan_validasi": 0,
+ "temuan_validasi": [],
+ "pasangan_hampir_duplikat_(kemiripan>=0.9)": {
+  "jumlah": 110,
+  "lintas_materi": 42,
+  "dengan_jawaban_sama": 36,
+  "daftar": [
+   [
+    "BIN-B1-0067",
+    "BIN-B1-0068"
+   ],
+   [
+    "BIN-B1-0067",
+    "BIN-B4-0052"
+   ],
+   [
+    "BIN-B1-0067",
+    "BIN-B4-0053"
+   ],
+   [
+    "BIN-B1-0067",
+    "BIN-B5-0078"
+   ],
+   [
+    "BIN-B1-0067",
+    "BIN-B5-0079"
+   ],
+   [
+    "BIN-B1-0068",
+    "BIN-B4-0052"
+   ],
+   [
+    "BIN-B1-0068",
+    "BIN-B4-0053"
+   ],
+   [
+    "BIN-B1-0068",
+    "BIN-B5-0078"
+   ],
+   [
+    "BIN-B1-0068",
+    "BIN-B5-0079"
+   ],
+   [
+    "BIN-B1-0069",
+    "BIN-B2-0124"
+   ],
+   [
+    "BIN-B1-0069",
+    "BIN-B2-0125"
+   ],
+   [
+    "BIN-B1-0069",
+    "BIN-B3-0081"
+   ],
+   [
+    "BIN-B1-0069",
+    "BIN-B4-0054"
+   ],
+   [
+    "BIN-B1-0069",
+    "BIN-B5-0075"
+   ],
+   [
+    "BIN-B1-0083",
+    "BIN-B2-0138"
+   ],
+   [
+    "BIN-B1-0083",
+    "BIN-B2-0139"
+   ],
+   [
+    "BIN-B1-0083",
+    "BIN-B3-0100"
+   ],
+   [
+    "BIN-B1-0083",
+    "BIN-B5-0098"
+   ],
+   [
+    "BIN-B1-0083",
+    "BIN-B5-0099"
+   ],
+   [
+    "BIN-B2-0002",
+    "BIN-B2-0004"
+   ],
+   [
+    "BIN-B2-0003",
+    "BIN-B2-0005"
+   ],
+   [
+    "BIN-B2-0009",
+    "BIN-B2-0020"
+   ],
+   [
+    "BIN-B2-0010",
+    "BIN-B2-0023"
+   ],
+   [
+    "BIN-B2-0011",
+    "BIN-B2-0018"
+   ],
+   [
+    "BIN-B2-0012",
+    "BIN-B2-0022"
+   ],
+   [
+    "BIN-B2-0013",
+    "BIN-B2-0016"
+   ],
+   [
+    "BIN-B2-0014",
+    "BIN-B2-0017"
+   ],
+   [
+    "BIN-B2-0015",
+    "BIN-B2-0021"
+   ],
+   [
+    "BIN-B2-0119",
+    "BIN-B2-0122"
+   ],
+   [
+    "BIN-B2-0119",
+    "BIN-B5-0077"
+   ],
+   [
+    "BIN-B2-0120",
+    "BIN-B2-0123"
+   ],
+   [
+    "BIN-B2-0120",
+    "BIN-B2-0125"
+   ],
+   [
+    "BIN-B2-0120",
+    "BIN-B5-0076"
+   ],
+   [
+    "BIN-B2-0121",
+    "BIN-B2-0123"
+   ],
+   [
+    "BIN-B2-0122",
+    "BIN-B2-0124"
+   ],
+   [
+    "BIN-B2-0122",
+    "BIN-B5-0077"
+   ],
+   [
+    "BIN-B2-0123",
+    "BIN-B2-0125"
+   ],
+   [
+    "BIN-B2-0124",
+    "BIN-B2-0125"
+   ],
+   [
+    "BIN-B2-0124",
+    "BIN-B3-0081"
+   ],
+   [
+    "BIN-B2-0124",
+    "BIN-B4-0054"
+   ],
+   [
+    "BIN-B2-0124",
+    "BIN-B5-0075"
+   ],
+   [
+    "BIN-B2-0125",
+    "BIN-B3-0081"
+   ],
+   [
+    "BIN-B2-0125",
+    "BIN-B4-0054"
+   ],
+   [
+    "BIN-B2-0125",
+    "BIN-B5-0075"
+   ],
+   [
+    "BIN-B2-0138",
+    "BIN-B2-0139"
+   ],
+   [
+    "BIN-B2-0138",
+    "BIN-B3-0100"
+   ],
+   [
+    "BIN-B2-0138",
+    "BIN-B5-0098"
+   ],
+   [
+    "BIN-B2-0138",
+    "BIN-B5-0099"
+   ],
+   [
+    "BIN-B2-0139",
+    "BIN-B3-0100"
+   ],
+   [
+    "BIN-B2-0139",
+    "BIN-B5-0098"
+   ],
+   [
+    "BIN-B2-0139",
+    "BIN-B5-0099"
+   ],
+   [
+    "BIN-B3-0001",
+    "BIN-B3-0002"
+   ],
+   [
+    "BIN-B3-0001",
+    "BIN-B3-0004"
+   ],
+   [
+    "BIN-B3-0001",
+    "BIN-B3-0005"
+   ],
+   [
+    "BIN-B3-0002",
+    "BIN-B3-0004"
+   ],
+   [
+    "BIN-B3-0002",
+    "BIN-B3-0005"
+   ],
+   [
+    "BIN-B3-0009",
+    "BIN-B3-0021"
+   ],
+   [
+    "BIN-B3-0012",
+    "BIN-B3-0020"
+   ],
+   [
+    "BIN-B3-0013",
+    "BIN-B3-0022"
+   ],
+   [
+    "BIN-B3-0014",
+    "BIN-B3-0018"
+   ],
+   [
+    "BIN-B3-0016",
+    "BIN-B3-0019"
+   ],
+   [
+    "BIN-B3-0051",
+    "BIN-B3-0055"
+   ],
+   [
+    "BIN-B3-0080",
+    "BIN-B3-0081"
+   ],
+   [
+    "BIN-B3-0081",
+    "BIN-B4-0054"
+   ],
+   [
+    "BIN-B3-0081",
+    "BIN-B5-0075"
+   ],
+   [
+    "BIN-B3-0100",
+    "BIN-B5-0098"
+   ],
+   [
+    "BIN-B3-0100",
+    "BIN-B5-0099"
+   ],
+   [
+    "BIN-B4-0052",
+    "BIN-B4-0053"
+   ],
+   [
+    "BIN-B4-0052",
+    "BIN-B4-0055"
+   ],
+   [
+    "BIN-B4-0052",
+    "BIN-B5-0078"
+   ],
+   [
+    "BIN-B4-0052",
+    "BIN-B5-0079"
+   ],
+   [
+    "BIN-B4-0053",
+    "BIN-B5-0078"
+   ],
+   [
+    "BIN-B4-0053",
+    "BIN-B5-0079"
+   ],
+   [
+    "BIN-B4-0054",
+    "BIN-B5-0075"
+   ],
+   [
+    "BIN-B4-0061",
+    "BIN-B4-0069"
+   ],
+   [
+    "BIN-B4-0063",
+    "BIN-B4-0069"
+   ],
+   [
+    "BIN-B5-0042",
+    "BIN-B5-0055"
+   ],
+   [
+    "BIN-B5-0044",
+    "BIN-B5-0052"
+   ],
+   [
+    "BIN-B5-0045",
+    "BIN-B5-0053"
+   ],
+   [
+    "BIN-B5-0047",
+    "BIN-B5-0051"
+   ],
+   [
+    "BIN-B5-0049",
+    "BIN-B5-0054"
+   ],
+   [
+    "BIN-B5-0063",
+    "BIN-B5-0070"
+   ],
+   [
+    "BIN-B5-0075",
+    "BIN-B5-0079"
+   ],
+   [
+    "BIN-B5-0078",
+    "BIN-B5-0079"
+   ],
+   [
+    "BIN-B5-0098",
+    "BIN-B5-0099"
+   ],
+   [
+    "BIN-B6-0001",
+    "BIN-B6-0003"
+   ],
+   [
+    "BIN-B6-0002",
+    "BIN-B6-0004"
+   ],
+   [
+    "BIN-B6-0006",
+    "BIN-B6-0015"
+   ],
+   [
+    "BIN-B6-0008",
+    "BIN-B6-0013"
+   ],
+   [
+    "BIN-B6-0010",
+    "BIN-B6-0015"
+   ],
+   [
+    "BIN-B6-0011",
+    "BIN-B6-0014"
+   ],
+   [
+    "BIN-B6-0021",
+    "BIN-B6-0023"
+   ],
+   [
+    "BIN-B6-0074",
+    "BIN-B6-0075"
+   ],
+   [
+    "BIN-B6-0074",
+    "BIN-B6-0076"
+   ],
+   [
+    "BIN-B6-0074",
+    "BIN-B6-0077"
+   ],
+   [
+    "BIN-B6-0074",
+    "BIN-B6-0078"
+   ],
+   [
+    "BIN-B6-0075",
+    "BIN-B6-0076"
+   ],
+   [
+    "BIN-B6-0075",
+    "BIN-B6-0077"
+   ],
+   [
+    "BIN-B6-0075",
+    "BIN-B6-0078"
+   ],
+   [
+    "BIN-B6-0076",
+    "BIN-B6-0077"
+   ],
+   [
+    "BIN-B6-0076",
+    "BIN-B6-0078"
+   ],
+   [
+    "BIN-B6-0077",
+    "BIN-B6-0078"
+   ],
+   [
+    "BIN-B6-0102",
+    "BIN-B6-0106"
+   ],
+   [
+    "BIN-B7-0006",
+    "BIN-B7-0009"
+   ],
+   [
+    "BIN-B7-0015",
+    "BIN-B7-0019"
+   ],
+   [
+    "BIN-B7-0075",
+    "BIN-B7-0076"
+   ],
+   [
+    "BIN-B8-0030",
+    "BIN-B8-0034"
+   ],
+   [
+    "BIN-B8-0041",
+    "BIN-B8-0045"
+   ],
+   [
+    "BIN-B8-0063",
+    "BIN-B8-0079"
+   ],
+   [
+    "BIN-B8-0067",
+    "BIN-B8-0076"
+   ]
+  ]
+ },
+ "cek_duplikat_lintas_materi": "Dilakukan saat pemilihan soal (kunci teks + opsi + gambar) dan diverifikasi ulang pada audit ini.",
+ "catatan": [
+  "Soal dibangun dari tabel kosakata, kalimat, cerita pendek, dan skenario sikap sesuai TP pada ATP ILMA.",
+  "Soal bergambar memuat deskripsi ilustrasi pada visual_prompt."
+ ]
+}

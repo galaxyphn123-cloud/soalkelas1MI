@@ -8,7 +8,7 @@ Bank soal digital 1.000 soal per mata pelajaran berdasarkan ATP (file ATP/KKTP a
 | 2 | Al-Qur'an Hadis | **Selesai** (1.000 soal) | `alquran_hadis/` |
 | 3 | Bahasa Arab | **Selesai** (1.000 soal) | `bahasa_arab/` |
 | 4 | Akidah Akhlak | **Selesai** (1.000 soal) | `akidah_akhlak/` |
-| 5 | Bahasa Indonesia | Belum | - |
+| 5 | Bahasa Indonesia | **Selesai** (1.000 soal) | `bahasa_indonesia/` |
 | 6 | Matematika | Belum | - |
 | 7 | Pendidikan Pancasila | Belum | - |
 | 8 | PJOK | Belum | - |
@@ -41,3 +41,8 @@ Adab Belajar 207, Kisah Nabi Muhammad 155, Rukun Iman 207, Sifat Wajib Allah 69.
 (SY, TY, SH, AB, KN, RI, SW). Pembangkit di `akidah_akhlak/generator/`
 (`python3 -I build_aka.py ../aka_bank_1000.json`, lalu `python3 -I make_files.py ../aka_bank_1000.json ..`).
 Teks soal tidak kembar di dalam mapel maupun terhadap Fikih, Al-Qur'an Hadis, dan Bahasa Arab.
+
+## Bahasa Indonesia
+8 bab, 36 TP (ILMA). ATP tidak merinci JP per bab, jadi soal dibagi sebanding jumlah TP: bab 4 TP = 111 soal, bab 5 TP = 139 soal.
+Prefix ID `BIN-B<n>-NNNN`. Pembangkit di `bahasa_indonesia/generator/`
+(`python3 -I build_bin.py ../bin_bank_1000.json`, lalu `python3 -I make_files.py ../bin_bank_1000.json ..`).
