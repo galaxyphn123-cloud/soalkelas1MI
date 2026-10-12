@@ -1,0 +1,1342 @@
+{
+ "revisi": {
+  "BIN-B4-0087": {
+   "perubahan": {
+    "options": [
+     "A. ilmu yang bermanfaat",
+     "B. jajanan yang enak",
+     "C. mainan yang baru",
+     "D. uang yang banyak"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang agar sejajar dengan kunci.",
+   "verifikasi": "Kunci tetap \"ilmu yang bermanfaat\"; jajanan/mainan/uang bukan hal yang dimohon saat berdoa sebelum belajar."
+  },
+  "BIN-B4-0090": {
+   "perubahan": {
+    "options": [
+     "A. tidak mau belajar dan mencoba",
+     "B. malu berbuat di depan teman",
+     "C. yakin dapat melakukan dengan baik",
+     "D. takut mencoba hal yang baru"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang agar sejajar dengan kunci.",
+   "verifikasi": "Kunci tetap C; semua pengecoh menyatakan sikap kebalikan percaya diri."
+  },
+  "BIN-B4-0095": {
+   "perubahan": {
+    "options": [
+     "A. menyemangatinya dan mengajaknya mencoba",
+     "B. membiarkannya sendirian di tempat duduk",
+     "C. menertawakannya di depan teman-teman",
+     "D. mengejeknya di depan seluruh kelas"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang agar sejajar dengan kunci.",
+   "verifikasi": "Kunci tetap A; pengecoh tetap perilaku tidak baik terhadap teman."
+  },
+  "BIN-B5-0016": {
+   "perubahan": {
+    "question": "Benar atau salah: Tanda titik ditulis di akhir kalimat berita.",
+    "explanation": "Tanda titik ditulis di akhir kalimat berita."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pernyataan benar/salah tidak boleh berisi titik-titik; diisi sesuai usulan tinjau baca.",
+   "verifikasi": "Kunci Benar tetap: tanda titik memang ditulis di akhir kalimat berita."
+  },
+  "BIN-B5-0101": {
+   "perubahan": {
+    "question": "Ungkapan \"permisi\" dipakai ....",
+    "options": [
+     "A. untuk meminta maaf karena berbuat salah",
+     "B. untuk meminta bantuan dengan sopan",
+     "C. untuk berterima kasih atas bantuan",
+     "D. untuk meminta izin lewat atau masuk"
+    ]
+   },
+   "jenis": [
+    "bahasa",
+    "konstruksi"
+   ],
+   "alasan": "Definisi fungsi dihapus dari stem agar kunci tidak terbaca dari stem; bentuk opsi diseragamkan tanpa kata ganda.",
+   "verifikasi": "Kunci tetap \"untuk meminta izin lewat atau masuk\"; pengecoh adalah fungsi ungkapan lain sehingga tidak ada yang benar untuk \"permisi\"."
+  },
+  "BIN-B5-0106": {
+   "perubahan": {
+    "question": "Ungkapan \"terima kasih\" dipakai ....",
+    "options": [
+     "A. ketika kita berbuat salah",
+     "B. ketika kita ingin lewat di depan orang",
+     "C. ketika kita menerima bantuan atau pemberian",
+     "D. ketika kita meminta bantuan dengan sopan"
+    ]
+   },
+   "jenis": [
+    "bahasa",
+    "konstruksi"
+   ],
+   "alasan": "Definisi fungsi dihapus dari stem agar kunci tidak terbaca dari stem; bentuk opsi diseragamkan tanpa kata ganda.",
+   "verifikasi": "Kunci tetap \"ketika kita menerima bantuan atau pemberian\"; pengecoh adalah fungsi ungkapan lain sehingga tidak ada yang benar untuk \"terima kasih\"."
+  },
+  "BIN-B5-0108": {
+   "perubahan": {
+    "question": "Ungkapan \"tolong\" dipakai ....",
+    "options": [
+     "A. untuk berterima kasih atas bantuan",
+     "B. untuk meminta maaf karena salah",
+     "C. untuk meminta izin lewat atau masuk",
+     "D. untuk meminta bantuan dengan sopan"
+    ]
+   },
+   "jenis": [
+    "bahasa",
+    "konstruksi"
+   ],
+   "alasan": "Definisi fungsi dihapus dari stem agar kunci tidak terbaca dari stem; bentuk opsi diseragamkan tanpa kata ganda.",
+   "verifikasi": "Kunci tetap \"untuk meminta bantuan dengan sopan\"; pengecoh adalah fungsi ungkapan lain sehingga tidak ada yang benar untuk \"tolong\"."
+  },
+  "BIN-B5-0109": {
+   "perubahan": {
+    "question": "Ungkapan \"maaf\" dipakai ....",
+    "options": [
+     "A. ketika kita ingin lewat",
+     "B. ketika kita berbuat salah",
+     "C. ketika kita menerima bantuan",
+     "D. ketika kita bertemu teman"
+    ]
+   },
+   "jenis": [
+    "bahasa",
+    "konstruksi"
+   ],
+   "alasan": "Definisi fungsi dihapus dari stem agar kunci tidak terbaca dari stem; bentuk opsi diseragamkan tanpa kata ganda.",
+   "verifikasi": "Kunci tetap \"ketika kita berbuat salah\"; pengecoh adalah fungsi ungkapan lain sehingga tidak ada yang benar untuk \"maaf\"."
+  },
+  "BIN-B5-0102": {
+   "perubahan": {
+    "options": [
+     "A. acuh pada teman",
+     "B. sopan dan santun",
+     "C. sombong dan angkuh",
+     "D. kasar dan pemarah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap B; pengecoh adalah sifat tercela."
+  },
+  "BIN-B5-0111": {
+   "perubahan": {
+    "options": [
+     "A. \"Terima kasih banyak ya.\"",
+     "B. \"Maaf, aku tidak sengaja.\"",
+     "C. \"Tolong bantu aku, ya.\"",
+     "D. \"Permisi, aku mau lewat.\""
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap B; ucapan lain tidak cocok untuk meminta maaf setelah menumpahkan air."
+  },
+  "BIN-B5-0113": {
+   "perubahan": {
+    "options": [
+     "A. \"Mana penghapusmu? Aku mau pakai.\"",
+     "B. \"Sini, penghapusmu aku ambil saja!\"",
+     "C. \"Tolong pinjami aku penghapus, ya.\"",
+     "D. \"Berikan penghapusmu sekarang juga!\""
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap C; pengecoh adalah ucapan kasar/tidak sopan tanpa kata tolong."
+  },
+  "BIN-B6-0074": {
+   "perubahan": {
+    "question": "Perhatikan gambar kartu hitung! Berapa banyak benda pada gambar?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Nomor kartu dihapus agar kunci tidak terbaca dari nomor kartu.",
+   "verifikasi": "Kunci tetap; jumlah benda pada gambar tidak berubah dan opsi tidak diubah."
+  },
+  "BIN-B6-0075": {
+   "perubahan": {
+    "question": "Perhatikan gambar kartu hitung! Berapa banyak benda pada gambar?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Nomor kartu dihapus agar kunci tidak terbaca dari nomor kartu.",
+   "verifikasi": "Kunci tetap; jumlah benda pada gambar tidak berubah dan opsi tidak diubah."
+  },
+  "BIN-B6-0076": {
+   "perubahan": {
+    "question": "Perhatikan gambar kartu hitung! Berapa banyak benda pada gambar?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Nomor kartu dihapus agar kunci tidak terbaca dari nomor kartu.",
+   "verifikasi": "Kunci tetap; jumlah benda pada gambar tidak berubah dan opsi tidak diubah."
+  },
+  "BIN-B6-0077": {
+   "perubahan": {
+    "question": "Perhatikan gambar kartu hitung! Berapa banyak benda pada gambar?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Nomor kartu dihapus agar kunci tidak terbaca dari nomor kartu.",
+   "verifikasi": "Kunci tetap; jumlah benda pada gambar tidak berubah dan opsi tidak diubah."
+  },
+  "BIN-B6-0078": {
+   "perubahan": {
+    "question": "Perhatikan gambar kartu hitung! Berapa banyak benda pada gambar?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Nomor kartu dihapus agar kunci tidak terbaca dari nomor kartu.",
+   "verifikasi": "Kunci tetap; jumlah benda pada gambar tidak berubah dan opsi tidak diubah."
+  },
+  "BIN-B6-0091": {
+   "perubahan": {
+    "options": [
+     "A. lupa pada isi cerita",
+     "B. mengantuk di kelas",
+     "C. memahami isi cerita",
+     "D. bingung terhadap cerita"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap C; pengecoh adalah akibat tidak menyimak."
+  },
+  "BIN-B6-0092": {
+   "perubahan": {
+    "options": [
+     "A. bermimpi saat tidur nyenyak",
+     "B. berbelanja dan menghitung benda",
+     "C. tidur siang di atas kasur",
+     "D. bermain sepanjang hari saja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap B; pengecoh bukan kegunaan ilmu bilangan."
+  },
+  "BIN-B7-0069": {
+   "perubahan": {
+    "options": [
+     "A. menyobeknya lalu membuangnya",
+     "B. mengejeknya di depan teman",
+     "C. melupakannya begitu saja",
+     "D. menuliskannya agar ingat"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap D; pengecoh adalah perbuatan tidak tepat."
+  },
+  "BIN-B7-0071": {
+   "perubahan": {
+    "options": [
+     "A. kucing yang sedang tidur",
+     "B. batu di pinggir jalan",
+     "C. televisi di ruang tamu",
+     "D. guru atau orang tua"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap D; kucing, batu, televisi tidak dapat menjelaskan arti kata."
+  },
+  "BIN-B7-0073": {
+   "perubahan": {
+    "options": [
+     "A. mencari arti kata",
+     "B. menggambar di buku",
+     "C. bermain di halaman",
+     "D. tidur di atas meja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap A; gambar menunjukkan anak menunjuk kata di kamus."
+  },
+  "BIN-B7-0074": {
+   "perubahan": {
+    "options": [
+     "A. mengejek kata itu di depan teman",
+     "B. bertanya kepada bu guru atau melihat di kamus",
+     "C. menebak-nebak artinya tanpa bertanya",
+     "D. mengabaikannya dan melanjutkan membaca"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap B; pengecoh adalah sikap tidak tepat."
+  },
+  "BIN-B7-0077": {
+   "perubahan": {
+    "question": "Benar atau salah: Setelah mendapat penjelasan arti kata baru, menulis arti kata itu di buku membantu kita mengingatnya."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pernyataan tanpa konteks cerita diganti pernyataan umum yang dapat dinilai, dengan maksud yang sama (mencatat arti kata baru).",
+   "verifikasi": "Kunci Benar tetap: mencatat arti kata baru memang membantu mengingat."
+  },
+  "BIN-B7-0080": {
+   "perubahan": {
+    "question": "Benar atau salah: Kata yang berawalan huruf \"a\" dicari pada bagian kamus yang awal."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Titik-titik diisi sesuai usulan.",
+   "verifikasi": "Kunci Benar tetap: kata berawalan \"a\" dicari di bagian awal kamus."
+  },
+  "BIN-B7-0101": {
+   "perubahan": {
+    "options": [
+     "A. menghindar dari teman-teman",
+     "B. menangis di depan kelas",
+     "C. berlatih terlebih dahulu",
+     "D. menunda sampai besok pagi"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap C."
+  },
+  "BIN-B7-0103": {
+   "perubahan": {
+    "options": [
+     "A. tidak mengucap apa pun",
+     "B. terima kasih dan hamdalah",
+     "C. maaf dan tolong saja",
+     "D. permisi dan selamat pagi"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap B; pengecoh bukan ucapan setelah bercerita."
+  },
+  "BIN-B7-0106": {
+   "perubahan": {
+    "question": "Bercerita yang ... tentang orang lain adalah perbuatan yang buruk."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Stem negatif diubah menjadi bentuk positif tanpa mengubah kunci.",
+   "verifikasi": "Kunci tetap C \"menjelekkan\": hanya bercerita yang menjelekkan yang merupakan perbuatan buruk; jujur/menyenangkan/baik bukan perbuatan buruk."
+  },
+  "BIN-B7-0127": {
+   "perubahan": {
+    "question": "Isilah titik-titik berikut: Bercerita yang ... tentang orang lain adalah perbuatan yang buruk."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Stem negatif diubah menjadi bentuk positif tanpa mengubah kunci.",
+   "verifikasi": "Kunci tetap \"menjelekkan\"."
+  },
+  "BIN-B7-0109": {
+   "perubahan": {
+    "options": [
+     "A. memotong cerita temanmu",
+     "B. mendengarkan dengan tenang",
+     "C. mengejek temanmu",
+     "D. meninggalkan temanmu"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap B."
+  },
+  "BIN-B7-0113": {
+   "perubahan": {
+    "options": [
+     "A. teman-teman pendengar",
+     "B. jendela di samping kelas",
+     "C. langit-langit ruangan",
+     "D. lantai terus-menerus"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap A."
+  },
+  "BIN-B7-0115": {
+   "perubahan": {
+    "options": [
+     "A. anak sedang bermain sendiri",
+     "B. teman tidak peduli pada anak itu",
+     "C. anak merasa takut dan gugup",
+     "D. percaya diri dan didengarkan teman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap D; pengecoh bertentangan dengan gambar."
+  },
+  "BIN-B8-0002": {
+   "perubahan": {
+    "options": [
+     "A. menjaga keamanan dan mengatur lalu lintas",
+     "B. mengobati orang sakit di rumah sakit",
+     "C. menanam padi dan sayur di sawah",
+     "D. mengajar murid di dalam kelas sekolah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap A; pengecoh adalah tugas profesi lain."
+  },
+  "BIN-B8-0037": {
+   "perubahan": {
+    "options": [
+     "A. dbawah",
+     "B. dibawah",
+     "C. di bawah",
+     "D. di-bawah"
+    ]
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Pengecoh \"dibawa h\" diganti salah ketik yang tidak terpecah.",
+   "verifikasi": "Kunci tetap C \"di bawah\"; \"dbawah\" salah ejaan."
+  },
+  "BIN-B8-0038": {
+   "perubahan": {
+    "question": "Rafi menulis nama pekerjaan orang yang mengajar murid di sekolah. Tulisan yang benar adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Stem tidak lagi menyebut kata \"guru\"; diganti deskripsi pekerjaan.",
+   "verifikasi": "Kunci tetap D \"guru\"; pengecoh salah eja."
+  },
+  "BIN-B8-0040": {
+   "perubahan": {
+    "question": "Benar atau salah: Penulisan yang benar untuk kata tempat adalah \"di bawah\", bukan \"dibawah\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pernyataan tanpa konteks diganti pernyataan ejaan yang dapat dinilai.",
+   "verifikasi": "Kunci Benar tetap: kata depan \"di\" penunjuk tempat ditulis terpisah."
+  },
+  "BIN-B8-0086": {
+   "perubahan": {
+    "options": [
+     "A. mainan yang disukai anak",
+     "B. barang yang dibeli di pasar",
+     "C. keinginan yang ingin dicapai",
+     "D. makanan yang dimakan setiap hari"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap C."
+  },
+  "BIN-B8-0087": {
+   "perubahan": {
+    "options": [
+     "A. bermalas-malasan",
+     "B. mencapai cita-cita",
+     "C. menyerah pada keadaan",
+     "D. bingung sendirian"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap B."
+  },
+  "BIN-B8-0092": {
+   "perubahan": {
+    "options": [
+     "A. mengabaikannya dan berjalan pergi",
+     "B. menertawakannya di depan orang lain",
+     "C. menyapa dengan sopan dan menghargai pekerjaannya",
+     "D. mengotori sawah dengan sampah plastik"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap C."
+  },
+  "BIN-B8-0093": {
+   "perubahan": {
+    "options": [
+     "A. belajar sungguh-sungguh dan berdoa",
+     "B. bermain terus tanpa belajar",
+     "C. membolos dari sekolah setiap hari",
+     "D. menyontek saat ulangan di kelas"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang.",
+   "verifikasi": "Kunci tetap A."
+  },
+  "BIN-B4-0083": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Raka bermain bola di lapangan. Tangannya kotor. Sebelum makan, Raka mencuci tangan dengan sabun. Ia membilasnya dengan air bersih. Tangan Raka bersih dan wangi.\" Urutkan kejadian dalam cerita \"Cuci Tangan\" dengan benar!"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B5-0117": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Tia dan Rani bermain petak umpet. Tia ingin lewat, lalu berkata permisi. Rani tidak sengaja menabrak Tia dan berkata maaf. Tia menjawab tidak apa-apa. Mereka bermain lagi dengan gembira.\" Kejadian terakhir dalam cerita \"Bermain Bersama\" adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B5-0119": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Tia dan Rani bermain petak umpet. Tia ingin lewat, lalu berkata permisi. Rani tidak sengaja menabrak Tia dan berkata maaf. Tia menjawab tidak apa-apa. Mereka bermain lagi dengan gembira.\" Dalam cerita \"Bermain Bersama\", setelah \"Tia berkata permisi\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B5-0127": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Tia dan Rani bermain petak umpet. Tia ingin lewat, lalu berkata permisi. Rani tidak sengaja menabrak Tia dan berkata maaf. Tia menjawab tidak apa-apa. Mereka bermain lagi dengan gembira.\" Isilah menurut cerita \"Bermain Bersama\": Permainan apa yang dimainkan Tia dan Rani?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B5-0137": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Tia dan Rani bermain petak umpet. Tia ingin lewat, lalu berkata permisi. Rani tidak sengaja menabrak Tia dan berkata maaf. Tia menjawab tidak apa-apa. Mereka bermain lagi dengan gembira.\" Ceritakan kembali cerita \"Bermain Bersama\" dengan bahasamu sendiri secara berurutan!"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0006": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Benar atau salah: Dalam cerita \"Ikan di Kolam\", jawaban dari \"Berapa ikan yang berenang ke kanan?\" adalah tiga."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0007": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Benar atau salah: Dalam cerita \"Ikan di Kolam\", jawaban dari \"Berapa ikan yang ada di kolam?\" adalah lima."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0008": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Benar atau salah: Dalam cerita \"Rumahku Surgaku\", jawaban dari \"Bagaimana rasa rumah dalam cerita?\" adalah damai."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0009": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Benar atau salah: Dalam cerita \"Rumahku Surgaku\", jawaban dari \"Berapa adik dalam cerita?\" adalah dua."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0010": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Benar atau salah: Dalam cerita \"Ikan di Kolam\", jawaban dari \"Berapa ikan yang berenang ke kiri?\" adalah dua."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0011": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Benar atau salah: Dalam cerita \"Rumahku Surgaku\", jawaban dari \"Siapa saja anggota keluarga yang disebut?\" adalah ayah, ibu, dan dua adik."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0012": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Benar atau salah: Dalam cerita \"Rumahku Surgaku\", jawaban dari \"Apa yang dilakukan keluarga bersama-sama?\" adalah bermain di luar."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0013": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Benar atau salah: Dalam cerita \"Rumahku Surgaku\", jawaban dari \"Bagaimana rasa rumah dalam cerita?\" adalah bising."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0014": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Benar atau salah: Dalam cerita \"Rumahku Surgaku\", jawaban dari \"Siapa saja anggota keluarga yang disebut?\" adalah ayah dan ibu saja."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0015": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Benar atau salah: Dalam cerita \"Ikan di Kolam\", jawaban dari \"Berapa ikan yang berenang ke kiri?\" adalah tiga."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0016": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Isilah menurut cerita \"Rumahku Surgaku\": Bagaimana rasa rumah dalam cerita?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0017": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Isilah menurut cerita \"Ikan di Kolam\": Siapa yang memberi makan ikan?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0018": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Isilah menurut cerita \"Ikan di Kolam\": Berapa ikan yang ada di kolam?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0019": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Isilah menurut cerita \"Rumahku Surgaku\": Siapa saja anggota keluarga yang disebut?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0020": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Isilah menurut cerita \"Rumahku Surgaku\": Apa yang dilakukan keluarga bersama-sama?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0021": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Isilah menurut cerita \"Ikan di Kolam\": Berapa ikan yang berenang ke kanan?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0022": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Isilah menurut cerita \"Rumahku Surgaku\": Berapa adik dalam cerita?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0023": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Isilah menurut cerita \"Ikan di Kolam\": Berapa ikan yang berenang ke kiri?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0024": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Setelah menyimak cerita \"Ikan di Kolam\", pesan yang dapat kita ambil adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0025": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Dalam cerita \"Ikan di Kolam\", setelah \"Tiga ikan berenang ke kanan\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0026": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Kejadian terakhir dalam cerita \"Rumahku Surgaku\" adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0027": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Dalam cerita \"Rumahku Surgaku\", setelah \"Keluarga salat berjemaah\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0028": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Kejadian pertama dalam cerita \"Rumahku Surgaku\" adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0029": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Setelah menyimak cerita \"Rumahku Surgaku\", pesan yang dapat kita ambil adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0031": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Benar atau salah: Dalam cerita \"Ikan di Kolam\", \"Dua ikan berenang ke kiri\" terjadi setelah \"Ada lima ikan di kolam\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0032": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Benar atau salah: Dalam cerita \"Ikan di Kolam\", \"Ibu memberi makan ikan\" terjadi setelah \"Tiga ikan berenang ke kanan\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0033": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Benar atau salah: Dalam cerita \"Rumahku Surgaku\", \"Rumah terasa damai\" terjadi setelah \"Keluarga makan bersama\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0035": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Benar atau salah: Dalam cerita \"Ikan di Kolam\", \"Ada lima ikan di kolam\" terjadi setelah \"Dua ikan berenang ke kiri\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0036": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ada lima ikan di kolam. Dua ikan berenang ke kiri. Tiga ikan berenang ke kanan. Ibu memberi makan ikan-ikan itu.\" Benar atau salah: Dalam cerita \"Ikan di Kolam\", \"Tiga ikan berenang ke kanan\" terjadi setelah \"Ibu memberi makan ikan\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0037": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Benar atau salah: Dalam cerita \"Rumahku Surgaku\", \"Keluarga salat berjemaah\" terjadi setelah \"Keluarga makan bersama\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B6-0038": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Di rumah ada ayah, ibu, dan dua adik. Kami salat berjemaah. Sesudah itu kami makan bersama. Rumahku terasa damai.\" Urutkan kejadian dalam cerita \"Rumahku Surgaku\" dengan benar!"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0001": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Dalam cerita \"Hari Pertama Sekolah\", setelah \"Bu guru mengajar membaca\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0002": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Setelah menyimak cerita \"Hari Pertama Sekolah\", pesan yang dapat kita ambil adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0003": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Dalam cerita \"Hari Pertama Sekolah\", setelah \"Salma masuk sekolah\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0004": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Kejadian terakhir dalam cerita \"Hari Pertama Sekolah\" adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0005": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Dalam cerita \"Hari Pertama Sekolah\", setelah \"Salma bertemu bu guru dan teman baru\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0007": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Salma mendengar kata rajin. Ia bertanya kepada bu guru. Bu guru menjawab rajin berarti selalu bersungguh-sungguh. Salma mencatat arti kata itu.\" Dalam cerita \"Kata Baru\", setelah \"Bu guru menjelaskan artinya\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0008": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Salma mendengar kata rajin. Ia bertanya kepada bu guru. Bu guru menjawab rajin berarti selalu bersungguh-sungguh. Salma mencatat arti kata itu.\" Dalam cerita \"Kata Baru\", setelah \"Salma mendengar kata baru\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0010": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Salma mendengar kata rajin. Ia bertanya kepada bu guru. Bu guru menjawab rajin berarti selalu bersungguh-sungguh. Salma mencatat arti kata itu.\" Kejadian pertama dalam cerita \"Kata Baru\" adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0011": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Salma mendengar kata rajin. Ia bertanya kepada bu guru. Bu guru menjawab rajin berarti selalu bersungguh-sungguh. Salma mencatat arti kata itu.\" Kejadian terakhir dalam cerita \"Kata Baru\" adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0012": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Salma mendengar kata rajin. Ia bertanya kepada bu guru. Bu guru menjawab rajin berarti selalu bersungguh-sungguh. Salma mencatat arti kata itu.\" Benar atau salah: Dalam cerita \"Kata Baru\", \"Salma mencatat arti kata\" terjadi setelah \"Bu guru menjelaskan artinya\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0013": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Benar atau salah: Dalam cerita \"Hari Pertama Sekolah\", \"Bu guru mengajar membaca\" terjadi setelah \"Salma bertemu bu guru dan teman baru\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0014": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Benar atau salah: Dalam cerita \"Hari Pertama Sekolah\", \"Salma belajar dengan senang\" terjadi setelah \"Bu guru mengajar membaca\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0015": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Benar atau salah: Dalam cerita \"Hari Pertama Sekolah\", jawaban dari \"Bagaimana perasaan Salma?\" adalah senang."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0016": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Benar atau salah: Dalam cerita \"Hari Pertama Sekolah\", jawaban dari \"Siapa yang ditemui Salma di sekolah?\" adalah bu guru dan teman baru."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0017": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Benar atau salah: Dalam cerita \"Hari Pertama Sekolah\", \"Salma bertemu bu guru dan teman baru\" terjadi setelah \"Salma masuk sekolah\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0018": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Benar atau salah: Dalam cerita \"Hari Pertama Sekolah\", jawaban dari \"Siapa yang masuk sekolah?\" adalah Dani."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0019": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Benar atau salah: Dalam cerita \"Hari Pertama Sekolah\", jawaban dari \"Bagaimana perasaan Salma?\" adalah takut."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0020": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Benar atau salah: Dalam cerita \"Hari Pertama Sekolah\", \"Salma bertemu bu guru dan teman baru\" terjadi setelah \"Bu guru mengajar membaca\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0021": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Benar atau salah: Dalam cerita \"Hari Pertama Sekolah\", \"Bu guru mengajar membaca\" terjadi setelah \"Salma belajar dengan senang\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0022": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Isilah menurut cerita \"Hari Pertama Sekolah\": Siapa yang ditemui Salma di sekolah?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0023": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Isilah menurut cerita \"Hari Pertama Sekolah\": Apa yang diajarkan bu guru?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0024": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Isilah menurut cerita \"Hari Pertama Sekolah\": Bagaimana perasaan Salma?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0025": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Isilah menurut cerita \"Hari Pertama Sekolah\": Siapa yang masuk sekolah?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0026": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Salma mendengar kata rajin. Ia bertanya kepada bu guru. Bu guru menjawab rajin berarti selalu bersungguh-sungguh. Salma mencatat arti kata itu.\" Urutkan kejadian dalam cerita \"Kata Baru\" dengan benar!"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0027": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Urutkan kejadian dalam cerita \"Hari Pertama Sekolah\" dengan benar!"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0028": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Hari ini Salma masuk sekolah. Ia bertemu bu guru dan teman baru. Bu guru mengajar membaca. Salma belajar dengan senang.\" Ceritakan kembali cerita \"Hari Pertama Sekolah\" dengan bahasamu sendiri secara berurutan!"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0029": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Salma mendengar kata rajin. Ia bertanya kepada bu guru. Bu guru menjawab rajin berarti selalu bersungguh-sungguh. Salma mencatat arti kata itu.\" Ceritakan kembali cerita \"Kata Baru\" dengan bahasamu sendiri secara berurutan!"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0081": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Salma mendengar kata rajin. Ia bertanya kepada bu guru. Bu guru menjawab rajin berarti selalu bersungguh-sungguh. Salma mencatat arti kata itu.\" Benar atau salah: Dalam cerita \"Kata Baru\", jawaban dari \"Apa yang dilakukan Salma setelah tahu artinya?\" adalah mencatat arti kata."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0087": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Salma mendengar kata rajin. Ia bertanya kepada bu guru. Bu guru menjawab rajin berarti selalu bersungguh-sungguh. Salma mencatat arti kata itu.\" Benar atau salah: Dalam cerita \"Kata Baru\", jawaban dari \"Kepada siapa Salma bertanya?\" adalah ibu."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0089": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Salma mendengar kata rajin. Ia bertanya kepada bu guru. Bu guru menjawab rajin berarti selalu bersungguh-sungguh. Salma mencatat arti kata itu.\" Isilah menurut cerita \"Kata Baru\": Kata baru apa yang didengar Salma?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0090": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Salma mendengar kata rajin. Ia bertanya kepada bu guru. Bu guru menjawab rajin berarti selalu bersungguh-sungguh. Salma mencatat arti kata itu.\" Isilah menurut cerita \"Kata Baru\": Kepada siapa Salma bertanya?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0094": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Salma mendengar kata rajin. Ia bertanya kepada bu guru. Bu guru menjawab rajin berarti selalu bersungguh-sungguh. Salma mencatat arti kata itu.\" Isilah menurut cerita \"Kata Baru\": Apa yang dilakukan Salma setelah tahu artinya?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B7-0095": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Salma mendengar kata rajin. Ia bertanya kepada bu guru. Bu guru menjawab rajin berarti selalu bersungguh-sungguh. Salma mencatat arti kata itu.\" Isilah menurut cerita \"Kata Baru\": Apa arti rajin menurut bu guru?"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B8-0066": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ibu pergi ke pasar bersama Dina. Pedagang ikan berada di sebelah kiri. Pedagang sayur ada di depan. Ibu membeli bayam dan berkata terima kasih.\" Dalam cerita \"Di Pasar\", setelah \"Ibu melihat pedagang ikan dan sayur\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B8-0068": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ibu pergi ke pasar bersama Dina. Pedagang ikan berada di sebelah kiri. Pedagang sayur ada di depan. Ibu membeli bayam dan berkata terima kasih.\" Dalam cerita \"Di Pasar\", setelah \"Ibu membeli bayam\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B8-0069": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Pak Pos mengantar surat ke rumah Pak RT. Rumah Pak RT ada di sebelah masjid. Pak Pos berbelok ke kanan lalu berhenti. Ia mengetuk pintu dan memberi salam.\" Setelah menyimak cerita \"Pak Pos\", pesan yang dapat kita ambil adalah ...."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B8-0070": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ibu pergi ke pasar bersama Dina. Pedagang ikan berada di sebelah kiri. Pedagang sayur ada di depan. Ibu membeli bayam dan berkata terima kasih.\" Benar atau salah: Dalam cerita \"Di Pasar\", \"Ibu melihat pedagang ikan dan sayur\" terjadi setelah \"Ibu dan Dina pergi ke pasar\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B8-0071": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ibu pergi ke pasar bersama Dina. Pedagang ikan berada di sebelah kiri. Pedagang sayur ada di depan. Ibu membeli bayam dan berkata terima kasih.\" Benar atau salah: Dalam cerita \"Di Pasar\", \"Ibu membeli bayam\" terjadi setelah \"Ibu melihat pedagang ikan dan sayur\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B8-0072": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Pak Pos mengantar surat ke rumah Pak RT. Rumah Pak RT ada di sebelah masjid. Pak Pos berbelok ke kanan lalu berhenti. Ia mengetuk pintu dan memberi salam.\" Benar atau salah: Dalam cerita \"Pak Pos\", \"Pak Pos berhenti di rumah Pak RT\" terjadi setelah \"Pak Pos mengetuk pintu dan memberi salam\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B8-0073": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Pak Pos mengantar surat ke rumah Pak RT. Rumah Pak RT ada di sebelah masjid. Pak Pos berbelok ke kanan lalu berhenti. Ia mengetuk pintu dan memberi salam.\" Benar atau salah: Dalam cerita \"Pak Pos\", \"Pak Pos membawa surat\" terjadi setelah \"Pak Pos berbelok ke kanan\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B8-0074": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ibu pergi ke pasar bersama Dina. Pedagang ikan berada di sebelah kiri. Pedagang sayur ada di depan. Ibu membeli bayam dan berkata terima kasih.\" Benar atau salah: Dalam cerita \"Di Pasar\", \"Ibu dan Dina pergi ke pasar\" terjadi setelah \"Ibu melihat pedagang ikan dan sayur\"."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B8-0080": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Pak Pos mengantar surat ke rumah Pak RT. Rumah Pak RT ada di sebelah masjid. Pak Pos berbelok ke kanan lalu berhenti. Ia mengetuk pintu dan memberi salam.\" Urutkan kejadian dalam cerita \"Pak Pos\" dengan benar!"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B8-0081": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ibu pergi ke pasar bersama Dina. Pedagang ikan berada di sebelah kiri. Pedagang sayur ada di depan. Ibu membeli bayam dan berkata terima kasih.\" Urutkan kejadian dalam cerita \"Di Pasar\" dengan benar!"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  },
+  "BIN-B8-0082": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Pak Pos mengantar surat ke rumah Pak RT. Rumah Pak RT ada di sebelah masjid. Pak Pos berbelok ke kanan lalu berhenti. Ia mengetuk pintu dan memberi salam.\" Ceritakan kembali cerita \"Pak Pos\" dengan bahasamu sendiri secara berurutan!"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Teks cerita yang dirujuk soal tidak dimuat; teks asli dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci dan opsi tidak diubah; kunci dapat diverifikasi dari teks cerita yang kini dimuat (tidak ada opsi lain yang benar menurut teks)."
+  }
+ },
+ "tidak_direvisi": {
+  "BIN-B8-0065": "Perbaikan memerlukan peta/gambar letak sekolah dan masjid (konten visual baru dan field visual_required) atau mengubah maksud soal; butuh keputusan penyusun/ahli.",
+  "BIN-B8-0075": "Perbaikan memerlukan peta/gambar letak taman (konten visual baru); kunci \"depan (lurus)\" tidak dapat disimpulkan tanpa konteks. Butuh keputusan penyusun/ahli."
+ }
+}
