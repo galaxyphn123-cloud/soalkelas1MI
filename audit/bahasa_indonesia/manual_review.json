@@ -9,7 +9,8 @@
   "500-600 (BIN-B5-0001..0100)",
   "600-700 (BIN-B5-0101..0139, BIN-B6-0001..0061)",
   "700-800 (BIN-B6-0062..0111, BIN-B7-0001..0050)",
-  "800-900 (BIN-B7-0051..0139, BIN-B8-0001..0011)"
+  "800-900 (BIN-B7-0051..0139, BIN-B8-0001..0011)",
+  "900-1000 (BIN-B8-0012..0111)"
  ],
  "temuan": {
   "BIN-B1-0016": [
@@ -62,6 +63,10 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di seluruh teks ATP/CP; TP terdekat B1-01 (cara membaca dan menulis) atau B1-03 (kata berawalan huruf tertentu), tetapi tidak ada TP khusus suku kata."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B1-0064: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B1-0062": [
@@ -74,6 +79,10 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di seluruh teks ATP/CP; TP terdekat B1-01 (cara membaca dan menulis) atau B1-03 (kata berawalan huruf tertentu), tetapi tidak ada TP khusus suku kata."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B1-0058: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B1-0066": [
@@ -434,12 +443,28 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di teks ATP/CP; TP B2-04 hanya \"membaca dan menulis kata berawalan c, i, p, s\"."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0097: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0113: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B2-0097": [
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di teks ATP/CP; TP B2-04 hanya \"membaca dan menulis kata berawalan c, i, p, s\"."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0095: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0113: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B2-0104": [
@@ -464,6 +489,14 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di teks ATP/CP; TP B2-04 hanya \"membaca dan menulis kata berawalan c, i, p, s\"."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0095: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0097: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B2-0116": [
@@ -660,12 +693,20 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B3-0074: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B3-0063": [
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B3-0067: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B3-0064": [
@@ -678,12 +719,20 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B3-0074: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B3-0067": [
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B3-0063: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B3-0068": [
@@ -696,6 +745,14 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B3-0062: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B3-0065: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B3-0077": [
@@ -902,6 +959,10 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B4-0042: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B4-0034": [
@@ -930,12 +991,24 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B4-0032: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B4-0043: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B4-0043": [
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B4-0042: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B4-0044": [
@@ -1164,6 +1237,14 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B5-0065: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B5-0067: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B5-0090": [
@@ -1182,12 +1263,24 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B5-0073: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B5-0065": [
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B5-0067: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B5-0069: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B5-0066": [
@@ -1200,6 +1293,14 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B5-0065: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B5-0069: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B5-0068": [
@@ -1218,6 +1319,10 @@
    {
     "kode": "ATP_INDIKASI",
     "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B5-0064: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B5-0101": [
@@ -1310,6 +1415,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0010: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B6-0007": [
@@ -1334,6 +1443,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0006: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B6-0011": [
@@ -1526,6 +1639,18 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Stem menyebut \"kartu hitung nomor N\" dan jumlah benda pada gambar sama dengan N; kunci terbaca dari nomor kartu tanpa menghitung gambar. Usulan: hilangkan nomor kartu atau pakai nomor tidak sama dengan jumlah."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0076: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0077: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0078: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B6-0075": [
@@ -1538,18 +1663,54 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Stem menyebut \"kartu hitung nomor N\" dan jumlah benda pada gambar sama dengan N; kunci terbaca dari nomor kartu tanpa menghitung gambar. Usulan: hilangkan nomor kartu atau pakai nomor tidak sama dengan jumlah."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0074: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0077: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0078: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B6-0077": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Stem menyebut \"kartu hitung nomor N\" dan jumlah benda pada gambar sama dengan N; kunci terbaca dari nomor kartu tanpa menghitung gambar. Usulan: hilangkan nomor kartu atau pakai nomor tidak sama dengan jumlah."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0074: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0076: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0078: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B6-0078": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Stem menyebut \"kartu hitung nomor N\" dan jumlah benda pada gambar sama dengan N; kunci terbaca dari nomor kartu tanpa menghitung gambar. Usulan: hilangkan nomor kartu atau pakai nomor tidak sama dengan jumlah."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0074: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0076: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0077: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B6-0095": [
@@ -1640,12 +1801,20 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Merujuk cerita \"Kata Baru\" yang teksnya tidak pernah dimuat di soal mana pun."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B7-0011: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B7-0011": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Merujuk cerita \"Kata Baru\" yang teksnya tidak pernah dimuat di soal mana pun."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B7-0010: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ],
   "BIN-B7-0012": [
@@ -1912,6 +2081,298 @@
    {
     "kode": "AMBIGU",
     "catatan": "Isian terbuka: cara memulai cerita tentang kucing dapat bermacam-macam; kunci tunggal \"menyebut nama kucing dan di mana\" tidak tunggal."
+   }
+  ],
+  "BIN-B8-0022": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Perawat \"merawat orang sakit\" vs pengecoh \"mengobati orang sakit\" (B8-0022) dan pengecoh \"dokter\" pada \"merawat orang sakit\" (B8-0023): dokter juga merawat dan perawat ikut mengobati; batas tugas tidak tegas untuk kelas 1."
+   }
+  ],
+  "BIN-B8-0023": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Perawat \"merawat orang sakit\" vs pengecoh \"mengobati orang sakit\" (B8-0022) dan pengecoh \"dokter\" pada \"merawat orang sakit\" (B8-0023): dokter juga merawat dan perawat ikut mengobati; batas tugas tidak tegas untuk kelas 1."
+   }
+  ],
+  "BIN-B8-0050": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian \"pekerjaan yang merawat orang sakit\": dokter dan perawat sama-sama dapat dibenarkan; kunci hanya \"perawat\"."
+   }
+  ],
+  "BIN-B8-0035": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Aturan \"di\" preposisi ditulis terpisah (bukan awalan) abstrak untuk kelas 1; ATP hanya memuat membaca/menulis kata sederhana tentang arah dan letak."
+   }
+  ],
+  "BIN-B8-0037": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pengecoh \"dibawa h\" terpecah dan terbaca sebagai kata \"dibawa\" + h; membingungkan pembaca awal. Usulan: \"dibawah\" tanpa spasi liar."
+   }
+  ],
+  "BIN-B8-0038": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem sudah menyebut kata \"guru\" yang harus dipilih; jawaban terbaca langsung dari stem."
+   }
+  ],
+  "BIN-B8-0040": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pernyataan \"Menulis kata letak, Lani menulis di bawah\" dinyatakan Benar tanpa konteks; tidak ada dasar untuk menilai."
+   }
+  ],
+  "BIN-B8-0053": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian \"Menulis kata letak, Lani menulis ....\" tanpa konteks; di atas/di samping/di dalam juga benar."
+   }
+  ],
+  "BIN-B8-0054": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Tanpa gambar: bola dapat di samping/di depan/di dalam gawang; kebun dapat di belakang/di samping/di depan rumah; kunci tunggal tidak dapat disimpulkan (versi bergambar B8-0059, B8-0060 menyelesaikan)."
+   }
+  ],
+  "BIN-B8-0055": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Tanpa gambar: bola dapat di samping/di depan/di dalam gawang; kebun dapat di belakang/di samping/di depan rumah; kunci tunggal tidak dapat disimpulkan (versi bergambar B8-0059, B8-0060 menyelesaikan)."
+   }
+  ],
+  "BIN-B8-0065": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "\"Dari sekolah, masjid ada di sebelah ....\" tanpa peta/gambar; jawaban tidak dapat disimpulkan dari stem."
+   }
+  ],
+  "BIN-B8-0075": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "\"Jika ingin ke taman, kamu berjalan ke arah ....\" tanpa peta/konteks letak taman; kunci \"depan (lurus)\" tidak dapat disimpulkan."
+   }
+  ],
+  "BIN-B8-0066": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Di Pasar\"/\"Pak Pos\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B8-0068": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Di Pasar\"/\"Pak Pos\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B8-0069": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Di Pasar\"/\"Pak Pos\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B8-0070": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Di Pasar\"/\"Pak Pos\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B8-0071": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Di Pasar\"/\"Pak Pos\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B8-0072": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Di Pasar\"/\"Pak Pos\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B8-0073": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Di Pasar\"/\"Pak Pos\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B8-0074": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Di Pasar\"/\"Pak Pos\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B8-0080": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Di Pasar\"/\"Pak Pos\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B8-0081": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Di Pasar\"/\"Pak Pos\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B8-0082": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Di Pasar\"/\"Pak Pos\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B8-0067": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pengetahuan umum (keselamatan jalan, lampu merah, letak jantung) bukan tentang arah dan letak/pekerjaan dalam TP B8; tidak ada TP untuk topik itu."
+   }
+  ],
+  "BIN-B8-0076": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pengetahuan umum (keselamatan jalan, lampu merah, letak jantung) bukan tentang arah dan letak/pekerjaan dalam TP B8; tidak ada TP untuk topik itu."
+   }
+  ],
+  "BIN-B8-0077": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pengetahuan umum (keselamatan jalan, lampu merah, letak jantung) bukan tentang arah dan letak/pekerjaan dalam TP B8; tidak ada TP untuk topik itu."
+   }
+  ],
+  "BIN-B8-0078": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pengetahuan umum (keselamatan jalan, lampu merah, letak jantung) bukan tentang arah dan letak/pekerjaan dalam TP B8; tidak ada TP untuk topik itu."
+   }
+  ],
+  "BIN-B1-0030": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B1-0032: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B1-0032": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B1-0030: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B2-0119": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0122: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B2-0122": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0119: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B2-0120": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0123: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0125: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B2-0123": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0120: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0125: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B2-0125": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0120: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0123: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0124: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B2-0124": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B2-0125: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B3-0001": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B3-0002: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B3-0005: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B3-0002": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B3-0001: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B3-0005: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B3-0005": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B3-0001: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B3-0002: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B4-0063": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B4-0069: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B4-0069": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B4-0063: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B5-0078": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B5-0079: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B5-0079": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B5-0078: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B6-0001": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0003: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
+   }
+  ],
+  "BIN-B6-0003": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan dengan BIN-B6-0001: fakta/kata/butir yang ditanyakan berbeda (varian bentuk berguna)."
    }
   ]
  }

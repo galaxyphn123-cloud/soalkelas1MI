@@ -8,7 +8,8 @@
   "400-500 (PPN-B2-0187..0214, PPN-B3-0001..0072)",
   "500-600 (PPN-B3-0073..0172)",
   "600-700 (PPN-B3-0173..0272)",
-  "700-800 (PPN-B3-0273..0286, PPN-B4-0001..0086)"
+  "700-800 (PPN-B3-0273..0286, PPN-B4-0001..0086)",
+  "800-900 (PPN-B4-0087..0186)"
  ],
  "temuan": {
   "PPN-B1-0010": [
@@ -1899,6 +1900,302 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Pengecoh 'tidak ikut', 'tugas berbahaya', 'mengganggu' absurd dan tidak sejajar secara tata bahasa dengan 'dengan ....'."
+   }
+  ],
+  "PPN-B4-0115": [
+   {
+    "kode": "AKURASI_SALAH_TEGAS",
+    "catatan": "Pernyataan 'Manfaat menanam pohon bersama adalah lingkungan menjadi asri' berkunci Salah, padahal menanam pohon membuat lingkungan asri/sejuk (bertentangan dengan PPN-B4-0001/0024, 0078, 0130 yang menganggap taman/pohon membuat asri). usulan: ubah pernyataan Salah menjadi 'Manfaat menanam pohon bersama adalah lingkungan menjadi bising' atau kunci menjadi Benar."
+   },
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Bertentangan dengan PPN-B4-0001/0024 (pohon membuat lingkungan sejuk), PPN-B4-0130/0078 (taman kecil bersama membuat lingkungan asri) dan PPN-B4-0097 (menanam pohon bersama -> udara segar)."
+   }
+  ],
+  "PPN-B4-0091": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "'Membersihkan selokan bersama' berkunci 'selokan bersih' di sini, tetapi PPN-B4-0081, 0103, 0148, 0149, 0150 berkunci 'air mengalir lancar' untuk kegiatan yang sama; dua kunci berbeda untuk stem yang sama."
+   },
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci 'selokan bersih' hampir tautologi dengan stem; pengecoh 'lingkungan cepat bersih' dapat dibenarkan."
+   }
+  ],
+  "PPN-B4-0134": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "'Membersihkan selokan bersama' berkunci 'selokan bersih' di sini, tetapi PPN-B4-0081, 0103, 0148, 0149, 0150 berkunci 'air mengalir lancar' untuk kegiatan yang sama; dua kunci berbeda untuk stem yang sama."
+   },
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci 'selokan bersih' hampir tautologi dengan stem; pengecoh 'lingkungan cepat bersih' dapat dibenarkan."
+   }
+  ],
+  "PPN-B4-0153": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "'Membersihkan selokan bersama' berkunci 'selokan bersih' di sini, tetapi PPN-B4-0081, 0103, 0148, 0149, 0150 berkunci 'air mengalir lancar' untuk kegiatan yang sama; dua kunci berbeda untuk stem yang sama."
+   },
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci 'selokan bersih' hampir tautologi dengan stem; pengecoh 'lingkungan cepat bersih' dapat dibenarkan."
+   }
+  ],
+  "PPN-B4-0081": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Kunci 'air mengalir lancar' bertentangan dengan PPN-B4-0091/0134/0153 (kunci 'selokan bersih' untuk kegiatan yang sama); pengecoh 'lingkungan menjadi bersih' pada PPN-B4-0081 dapat dibenarkan."
+   }
+  ],
+  "PPN-B4-0103": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Kunci 'air mengalir lancar' bertentangan dengan PPN-B4-0091/0134/0153 (kunci 'selokan bersih' untuk kegiatan yang sama); pengecoh 'lingkungan menjadi bersih' pada PPN-B4-0081 dapat dibenarkan."
+   }
+  ],
+  "PPN-B4-0148": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Kunci 'air mengalir lancar' bertentangan dengan PPN-B4-0091/0134/0153 (kunci 'selokan bersih' untuk kegiatan yang sama); pengecoh 'lingkungan menjadi bersih' pada PPN-B4-0081 dapat dibenarkan."
+   }
+  ],
+  "PPN-B4-0149": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Kunci 'air mengalir lancar' bertentangan dengan PPN-B4-0091/0134/0153 (kunci 'selokan bersih' untuk kegiatan yang sama); pengecoh 'lingkungan menjadi bersih' pada PPN-B4-0081 dapat dibenarkan."
+   }
+  ],
+  "PPN-B4-0150": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Kunci 'air mengalir lancar' bertentangan dengan PPN-B4-0091/0134/0153 (kunci 'selokan bersih' untuk kegiatan yang sama); pengecoh 'lingkungan menjadi bersih' pada PPN-B4-0081 dapat dibenarkan."
+   }
+  ],
+  "PPN-B4-0090": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Mengumpulkan sampah plastik bersama: pengecoh 'lingkungan cepat bersih' dapat dibenarkan; kunci 'sampah mudah didaur ulang' mensyaratkan konsep daur ulang yang abstrak untuk kelas 1."
+   }
+  ],
+  "PPN-B4-0106": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Mengumpulkan sampah plastik bersama: pengecoh 'lingkungan cepat bersih' dapat dibenarkan; kunci 'sampah mudah didaur ulang' mensyaratkan konsep daur ulang yang abstrak untuk kelas 1."
+   }
+  ],
+  "PPN-B4-0117": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Mengumpulkan sampah plastik bersama: pengecoh 'lingkungan cepat bersih' dapat dibenarkan; kunci 'sampah mudah didaur ulang' mensyaratkan konsep daur ulang yang abstrak untuk kelas 1."
+   }
+  ],
+  "PPN-B4-0136": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Mengumpulkan sampah plastik bersama: pengecoh 'lingkungan cepat bersih' dapat dibenarkan; kunci 'sampah mudah didaur ulang' mensyaratkan konsep daur ulang yang abstrak untuk kelas 1."
+   }
+  ],
+  "PPN-B4-0092": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Membersihkan musala bersama dapat pula membuat 'lingkungan cepat bersih' (pengecoh); kunci 'musala nyaman' tidak unik."
+   }
+  ],
+  "PPN-B4-0123": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Membersihkan musala bersama dapat pula membuat 'lingkungan cepat bersih' (pengecoh); kunci 'musala nyaman' tidak unik."
+   }
+  ],
+  "PPN-B4-0146": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Membersihkan musala bersama dapat pula membuat 'lingkungan cepat bersih' (pengecoh); kunci 'musala nyaman' tidak unik."
+   }
+  ],
+  "PPN-B4-0095": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'hewan', 'tamu', 'satu orang' absurd; kunci terbaca dari kata 'bersama'/'kerja bakti'."
+   }
+  ],
+  "PPN-B4-0156": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh D 'membiarkannya terbuka' tidak memiliki rujukan (sisa dari aturan 'menutup tempat sampah'); redaksi kacau."
+   }
+  ],
+  "PPN-B4-0158": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berasal dari kebiasaan lain (meludah, hewan peliharaan, keran) sehingga kunci terbaca dari kata kunci kebiasaan di stem."
+   }
+  ],
+  "PPN-B4-0162": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berasal dari kebiasaan lain (meludah, hewan peliharaan, keran) sehingga kunci terbaca dari kata kunci kebiasaan di stem."
+   }
+  ],
+  "PPN-B4-0164": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berasal dari kebiasaan lain (meludah, hewan peliharaan, keran) sehingga kunci terbaca dari kata kunci kebiasaan di stem."
+   }
+  ],
+  "PPN-B4-0165": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berasal dari kebiasaan lain (meludah, hewan peliharaan, keran) sehingga kunci terbaca dari kata kunci kebiasaan di stem."
+   }
+  ],
+  "PPN-B4-0171": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berasal dari kebiasaan lain (meludah, hewan peliharaan, keran) sehingga kunci terbaca dari kata kunci kebiasaan di stem."
+   }
+  ],
+  "PPN-B4-0172": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berasal dari kebiasaan lain (meludah, hewan peliharaan, keran) sehingga kunci terbaca dari kata kunci kebiasaan di stem."
+   }
+  ],
+  "PPN-B4-0175": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berasal dari kebiasaan lain (meludah, hewan peliharaan, keran) sehingga kunci terbaca dari kata kunci kebiasaan di stem."
+   }
+  ],
+  "PPN-B4-0176": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berasal dari kebiasaan lain (meludah, hewan peliharaan, keran) sehingga kunci terbaca dari kata kunci kebiasaan di stem."
+   }
+  ],
+  "PPN-B4-0178": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berasal dari kebiasaan lain (meludah, hewan peliharaan, keran) sehingga kunci terbaca dari kata kunci kebiasaan di stem."
+   }
+  ],
+  "PPN-B4-0181": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berasal dari kebiasaan lain (meludah, hewan peliharaan, keran) sehingga kunci terbaca dari kata kunci kebiasaan di stem."
+   }
+  ],
+  "PPN-B4-0159": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati kebiasaan menjaga lingkungan ...'; berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B4-0160": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati kebiasaan menjaga lingkungan ...'; berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B4-0166": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati kebiasaan menjaga lingkungan ...'; berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B4-0167": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati kebiasaan menjaga lingkungan ...'; berisiko salah baca oleh murid kelas 1."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'organik/anorganik' dan memilah sampah berwarna tong (hijau/biru) abstrak untuk kelas 1; pewarnaan tong tidak baku antar daerah."
+   }
+  ],
+  "PPN-B4-0169": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati kebiasaan menjaga lingkungan ...'; berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B4-0170": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati kebiasaan menjaga lingkungan ...'; berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B4-0173": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati kebiasaan menjaga lingkungan ...'; berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B4-0177": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati kebiasaan menjaga lingkungan ...'; berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B4-0179": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati kebiasaan menjaga lingkungan ...'; berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B4-0180": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati kebiasaan menjaga lingkungan ...'; berisiko salah baca oleh murid kelas 1."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Negatif ganda: 'tidak menaati kebiasaan ... \\\"tidak meludah sembarangan\\\"'; membingungkan."
+   }
+  ],
+  "PPN-B4-0182": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati kebiasaan menjaga lingkungan ...'; berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B4-0183": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati kebiasaan menjaga lingkungan ...'; berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B4-0157": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'kompos' belum dikenal kelas 1; pengecoh 'bahan bakar plastik', 'asap' absurd."
+   }
+  ],
+  "PPN-B4-0163": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Kebersihan sebagian dari iman' dikutip sebagai ajaran dasar; redaksi lazim 'an-nazafatu minal iman' berstatus perlu ditinjau ahli hadis (sahih: 'at-tuhuru syatrul iman'); perlu keputusan ahli."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kunci mengulang stem (tautologi 'bagian dari iman karena sebagian dari iman'); pengecoh 'merepotkan', 'tidak ada hubungannya' absurd."
+   }
+  ],
+  "PPN-B4-0168": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'organik/anorganik' dan memilah sampah berwarna tong (hijau/biru) abstrak untuk kelas 1; pewarnaan tong tidak baku antar daerah."
+   }
+  ],
+  "PPN-B4-0184": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'organik/anorganik' dan memilah sampah berwarna tong (hijau/biru) abstrak untuk kelas 1; pewarnaan tong tidak baku antar daerah."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Warna tong (hijau sisa makanan, biru plastik) tidak baku antardaerah; perlu keputusan guru. Stem membocorkan kunci 'memilah sampah'."
    }
   ]
  }

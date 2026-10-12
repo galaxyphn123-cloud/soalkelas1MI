@@ -8,7 +8,8 @@
   "401-500 (PJK-TB-0401..0467, PJK-BG-0001..0033)",
   "501-600 (PJK-BG-0034..0133)",
   "601-700 (PJK-BG-0134..0233)",
-  "701-800 (PJK-BG-0234..0267, PJK-HA-0001..0066)"
+  "701-800 (PJK-BG-0234..0267, PJK-HA-0001..0066)",
+  "801-900 (PJK-HA-0067..0133, PJK-MH-0001..0033)"
  ],
  "temuan": {
   "PJK-TB-0001": [
@@ -2751,6 +2752,412 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Tugas kinerja 'Lakukan kegiatan ... dengan semangat' dengan kriteria 'semangat' tidak teramati; rubrik generik. HA-0063 ('bermain bersama teman bersama teman') BAHASA."
+   }
+  ],
+  "PJK-HA-0067": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0070": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0072": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   },
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "'Hati menjadi gembira' dikunci bermain di luar rumah dengan 'berolahraga' sebagai pengecoh, bertentangan dengan HA-0082, HA-0098, HA-0117 (olahraga membuat hati gembira) dan HA-0011."
+   }
+  ],
+  "PJK-HA-0074": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0076": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0078": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0079": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Manfaat berolahraga dikunci 'badan menjadi kuat'; 'badan menjadi bugar' juga benar (lihat HA-0037 yang menyalahkan 'bugar')."
+   }
+  ],
+  "PJK-HA-0080": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0081": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0084": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0086": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0087": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0088": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0089": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0090": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pemetaan kegiatan-manfaat (HA-02) mengulang HA-01 dengan opsi manfaat tumpang tindih: berjalan kaki menguatkan otot kaki; berolahraga membuat bugar dan gembira; melompat tali membuat bugar dan kuat. Beberapa pengecoh dapat dibenarkan, kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0097": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Manfaat berolahraga dikunci 'badan menjadi kuat'; 'badan menjadi bugar' juga benar (lihat HA-0037 yang menyalahkan 'bugar')."
+   }
+  ],
+  "PJK-HA-0118": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Manfaat berolahraga dikunci 'badan menjadi kuat'; 'badan menjadi bugar' juga benar (lihat HA-0037 yang menyalahkan 'bugar')."
+   }
+  ],
+  "PJK-HA-0075": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Rasa syukur atas tubuh yang sehat tidak ada pada teks CP/ATP (manfaat aktivitas fisik); topik nilai syukur di tepi TP-PJK-HA-02."
+   }
+  ],
+  "PJK-HA-0100": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Rasa syukur atas tubuh yang sehat tidak ada pada teks CP/ATP (manfaat aktivitas fisik); topik nilai syukur di tepi TP-PJK-HA-02."
+   }
+  ],
+  "PJK-HA-0104": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Rasa syukur atas tubuh yang sehat tidak ada pada teks CP/ATP (manfaat aktivitas fisik); topik nilai syukur di tepi TP-PJK-HA-02."
+   }
+  ],
+  "PJK-HA-0114": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Rasa syukur atas tubuh yang sehat tidak ada pada teks CP/ATP (manfaat aktivitas fisik); topik nilai syukur di tepi TP-PJK-HA-02."
+   }
+  ],
+  "PJK-HA-0071": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Berhenti dan memberi tahu guru/orang dewasa saat pusing atau sakit lebih dekat ke TP-PJK-MH-02 (strategi mencari bantuan orang dewasa terpercaya) daripada TP-PJK-HA-02 (manfaat aktivitas fisik)."
+   }
+  ],
+  "PJK-HA-0105": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Berhenti dan memberi tahu guru/orang dewasa saat pusing atau sakit lebih dekat ke TP-PJK-MH-02 (strategi mencari bantuan orang dewasa terpercaya) daripada TP-PJK-HA-02 (manfaat aktivitas fisik)."
+   }
+  ],
+  "PJK-HA-0112": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Berhenti dan memberi tahu guru/orang dewasa saat pusing atau sakit lebih dekat ke TP-PJK-MH-02 (strategi mencari bantuan orang dewasa terpercaya) daripada TP-PJK-HA-02 (manfaat aktivitas fisik)."
+   }
+  ],
+  "PJK-HA-0083": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Tulang kuat dan minum susu (gizi/kalsium) lebih dekat ke TP-PJK-MH-01 daripada TP-PJK-HA-02."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kunci terpanjang 'aktif bergerak dan minum susu' menggabungkan dua hal; pengecoh absurd (begadang, tidak makan, duduk terus)."
+   }
+  ],
+  "PJK-HA-0111": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Tulang kuat dan minum susu (gizi/kalsium) lebih dekat ke TP-PJK-MH-01 daripada TP-PJK-HA-02."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kunci terpanjang 'aktif bergerak dan minum susu' menggabungkan dua hal; pengecoh absurd (begadang, tidak makan, duduk terus)."
+   }
+  ],
+  "PJK-HA-0102": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'badan segar dan hati senang adalah akibat bermalas-malasan' kalimat bertumpuk dan tidak jelas."
+   }
+  ],
+  "PJK-HA-0068": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif negatif (gelisah, lemas, sakit, marah, takut, lelah terus); HA-0092 kunci terpanjang memuat alasan sehingga terbaca."
+   }
+  ],
+  "PJK-HA-0069": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif negatif (gelisah, lemas, sakit, marah, takut, lelah terus); HA-0092 kunci terpanjang memuat alasan sehingga terbaca."
+   }
+  ],
+  "PJK-HA-0073": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif negatif (gelisah, lemas, sakit, marah, takut, lelah terus); HA-0092 kunci terpanjang memuat alasan sehingga terbaca."
+   }
+  ],
+  "PJK-HA-0082": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif negatif (gelisah, lemas, sakit, marah, takut, lelah terus); HA-0092 kunci terpanjang memuat alasan sehingga terbaca."
+   }
+  ],
+  "PJK-HA-0085": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif negatif (gelisah, lemas, sakit, marah, takut, lelah terus); HA-0092 kunci terpanjang memuat alasan sehingga terbaca."
+   }
+  ],
+  "PJK-HA-0092": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif negatif (gelisah, lemas, sakit, marah, takut, lelah terus); HA-0092 kunci terpanjang memuat alasan sehingga terbaca."
+   }
+  ],
+  "PJK-HA-0093": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif negatif (gelisah, lemas, sakit, marah, takut, lelah terus); HA-0092 kunci terpanjang memuat alasan sehingga terbaca."
+   }
+  ],
+  "PJK-HA-0128": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Bukan tugas kinerja di kelas; menyusun jadwal bersama orang tua (tugas rumah) dengan rubrik generik tanpa kriteria teramati."
+   }
+  ],
+  "PJK-HA-0129": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "'Ceritakan manfaat ...' adalah tugas lisan, bukan partisipasi aktivitas fisik; HA-0129 dan HA-0130 nyaris identik; HA-0132 berenang (lihat HA-0065); HA-0133 meminta mengajak teman bermain di luar kelas tanpa kriteria."
+   }
+  ],
+  "PJK-HA-0130": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "'Ceritakan manfaat ...' adalah tugas lisan, bukan partisipasi aktivitas fisik; HA-0129 dan HA-0130 nyaris identik; HA-0132 berenang (lihat HA-0065); HA-0133 meminta mengajak teman bermain di luar kelas tanpa kriteria."
+   }
+  ],
+  "PJK-HA-0131": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "'Ceritakan manfaat ...' adalah tugas lisan, bukan partisipasi aktivitas fisik; HA-0129 dan HA-0130 nyaris identik; HA-0132 berenang (lihat HA-0065); HA-0133 meminta mengajak teman bermain di luar kelas tanpa kriteria."
+   }
+  ],
+  "PJK-HA-0132": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "'Ceritakan manfaat ...' adalah tugas lisan, bukan partisipasi aktivitas fisik; HA-0129 dan HA-0130 nyaris identik; HA-0132 berenang (lihat HA-0065); HA-0133 meminta mengajak teman bermain di luar kelas tanpa kriteria."
+   }
+  ],
+  "PJK-HA-0133": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "'Ceritakan manfaat ...' adalah tugas lisan, bukan partisipasi aktivitas fisik; HA-0129 dan HA-0130 nyaris identik; HA-0132 berenang (lihat HA-0065); HA-0133 meminta mengajak teman bermain di luar kelas tanpa kriteria."
+   }
+  ],
+  "PJK-MH-0001": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Makanan ikan termasuk ....' dapat dibaca 'pakan ikan'; juga templat 'Makanan nasi/wortel/tahu/pisang termasuk' janggal. Perbaiki menjadi 'Ikan termasuk ....'."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (warna baju, nama pemakan, harga mainan, rasa/suara/warna kulit, sakit/lemah, hanya permen, gambar mainan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0004": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   }
+  ],
+  "PJK-MH-0005": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   }
+  ],
+  "PJK-MH-0006": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   }
+  ],
+  "PJK-MH-0007": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   }
+  ],
+  "PJK-MH-0008": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   }
+  ],
+  "PJK-MH-0010": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   }
+  ],
+  "PJK-MH-0012": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   }
+  ],
+  "PJK-MH-0016": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Susu dikunci 'sumber kalsium', tetapi pengecoh 'sumber protein' juga benar (susu sumber protein dan kalsium); lebih dari satu jawaban dapat dibenarkan."
+   },
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi 'sumber protein' dapat dibenarkan untuk susu."
+   }
+  ],
+  "PJK-MH-0020": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   }
+  ],
+  "PJK-MH-0025": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   }
+  ],
+  "PJK-MH-0026": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   }
+  ],
+  "PJK-MH-0027": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   }
+  ],
+  "PJK-MH-0030": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   }
+  ],
+  "PJK-MH-0032": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'Makanan X termasuk ....' janggal ('Makanan nasi', 'Makanan jeruk'); lebih wajar 'Nasi termasuk ....'."
+   }
+  ],
+  "PJK-MH-0003": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'ikan' juga sumber kalsium (ikan teri/ikan dimakan dengan tulang); kunci 'susu'. Perlu keputusan ahli gizi."
+   }
+  ],
+  "PJK-MH-0002": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (warna baju, nama pemakan, harga mainan, rasa/suara/warna kulit, sakit/lemah, hanya permen, gambar mainan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0009": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (warna baju, nama pemakan, harga mainan, rasa/suara/warna kulit, sakit/lemah, hanya permen, gambar mainan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0017": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (warna baju, nama pemakan, harga mainan, rasa/suara/warna kulit, sakit/lemah, hanya permen, gambar mainan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0018": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (warna baju, nama pemakan, harga mainan, rasa/suara/warna kulit, sakit/lemah, hanya permen, gambar mainan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0021": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (warna baju, nama pemakan, harga mainan, rasa/suara/warna kulit, sakit/lemah, hanya permen, gambar mainan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0023": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (warna baju, nama pemakan, harga mainan, rasa/suara/warna kulit, sakit/lemah, hanya permen, gambar mainan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-MH-0024": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (warna baju, nama pemakan, harga mainan, rasa/suara/warna kulit, sakit/lemah, hanya permen, gambar mainan); kunci terbaca tanpa pengetahuan materi."
    }
   ]
  }

@@ -970,6 +970,60 @@
     "kode": "ATP_INDIKASI",
     "catatan": "Menjumlahkan seluruh data (total) adalah penjumlahan bilangan (TP-MTK-B7-02), bukan mengelompokkan data (TP B8-02)."
    }
+  ],
+  "MTK-B3-0088": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal akibat templat: '10 topi ... dimakan'. Hitungan 10-2=8 benar."
+   }
+  ],
+  "MTK-B3-0092": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal akibat templat: 'topi dimakan'. Hitungan benar."
+   }
+  ],
+  "MTK-B3-0093": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal akibat templat: 'kelereng dimakan'. Hitungan benar."
+   }
+  ],
+  "MTK-B3-0100": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal akibat templat: 'pensil dimakan'. Hitungan benar."
+   }
+  ],
+  "MTK-B3-0091": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal akibat templat: 'Fikri membawa 10 kursi. 9 kursi jatuh'. Hitungan benar."
+   }
+  ],
+  "MTK-B3-0094": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal akibat templat: 'membawa 10 kursi, 9 kursi jatuh'. Hitungan benar (kunci Salah untuk 2)."
+   }
+  ],
+  "MTK-B3-0103": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal akibat templat: 'membawa 10 kursi, 9 kursi jatuh'. Hitungan benar."
+   }
+  ],
+  "MTK-B2-0086": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal akibat templat: '6 kursi dimasukkan ke keranjang'. Hitungan 4+6=10 benar."
+   }
+  ],
+  "MTK-B2-0102": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal akibat templat: kursi dimasukkan ke keranjang. Hitungan benar."
+   }
   ]
  }
 }
