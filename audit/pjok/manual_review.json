@@ -6,7 +6,9 @@
   "201-300 (PJK-TB-0201..0300)",
   "301-400 (PJK-TB-0301..0400)",
   "401-500 (PJK-TB-0401..0467, PJK-BG-0001..0033)",
-  "501-600 (PJK-BG-0034..0133)"
+  "501-600 (PJK-BG-0034..0133)",
+  "601-700 (PJK-BG-0134..0233)",
+  "701-800 (PJK-BG-0234..0267, PJK-HA-0001..0066)"
  ],
  "temuan": {
   "PJK-TB-0001": [
@@ -1947,6 +1949,808 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Tugas kinerja 'Peragakan kerja sama dalam ...' tanpa kriteria teramati (apa yang harus dilakukan, berapa kali, oleh siapa); rubrik generik."
+   }
+  ],
+  "PJK-BG-0134": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Peragakan kerja sama dalam berkomunikasi' tanpa kriteria teramati (lihat BG-0128..0133)."
+   }
+  ],
+  "PJK-BG-0141": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Doa sebelum berolahraga dijadikan 'aturan yang disepakati' (TP-PJK-BG-03 menerapkan aturan konsisten untuk fair play); ATP/CP tidak menyebut doa. Topik di tepi TP."
+   }
+  ],
+  "PJK-BG-0147": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Doa sebelum berolahraga dijadikan 'aturan yang disepakati' (TP-PJK-BG-03 menerapkan aturan konsisten untuk fair play); ATP/CP tidak menyebut doa. Topik di tepi TP."
+   }
+  ],
+  "PJK-BG-0170": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Doa sebelum berolahraga dijadikan 'aturan yang disepakati' (TP-PJK-BG-03 menerapkan aturan konsisten untuk fair play); ATP/CP tidak menyebut doa. Topik di tepi TP."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "'Terhadap aturan yang disepakati \"X\", Fikri ...' bukan kalimat situasi yang wajar bagi kelas 1."
+   }
+  ],
+  "PJK-BG-0188": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Doa sebelum berolahraga dijadikan 'aturan yang disepakati' (TP-PJK-BG-03 menerapkan aturan konsisten untuk fair play); ATP/CP tidak menyebut doa. Topik di tepi TP."
+   }
+  ],
+  "PJK-BG-0146": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Aturan harus ditaati bahkan ketika kita ....' kunci 'sedang kalah'; opsi 'tidak ada guru saja'/'sedang menang saja' memakai 'saja' sehingga membingungkan; isian BG-0185 menerima banyak jawaban (tidak diawasi, sedang menang)."
+   }
+  ],
+  "PJK-BG-0185": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Aturan harus ditaati bahkan ketika kita ....' kunci 'sedang kalah'; opsi 'tidak ada guru saja'/'sedang menang saja' memakai 'saja' sehingga membingungkan; isian BG-0185 menerima banyak jawaban (tidak diawasi, sedang menang)."
+   }
+  ],
+  "PJK-BG-0168": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Aturan harus ditaati bahkan ketika kita ....' kunci 'sedang kalah'; opsi 'tidak ada guru saja'/'sedang menang saja' memakai 'saja' sehingga membingungkan; isian BG-0185 menerima banyak jawaban (tidak diawasi, sedang menang)."
+   }
+  ],
+  "PJK-BG-0153": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem 'Aturan yang sudah disepakati ....' menggantung; kunci 'tidak diubah seenaknya' bukan satu-satunya kelanjutan benar (aturan boleh diubah bersama). BG-0181 isian terbuka."
+   }
+  ],
+  "PJK-BG-0181": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem 'Aturan yang sudah disepakati ....' menggantung; kunci 'tidak diubah seenaknya' bukan satu-satunya kelanjutan benar (aturan boleh diubah bersama). BG-0181 isian terbuka."
+   }
+  ],
+  "PJK-BG-0161": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'bertemu aturan yang disepakati \"X\". Walaupun tidak diawasi guru ... ingin tetap konsisten' kaku dan tidak berupa situasi nyata; pengecoh 'langsung bermain tanpa berdoa' tidak relevan."
+   }
+  ],
+  "PJK-BG-0162": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'bertemu aturan yang disepakati \"X\". Walaupun tidak diawasi guru ... ingin tetap konsisten' kaku dan tidak berupa situasi nyata; pengecoh 'langsung bermain tanpa berdoa' tidak relevan."
+   }
+  ],
+  "PJK-BG-0164": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'bertemu aturan yang disepakati \"X\". Walaupun tidak diawasi guru ... ingin tetap konsisten' kaku dan tidak berupa situasi nyata; pengecoh 'langsung bermain tanpa berdoa' tidak relevan."
+   }
+  ],
+  "PJK-BG-0165": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'bertemu aturan yang disepakati \"X\". Walaupun tidak diawasi guru ... ingin tetap konsisten' kaku dan tidak berupa situasi nyata; pengecoh 'langsung bermain tanpa berdoa' tidak relevan."
+   }
+  ],
+  "PJK-BG-0166": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'bertemu aturan yang disepakati \"X\". Walaupun tidak diawasi guru ... ingin tetap konsisten' kaku dan tidak berupa situasi nyata; pengecoh 'langsung bermain tanpa berdoa' tidak relevan."
+   }
+  ],
+  "PJK-BG-0167": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Terhadap aturan yang disepakati \"X\", Fikri ...' bukan kalimat situasi yang wajar bagi kelas 1."
+   }
+  ],
+  "PJK-BG-0169": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Terhadap aturan yang disepakati \"X\", Fikri ...' bukan kalimat situasi yang wajar bagi kelas 1."
+   }
+  ],
+  "PJK-BG-0175": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Terhadap aturan yang disepakati \"X\", Fikri ...' bukan kalimat situasi yang wajar bagi kelas 1."
+   }
+  ],
+  "PJK-BG-0176": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Terhadap aturan yang disepakati \"X\", Fikri ...' bukan kalimat situasi yang wajar bagi kelas 1."
+   }
+  ],
+  "PJK-BG-0179": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Terhadap aturan yang disepakati \"X\", Fikri ...' bukan kalimat situasi yang wajar bagi kelas 1."
+   }
+  ],
+  "PJK-BG-0135": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak relevan (kasar, memukul, berbahaya, kacau, bermain di jalan raya, langsung bermain tanpa berdoa pada soal bukan doa); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0137": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak relevan (kasar, memukul, berbahaya, kacau, bermain di jalan raya, langsung bermain tanpa berdoa pada soal bukan doa); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0138": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak relevan (kasar, memukul, berbahaya, kacau, bermain di jalan raya, langsung bermain tanpa berdoa pada soal bukan doa); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0142": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak relevan (kasar, memukul, berbahaya, kacau, bermain di jalan raya, langsung bermain tanpa berdoa pada soal bukan doa); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0150": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak relevan (kasar, memukul, berbahaya, kacau, bermain di jalan raya, langsung bermain tanpa berdoa pada soal bukan doa); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0158": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak relevan (kasar, memukul, berbahaya, kacau, bermain di jalan raya, langsung bermain tanpa berdoa pada soal bukan doa); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0136": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak relevan (kasar, memukul, berbahaya, kacau, bermain di jalan raya, langsung bermain tanpa berdoa pada soal bukan doa); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0194": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja sikap ('Tunjukkan cara ... sampai permainan selesai') dengan rubrik generik; sikap konsisten sepanjang permainan tidak punya kriteria teramati (indikator, durasi, pengamat). BG-0197 meminta murid menegur teman yang melanggar tanpa skenario terarah."
+   }
+  ],
+  "PJK-BG-0195": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja sikap ('Tunjukkan cara ... sampai permainan selesai') dengan rubrik generik; sikap konsisten sepanjang permainan tidak punya kriteria teramati (indikator, durasi, pengamat). BG-0197 meminta murid menegur teman yang melanggar tanpa skenario terarah."
+   }
+  ],
+  "PJK-BG-0196": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja sikap ('Tunjukkan cara ... sampai permainan selesai') dengan rubrik generik; sikap konsisten sepanjang permainan tidak punya kriteria teramati (indikator, durasi, pengamat). BG-0197 meminta murid menegur teman yang melanggar tanpa skenario terarah."
+   }
+  ],
+  "PJK-BG-0197": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja sikap ('Tunjukkan cara ... sampai permainan selesai') dengan rubrik generik; sikap konsisten sepanjang permainan tidak punya kriteria teramati (indikator, durasi, pengamat). BG-0197 meminta murid menegur teman yang melanggar tanpa skenario terarah."
+   }
+  ],
+  "PJK-BG-0198": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja sikap ('Tunjukkan cara ... sampai permainan selesai') dengan rubrik generik; sikap konsisten sepanjang permainan tidak punya kriteria teramati (indikator, durasi, pengamat). BG-0197 meminta murid menegur teman yang melanggar tanpa skenario terarah."
+   }
+  ],
+  "PJK-BG-0199": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja sikap ('Tunjukkan cara ... sampai permainan selesai') dengan rubrik generik; sikap konsisten sepanjang permainan tidak punya kriteria teramati (indikator, durasi, pengamat). BG-0197 meminta murid menegur teman yang melanggar tanpa skenario terarah."
+   }
+  ],
+  "PJK-BG-0200": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja sikap ('Tunjukkan cara ... sampai permainan selesai') dengan rubrik generik; sikap konsisten sepanjang permainan tidak punya kriteria teramati (indikator, durasi, pengamat). BG-0197 meminta murid menegur teman yang melanggar tanpa skenario terarah."
+   }
+  ],
+  "PJK-BG-0201": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja sikap ('Tunjukkan cara ... sampai permainan selesai') dengan rubrik generik; sikap konsisten sepanjang permainan tidak punya kriteria teramati (indikator, durasi, pengamat). BG-0197 meminta murid menegur teman yang melanggar tanpa skenario terarah."
+   }
+  ],
+  "PJK-BG-0202": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0203": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0204": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (bertengkar, kemarahan, kecurangan, kekacauan, perselisihan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0205": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0206": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0207": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (bertengkar, kemarahan, kecurangan, kekacauan, perselisihan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0208": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0209": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0210": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0211": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0212": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0213": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (bertengkar, kemarahan, kecurangan, kekacauan, perselisihan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0214": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0215": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0216": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (bertengkar, kemarahan, kecurangan, kekacauan, perselisihan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0217": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0218": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (bertengkar, kemarahan, kecurangan, kekacauan, perselisihan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0219": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0220": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (bertengkar, kemarahan, kecurangan, kekacauan, perselisihan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0221": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0222": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0223": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   }
+  ],
+  "PJK-BG-0224": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (bertengkar, kemarahan, kecurangan, kekacauan, perselisihan); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0225": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'tim X menghadapi \"...\" (strategi tim). Yang dilakukan X adalah ....' kaku, bukan skenario nyata."
+   }
+  ],
+  "PJK-BG-0226": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'tim X menghadapi \"...\" (strategi tim). Yang dilakukan X adalah ....' kaku, bukan skenario nyata."
+   }
+  ],
+  "PJK-BG-0227": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'tim X menghadapi \"...\" (strategi tim). Yang dilakukan X adalah ....' kaku, bukan skenario nyata."
+   }
+  ],
+  "PJK-BG-0228": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'tim X menghadapi \"...\" (strategi tim). Yang dilakukan X adalah ....' kaku, bukan skenario nyata."
+   }
+  ],
+  "PJK-BG-0229": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'tim X menghadapi \"...\" (strategi tim). Yang dilakukan X adalah ....' kaku, bukan skenario nyata."
+   }
+  ],
+  "PJK-BG-0230": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'tim X menghadapi \"...\" (strategi tim). Yang dilakukan X adalah ....' kaku, bukan skenario nyata."
+   }
+  ],
+  "PJK-BG-0231": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal TP-PJK-BG-04 ('kolaborasi yang lebih menantang') memakai perilaku dan pilihan yang sama dengan BG-02 (menyebut nama sebelum mengoper, menjatuhkan tongkat, membagi peran) sehingga tidak lebih menantang; pembeda TP tidak terukur. Label '(strategi tim)' pada skenario kaku (BAHASA)."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Templat 'tim X menghadapi \"...\" (strategi tim). Yang dilakukan X adalah ....' kaku, bukan skenario nyata."
+   }
+  ],
+  "PJK-BG-0244": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh/pernyataan absurd 'Kolaborasi yang menantang membutuhkan kemarahan'; juga BG-0213/0216 pengecoh kecurangan/kemarahan."
+   }
+  ],
+  "PJK-BG-0248": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian/lengkapi menuntut frasa panjang yang harus sama persis ('kesabaran dan kepercayaan antaranggota'; 'berunding, membagi tugas, lalu bergerak bersama'); sulit dinilai dan abstrak ('kepercayaan antaranggota') untuk kelas 1."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'Kepercayaan antaranggota' terlalu abstrak untuk kelas 1."
+   }
+  ],
+  "PJK-BG-0254": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian/lengkapi menuntut frasa panjang yang harus sama persis ('kesabaran dan kepercayaan antaranggota'; 'berunding, membagi tugas, lalu bergerak bersama'); sulit dinilai dan abstrak ('kepercayaan antaranggota') untuk kelas 1."
+   }
+  ],
+  "PJK-BG-0258": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan 'berunding membagi peran' sebelum 'menyepakati strategi' dapat dibalik (strategi dulu, baru peran); urutan kunci tidak tunggal."
+   }
+  ],
+  "PJK-BG-0260": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Praktikkan X bersama timmu dalam permainan yang menantang' dengan rubrik generik tanpa kriteria teramati; BG-0267 (diskusi) bukan kinerja gerak."
+   }
+  ],
+  "PJK-BG-0261": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Praktikkan X bersama timmu dalam permainan yang menantang' dengan rubrik generik tanpa kriteria teramati; BG-0267 (diskusi) bukan kinerja gerak."
+   }
+  ],
+  "PJK-BG-0262": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Praktikkan X bersama timmu dalam permainan yang menantang' dengan rubrik generik tanpa kriteria teramati; BG-0267 (diskusi) bukan kinerja gerak."
+   }
+  ],
+  "PJK-BG-0263": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Praktikkan X bersama timmu dalam permainan yang menantang' dengan rubrik generik tanpa kriteria teramati; BG-0267 (diskusi) bukan kinerja gerak."
+   }
+  ],
+  "PJK-BG-0264": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Praktikkan X bersama timmu dalam permainan yang menantang' dengan rubrik generik tanpa kriteria teramati; BG-0267 (diskusi) bukan kinerja gerak."
+   }
+  ],
+  "PJK-BG-0265": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Praktikkan X bersama timmu dalam permainan yang menantang' dengan rubrik generik tanpa kriteria teramati; BG-0267 (diskusi) bukan kinerja gerak."
+   }
+  ],
+  "PJK-BG-0266": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Praktikkan X bersama timmu dalam permainan yang menantang' dengan rubrik generik tanpa kriteria teramati; BG-0267 (diskusi) bukan kinerja gerak."
+   }
+  ],
+  "PJK-BG-0267": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Praktikkan X bersama timmu dalam permainan yang menantang' dengan rubrik generik tanpa kriteria teramati; BG-0267 (diskusi) bukan kinerja gerak."
+   }
+  ],
+  "PJK-HA-0003": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Soal pemetaan 'agar [manfaat], kita berpartisipasi dalam kegiatan ....' memuat beberapa kegiatan yang sama-sama memberi manfaat tersebut (berolahraga, bersepeda, jalan kaki, bermain di luar menguatkan badan/otot/kebugaran dan menggembirakan). Satu kunci arbitrer; pengecoh dapat dibenarkan."
+   }
+  ],
+  "PJK-HA-0006": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Soal pemetaan 'agar [manfaat], kita berpartisipasi dalam kegiatan ....' memuat beberapa kegiatan yang sama-sama memberi manfaat tersebut (berolahraga, bersepeda, jalan kaki, bermain di luar menguatkan badan/otot/kebugaran dan menggembirakan). Satu kunci arbitrer; pengecoh dapat dibenarkan."
+   }
+  ],
+  "PJK-HA-0008": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Soal pemetaan 'agar [manfaat], kita berpartisipasi dalam kegiatan ....' memuat beberapa kegiatan yang sama-sama memberi manfaat tersebut (berolahraga, bersepeda, jalan kaki, bermain di luar menguatkan badan/otot/kebugaran dan menggembirakan). Satu kunci arbitrer; pengecoh dapat dibenarkan."
+   }
+  ],
+  "PJK-HA-0012": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Soal pemetaan 'agar [manfaat], kita berpartisipasi dalam kegiatan ....' memuat beberapa kegiatan yang sama-sama memberi manfaat tersebut (berolahraga, bersepeda, jalan kaki, bermain di luar menguatkan badan/otot/kebugaran dan menggembirakan). Satu kunci arbitrer; pengecoh dapat dibenarkan."
+   }
+  ],
+  "PJK-HA-0015": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Soal pemetaan 'agar [manfaat], kita berpartisipasi dalam kegiatan ....' memuat beberapa kegiatan yang sama-sama memberi manfaat tersebut (berolahraga, bersepeda, jalan kaki, bermain di luar menguatkan badan/otot/kebugaran dan menggembirakan). Satu kunci arbitrer; pengecoh dapat dibenarkan."
+   }
+  ],
+  "PJK-HA-0016": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Soal pemetaan 'agar [manfaat], kita berpartisipasi dalam kegiatan ....' memuat beberapa kegiatan yang sama-sama memberi manfaat tersebut (berolahraga, bersepeda, jalan kaki, bermain di luar menguatkan badan/otot/kebugaran dan menggembirakan). Satu kunci arbitrer; pengecoh dapat dibenarkan."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "'seluruh tubuh bergerak sehat' tidak jelas maknanya bagi kelas 1."
+   }
+  ],
+  "PJK-HA-0022": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Soal pemetaan 'agar [manfaat], kita berpartisipasi dalam kegiatan ....' memuat beberapa kegiatan yang sama-sama memberi manfaat tersebut (berolahraga, bersepeda, jalan kaki, bermain di luar menguatkan badan/otot/kebugaran dan menggembirakan). Satu kunci arbitrer; pengecoh dapat dibenarkan."
+   }
+  ],
+  "PJK-HA-0024": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Soal pemetaan 'agar [manfaat], kita berpartisipasi dalam kegiatan ....' memuat beberapa kegiatan yang sama-sama memberi manfaat tersebut (berolahraga, bersepeda, jalan kaki, bermain di luar menguatkan badan/otot/kebugaran dan menggembirakan). Satu kunci arbitrer; pengecoh dapat dibenarkan."
+   },
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "HA-0011 menyatakan berolahraga bersama teman membuat gembira, sedangkan HA-0024 mengunci 'bermain di luar rumah' sebagai satu-satunya untuk 'hati gembira' dengan 'berolahraga' sebagai pengecoh."
+   }
+  ],
+  "PJK-HA-0004": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Soal 'Dengan [kegiatan], kita berpartisipasi agar ....': opsi 'badan menjadi kuat/bugar/otot kaki kuat/hati gembira' saling tumpang tindih (olahraga membuat badan bugar sekaligus kuat; jalan kaki menguatkan otot kaki; melompat tali menguatkan badan)."
+   }
+  ],
+  "PJK-HA-0009": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Soal 'Dengan [kegiatan], kita berpartisipasi agar ....': opsi 'badan menjadi kuat/bugar/otot kaki kuat/hati gembira' saling tumpang tindih (olahraga membuat badan bugar sekaligus kuat; jalan kaki menguatkan otot kaki; melompat tali menguatkan badan)."
+   }
+  ],
+  "PJK-HA-0010": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Soal 'Dengan [kegiatan], kita berpartisipasi agar ....': opsi 'badan menjadi kuat/bugar/otot kaki kuat/hati gembira' saling tumpang tindih (olahraga membuat badan bugar sekaligus kuat; jalan kaki menguatkan otot kaki; melompat tali menguatkan badan)."
+   }
+  ],
+  "PJK-HA-0013": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Soal 'Dengan [kegiatan], kita berpartisipasi agar ....': opsi 'badan menjadi kuat/bugar/otot kaki kuat/hati gembira' saling tumpang tindih (olahraga membuat badan bugar sekaligus kuat; jalan kaki menguatkan otot kaki; melompat tali menguatkan badan)."
+   }
+  ],
+  "PJK-HA-0014": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Soal 'Dengan [kegiatan], kita berpartisipasi agar ....': opsi 'badan menjadi kuat/bugar/otot kaki kuat/hati gembira' saling tumpang tindih (olahraga membuat badan bugar sekaligus kuat; jalan kaki menguatkan otot kaki; melompat tali menguatkan badan)."
+   }
+  ],
+  "PJK-HA-0019": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Soal 'Dengan [kegiatan], kita berpartisipasi agar ....': opsi 'badan menjadi kuat/bugar/otot kaki kuat/hati gembira' saling tumpang tindih (olahraga membuat badan bugar sekaligus kuat; jalan kaki menguatkan otot kaki; melompat tali menguatkan badan)."
+   }
+  ],
+  "PJK-HA-0020": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Soal 'Dengan [kegiatan], kita berpartisipasi agar ....': opsi 'badan menjadi kuat/bugar/otot kaki kuat/hati gembira' saling tumpang tindih (olahraga membuat badan bugar sekaligus kuat; jalan kaki menguatkan otot kaki; melompat tali menguatkan badan)."
+   }
+  ],
+  "PJK-HA-0037": [
+   {
+    "kode": "AKURASI_SALAH_TEGAS",
+    "catatan": "Pernyataan 'berolahraga agar badan menjadi bugar' dikunci Salah, padahal kebugaran adalah manfaat utama olahraga (bertentangan dengan HA-0004 opsi bugar benar secara umum dan HA-0010). usulan: ganti kata manfaat dengan yang jelas salah (mis. 'agar badan menjadi lemah') atau ubah kunci menjadi Benar."
+   }
+  ],
+  "PJK-HA-0034": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Kunci Salah untuk senam pagi -> kaki dan jantung kuat, bersepeda -> seluruh tubuh bergerak sehat, melompat tali -> belajar bekerja sama; pernyataan sebenarnya dapat benar (senam melatih jantung; lompat tali beregu). Kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0038": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Kunci Salah untuk senam pagi -> kaki dan jantung kuat, bersepeda -> seluruh tubuh bergerak sehat, melompat tali -> belajar bekerja sama; pernyataan sebenarnya dapat benar (senam melatih jantung; lompat tali beregu). Kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0039": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Kunci Salah untuk senam pagi -> kaki dan jantung kuat, bersepeda -> seluruh tubuh bergerak sehat, melompat tali -> belajar bekerja sama; pernyataan sebenarnya dapat benar (senam melatih jantung; lompat tali beregu). Kunci arbitrer."
+   }
+  ],
+  "PJK-HA-0011": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "HA-0011 menyatakan berolahraga bersama teman membuat gembira, sedangkan HA-0024 mengunci 'bermain di luar rumah' sebagai satu-satunya untuk 'hati gembira' dengan 'berolahraga' sebagai pengecoh."
+   }
+  ],
+  "PJK-HA-0042": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka pemetaan kegiatan-manfaat (mis. 'Dengan berolahraga agar ....' kunci 'badan menjadi kuat'); jawaban benar lain (bugar, sehat, gembira) tidak diterima."
+   }
+  ],
+  "PJK-HA-0046": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka pemetaan kegiatan-manfaat (mis. 'Dengan berolahraga agar ....' kunci 'badan menjadi kuat'); jawaban benar lain (bugar, sehat, gembira) tidak diterima."
+   }
+  ],
+  "PJK-HA-0047": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka pemetaan kegiatan-manfaat (mis. 'Dengan berolahraga agar ....' kunci 'badan menjadi kuat'); jawaban benar lain (bugar, sehat, gembira) tidak diterima."
+   }
+  ],
+  "PJK-HA-0049": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka pemetaan kegiatan-manfaat (mis. 'Dengan berolahraga agar ....' kunci 'badan menjadi kuat'); jawaban benar lain (bugar, sehat, gembira) tidak diterima."
+   }
+  ],
+  "PJK-HA-0051": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka pemetaan kegiatan-manfaat (mis. 'Dengan berolahraga agar ....' kunci 'badan menjadi kuat'); jawaban benar lain (bugar, sehat, gembira) tidak diterima."
+   }
+  ],
+  "PJK-HA-0055": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka pemetaan kegiatan-manfaat (mis. 'Dengan berolahraga agar ....' kunci 'badan menjadi kuat'); jawaban benar lain (bugar, sehat, gembira) tidak diterima."
+   }
+  ],
+  "PJK-HA-0045": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka pemetaan kegiatan-manfaat (mis. 'Dengan berolahraga agar ....' kunci 'badan menjadi kuat'); jawaban benar lain (bugar, sehat, gembira) tidak diterima."
+   }
+  ],
+  "PJK-HA-0050": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka pemetaan kegiatan-manfaat (mis. 'Dengan berolahraga agar ....' kunci 'badan menjadi kuat'); jawaban benar lain (bugar, sehat, gembira) tidak diterima."
+   }
+  ],
+  "PJK-HA-0052": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Contoh aktivitas fisik adalah ....' terbuka; berlari, berenang, senam dst. benar."
+   }
+  ],
+  "PJK-HA-0058": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Penjodohan kegiatan-manfaat arbitrer (berolahraga->kuat, jalan kaki->bugar, bermain luar->gembira, bersepeda->otot kaki); bukan korespondensi satu-satu yang sahih."
+   }
+  ],
+  "PJK-HA-0059": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Penjodohan kegiatan-manfaat arbitrer (berolahraga->kuat, jalan kaki->bugar, bermain luar->gembira, bersepeda->otot kaki); bukan korespondensi satu-satu yang sahih."
+   }
+  ],
+  "PJK-HA-0001": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hanya tidur, hanya duduk, kegiatan tidur, pura-pura sakit); HA-0026 kunci terpanjang memuat nilai/jawaban terbaca."
+   }
+  ],
+  "PJK-HA-0021": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hanya tidur, hanya duduk, kegiatan tidur, pura-pura sakit); HA-0026 kunci terpanjang memuat nilai/jawaban terbaca."
+   }
+  ],
+  "PJK-HA-0025": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hanya tidur, hanya duduk, kegiatan tidur, pura-pura sakit); HA-0026 kunci terpanjang memuat nilai/jawaban terbaca."
+   }
+  ],
+  "PJK-HA-0026": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hanya tidur, hanya duduk, kegiatan tidur, pura-pura sakit); HA-0026 kunci terpanjang memuat nilai/jawaban terbaca."
+   }
+  ],
+  "PJK-HA-0062": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Bukan tugas kinerja gerak; permintaan menyebut tiga aktivitas (lisan/tulisan) minggu ini, bergantung ingatan, rubrik generik."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Lakukan kegiatan ... dengan semangat' dengan kriteria 'semangat' tidak teramati; rubrik generik. HA-0063 ('bermain bersama teman bersama teman') BAHASA."
+   }
+  ],
+  "PJK-HA-0060": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Lakukan kegiatan ... dengan semangat' dengan kriteria 'semangat' tidak teramati; rubrik generik. HA-0063 ('bermain bersama teman bersama teman') BAHASA."
+   }
+  ],
+  "PJK-HA-0061": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Lakukan kegiatan ... dengan semangat' dengan kriteria 'semangat' tidak teramati; rubrik generik. HA-0063 ('bermain bersama teman bersama teman') BAHASA."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Tugas kinerja bersepeda dan berenang untuk kelas 1 memerlukan sepeda/helm atau kolam dan pengawasan (keselamatan); tidak realistis dan berisiko di kelas; perlu keputusan guru."
+   }
+  ],
+  "PJK-HA-0063": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Lakukan kegiatan ... dengan semangat' dengan kriteria 'semangat' tidak teramati; rubrik generik. HA-0063 ('bermain bersama teman bersama teman') BAHASA."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "'bermain bersama teman bersama teman' duplikasi frasa."
+   }
+  ],
+  "PJK-HA-0064": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Lakukan kegiatan ... dengan semangat' dengan kriteria 'semangat' tidak teramati; rubrik generik. HA-0063 ('bermain bersama teman bersama teman') BAHASA."
+   }
+  ],
+  "PJK-HA-0065": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Lakukan kegiatan ... dengan semangat' dengan kriteria 'semangat' tidak teramati; rubrik generik. HA-0063 ('bermain bersama teman bersama teman') BAHASA."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Tugas kinerja bersepeda dan berenang untuk kelas 1 memerlukan sepeda/helm atau kolam dan pengawasan (keselamatan); tidak realistis dan berisiko di kelas; perlu keputusan guru."
+   }
+  ],
+  "PJK-HA-0066": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Lakukan kegiatan ... dengan semangat' dengan kriteria 'semangat' tidak teramati; rubrik generik. HA-0063 ('bermain bersama teman bersama teman') BAHASA."
    }
   ]
  }

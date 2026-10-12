@@ -9,7 +9,8 @@
   "500-600 (AKA-AB-0139..0207, AKA-KN-0001..0031)",
   "600-700 (AKA-KN-0032..0131)",
   "700-800 (AKA-KN-0132..0155, AKA-RI-0001..0076)",
-  "800-900 (AKA-RI-0077..0176)"
+  "800-900 (AKA-RI-0077..0176)",
+  "900-1000 (AKA-RI-0177..0207, AKA-SW-0001..0069)"
  ],
  "temuan": {
   "AKA-SY-0005": [
@@ -554,6 +555,10 @@
    {
     "kode": "AKURASI_AHLI",
     "catatan": "Raqib (mencatat amal baik) dan Atid (amal buruk) sebagai nama dua malaikat pencatat bersumber dari tafsir QS Qaf: 17-18 (\"raqibun atid\"); sebagian ulama menganggapnya sifat bukan nama. Perlu keputusan ahli."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AKA-RI-0069 (pencatat amal buruk, Atid) dan AKA-RI-0081 (pencatat amal baik, Raqib): fakta berbeda dan saling melengkapi, keduanya berguna."
    }
   ],
   "AKA-RI-0066": [
@@ -566,6 +571,10 @@
    {
     "kode": "AKURASI_AHLI",
     "catatan": "Raqib=pencatat amal baik dan Atid=pencatat amal buruk sebagai nama (lihat AKA-RI-0069); bergantung pada penafsiran QS Qaf: 17-18, perlu keputusan ahli."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AKA-RI-0069 (pencatat amal buruk, Atid) dan AKA-RI-0081 (pencatat amal baik, Raqib): fakta berbeda dan saling melengkapi, keduanya berguna."
    }
   ],
   "AKA-RI-0104": [
@@ -674,6 +683,136 @@
    {
     "kode": "AMBIGU",
     "catatan": "Pernyataan dinyatakan Salah (iman kepada Allah), tetapi percaya pada malaikat pencatat amal bersumber dari iman kepada Allah; jawaban bergantung pada penekanan."
+   }
+  ],
+  "AKA-RI-0203": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengelompokan enam butir ke enam kelompok (satu butir per kelompok) sama dengan menjodohkan (AKA-RI-0202); tidak bermakna sebagai pengelompokan. Butir \"beramal untuk akhirat\" juga kabur."
+   }
+  ],
+  "AKA-SW-0032": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengelompokan tiga butir ke tiga kelompok (satu butir per kelompok) sama dengan menjodohkan (AKA-SW-0015); tipe tidak cocok."
+   }
+  ],
+  "AKA-SW-0020": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "\"Allah ada tanpa diciptakan oleh siapa pun\" dikunci Wujud, padahal AKA-SW-0057 menyebut jawaban \"tidak diciptakan siapa pun\" sebagai sifat Qidam, dan AKA-SW-0022/0018 mengaitkan \"tanpa permulaan\" dengan Qidam. Dua kunci bertentangan."
+   }
+  ],
+  "AKA-SW-0031": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "\"Allah ada tanpa diciptakan oleh siapa pun\" dikunci Wujud, padahal AKA-SW-0057 menyebut jawaban \"tidak diciptakan siapa pun\" sebagai sifat Qidam, dan AKA-SW-0022/0018 mengaitkan \"tanpa permulaan\" dengan Qidam. Dua kunci bertentangan."
+   }
+  ],
+  "AKA-SW-0057": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Jawaban \"ada sejak dahulu dan tidak diciptakan siapa pun\" dikunci Qidam; bertentangan dengan AKA-SW-0020/0031 yang mengaitkan \"tidak diciptakan\" dengan Wujud."
+   }
+  ],
+  "AKA-SW-0025": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "\"Makhluk akhirnya binasa\": makhluk tertentu (surga, neraka, penghuninya, ruh) dipahami kekal atas kehendak Allah; penyederhanaan \"semua makhluk binasa\" perlu keputusan ahli akidah."
+   }
+  ],
+  "AKA-SW-0049": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "\"Makhluk akhirnya binasa\": makhluk tertentu (surga, neraka, penghuninya, ruh) dipahami kekal atas kehendak Allah; penyederhanaan \"semua makhluk binasa\" perlu keputusan ahli akidah."
+   }
+  ],
+  "AKA-SW-0053": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Mengaitkan \"Allah selalu ada\" (Wujud/Baqa') dengan tidak berbuat curang saat sendirian: itu lebih dekat ke sifat Maha Melihat/Maha Mengetahui (muraqabah), bukan sifat Wujud/Baqa'. Kaitan konsep perlu keputusan ahli."
+   }
+  ],
+  "AKA-SW-0061": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Mengaitkan \"Allah selalu ada\" (Wujud/Baqa') dengan tidak berbuat curang saat sendirian: itu lebih dekat ke sifat Maha Melihat/Maha Mengetahui (muraqabah), bukan sifat Wujud/Baqa'. Kaitan konsep perlu keputusan ahli."
+   }
+  ],
+  "AKA-SW-0063": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Mengaitkan \"Allah selalu ada\" (Wujud/Baqa') dengan tidak berbuat curang saat sendirian: itu lebih dekat ke sifat Maha Melihat/Maha Mengetahui (muraqabah), bukan sifat Wujud/Baqa'. Kaitan konsep perlu keputusan ahli."
+   }
+  ],
+  "AKA-SW-0069": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Mengaitkan \"Allah selalu ada\" (Wujud/Baqa') dengan tidak berbuat curang saat sendirian: itu lebih dekat ke sifat Maha Melihat/Maha Mengetahui (muraqabah), bukan sifat Wujud/Baqa'. Kaitan konsep perlu keputusan ahli."
+   }
+  ],
+  "AKA-SW-0051": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan subhanallah tidak tercantum di CP/ATP (kalimah thayyibah hanya basmalah, hamdalah, taawuz); dekat ke TP-AKA-SW-04 tetapi bukan materi yang disebut."
+   }
+  ],
+  "AKA-SW-0054": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan subhanallah tidak tercantum di CP/ATP (kalimah thayyibah hanya basmalah, hamdalah, taawuz); dekat ke TP-AKA-SW-04 tetapi bukan materi yang disebut."
+   }
+  ],
+  "AKA-SW-0058": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan subhanallah tidak tercantum di CP/ATP (kalimah thayyibah hanya basmalah, hamdalah, taawuz); dekat ke TP-AKA-SW-04 tetapi bukan materi yang disebut."
+   }
+  ],
+  "AKA-SW-0062": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan subhanallah tidak tercantum di CP/ATP (kalimah thayyibah hanya basmalah, hamdalah, taawuz); dekat ke TP-AKA-SW-04 tetapi bukan materi yang disebut."
+   }
+  ],
+  "AKA-SW-0064": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan subhanallah tidak tercantum di CP/ATP (kalimah thayyibah hanya basmalah, hamdalah, taawuz); dekat ke TP-AKA-SW-04 tetapi bukan materi yang disebut."
+   }
+  ],
+  "AKA-SW-0067": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan subhanallah tidak tercantum di CP/ATP (kalimah thayyibah hanya basmalah, hamdalah, taawuz); dekat ke TP-AKA-SW-04 tetapi bukan materi yang disebut."
+   }
+  ],
+  "AKA-SW-0068": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan subhanallah tidak tercantum di CP/ATP (kalimah thayyibah hanya basmalah, hamdalah, taawuz); dekat ke TP-AKA-SW-04 tetapi bukan materi yang disebut."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan \"subhanallah > alhamdulillah > berbuat baik\" tidak baku; urutan lain dapat dibenarkan."
+   }
+  ],
+  "AKA-SW-0004": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Mengenali tulisan Arab nama sifat (Al-Wujud, Al-Qidam, Al-Baqa') dengan pengecoh sifat lain berharakat untuk kelas 1; TP menuntut menghafal, bukan membaca tulisan Arab; pertimbangan guru."
+   }
+  ],
+  "AKA-SW-0005": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Mengenali tulisan Arab nama sifat (Al-Wujud, Al-Qidam, Al-Baqa') dengan pengecoh sifat lain berharakat untuk kelas 1; TP menuntut menghafal, bukan membaca tulisan Arab; pertimbangan guru."
+   }
+  ],
+  "AKA-SW-0009": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Mengenali tulisan Arab nama sifat (Al-Wujud, Al-Qidam, Al-Baqa') dengan pengecoh sifat lain berharakat untuk kelas 1; TP menuntut menghafal, bukan membaca tulisan Arab; pertimbangan guru."
    }
   ]
  }

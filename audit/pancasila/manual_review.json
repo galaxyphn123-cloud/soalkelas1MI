@@ -5,7 +5,10 @@
   "100-200 (PPN-B1-0101..0200)",
   "200-300 (PPN-B1-0201..0214, PPN-B2-0001..0086)",
   "300-400 (PPN-B2-0087..0186)",
-  "400-500 (PPN-B2-0187..0214, PPN-B3-0001..0072)"
+  "400-500 (PPN-B2-0187..0214, PPN-B3-0001..0072)",
+  "500-600 (PPN-B3-0073..0172)",
+  "600-700 (PPN-B3-0173..0272)",
+  "700-800 (PPN-B3-0273..0286, PPN-B4-0001..0086)"
  ],
  "temuan": {
   "PPN-B1-0010": [
@@ -1432,6 +1435,470 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Isian bunyi sila menuntut kutipan persis; ejaan/penulisan berisiko dinilai salah (sebaiknya pilihan ganda atau rubrik)."
+   }
+  ],
+  "PPN-B3-0093": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci sila ke-5 'bersikap adil kepada semua orang' tumpang tindih dengan sila ke-2 yang dirumuskan 'memperlakukan sesama manusia dengan adil' (PPN-B3-0088/0089/0146/0149); pengecoh sila ke-2 dapat dibenarkan. Rumusan makna sila 2 dan 5 saling bertabrakan."
+   }
+  ],
+  "PPN-B3-0105": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci sila ke-5 'bersikap adil kepada semua orang' tumpang tindih dengan sila ke-2 yang dirumuskan 'memperlakukan sesama manusia dengan adil' (PPN-B3-0088/0089/0146/0149); pengecoh sila ke-2 dapat dibenarkan. Rumusan makna sila 2 dan 5 saling bertabrakan."
+   }
+  ],
+  "PPN-B3-0137": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci sila ke-5 'bersikap adil kepada semua orang' tumpang tindih dengan sila ke-2 yang dirumuskan 'memperlakukan sesama manusia dengan adil' (PPN-B3-0088/0089/0146/0149); pengecoh sila ke-2 dapat dibenarkan. Rumusan makna sila 2 dan 5 saling bertabrakan."
+   }
+  ],
+  "PPN-B3-0150": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci sila ke-5 'bersikap adil kepada semua orang' tumpang tindih dengan sila ke-2 yang dirumuskan 'memperlakukan sesama manusia dengan adil' (PPN-B3-0088/0089/0146/0149); pengecoh sila ke-2 dapat dibenarkan. Rumusan makna sila 2 dan 5 saling bertabrakan."
+   }
+  ],
+  "PPN-B3-0091": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Berbagi secara adil/sama banyak' dikaitkan sila ke-5, tetapi dapat juga sila ke-2 (memperlakukan sesama manusia dengan adil, menyayangi); pengecoh sila 2 dapat dibenarkan."
+   }
+  ],
+  "PPN-B3-0121": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Berbagi secara adil/sama banyak' dikaitkan sila ke-5, tetapi dapat juga sila ke-2 (memperlakukan sesama manusia dengan adil, menyayangi); pengecoh sila 2 dapat dibenarkan."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Penulisan 'sila ke- 3' (spasi setelah tanda hubung) dan 'sila ke- ....' keliru menurut ejaan."
+   }
+  ],
+  "PPN-B3-0143": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Berbagi secara adil/sama banyak' dikaitkan sila ke-5, tetapi dapat juga sila ke-2 (memperlakukan sesama manusia dengan adil, menyayangi); pengecoh sila 2 dapat dibenarkan."
+   }
+  ],
+  "PPN-B3-0163": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Berbagi secara adil/sama banyak' dikaitkan sila ke-5, tetapi dapat juga sila ke-2 (memperlakukan sesama manusia dengan adil, menyayangi); pengecoh sila 2 dapat dibenarkan."
+   }
+  ],
+  "PPN-B3-0172": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Berbagi secara adil/sama banyak' dikaitkan sila ke-5, tetapi dapat juga sila ke-2 (memperlakukan sesama manusia dengan adil, menyayangi); pengecoh sila 2 dapat dibenarkan."
+   }
+  ],
+  "PPN-B3-0132": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kunci Salah untuk 'berbagi secara adil sila 1' benar, namun pasangan 'berbagi secara adil' dengan sila 2 tidak diuji; tumpang tindih sila 2/5 (lihat PPN-B3-0091)."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Penulisan 'sila ke- 3' (spasi setelah tanda hubung) dan 'sila ke- ....' keliru menurut ejaan."
+   }
+  ],
+  "PPN-B3-0092": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Gotong royong/bekerja sama dikaitkan tegas dengan sila ke-3, padahal dapat juga sila ke-2 (kemanusiaan) atau ke-5 (keadilan sosial); satu sikap bisa lebih dari satu sila."
+   }
+  ],
+  "PPN-B3-0120": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Gotong royong/bekerja sama dikaitkan tegas dengan sila ke-3, padahal dapat juga sila ke-2 (kemanusiaan) atau ke-5 (keadilan sosial); satu sikap bisa lebih dari satu sila."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Penulisan 'sila ke- 3' (spasi setelah tanda hubung) dan 'sila ke- ....' keliru menurut ejaan."
+   }
+  ],
+  "PPN-B3-0145": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Gotong royong/bekerja sama dikaitkan tegas dengan sila ke-3, padahal dapat juga sila ke-2 (kemanusiaan) atau ke-5 (keadilan sosial); satu sikap bisa lebih dari satu sila."
+   }
+  ],
+  "PPN-B3-0168": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Gotong royong/bekerja sama dikaitkan tegas dengan sila ke-3, padahal dapat juga sila ke-2 (kemanusiaan) atau ke-5 (keadilan sosial); satu sikap bisa lebih dari satu sila."
+   }
+  ],
+  "PPN-B3-0166": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Berdamai setelah bertengkar' dikunci sila ke-3; sila ke-2 (menyayangi sesama) juga dapat dibenarkan, sehingga pengecoh 2 tidak tegas salah."
+   }
+  ],
+  "PPN-B3-0169": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Menghargai pendapat kakak' dikunci sila ke-4 (musyawarah), tetapi sila ke-2 (menghargai/menyayangi sesama) juga dapat dibenarkan."
+   }
+  ],
+  "PPN-B3-0127": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kunci Salah untuk 'menghormati pemeluk agama lain sesuai sila ke-2'; menghormati sesama manusia (sila 2) juga dapat dibenarkan, sehingga kunci tidak tegas."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Penulisan 'sila ke- 3' (spasi setelah tanda hubung) dan 'sila ke- ....' keliru menurut ejaan."
+   }
+  ],
+  "PPN-B3-0094": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh sila ke-2/3 untuk 'menghormati pemeluk agama lain' dapat dibenarkan (kemanusiaan/persatuan); kunci sila 1 mengikuti butir toleransi beragama."
+   }
+  ],
+  "PPN-B3-0100": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd ('bermain terus', 'berbuat curang', 'serakah', 'iri', 'undian curang'); jawaban terbaca tanpa pemahaman."
+   }
+  ],
+  "PPN-B3-0102": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd ('bermain terus', 'berbuat curang', 'serakah', 'iri', 'undian curang'); jawaban terbaca tanpa pemahaman."
+   }
+  ],
+  "PPN-B3-0097": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd ('bermain terus', 'berbuat curang', 'serakah', 'iri', 'undian curang'); jawaban terbaca tanpa pemahaman."
+   }
+  ],
+  "PPN-B3-0098": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd ('bermain terus', 'berbuat curang', 'serakah', 'iri', 'undian curang'); jawaban terbaca tanpa pemahaman."
+   }
+  ],
+  "PPN-B3-0103": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd ('bermain terus', 'berbuat curang', 'serakah', 'iri', 'undian curang'); jawaban terbaca tanpa pemahaman."
+   }
+  ],
+  "PPN-B3-0106": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd ('bermain terus', 'berbuat curang', 'serakah', 'iri', 'undian curang'); jawaban terbaca tanpa pemahaman."
+   }
+  ],
+  "PPN-B3-0107": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd ('bermain terus', 'berbuat curang', 'serakah', 'iri', 'undian curang'); jawaban terbaca tanpa pemahaman."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Definisi 'musyawarah' dan 'mufakat' abstrak untuk kelas 1; kunci menuntut definisi."
+   }
+  ],
+  "PPN-B3-0109": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Definisi 'musyawarah' dan 'mufakat' abstrak untuk kelas 1; kunci menuntut definisi."
+   }
+  ],
+  "PPN-B3-0129": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Definisi 'musyawarah' dan 'mufakat' abstrak untuk kelas 1; kunci menuntut definisi."
+   }
+  ],
+  "PPN-B3-0139": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Definisi 'musyawarah' dan 'mufakat' abstrak untuk kelas 1; kunci menuntut definisi."
+   }
+  ],
+  "PPN-B3-0122": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Penulisan 'sila ke- 3' (spasi setelah tanda hubung) dan 'sila ke- ....' keliru menurut ejaan."
+   }
+  ],
+  "PPN-B3-0160": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Dua soal sama (musyawarah memilih tempat liburan -> sila 4); kunci benar, tetapi 'musyawarah memilih tempat liburan' dapat pula dikaitkan sila 2 (menghargai) — pengecoh tidak tegas."
+   }
+  ],
+  "PPN-B3-0165": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Dua soal sama (musyawarah memilih tempat liburan -> sila 4); kunci benar, tetapi 'musyawarah memilih tempat liburan' dapat pula dikaitkan sila 2 (menghargai) — pengecoh tidak tegas."
+   }
+  ],
+  "PPN-B3-0182": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Berdamai setelah bertengkar' dikunci sila ke-3; lihat PPN-B3-0166 (sila ke-2 juga dapat dibenarkan)."
+   }
+  ],
+  "PPN-B3-0197": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Berdamai setelah bertengkar' dikunci sila ke-3; lihat PPN-B3-0166 (sila ke-2 juga dapat dibenarkan)."
+   }
+  ],
+  "PPN-B3-0210": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Berdamai setelah bertengkar' dikunci sila ke-3; lihat PPN-B3-0166 (sila ke-2 juga dapat dibenarkan)."
+   }
+  ],
+  "PPN-B3-0187": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Bekerja sama membersihkan rumah' dikunci sila ke-3; lihat PPN-B3-0092 (sila ke-2/ke-5 juga dapat dibenarkan)."
+   }
+  ],
+  "PPN-B3-0191": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Bekerja sama membersihkan rumah' dikunci sila ke-3; lihat PPN-B3-0092 (sila ke-2/ke-5 juga dapat dibenarkan)."
+   }
+  ],
+  "PPN-B3-0212": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Bekerja sama membersihkan rumah' dikunci sila ke-3; lihat PPN-B3-0092 (sila ke-2/ke-5 juga dapat dibenarkan)."
+   }
+  ],
+  "PPN-B3-0175": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Menghargai pendapat kakak' dikunci sila ke-4; lihat PPN-B3-0169 (sila ke-2 juga dapat dibenarkan)."
+   }
+  ],
+  "PPN-B3-0200": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Menghargai pendapat kakak' dikunci sila ke-4; lihat PPN-B3-0169 (sila ke-2 juga dapat dibenarkan)."
+   }
+  ],
+  "PPN-B3-0209": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Menghargai pendapat kakak' dikunci sila ke-4; lihat PPN-B3-0169 (sila ke-2 juga dapat dibenarkan)."
+   }
+  ],
+  "PPN-B3-0194": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Saling menyayangi sesama anggota keluarga' diberi kunci Salah untuk sila ke-3; menyayangi anggota keluarga juga mendukung persatuan (sila 3), sehingga kunci Salah tidak tegas."
+   }
+  ],
+  "PPN-B3-0179": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Membagi makanan sama banyak' sila ke-5 (benar), namun sila ke-2 (adil terhadap sesama) juga dapat dibenarkan; lihat PPN-B3-0091."
+   }
+  ],
+  "PPN-B3-0189": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Membagi makanan sama banyak' sila ke-5 (benar), namun sila ke-2 (adil terhadap sesama) juga dapat dibenarkan; lihat PPN-B3-0091."
+   }
+  ],
+  "PPN-B3-0208": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Membagi makanan sama banyak' sila ke-5 (benar), namun sila ke-2 (adil terhadap sesama) juga dapat dibenarkan; lihat PPN-B3-0091."
+   }
+  ],
+  "PPN-B3-0220": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Alasan 'mencintai tanah air sejalan dengan ajaran Islam karena menjaga negeri adalah bagian dari kebaikan' abstrak bagi kelas 1; tingkat 'h'. 0257 pengecoh 'harus membenci negeri lain' absurd."
+   }
+  ],
+  "PPN-B3-0243": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Alasan 'mencintai tanah air sejalan dengan ajaran Islam karena menjaga negeri adalah bagian dari kebaikan' abstrak bagi kelas 1; tingkat 'h'. 0257 pengecoh 'harus membenci negeri lain' absurd."
+   }
+  ],
+  "PPN-B3-0257": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Alasan 'mencintai tanah air sejalan dengan ajaran Islam karena menjaga negeri adalah bagian dari kebaikan' abstrak bagi kelas 1; tingkat 'h'. 0257 pengecoh 'harus membenci negeri lain' absurd."
+   }
+  ],
+  "PPN-B3-0221": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'sikap sempurna dan khidmat' adalah istilah baris-berbaris/upacara; sulit dipahami kelas 1; pengecoh absurd (bermain/tertawa/berbicara)."
+   }
+  ],
+  "PPN-B3-0252": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'sikap sempurna dan khidmat' adalah istilah baris-berbaris/upacara; sulit dipahami kelas 1; pengecoh absurd (bermain/tertawa/berbicara)."
+   }
+  ],
+  "PPN-B3-0271": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'sikap sempurna dan khidmat' adalah istilah baris-berbaris/upacara; sulit dipahami kelas 1; pengecoh absurd (bermain/tertawa/berbicara)."
+   }
+  ],
+  "PPN-B3-0222": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'sampah', 'kerusakan', 'perselisihan' tidak berpadu dengan 'menjaga' (tidak gramatikal) dan absurd; kunci terbaca dari tata bahasa."
+   }
+  ],
+  "PPN-B3-0270": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'menjaga ....' menuntut frasa persis 'kebersihan dan kerukunan' (jawaban lain sah, mis. kebersihan lingkungan)."
+   }
+  ],
+  "PPN-B3-0233": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Membeli jajanan buatan pedagang di sekitar rumah' belum tentu 'produk dalam negeri' (soal lokal vs nasional); loncatan konsep; pengecoh 'boros/sombong' dan 'membenci pedagang' absurd."
+   }
+  ],
+  "PPN-B3-0255": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Membeli jajanan buatan pedagang di sekitar rumah' belum tentu 'produk dalam negeri' (soal lokal vs nasional); loncatan konsep; pengecoh 'boros/sombong' dan 'membenci pedagang' absurd."
+   }
+  ],
+  "PPN-B3-0259": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pernyataan Salah 'Hasan membenci pedagang' absurd; dibuat dari pengecoh."
+   }
+  ],
+  "PPN-B3-0228": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Tanggal Hari Kemerdekaan tidak ada di CP/ATP (CP: bendera, lagu kebangsaan, simbol, sila); tepi TP-PPN-B3-04 'cinta tanah air'."
+   }
+  ],
+  "PPN-B3-0264": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Tanggal Hari Kemerdekaan tidak ada di CP/ATP (CP: bendera, lagu kebangsaan, simbol, sila); tepi TP-PPN-B3-04 'cinta tanah air'."
+   }
+  ],
+  "PPN-B3-0229": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem mendeskripsikan gambar sehingga kunci 'upacara bendera' terbaca dari kalimat stem (menghadap tiang bendera sambil memberi hormat)."
+   }
+  ],
+  "PPN-B3-0275": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Isian 'Mencintai tanah air sejalan dengan ajaran Islam karena ....' (tingkat h) menuntut kalimat abstrak persis; lihat PPN-B3-0220."
+   }
+  ],
+  "PPN-B3-0284": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Lihat PPN-B3-0233 (jajanan pedagang sekitar belum tentu produk dalam negeri)."
+   }
+  ],
+  "PPN-B3-0273": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Tanggal Hari Kemerdekaan tidak ada di CP/ATP; lihat PPN-B3-0228."
+   }
+  ],
+  "PPN-B4-0005": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Fungsi kebun 'tempat menanam sayur'; pengecoh C 'tempat bermain dan menanam' juga mengandung 'menanam' dan dapat dibenarkan."
+   }
+  ],
+  "PPN-B4-0012": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Lapangan: pengecoh 'tempat bermain dan menanam' dapat dibenarkan sebagian (bermain); kunci 'tempat berolahraga' tidak unik."
+   }
+  ],
+  "PPN-B4-0064": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Lapangan: pengecoh 'tempat bermain dan menanam' dapat dibenarkan sebagian (bermain); kunci 'tempat berolahraga' tidak unik."
+   }
+  ],
+  "PPN-B4-0006": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'wilayah negara Kesatuan Republik Indonesia' keliru: nama yang tepat 'Negara Kesatuan Republik Indonesia'; opsi/isian terpotong tidak bermakna sendiri."
+   }
+  ],
+  "PPN-B4-0031": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'wilayah negara Kesatuan Republik Indonesia' keliru: nama yang tepat 'Negara Kesatuan Republik Indonesia'; opsi/isian terpotong tidak bermakna sendiri."
+   }
+  ],
+  "PPN-B4-0065": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'wilayah negara Kesatuan Republik Indonesia' keliru: nama yang tepat 'Negara Kesatuan Republik Indonesia'; opsi/isian terpotong tidak bermakna sendiri."
+   }
+  ],
+  "PPN-B4-0002": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Generalisasi 'lingkungan rumah dihuni orang dengan suku dan agama yang beragam' (Benar) dan 'sama semua' (Salah) tidak berlaku di semua lingkungan; banyak lingkungan murid relatif seragam; kunci tidak tegas."
+   }
+  ],
+  "PPN-B4-0023": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Generalisasi 'lingkungan rumah dihuni orang dengan suku dan agama yang beragam' (Benar) dan 'sama semua' (Salah) tidak berlaku di semua lingkungan; banyak lingkungan murid relatif seragam; kunci tidak tegas."
+   }
+  ],
+  "PPN-B4-0044": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Generalisasi 'lingkungan rumah dihuni orang dengan suku dan agama yang beragam' (Benar) dan 'sama semua' (Salah) tidak berlaku di semua lingkungan; banyak lingkungan murid relatif seragam; kunci tidak tegas."
+   }
+  ],
+  "PPN-B4-0055": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Generalisasi 'lingkungan rumah dihuni orang dengan suku dan agama yang beragam' (Benar) dan 'sama semua' (Salah) tidak berlaku di semua lingkungan; banyak lingkungan murid relatif seragam; kunci tidak tegas."
+   }
+  ],
+  "PPN-B4-0077": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kerja bakti juga dapat membuat 'lingkungan menjadi aman' atau 'air mengalir lancar' (jika selokan); kunci 'bersih' tidak unik."
+   }
+  ],
+  "PPN-B4-0079": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'sama agama', 'sama suku', 'sama kelas' tidak cocok dengan 'walaupun'; jawaban terbaca dari tata bahasa."
+   }
+  ],
+  "PPN-B4-0086": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'tidak ikut', 'tugas berbahaya', 'mengganggu' absurd dan tidak sejajar secara tata bahasa dengan 'dengan ....'."
    }
   ]
  }

@@ -8,7 +8,9 @@
   "401-500 (AQH-IK-0115..0143, AQH-HT-0001..0071)",
   "501-600 (AQH-HT-0072..0143, AQH-NS-0001..0028)",
   "601-700 (AQH-NS-0029..0128)",
-  "701-800 (AQH-NS-0129..0143, AQH-FL-0001..0085)"
+  "701-800 (AQH-NS-0129..0143, AQH-FL-0001..0085)",
+  "801-900 (AQH-FL-0086..0143, AQH-HK-0001..0042)",
+  "901-1000 (AQH-HK-0043..0142)"
  ],
  "temuan": {
   "AQH-HJ-0003": [
@@ -21,6 +23,10 @@
    {
     "kode": "USIA_ISI",
     "catatan": "Menanyakan nomor urut huruf (ف ke-20, ط ke-16) menuntut hafalan urutan numerik 28 huruf; terlalu abstrak untuk murid kelas 1, perlu pertimbangan guru (urutan sendiri sudah diuji pada soal sebelum/sesudah)."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-HJ-0006~0015: templat sama, huruf berbeda (ت ke-3 vs ط ke-16), fakta berbeda."
    }
   ],
   "AQH-HJ-0106": [
@@ -55,6 +61,10 @@
    {
     "kode": "AKURASI_AHLI",
     "catatan": "Penomoran ayat Al-Fatihah menghitung Basmalah sebagai ayat 1 (ayat 6 = Ihdina, ayat 7 = Shirat); mushaf lain (mis. hitungan Madinah) tidak menghitung Basmalah sehingga ayat 6 = Shirat. Perlu keputusan rujukan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-FA-0042~0050: ayat berbeda (ke-1 vs ke-6)."
    }
   ],
   "AQH-FA-0048": [
@@ -67,6 +77,10 @@
    {
     "kode": "AKURASI_AHLI",
     "catatan": "Penomoran ayat Al-Fatihah menghitung Basmalah sebagai ayat 1 (ayat 6 = Ihdina, ayat 7 = Shirat); mushaf lain (mis. hitungan Madinah) tidak menghitung Basmalah sehingga ayat 6 = Shirat. Perlu keputusan rujukan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-FA-0042~0050: ayat berbeda (ke-1 vs ke-6)."
    }
   ],
   "AQH-FA-0057": [
@@ -329,6 +343,350 @@
    {
     "kode": "USIA_ISI",
     "catatan": "Istilah 'mu'awwidzatain' terlalu sulit untuk kelas 1 dan tidak ada di TP/ATP; sebaiknya dibatasi pada guru."
+   }
+  ],
+  "AQH-FL-0097": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Kata hasidin berarti dengki' dijawab Salah, sedangkan hasidin = orang yang dengki (FL-0093) dan hasad = dengki; selisih nuansa pelaku vs sifat sangat tipis sehingga pernyataan dapat dianggap benar oleh murid atau guru."
+   }
+  ],
+  "AQH-FL-0137": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan menyikat gigi > berdoa tidur > membaca Al-Falaq tidak baku (amalan tidur umumnya membaca surah perlindungan lalu doa tidur); kunci tunggal tidak pasti (sama dengan AQH-IK-0138)."
+   }
+  ],
+  "AQH-HK-0010": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Hadis 'Ath-thuhuru syathrul iman' juga diriwayatkan antara lain oleh Imam Ahmad (selain Muslim, Tirmidzi, Nasai, Ibnu Majah) sehingga pengecoh C 'Imam Ahmad' dapat dibenarkan."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Nama perawi hadis (Imam Muslim dsb.) terlalu abstrak untuk kelas 1 dan tidak tercantum di TP."
+   }
+  ],
+  "AQH-HK-0028": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Nama perawi hadis (Imam Muslim dsb.) terlalu abstrak untuk kelas 1 dan tidak tercantum di TP."
+   }
+  ],
+  "AQH-HK-0013": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Klaim 'dicintai Allah/Allah menyukai orang yang menjaga kebersihan' bukan bunyi hadis Ath-thuhuru syathrul iman yang dipakai bank soal; dalilnya (mis. QS Al-Baqarah 222 atau hadis lain) perlu dirujuk ahli."
+   }
+  ],
+  "AQH-HK-0014": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Klaim 'dicintai Allah/Allah menyukai orang yang menjaga kebersihan' bukan bunyi hadis Ath-thuhuru syathrul iman yang dipakai bank soal; dalilnya (mis. QS Al-Baqarah 222 atau hadis lain) perlu dirujuk ahli."
+   }
+  ],
+  "AQH-HK-0017": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Klaim 'dicintai Allah/Allah menyukai orang yang menjaga kebersihan' bukan bunyi hadis Ath-thuhuru syathrul iman yang dipakai bank soal; dalilnya (mis. QS Al-Baqarah 222 atau hadis lain) perlu dirujuk ahli."
+   }
+  ],
+  "AQH-HK-0057": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-HK-0057~0066: kata berbeda (kebersihan vs iman)."
+   }
+  ],
+  "AQH-HK-0058": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   }
+  ],
+  "AQH-HK-0059": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   }
+  ],
+  "AQH-HK-0060": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   }
+  ],
+  "AQH-HK-0061": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   }
+  ],
+  "AQH-HK-0062": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   }
+  ],
+  "AQH-HK-0064": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   }
+  ],
+  "AQH-HK-0067": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   }
+  ],
+  "AQH-HK-0069": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   }
+  ],
+  "AQH-HK-0075": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   }
+  ],
+  "AQH-HK-0076": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   }
+  ],
+  "AQH-HK-0077": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   }
+  ],
+  "AQH-HK-0078": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   }
+  ],
+  "AQH-HK-0079": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Terjemahan 'ath-thuhuru syathrul iman' = 'Kebersihan itu sebagian dari iman' disederhanakan: ath-thuhur berarti bersuci/kesucian (bukan sama persis an-nazhafah 'kebersihan') dan syathr berarti separuh/setengah. Pemilihan padanan 'kebersihan' dan 'sebagian' sebagai kunci tunggal perlu keputusan ahli hadis/rujukan buku madrasah."
+   }
+  ],
+  "AQH-HK-0089": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'badan bersih dan segar' (HK-0089), 'kuman tidak masuk ke tubuh' (HK-0096, HK-0099) juga dapat dibenarkan sebagai manfaat mencuci kaki / mencuci piring / memotong kuku; kunci hanya manfaat paling spesifik."
+   }
+  ],
+  "AQH-HK-0096": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'badan bersih dan segar' (HK-0089), 'kuman tidak masuk ke tubuh' (HK-0096, HK-0099) juga dapat dibenarkan sebagai manfaat mencuci kaki / mencuci piring / memotong kuku; kunci hanya manfaat paling spesifik."
+   }
+  ],
+  "AQH-HK-0099": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'badan bersih dan segar' (HK-0089), 'kuman tidak masuk ke tubuh' (HK-0096, HK-0099) juga dapat dibenarkan sebagai manfaat mencuci kaki / mencuci piring / memotong kuku; kunci hanya manfaat paling spesifik."
+   }
+  ],
+  "AQH-HK-0135": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan merapikan mainan, mencuci kaki, menyikat gigi tidak baku (cuci kaki dan sikat gigi dapat bertukar); hanya 'berdoa' terakhir yang pasti."
+   }
+  ],
+  "AQH-HK-0139": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Mencuci piring setelah makan' dikelompokkan sebagai kebersihan lingkungan padahal dapat dianggap kebersihan diri/peralatan; batas kategori tidak jelas."
+   }
+  ],
+  "AQH-HJ-0006": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-HJ-0006~0015: templat sama, huruf berbeda (ت ke-3 vs ط ke-16), fakta berbeda."
+   }
+  ],
+  "AQH-HJ-0087": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-HJ-0087~0091: harakat yang ditanyakan berbeda (ti vs tu), fungsi pembedaan harakat."
+   }
+  ],
+  "AQH-HJ-0091": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-HJ-0087~0091: harakat yang ditanyakan berbeda (ti vs tu), fungsi pembedaan harakat."
+   }
+  ],
+  "AQH-FA-0072": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-FA-0072~0089: kata berbeda (Ar-Rahim vs Ar-Rahman)."
+   }
+  ],
+  "AQH-FA-0089": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-FA-0072~0089: kata berbeda (Ar-Rahim vs Ar-Rahman)."
+   }
+  ],
+  "AQH-IK-0038": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-IK-0038~0053: ayat berbeda (ke-1 vs ke-3)."
+   }
+  ],
+  "AQH-IK-0053": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-IK-0038~0053: ayat berbeda (ke-1 vs ke-3)."
+   }
+  ],
+  "AQH-IK-0078": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-IK-0078~0083: kata berbeda (yulad vs huwa)."
+   }
+  ],
+  "AQH-IK-0083": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-IK-0078~0083: kata berbeda (yulad vs huwa)."
+   }
+  ],
+  "AQH-HT-0047": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-HT-0047~0059: kata berbeda (ورد vs ولد)."
+   }
+  ],
+  "AQH-HT-0059": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-HT-0047~0059: kata berbeda (ورد vs ولد)."
+   }
+  ],
+  "AQH-HT-0113": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-HT-0113~0116: kata berbeda (ولد vs نور), latihan penerapan aturan yang sama pada contoh baru."
+   }
+  ],
+  "AQH-HT-0116": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-HT-0113~0116: kata berbeda (ولد vs نور), latihan penerapan aturan yang sama pada contoh baru."
+   }
+  ],
+  "AQH-HT-0114": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-HT-0114~0115: kata berbeda (باب vs مفتاح)."
+   }
+  ],
+  "AQH-HT-0115": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-HT-0114~0115: kata berbeda (باب vs مفتاح)."
+   }
+  ],
+  "AQH-NS-0037": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-NS-0037~0044: ayat berbeda (ke-5 vs ke-6)."
+   }
+  ],
+  "AQH-NS-0044": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-NS-0037~0044: ayat berbeda (ke-5 vs ke-6)."
+   }
+  ],
+  "AQH-NS-0041": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-NS-0041~0042: ayat berbeda (Malikin vs Ilahin)."
+   }
+  ],
+  "AQH-NS-0042": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-NS-0041~0042: ayat berbeda (Malikin vs Ilahin)."
+   }
+  ],
+  "AQH-NS-0048": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-NS-0048~0052: arah soal sama, ayat berbeda."
+   }
+  ],
+  "AQH-NS-0052": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-NS-0048~0052: arah soal sama, ayat berbeda."
+   }
+  ],
+  "AQH-NS-0086": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-NS-0086~0087: kata berbeda (an-nas vs al-khannas)."
+   }
+  ],
+  "AQH-NS-0087": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-NS-0086~0087: kata berbeda (an-nas vs al-khannas)."
+   }
+  ],
+  "AQH-FL-0018": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan AQH-FL-0018~0025: pernyataan nyaris identik ('mengajarkan kita untuk' vs 'mengajarkan kita'), ayat dan kunci sama, tanpa manfaat variasi."
+   }
+  ],
+  "AQH-FL-0025": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Pasangan AQH-FL-0018~0025: pernyataan nyaris identik ('mengajarkan kita untuk' vs 'mengajarkan kita'), ayat dan kunci sama, tanpa manfaat variasi."
+   }
+  ],
+  "AQH-FL-0043": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-FL-0043~0045: ayat berbeda (ke-5 vs ke-2)."
+   }
+  ],
+  "AQH-FL-0045": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-FL-0043~0045: ayat berbeda (ke-5 vs ke-2)."
+   }
+  ],
+  "AQH-FL-0081": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-FL-0081~0087: kata berbeda (hasad vs ghasiqin)."
+   }
+  ],
+  "AQH-FL-0087": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-FL-0081~0087: kata berbeda (hasad vs ghasiqin)."
+   }
+  ],
+  "AQH-HK-0066": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Pasangan AQH-HK-0057~0066: kata berbeda (kebersihan vs iman)."
    }
   ]
  }

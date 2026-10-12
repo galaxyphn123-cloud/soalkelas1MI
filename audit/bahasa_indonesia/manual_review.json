@@ -7,7 +7,9 @@
   "300-400 (BIN-B3-0051..0139, BIN-B4-0001..0011)",
   "400-500 (BIN-B4-0012..0111)",
   "500-600 (BIN-B5-0001..0100)",
-  "600-700 (BIN-B5-0101..0139, BIN-B6-0001..0061)"
+  "600-700 (BIN-B5-0101..0139, BIN-B6-0001..0061)",
+  "700-800 (BIN-B6-0062..0111, BIN-B7-0001..0050)",
+  "800-900 (BIN-B7-0051..0139, BIN-B8-0001..0011)"
  ],
  "temuan": {
   "BIN-B1-0016": [
@@ -1518,6 +1520,398 @@
    {
     "kode": "AMBIGU",
     "catatan": "Dalam \"Ikan di Kolam\" dua ikan ke kiri dan tiga ikan ke kanan terjadi bersamaan; urutan keduanya tidak ditentukan teks sehingga kunci \"setelah\" arbitrer."
+   }
+  ],
+  "BIN-B6-0074": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyebut \"kartu hitung nomor N\" dan jumlah benda pada gambar sama dengan N; kunci terbaca dari nomor kartu tanpa menghitung gambar. Usulan: hilangkan nomor kartu atau pakai nomor tidak sama dengan jumlah."
+   }
+  ],
+  "BIN-B6-0075": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyebut \"kartu hitung nomor N\" dan jumlah benda pada gambar sama dengan N; kunci terbaca dari nomor kartu tanpa menghitung gambar. Usulan: hilangkan nomor kartu atau pakai nomor tidak sama dengan jumlah."
+   }
+  ],
+  "BIN-B6-0076": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyebut \"kartu hitung nomor N\" dan jumlah benda pada gambar sama dengan N; kunci terbaca dari nomor kartu tanpa menghitung gambar. Usulan: hilangkan nomor kartu atau pakai nomor tidak sama dengan jumlah."
+   }
+  ],
+  "BIN-B6-0077": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyebut \"kartu hitung nomor N\" dan jumlah benda pada gambar sama dengan N; kunci terbaca dari nomor kartu tanpa menghitung gambar. Usulan: hilangkan nomor kartu atau pakai nomor tidak sama dengan jumlah."
+   }
+  ],
+  "BIN-B6-0078": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyebut \"kartu hitung nomor N\" dan jumlah benda pada gambar sama dengan N; kunci terbaca dari nomor kartu tanpa menghitung gambar. Usulan: hilangkan nomor kartu atau pakai nomor tidak sama dengan jumlah."
+   }
+  ],
+  "BIN-B6-0095": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pernyataan Benar/Salah mengandung titik-titik (\"jumlahnya menjadi ... kursi\") tanpa angka sehingga tidak dapat dinilai."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Operasi penjumlahan/pengurangan tidak ada dalam TP/ATP (TP B6-03 hanya menulis dan menyebutkan bilangan 1-10); kata \"tambah/jumlah/sisa\" tidak muncul di teks ATP."
+   }
+  ],
+  "BIN-B6-0097": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal pengurangan tidak menyebut jumlah apel awal (\"setelah memberi satu apel ... sisa dua/tiga apel\"); data hilang sehingga kunci tidak dapat diverifikasi, dan B6-0097 (sisa dua = Salah) dan B6-0108 (sisa tiga) bergantung jumlah awal yang tidak ada."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Operasi penjumlahan/pengurangan tidak ada dalam TP/ATP (TP B6-03 hanya menulis dan menyebutkan bilangan 1-10); kata \"tambah/jumlah/sisa\" tidak muncul di teks ATP."
+   }
+  ],
+  "BIN-B6-0108": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal pengurangan tidak menyebut jumlah apel awal (\"setelah memberi satu apel ... sisa dua/tiga apel\"); data hilang sehingga kunci tidak dapat diverifikasi, dan B6-0097 (sisa dua = Salah) dan B6-0108 (sisa tiga) bergantung jumlah awal yang tidak ada."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Operasi penjumlahan/pengurangan tidak ada dalam TP/ATP (TP B6-03 hanya menulis dan menyebutkan bilangan 1-10); kata \"tambah/jumlah/sisa\" tidak muncul di teks ATP."
+   }
+  ],
+  "BIN-B6-0090": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Operasi penjumlahan/pengurangan tidak ada dalam TP/ATP (TP B6-03 hanya menulis dan menyebutkan bilangan 1-10); kata \"tambah/jumlah/sisa\" tidak muncul di teks ATP."
+   }
+  ],
+  "BIN-B6-0099": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Operasi penjumlahan/pengurangan tidak ada dalam TP/ATP (TP B6-03 hanya menulis dan menyebutkan bilangan 1-10); kata \"tambah/jumlah/sisa\" tidak muncul di teks ATP."
+   }
+  ],
+  "BIN-B7-0001": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\" tanpa memuat teks cerita (teks hanya pada B7-0006 dan B7-0009)."
+   }
+  ],
+  "BIN-B7-0002": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\" tanpa memuat teks cerita (teks hanya pada B7-0006 dan B7-0009)."
+   }
+  ],
+  "BIN-B7-0003": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\" tanpa memuat teks cerita (teks hanya pada B7-0006 dan B7-0009)."
+   }
+  ],
+  "BIN-B7-0004": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\" tanpa memuat teks cerita (teks hanya pada B7-0006 dan B7-0009)."
+   }
+  ],
+  "BIN-B7-0005": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\" tanpa memuat teks cerita (teks hanya pada B7-0006 dan B7-0009)."
+   }
+  ],
+  "BIN-B7-0007": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Kata Baru\" yang teksnya tidak pernah dimuat di soal mana pun."
+   }
+  ],
+  "BIN-B7-0008": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Kata Baru\" yang teksnya tidak pernah dimuat di soal mana pun."
+   }
+  ],
+  "BIN-B7-0010": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Kata Baru\" yang teksnya tidak pernah dimuat di soal mana pun."
+   }
+  ],
+  "BIN-B7-0011": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Kata Baru\" yang teksnya tidak pernah dimuat di soal mana pun."
+   }
+  ],
+  "BIN-B7-0012": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0013": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0014": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0015": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0016": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0017": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0018": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0019": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0020": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0021": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0022": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0023": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0024": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0025": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0026": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0027": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0028": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0029": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Hari Pertama Sekolah\"/\"Kata Baru\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B7-0046": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci \"tekun\" didefinisikan \"rajin dan tidak mudah menyerah\", sedangkan pengecoh \"rajin\" muncul dalam definisi itu sendiri sehingga dapat dibenarkan sebagian."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kosakata \"dermawan\" dan \"tekun\" jarang bagi murid kelas 1 (6-7 tahun) dan definisi bersifat abstrak."
+   }
+  ],
+  "BIN-B7-0042": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "\"Rajin = selalu bersungguh-sungguh\": definisi kurang tepat menurut KBBI (rajin: giat berusaha/bekerja); lebih dekat tekun; perlu keputusan ahli."
+   }
+  ],
+  "BIN-B7-0044": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "\"Rajin = selalu bersungguh-sungguh\": definisi kurang tepat menurut KBBI (rajin: giat berusaha/bekerja); lebih dekat tekun; perlu keputusan ahli."
+   }
+  ],
+  "BIN-B7-0038": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "\"Bangga = merasa senang dan hormat atas keberhasilan\": KBBI mengartikan besar hati/merasa gagah; unsur \"hormat\" tidak tepat; perlu keputusan ahli."
+   }
+  ],
+  "BIN-B7-0040": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "\"Bangga = merasa senang dan hormat atas keberhasilan\": KBBI mengartikan besar hati/merasa gagah; unsur \"hormat\" tidak tepat; perlu keputusan ahli."
+   }
+  ],
+  "BIN-B7-0033": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kosakata \"dermawan\" dan \"tekun\" jarang bagi murid kelas 1 (6-7 tahun) dan definisi bersifat abstrak."
+   }
+  ],
+  "BIN-B7-0035": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kosakata \"dermawan\" dan \"tekun\" jarang bagi murid kelas 1 (6-7 tahun) dan definisi bersifat abstrak."
+   }
+  ],
+  "BIN-B7-0059": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci \"tekun\" = \"rajin dan tidak mudah menyerah\"; pengecoh C \"selalu bersungguh-sungguh\" adalah definisi \"rajin\" dalam bank (B7-0042) yang sangat dekat dengan tekun, sehingga dapat dibenarkan."
+   }
+  ],
+  "BIN-B7-0063": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pasangan definisi \"rajin = selalu bersungguh-sungguh\" dan \"bangga = senang dan hormat atas keberhasilan\" tidak sesuai KBBI (lihat catatan B7-0042 dan B7-0038); perlu keputusan ahli."
+   }
+  ],
+  "BIN-B7-0064": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pasangan definisi \"rajin = selalu bersungguh-sungguh\" dan \"bangga = senang dan hormat atas keberhasilan\" tidak sesuai KBBI (lihat catatan B7-0042 dan B7-0038); perlu keputusan ahli."
+   }
+  ],
+  "BIN-B7-0062": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kosakata \"dermawan\" dan definisinya abstrak untuk kelas 1."
+   }
+  ],
+  "BIN-B7-0080": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pernyataan Benar/Salah mengandung titik-titik (\"pada bagian kamus yang ... .\") sehingga tidak lengkap dan tidak dapat dinilai; usulan: tulis \"yang awal\"."
+   }
+  ],
+  "BIN-B7-0081": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Kata Baru\" tanpa memuat teks (teks hanya ada pada B7-0075 dan B7-0076)."
+   }
+  ],
+  "BIN-B7-0087": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Kata Baru\" tanpa memuat teks (teks hanya ada pada B7-0075 dan B7-0076)."
+   }
+  ],
+  "BIN-B7-0089": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Kata Baru\" tanpa memuat teks (teks hanya ada pada B7-0075 dan B7-0076)."
+   }
+  ],
+  "BIN-B7-0090": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Kata Baru\" tanpa memuat teks (teks hanya ada pada B7-0075 dan B7-0076)."
+   }
+  ],
+  "BIN-B7-0094": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Kata Baru\" tanpa memuat teks (teks hanya ada pada B7-0075 dan B7-0076)."
+   }
+  ],
+  "BIN-B7-0095": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Kata Baru\" tanpa memuat teks (teks hanya ada pada B7-0075 dan B7-0076)."
+   }
+  ],
+  "BIN-B7-0077": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pernyataan dinyatakan Benar tanpa konteks cerita (\"Setelah ayah menjelaskan ..., Dina menulis ...\"): tidak ada dasar teks untuk memverifikasi tindakan Dina."
+   }
+  ],
+  "BIN-B7-0097": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka tanpa teks: setelah ayah menjelaskan arti kata, Dina dapat mengucapkan terima kasih, mengulang kata, dll.; jawaban tunggal \"menulis arti kata itu di buku\" tidak dapat disimpulkan dari stem."
+   }
+  ],
+  "BIN-B7-0106": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif (\"Kita tidak boleh bercerita yang ... tentang orang lain\"); usulan: \"Cerita tentang orang lain sebaiknya yang ...\"."
+   }
+  ],
+  "BIN-B7-0127": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif (\"Kita tidak boleh bercerita yang ... tentang orang lain\"); usulan: \"Cerita tentang orang lain sebaiknya yang ...\"."
+   }
+  ],
+  "BIN-B7-0110": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Unsur cerita (tokoh, tempat, peristiwa) tidak ada dalam ATP dan abstrak untuk kelas 1."
+   },
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh \"nilai\" (amanat/pesan) juga lazim disebut unsur cerita; jawaban \"peristiwa\" bergantung rujukan."
+   }
+  ],
+  "BIN-B7-0131": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Unsur cerita (tokoh, tempat, peristiwa) tidak ada dalam ATP dan abstrak untuk kelas 1."
+   }
+  ],
+  "BIN-B7-0132": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka: cara memulai cerita tentang kucing dapat bermacam-macam; kunci tunggal \"menyebut nama kucing dan di mana\" tidak tunggal."
    }
   ]
  }

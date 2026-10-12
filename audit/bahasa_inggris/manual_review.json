@@ -5,7 +5,9 @@
   "100-200 (ENG-B1-0101..0112, ENG-B2-0001..0088)",
   "200-300 (ENG-B2-0089..0111, ENG-B3-0001..0077)",
   "300-400 (ENG-B3-0078..0111, ENG-B4-0001..0066)",
-  "400-500 (ENG-B4-0067..0111, ENG-B5-0001..0055)"
+  "400-500 (ENG-B4-0067..0111, ENG-B5-0001..0055)",
+  "500-600 (ENG-B5-0056..0111, ENG-B6-0001..0044)",
+  "600-700 (ENG-B6-0045..0111, ENG-B7-0001..0033)"
  ],
  "temuan": {
   "ENG-B1-0051": [
@@ -860,6 +862,442 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Warna jawaban sudah tertulis dalam instruksi ('Color the chimney black'); soal hanya meminta menyalin kata warna."
+   }
+  ],
+  "ENG-B5-0064": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan 'ambil krayon' dan 'dengar instruksi' dapat dibalik secara wajar (ambil krayon dahulu lalu dengar instruksi); kunci urutan tidak unik."
+   }
+  ],
+  "ENG-B5-0083": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Green is garden the.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B5-0084": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Green is garden the.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B5-0085": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Green is garden the.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B5-0086": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Green is garden the.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B5-0069": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'sister/brother' diterjemahkan tidak konsisten: 0069 sister=Kakak, 0072 dan 0079 brother=Adik, 0074 brother=Kakak laki-laki; 'Adik' tidak menentukan jenis kelamin sehingga isian 0079 'My brother' tidak unik."
+   }
+  ],
+  "ENG-B5-0072": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'sister/brother' diterjemahkan tidak konsisten: 0069 sister=Kakak, 0072 dan 0079 brother=Adik, 0074 brother=Kakak laki-laki; 'Adik' tidak menentukan jenis kelamin sehingga isian 0079 'My brother' tidak unik."
+   },
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Brother=Adik di sini bertentangan dengan ENG-B5-0074 (Brother=Kakak laki-laki) dan ENG-B4-0001..0002 (brother = kakak atau adik laki-laki)."
+   }
+  ],
+  "ENG-B5-0074": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'sister/brother' diterjemahkan tidak konsisten: 0069 sister=Kakak, 0072 dan 0079 brother=Adik, 0074 brother=Kakak laki-laki; 'Adik' tidak menentukan jenis kelamin sehingga isian 0079 'My brother' tidak unik."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyebut lokasi dalam teks ('Kakak laki-laki sedang berada di kamar mandi'), sehingga jawaban terbaca dari soal dan gambar tidak diperlukan; pengecoh hanya mengganti ruangan."
+   }
+  ],
+  "ENG-B5-0079": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'sister/brother' diterjemahkan tidak konsisten: 0069 sister=Kakak, 0072 dan 0079 brother=Adik, 0074 brother=Kakak laki-laki; 'Adik' tidak menentukan jenis kelamin sehingga isian 0079 'My brother' tidak unik."
+   },
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Brother=Adik di sini bertentangan dengan ENG-B5-0074 (Brother=Kakak laki-laki) dan ENG-B4-0001..0002 (brother = kakak atau adik laki-laki)."
+   }
+  ],
+  "ENG-B5-0075": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyebut lokasi dalam teks ('Kakak laki-laki sedang berada di kamar mandi'), sehingga jawaban terbaca dari soal dan gambar tidak diperlukan; pengecoh hanya mengganti ruangan."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Deskripsi gambar 'Kakek berada di taman di dalam rumah' janggal (taman di dalam rumah)."
+   }
+  ],
+  "ENG-B5-0087": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B5-0088": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B5-0089": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf e-g-n-a-r-d dapat disusun 'garden' dan 'danger'; kunci tidak unik."
+   }
+  ],
+  "ENG-B5-0090": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B5-0091": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B5-0092": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf n-l-t-e-a-r-g-i dapat disusun 'triangle', 'integral', 'relating'; kunci tidak unik."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Anagram 8 huruf (triangle) terlalu sulit untuk kelas 1."
+   }
+  ],
+  "ENG-B5-0098": [
+   {
+    "kode": "AKURASI_SALAH_TEGAS",
+    "catatan": "'Ruang tamuku besar' diterjemahkan 'The living room is big.'; akhiran -ku berarti 'my' (usulan: My living room is big, atau ubah teks Indonesia menjadi 'ruang tamunya besar'). Bertentangan dengan ENG-B5-0107 yang menerjemahkan 'The living room is big' sebagai 'ruang tamunya'."
+   },
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Terjemahan 'The living room is big' berbeda dengan ENG-B5-0107 (ruang tamunya besar)."
+   }
+  ],
+  "ENG-B5-0106": [
+   {
+    "kode": "AKURASI_SALAH_TEGAS",
+    "catatan": "'Ruang tamuku besar' diterjemahkan 'The living room is big.'; akhiran -ku berarti 'my' (usulan: My living room is big, atau ubah teks Indonesia menjadi 'ruang tamunya besar'). Bertentangan dengan ENG-B5-0107 yang menerjemahkan 'The living room is big' sebagai 'ruang tamunya'."
+   },
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Terjemahan 'The living room is big' berbeda dengan ENG-B5-0107 (ruang tamunya besar)."
+   }
+  ],
+  "ENG-B5-0100": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kosakata sifat 'wide', 'beautiful' (juga 'clean' di 0098) tidak diajarkan di Bab 5 dan sulit dieja/dipahami kelas 1."
+   }
+  ],
+  "ENG-B5-0101": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kosakata sifat 'wide', 'beautiful' (juga 'clean' di 0098) tidak diajarkan di Bab 5 dan sulit dieja/dipahami kelas 1."
+   }
+  ],
+  "ENG-B5-0103": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kosakata sifat 'wide', 'beautiful' (juga 'clean' di 0098) tidak diajarkan di Bab 5 dan sulit dieja/dipahami kelas 1."
+   }
+  ],
+  "ENG-B5-0110": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'My house has three bedrooms' memakai has (orang ketiga) dan jamak; lebih rumit dari frase sederhana kelas 1; ordering 5 kata."
+   }
+  ],
+  "ENG-B6-0002": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "'Kata hamster berarti hamster': kata yang sama dengan kunci terbaca dari stem; tidak menguji makna."
+   }
+  ],
+  "ENG-B6-0006": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'chair/book/table' (benda kelas) mudah dieliminasi dan bukan hewan; stem menyebut jenis hewan dalam Indonesia ('anjing') sehingga jawaban terbaca."
+   }
+  ],
+  "ENG-B6-0007": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'chair/book/table' (benda kelas) mudah dieliminasi dan bukan hewan; stem menyebut jenis hewan dalam Indonesia ('anjing') sehingga jawaban terbaca."
+   }
+  ],
+  "ENG-B6-0008": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'chair/book/table' (benda kelas) mudah dieliminasi dan bukan hewan; stem menyebut jenis hewan dalam Indonesia ('anjing') sehingga jawaban terbaca."
+   }
+  ],
+  "ENG-B6-0009": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'chair/book/table' (benda kelas) mudah dieliminasi dan bukan hewan; stem menyebut jenis hewan dalam Indonesia ('anjing') sehingga jawaban terbaca."
+   }
+  ],
+  "ENG-B6-0011": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Kalimat 'Hewan peliharaan hewan kecil yang ...' tidak alami (pengulangan 'hewan'); perbaiki redaksi tanpa mengubah kunci."
+   }
+  ],
+  "ENG-B6-0013": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Kalimat 'Hewan peliharaan hewan kecil yang ...' tidak alami (pengulangan 'hewan'); perbaiki redaksi tanpa mengubah kunci."
+   },
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'bird' dapat dibenarkan karena parrot adalah jenis bird dan bird tertentu juga menirukan suara manusia."
+   }
+  ],
+  "ENG-B6-0016": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Kalimat 'Hewan peliharaan hewan kecil yang ...' tidak alami (pengulangan 'hewan'); perbaiki redaksi tanpa mengubah kunci."
+   }
+  ],
+  "ENG-B6-0017": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Kalimat 'Hewan peliharaan hewan kecil yang ...' tidak alami (pengulangan 'hewan'); perbaiki redaksi tanpa mengubah kunci."
+   }
+  ],
+  "ENG-B6-0018": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Kalimat 'Hewan peliharaan hewan kecil yang ...' tidak alami (pengulangan 'hewan'); perbaiki redaksi tanpa mengubah kunci."
+   }
+  ],
+  "ENG-B6-0020": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Deskripsi gambar 'toko hewan mainan' tidak sesuai dengan konteks toko hewan peliharaan."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh tidak berhubungan dengan konteks toko hewan (Stand up, Good night, I like the door, Sit down) sehingga mudah dieliminasi."
+   }
+  ],
+  "ENG-B6-0022": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh tidak berhubungan dengan konteks toko hewan (Stand up, Good night, I like the door, Sit down) sehingga mudah dieliminasi."
+   }
+  ],
+  "ENG-B6-0023": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh tidak berhubungan dengan konteks toko hewan (Stand up, Good night, I like the door, Sit down) sehingga mudah dieliminasi."
+   }
+  ],
+  "ENG-B6-0026": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh tidak berhubungan dengan konteks toko hewan (Stand up, Good night, I like the door, Sit down) sehingga mudah dieliminasi."
+   }
+  ],
+  "ENG-B6-0031": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'Hold the hamster gently' memuat 'gently' yang sulit untuk kelas 1."
+   }
+  ],
+  "ENG-B6-0039": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan merawat kucing (panggil, beri makan, belai, bersihkan mangkuk) tidak unik; 'Clean the bowl' bisa sebelum 'Feed the cat'."
+   }
+  ],
+  "ENG-B6-0050": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Kerangka 'It is a ... cat' memakai artikel 'a' tetap padahal warna pilihan murid bisa berawalan vokal (orange -> an orange cat); tugas tidak dapat dinilai konsisten."
+   }
+  ],
+  "ENG-B6-0065": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja meminta menghitung gambar guru tetapi jawabannya ditetapkan di soal ('I have five pets.'); hasil hitungan tidak dapat dinilai karena jumlah gambar tidak ditentukan."
+   }
+  ],
+  "ENG-B6-0066": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja meminta menghitung gambar guru tetapi jawabannya ditetapkan di soal ('I have five pets.'); hasil hitungan tidak dapat dinilai karena jumlah gambar tidak ditentukan."
+   }
+  ],
+  "ENG-B6-0067": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja meminta menghitung gambar guru tetapi jawabannya ditetapkan di soal ('I have five pets.'); hasil hitungan tidak dapat dinilai karena jumlah gambar tidak ditentukan."
+   }
+  ],
+  "ENG-B6-0068": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja meminta menghitung gambar guru tetapi jawabannya ditetapkan di soal ('I have five pets.'); hasil hitungan tidak dapat dinilai karena jumlah gambar tidak ditentukan."
+   }
+  ],
+  "ENG-B6-0070": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kalimat 'My rabbit likes carrots.' memakai likes (orang ketiga tunggal) dan struktur baru; lebih rumit dari frase sederhana kelas 1."
+   }
+  ],
+  "ENG-B6-0072": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kalimat 'My rabbit likes carrots.' memakai likes (orang ketiga tunggal) dan struktur baru; lebih rumit dari frase sederhana kelas 1."
+   }
+  ],
+  "ENG-B6-0078": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kalimat 'My rabbit likes carrots.' memakai likes (orang ketiga tunggal) dan struktur baru; lebih rumit dari frase sederhana kelas 1."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Perintah 'ceritakan hewan peliharaanmu' tetapi murid diminta mengucapkan kalimat tetap tentang rabbit; tidak cocok dengan hewan murid dan tidak menilai pemahaman."
+   }
+  ],
+  "ENG-B6-0075": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Hamsterku lucu' = 'My hamster is cute'; 'cute' lebih tepat 'imut', 'lucu' dapat berarti funny; ahli perlu menetapkan padanan."
+   }
+  ],
+  "ENG-B6-0079": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Fish have three I.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B6-0080": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Fish have three I.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B6-0081": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Fish have three I.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B6-0082": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Fish have three I.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B6-0101": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Fish have three I.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B6-0102": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Fish have three I.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B6-0103": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Fish have three I.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B6-0104": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Fish have three I.') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B6-0083": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B6-0084": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B6-0085": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B6-0086": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B6-0087": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B6-0094": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kosakata 'customer' sulit untuk kelas 1 dan tidak terkait dengan hewan peliharaan."
+   }
+  ],
+  "ENG-B6-0099": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian 'penjual' dapat dijawab seller, shopkeeper, atau salesperson; kunci 'seller' tidak unik."
+   }
+  ],
+  "ENG-B6-0108": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian '.... cat is in the cage. (kucing ada di dalam kandang)' dapat dijawab The / My / A; kunci 'The' tidak unik."
+   }
+  ],
+  "ENG-B7-0011": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pengelompokan 'luar ruangan' vs 'dalam ruangan' tidak tegas (ball, doll, robot dapat dimainkan di keduanya); instruksi 'menurut kegunaannya' tidak sesuai kategori tempat."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Abstraksi tempat bermain (dalam/luar ruangan) dengan mainan 'robot' dan 'bicycle' di luar daftar kosakata kelas 1 TP B7-01."
    }
   ]
  }

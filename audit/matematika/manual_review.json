@@ -8,7 +8,9 @@
   "400-500 (MTK-B3-0133, MTK-B4-0001..0099)",
   "500-600 (MTK-B4-0100, MTK-B5-0001..0099)",
   "600-700 (MTK-B5-0100..0133, MTK-B6-0001..0066)",
-  "700-800 (MTK-B6-0067..0133, MTK-B7-0001..0033)"
+  "700-800 (MTK-B6-0067..0133, MTK-B7-0001..0033)",
+  "800-900 (MTK-B7-0034..0133)",
+  "900-1000 (MTK-B8-0001..0100)"
  ],
  "temuan": {
   "MTK-B1-0007": [
@@ -693,6 +695,280 @@
    {
     "kode": "AMBIGU",
     "catatan": "Sama dengan MTK-B6-0110: 'tepat di depan nomor 13' tidak menyebut arah barisan; kunci 'nomor 12' bergantung asumsi."
+   }
+  ],
+  "MTK-B7-0118": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan Benar/Salah menyalin kalimat tanya berisi titik-titik ('Sisa ... adalah .... Jawabannya N'); bentuk campuran pertanyaan dan pernyataan, titik-titik tanpa makna. Kunci tidak berubah jika dirapikan."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   }
+  ],
+  "MTK-B7-0119": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan Benar/Salah menyalin kalimat tanya berisi titik-titik ('Sisa ... adalah .... Jawabannya N'); bentuk campuran pertanyaan dan pernyataan, titik-titik tanpa makna. Kunci tidak berubah jika dirapikan."
+   }
+  ],
+  "MTK-B7-0120": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan Benar/Salah menyalin kalimat tanya berisi titik-titik ('Sisa ... adalah .... Jawabannya N'); bentuk campuran pertanyaan dan pernyataan, titik-titik tanpa makna. Kunci tidak berubah jika dirapikan."
+   }
+  ],
+  "MTK-B7-0121": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan Benar/Salah menyalin kalimat tanya berisi titik-titik ('Sisa ... adalah .... Jawabannya N'); bentuk campuran pertanyaan dan pernyataan, titik-titik tanpa makna. Kunci tidak berubah jika dirapikan."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   }
+  ],
+  "MTK-B7-0122": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan Benar/Salah menyalin kalimat tanya berisi titik-titik ('Sisa ... adalah .... Jawabannya N'); bentuk campuran pertanyaan dan pernyataan, titik-titik tanpa makna. Kunci tidak berubah jika dirapikan."
+   }
+  ],
+  "MTK-B7-0123": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan Benar/Salah menyalin kalimat tanya berisi titik-titik ('Sisa ... adalah .... Jawabannya N'); bentuk campuran pertanyaan dan pernyataan, titik-titik tanpa makna. Kunci tidak berubah jika dirapikan."
+   }
+  ],
+  "MTK-B7-0125": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan Benar/Salah menyalin kalimat tanya berisi titik-titik ('Sisa ... adalah .... Jawabannya N'); bentuk campuran membingungkan."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   }
+  ],
+  "MTK-B7-0126": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan Benar/Salah menyalin kalimat tanya berisi titik-titik ('Sisa ... adalah .... Jawabannya N'); bentuk campuran membingungkan."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   }
+  ],
+  "MTK-B7-0107": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   }
+  ],
+  "MTK-B7-0108": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   }
+  ],
+  "MTK-B7-0110": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   }
+  ],
+  "MTK-B7-0114": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   }
+  ],
+  "MTK-B7-0116": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   }
+  ],
+  "MTK-B7-0117": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   }
+  ],
+  "MTK-B7-0129": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   }
+  ],
+  "MTK-B7-0112": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kunci jauh lebih panjang dan paling lengkap, pengecoh jelas buruk ('mengurangi jumlah agar dibayar lebih'); jawaban terbaca tanpa hitung; jumlah 15 sudah diberikan di stem."
+   }
+  ],
+  "MTK-B7-0130": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bebas frasa panjang; jumlah 15 jeruk tidak muncul sehingga tidak mengukur penjumlahan; banyak jawaban sah (mis. 'menghitung dengan jujur')."
+   }
+  ],
+  "MTK-B8-0008": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Kalimat 'pelajaran digambar 4 kali dan gambar digambar 3 kali' memakai kata 'gambar' sebagai nama kategori dan sebagai kata kerja; kalimat membingungkan murid kelas 1. Kunci (pelajaran) tidak berubah."
+   }
+  ],
+  "MTK-B8-0001": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kunci definisi jauh lebih panjang dan abstrak daripada pengecoh absurd (alat tulis, makanan, mainan); terbaca dari panjang opsi."
+   }
+  ],
+  "MTK-B8-0029": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bebas dengan definisi panjang ('keterangan yang dikumpulkan dan dihitung'); tidak cocok sebagai isian bebas untuk kelas 1, banyak rumusan lain yang sah."
+   }
+  ],
+  "MTK-B8-0031": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bebas dengan frasa panjang 'mengumpulkan dan menghitung data'; penilaian sulit."
+   }
+  ],
+  "MTK-B8-0072": [
+   {
+    "kode": "ATP_INDIKASI_KUAT",
+    "catatan": "Bilangan genap/ganjil tidak ada di seluruh teks CP/ATP Matematika Fase A (pencarian 'genap' dan 'ganjil' pada ATP: 0 kemunculan); pengelompokan data pada TP B8-02 tidak mencakup sifat bilangan."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Konsep genap dan ganjil (tanpa nama istilah di soal pun) tidak dibangun pada kelas 1; kunci memakai istilah 'bilangan genap/ganjil'."
+   }
+  ],
+  "MTK-B8-0076": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'selisih antara yang terbanyak dan yang paling sedikit' abstrak untuk kelas 1; istilah 'selisih' tidak ada di CP/ATP dan soal menuntut dua langkah (cari maksimum-minimum lalu kurangkan)."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "TP B8-03 berfokus membandingkan dan menyajikan data dengan turus/piktogram; mencari selisih dua jumlah adalah pengurangan (TP-MTK-B7-03 atau TP-MTK-B3-02)."
+   }
+  ],
+  "MTK-B8-0077": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'selisih antara yang terbanyak dan yang paling sedikit' abstrak untuk kelas 1; istilah 'selisih' tidak ada di CP/ATP dan soal menuntut dua langkah (cari maksimum-minimum lalu kurangkan)."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "TP B8-03 berfokus membandingkan dan menyajikan data dengan turus/piktogram; mencari selisih dua jumlah adalah pengurangan (TP-MTK-B7-03 atau TP-MTK-B3-02)."
+   }
+  ],
+  "MTK-B8-0080": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'selisih antara yang terbanyak dan yang paling sedikit' abstrak untuk kelas 1; istilah 'selisih' tidak ada di CP/ATP dan soal menuntut dua langkah (cari maksimum-minimum lalu kurangkan)."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "TP B8-03 berfokus membandingkan dan menyajikan data dengan turus/piktogram; mencari selisih dua jumlah adalah pengurangan (TP-MTK-B7-03 atau TP-MTK-B3-02)."
+   }
+  ],
+  "MTK-B8-0082": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'selisih antara yang terbanyak dan yang paling sedikit' abstrak untuk kelas 1; istilah 'selisih' tidak ada di CP/ATP dan soal menuntut dua langkah (cari maksimum-minimum lalu kurangkan)."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "TP B8-03 berfokus membandingkan dan menyajikan data dengan turus/piktogram; mencari selisih dua jumlah adalah pengurangan (TP-MTK-B7-03 atau TP-MTK-B3-02)."
+   }
+  ],
+  "MTK-B8-0083": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'selisih antara yang terbanyak dan yang paling sedikit' abstrak untuk kelas 1; istilah 'selisih' tidak ada di CP/ATP dan soal menuntut dua langkah (cari maksimum-minimum lalu kurangkan)."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "TP B8-03 berfokus membandingkan dan menyajikan data dengan turus/piktogram; mencari selisih dua jumlah adalah pengurangan (TP-MTK-B7-03 atau TP-MTK-B3-02)."
+   }
+  ],
+  "MTK-B8-0084": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'selisih antara yang terbanyak dan yang paling sedikit' abstrak untuk kelas 1; istilah 'selisih' tidak ada di CP/ATP dan soal menuntut dua langkah (cari maksimum-minimum lalu kurangkan)."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "TP B8-03 berfokus membandingkan dan menyajikan data dengan turus/piktogram; mencari selisih dua jumlah adalah pengurangan (TP-MTK-B7-03 atau TP-MTK-B3-02)."
+   }
+  ],
+  "MTK-B8-0085": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'selisih antara yang terbanyak dan yang paling sedikit' abstrak untuk kelas 1; istilah 'selisih' tidak ada di CP/ATP dan soal menuntut dua langkah (cari maksimum-minimum lalu kurangkan)."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "TP B8-03 berfokus membandingkan dan menyajikan data dengan turus/piktogram; mencari selisih dua jumlah adalah pengurangan (TP-MTK-B7-03 atau TP-MTK-B3-02)."
+   }
+  ],
+  "MTK-B8-0087": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'selisih antara yang terbanyak dan yang paling sedikit' abstrak untuk kelas 1; istilah 'selisih' tidak ada di CP/ATP dan soal menuntut dua langkah (cari maksimum-minimum lalu kurangkan)."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "TP B8-03 berfokus membandingkan dan menyajikan data dengan turus/piktogram; mencari selisih dua jumlah adalah pengurangan (TP-MTK-B7-03 atau TP-MTK-B3-02)."
+   }
+  ],
+  "MTK-B8-0059": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menjumlahkan seluruh data (total) adalah penjumlahan bilangan (TP-MTK-B7-02), bukan mengelompokkan data (TP B8-02)."
+   }
+  ],
+  "MTK-B8-0060": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menjumlahkan seluruh data (total) adalah penjumlahan bilangan (TP-MTK-B7-02), bukan mengelompokkan data (TP B8-02)."
+   }
+  ],
+  "MTK-B8-0061": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menjumlahkan seluruh data (total) adalah penjumlahan bilangan (TP-MTK-B7-02), bukan mengelompokkan data (TP B8-02)."
+   }
+  ],
+  "MTK-B8-0062": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menjumlahkan seluruh data (total) adalah penjumlahan bilangan (TP-MTK-B7-02), bukan mengelompokkan data (TP B8-02)."
+   }
+  ],
+  "MTK-B8-0063": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menjumlahkan seluruh data (total) adalah penjumlahan bilangan (TP-MTK-B7-02), bukan mengelompokkan data (TP B8-02)."
+   }
+  ],
+  "MTK-B8-0064": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menjumlahkan seluruh data (total) adalah penjumlahan bilangan (TP-MTK-B7-02), bukan mengelompokkan data (TP B8-02)."
+   }
+  ],
+  "MTK-B8-0069": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menjumlahkan seluruh data (total) adalah penjumlahan bilangan (TP-MTK-B7-02), bukan mengelompokkan data (TP B8-02)."
    }
   ]
  }

@@ -4,14 +4,14 @@
  "soal_awal": 1000,
  "soal_diperiksa": 1000,
  "status": {
-  "PASS": 751,
-  "NEEDS_REVIEW": 202,
-  "REVISE": 47
+  "PASS": 871,
+  "NEEDS_REVIEW": 81,
+  "REVISE": 48
  },
- "valid_PASS": 751,
- "perlu_revisi": 47,
+ "valid_PASS": 871,
+ "perlu_revisi": 48,
  "ditolak": 0,
- "perlu_ahli": 202,
+ "perlu_ahli": 81,
  "duplikat_identik_ID": 0,
  "duplikat_substantif_pasangan": 17,
  "tanpa_pemetaan_TP": 0,
@@ -22,16 +22,36 @@
   "INDIKASI_KUAT_TP_LAIN": 2
  },
  "atp_final": {
-  "SELARAS_MESIN": 837,
-  "BELUM_DITINJAU_INDIKASI_LEKSIKAL": 65,
-  "BELUM_DITINJAU_INDIKASI_ISTILAH_ABSEN_DI_ATP": 96,
-  "BELUM_DITINJAU_INDIKASI_KUAT_TP_LAIN": 2
+  "SELARAS_MESIN": 836,
+  "SELARAS_TINJAU_BACA": 153,
+  "INDIKASI_TINJAU_BACA": 11
  },
- "tinjau_baca_kode": {},
- "tinjau_baca_dimuat": false,
+ "tinjau_baca_kode": {
+  "USIA_ISI": 16,
+  "DUP_DIPERTAHANKAN": 32,
+  "AMBIGU": 12,
+  "DISTRAKTOR_AMBIGU": 5,
+  "AKURASI_AHLI": 33,
+  "BAHASA": 1,
+  "ATP_INDIKASI": 11,
+  "KONSTRUKSI": 2,
+  "AKURASI_SALAH_TEGAS": 1,
+  "DUP_SUBSTANTIF": 2
+ },
+ "tinjau_baca_dimuat": true,
  "issue": {
+  "tinjau_baca_USIA_ISI": 16,
   "duplikat_substantif_kandidat": 34,
-  "petunjuk_kunci_terpanjang": 51
+  "tinjau_baca_DUP_DIPERTAHANKAN": 32,
+  "petunjuk_kunci_terpanjang": 51,
+  "tinjau_baca_AMBIGU": 12,
+  "tinjau_baca_DISTRAKTOR_AMBIGU": 5,
+  "tinjau_baca_AKURASI_AHLI": 33,
+  "tinjau_baca_BAHASA": 1,
+  "tinjau_baca_ATP_INDIKASI": 11,
+  "tinjau_baca_KONSTRUKSI": 2,
+  "tinjau_baca_AKURASI_SALAH_TEGAS": 1,
+  "tinjau_baca_DUP_SUBSTANTIF": 2
  },
  "kesulitan": {
   "medium": 553,
