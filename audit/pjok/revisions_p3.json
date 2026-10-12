@@ -1331,6 +1331,37 @@
    ],
    "alasan": "Kriteria tugas kinerja dibuat teramati (2-3 indikator); rubrik inti tidak diubah.",
    "verifikasi": "Kunci/rubrik inti tidak diubah; hanya indikator teramati pada soal dan penjelasan."
+  },
+  "PJK-HA-0021": {
+   "perubahan": {
+    "options": [
+     "A. hanya duduk dan beristirahat",
+     "B. menggerakkan tubuh",
+     "C. hanya melihat teman bermain",
+     "D. dilakukan tanpa bergerak"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd (hanya tidur, membuat tubuh diam) diganti pernyataan yang lebih masuk akal tetapi jelas bukan gerak.",
+   "verifikasi": "Kunci tetap B; semua pengecoh menyatakan tidak bergerak."
+  },
+  "PJK-MH-0024": {
+   "perubahan": {
+    "options": [
+     "A. tanggal kedaluwarsa dan informasi gizi",
+     "B. nama pembuat dan alamat pabrik saja",
+     "C. gambar tokoh di kemasan",
+     "D. warna dan bentuk kemasan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan dibuat lebih masuk akal.",
+   "verifikasi": "Kunci tetap A; hanya tanggal kedaluwarsa dan informasi gizi yang menentukan layak tidaknya snack."
   }
  },
  "tidak_direvisi": {

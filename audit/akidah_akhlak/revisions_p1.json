@@ -1,0 +1,1819 @@
+{
+ "revisi": {
+  "AKA-SY-0009": {
+   "perubahan": {
+    "options": [
+     "A. malaikat pembawa wahyu",
+     "B. nabi pembawa ajaran",
+     "C. Tuhan yang disembah",
+     "D. kitab suci umat Islam"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"Tuhan yang disembah\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SY-0034": {
+   "perubahan": {
+    "options": [
+     "A. bacaan hamdalah",
+     "B. bacaan basmalah",
+     "C. doa sebelum makan",
+     "D. syahadat rasul"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"syahadat rasul\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SY-0037": {
+   "perubahan": {
+    "question": "Benar atau salah: Syahadat rasul berbunyi \"Wa asyhadu anna Muhammadan rasulullah\".",
+    "explanation": "Benar. Syahadat rasul berbunyi Wa asyhadu anna Muhammadan rasulullah."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Instruksi \"Lengkapi ...\" dibuang dan diganti pernyataan utuh yang dapat dinilai benar atau salah; bunyi syahadat dan kunci tidak berubah.",
+   "verifikasi": "Lafaz syahadat rasul pada pernyataan sama dengan lafaz di penjelasan asli, sehingga kunci \"Benar\" tetap tepat."
+  },
+  "AKA-SY-0053": {
+   "perubahan": {
+    "options": [
+     "A. tidak perlu beribadah kepada Allah lagi",
+     "B. menyembah Nabi Muhammad saw. seperti Allah",
+     "C. melupakan Allah dan hanya mengingat Nabi",
+     "D. meneladani dan menaati Nabi Muhammad saw."
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"meneladani dan menaati Nabi Muhammad saw.\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SY-0056": {
+   "perubahan": {
+    "options": [
+     "A. membahas tata cara puasa Ramadan",
+     "B. berisi kisah para nabi terdahulu",
+     "C. berisi doa sebelum dan sesudah makan",
+     "D. memuat kata asyhadu (aku bersaksi)"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"memuat kata asyhadu (aku bersaksi)\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SY-0083": {
+   "perubahan": {
+    "options": [
+     "A. malaikat yang menjaga pintu surga",
+     "B. utusan Allah yang menjadi teladan kita",
+     "C. anak Allah yang tinggal di langit",
+     "D. Tuhan yang harus kita sembah juga"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"utusan Allah yang menjadi teladan kita\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SY-0084": {
+   "perubahan": {
+    "options": [
+     "A. menyalahkan temannya agar tidak dimarahi",
+     "B. jujur mengakui kesalahan dan meminta maaf",
+     "C. berbohong kepada guru agar tidak dihukum",
+     "D. menyembunyikan kesalahan dari semua orang"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"jujur mengakui kesalahan dan meminta maaf\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SY-0085": {
+   "perubahan": {
+    "options": [
+     "A. menjauhinya dan tidak mau menyapanya sama sekali",
+     "B. tidak peduli dan pura-pura tidak melihatnya",
+     "C. mengejeknya dan menertawakan keyakinannya",
+     "D. menyambutnya dengan ramah dan mengucapkan selamat"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menyambutnya dengan ramah dan mengucapkan selamat\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SY-0086": {
+   "perubahan": {
+    "options": [
+     "A. melupakan ajarannya dan akhlak mulianya",
+     "B. marah kepada teman yang berbeda pendapat",
+     "C. menirukan akhlaknya yang jujur dan penyayang",
+     "D. berbohong bila takut dimarahi orang tua"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menirukan akhlaknya yang jujur dan penyayang\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SY-0087": {
+   "perubahan": {
+    "options": [
+     "A. memusuhinya dan menjauhinya setiap hari",
+     "B. tetap berteman baik dan saling menghormati",
+     "C. memaksanya agar masuk Islam hari itu juga",
+     "D. mengejek keyakinannya di depan banyak orang"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"tetap berteman baik dan saling menghormati\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SY-0090": {
+   "perubahan": {
+    "options": [
+     "A. menolak dengan sopan dan hanya memohon kepada Allah",
+     "B. menertawakan temannya di depan banyak orang",
+     "C. ikut memohon kepada batu besar bersama temannya",
+     "D. diam saja lalu ikut-ikutan memohon kepada batu"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menolak dengan sopan dan hanya memohon kepada Allah\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SY-0091": {
+   "perubahan": {
+    "options": [
+     "A. ingin dipuji oleh banyak orang",
+     "B. takut dimarahi guru kalau tidak salat",
+     "C. hanya Allah yang berhak disembah",
+     "D. hanya ikut-ikutan teman yang salat"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"hanya Allah yang berhak disembah\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-TY-0008": {
+   "perubahan": {
+    "options": [
+     "A. Bismillahirrahmanirrahim",
+     "B. Alhamdulillahi rabbil 'alamin",
+     "C. A'udzu billahi minasy-syaithanir-rajim",
+     "D. Subhanallah walhamdulillah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"A'udzu billahi minasy-syaithanir-rajim\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-TY-0011": {
+   "perubahan": {
+    "question": "Basmalah, hamdalah, dan taawuz termasuk kalimat tayibah. Jumlah kalimat tayibah tersebut adalah ... macam."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Rujukan \"pada bab ini\" yang tidak jelas dihapus dan diganti dengan penyebutan kalimat tayibah yang dimaksud; opsi dan kunci tidak berubah.",
+   "verifikasi": "Kunci 3 tetap benar karena ada tiga kalimat yang disebut (basmalah, hamdalah, taawuz) sesuai penjelasan asli; opsi 4, 5, 2 tetap salah."
+  },
+  "AKA-TY-0019": {
+   "perubahan": {
+    "question": "Benar atau salah: Bacaan taawuz adalah \"Bismillahirrahmanirrahim\".",
+    "explanation": "Salah. Bismillahirrahmanirrahim adalah basmalah. Taawuz adalah A'udzu billahi minasy-syaithanir-rajim."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Instruksi \"Lengkapi ...\" dibuang; pernyataan dibuat utuh dan salahnya jelas (bukan selisih satu huruf) sehingga dapat dinilai murid kelas 1. Kunci tetap Salah.",
+   "verifikasi": "Bismillahirrahmanirrahim jelas basmalah, bukan taawuz, sehingga pernyataan tetap salah dan kunci \"Salah\" tidak berubah."
+  },
+  "AKA-TY-0022": {
+   "perubahan": {
+    "question": "Benar atau salah: Bacaan hamdalah adalah \"Allahu akbar\".",
+    "explanation": "Salah. Hamdalah adalah Alhamdulillah. Allahu akbar adalah takbir."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Instruksi \"Lengkapi ...\" dibuang; pernyataan dibuat utuh dan salahnya jelas (bukan selisih satu huruf billah/lillah). Kunci tetap Salah.",
+   "verifikasi": "Hamdalah adalah Alhamdulillah, bukan Allahu akbar, sehingga pernyataan salah dan kunci \"Salah\" tetap."
+  },
+  "AKA-TY-0027": {
+   "perubahan": {
+    "question": "Isilah titik-titik berikut: Basmalah, hamdalah, dan taawuz termasuk kalimat tayibah. Jumlah kalimat tayibah tersebut adalah ... macam."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Rujukan \"pada bab ini\" dihapus dan diganti dengan penyebutan kalimat yang dimaksud (sama dengan AKA-TY-0011); kunci tidak berubah.",
+   "verifikasi": "Kunci \"3\" tetap benar karena tiga kalimat disebut; tidak ada jawaban lain yang benar."
+  },
+  "AKA-TY-0036": {
+   "perubahan": {
+    "options": [
+     "A. Allah Maha Besar, tiada yang lebih besar dari-Nya",
+     "B. aku berlindung kepada Allah dari setan yang terkutuk",
+     "C. dengan menyebut nama Allah Yang Maha Pengasih",
+     "D. segala puji bagi Allah, Tuhan seluruh alam"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"aku berlindung kepada Allah dari setan yang terkutuk\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-TY-0065": {
+   "perubahan": {
+    "options": [
+     "A. taawuz",
+     "B. hamdalah",
+     "C. basmalah",
+     "D. salam"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral. Pengecoh \"tahmid\" (istilah asing, sinonim hamdalah) diganti \"salam\" yang dikenal murid dan jelas bukan bacaan perlindungan.",
+   "verifikasi": "Huruf dan teks kunci \"taawuz\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-TY-0073": {
+   "perubahan": {
+    "options": [
+     "A. A'udzu billahi minasy-syaithanir-rajim",
+     "B. Assalamu'alaikum warahmatullahi",
+     "C. Alhamdulillahi rabbil 'alamin",
+     "D. Bismillahirrahmanirrahim"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"A'udzu billahi minasy-syaithanir-rajim\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-TY-0076": {
+   "perubahan": {
+    "options": [
+     "A. tertawa dan membiarkan temannya berkata kasar",
+     "B. membaca ta'awudz dan menolak dengan sopan",
+     "C. ikut berkata kasar bersama temannya itu",
+     "D. membalas dengan kata-kata yang lebih keras"
+    ],
+    "question": "Teman mengajak Hasan berkata kasar. Sikap Hasan yang tepat adalah ...."
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "BAHASA"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral. Batang soal diubah menjadi \"Sikap Hasan yang tepat adalah ....\" agar sejajar dengan semua opsi (tidak lagi \"membaca\" ganda).",
+   "verifikasi": "Huruf dan teks kunci \"membaca ta'awudz dan menolak dengan sopan\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-TY-0077": {
+   "perubahan": {
+    "options": [
+     "A. bismillah dan terima kasih",
+     "B. astaghfirullah dan terima kasih",
+     "C. alhamdulillah dan terima kasih",
+     "D. a'udzu billah dan terima kasih"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"alhamdulillah dan terima kasih\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-TY-0081": {
+   "perubahan": {
+    "options": [
+     "A. assalamu'alaikum warahmatullahi",
+     "B. alhamdulillahi rabbil 'alamin",
+     "C. a'udzu billahi minasy-syaithanir-rajim",
+     "D. bismillahirrahmanirrahim"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"a'udzu billahi minasy-syaithanir-rajim\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-TY-0083": {
+   "perubahan": {
+    "options": [
+     "A. berteriak-teriak sambil berlari keluar kamar",
+     "B. menutup kepala dengan bantal sambil menangis",
+     "C. membaca ta'awudz dan memohon perlindungan Allah",
+     "D. menyalahkan adiknya karena mimpi buruk itu"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"membaca ta'awudz dan memohon perlindungan Allah\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0004": {
+   "perubahan": {
+    "options": [
+     "A. malas dan santai",
+     "B. cepat dan asal",
+     "C. bersih dan sehat",
+     "D. kotor dan sehat"
+    ],
+    "question": "Pola hidup sehat dan bersih juga disebut perilaku hidup ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pengecoh  disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral. Kata \"disingkat\" yang menyesatkan diganti \"juga disebut\"; opsi tidak diubah.",
+   "verifikasi": "Huruf dan teks kunci \"bersih dan sehat\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0007": {
+   "perubahan": {
+    "options": [
+     "A. gatal dan terganggu",
+     "B. sakit dan lemas",
+     "C. takut dan sedih",
+     "D. nyaman dan sehat"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"nyaman dan sehat\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0015": {
+   "perubahan": {
+    "question": "Benar atau salah: Pola hidup sehat dan bersih juga disebut perilaku hidup bersih dan sehat."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kata \"disingkat\" yang menyesatkan diganti \"juga disebut\" (sama dengan AKA-SH-0004); kunci tidak berubah.",
+   "verifikasi": "Pernyataan tetap benar sesuai penjelasan asli; kunci \"Benar\" tidak berubah."
+  },
+  "AKA-SH-0026": {
+   "perubahan": {
+    "question": "Isilah titik-titik berikut: Pola hidup sehat dan bersih juga disebut perilaku hidup ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kata \"disingkat\" yang menyesatkan diganti \"juga disebut\"; kunci tidak berubah.",
+   "verifikasi": "Kunci \"bersih dan sehat\" tetap satu-satunya jawaban yang melengkapi frasa dengan benar."
+  },
+  "AKA-SH-0039": {
+   "perubahan": {
+    "options": [
+     "A. menutup keran air rapat-rapat setelah selesai",
+     "B. menggosok ujung jari pada telapak tangan",
+     "C. mengeringkan tangan dengan lap yang bersih",
+     "D. membasahi tangan dengan air mengalir dan memberi sabun"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"membasahi tangan dengan air mengalir dan memberi sabun\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0040": {
+   "perubahan": {
+    "options": [
+     "A. hanya lengan dan siku, tanpa bagian jari",
+     "B. hanya kuku saja tanpa bagian tangan lain",
+     "C. hanya telapak tangan yang digosok berulang-ulang",
+     "D. punggung tangan, sela-sela jari, ibu jari, dan ujung jari"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"punggung tangan, sela-sela jari, ibu jari, dan ujung jari\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0042": {
+   "perubahan": {
+    "options": [
+     "A. 4",
+     "B. 2",
+     "C. 5",
+     "D. 6"
+    ]
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral. Opsi \"1 kali seminggu\", \"10\", dan \"0\" yang tidak wajar/tidak sejajar diganti angka yang sejajar dengan stem \"... kali sehari\" dan jelas lebih banyak dari kebiasaan mandi.",
+   "verifikasi": "Huruf dan teks kunci \"2\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0047": {
+   "perubahan": {
+    "options": [
+     "A. setelah sarapan dan sebelum tidur",
+     "B. hanya ketika gigi terasa sakit saja",
+     "C. cukup sekali dalam satu minggu",
+     "D. ketika sedang makan bersama keluarga"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"setelah sarapan dan sebelum tidur\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0048": {
+   "perubahan": {
+    "options": [
+     "A. tangan dengan sabun",
+     "B. sepatu dan kaus kaki",
+     "C. meja dan kursi belajar",
+     "D. rambut dengan sampo"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"tangan dengan sabun\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0049": {
+   "perubahan": {
+    "options": [
+     "A. membilas tangan dengan air bersih",
+     "B. mengelap tangan ke baju yang kotor",
+     "C. menyentuh sepatu dan lantai kotor",
+     "D. menyentuh tanah dan benda kotor"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"membilas tangan dengan air bersih\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0052": {
+   "perubahan": {
+    "question": "Benar atau salah: Mandi sebaiknya dilakukan dua kali sehari, yaitu pagi dan sore."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Titik-titik dihapus dan diganti dengan pernyataan utuh yang dapat dinilai; isi sesuai penjelasan asli. Kunci tetap Benar.",
+   "verifikasi": "Pernyataan \"dua kali sehari, pagi dan sore\" sesuai penjelasan asli, sehingga kunci \"Benar\" tetap."
+  },
+  "AKA-SH-0078": {
+   "perubahan": {
+    "options": [
+     "A. menendang tempat sampah hingga terguling",
+     "B. membiarkan sampah menumpuk di laci meja",
+     "C. piket menyapu dan membuang sampah pada tempatnya",
+     "D. mencoret meja dan dinding dengan spidol"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"piket menyapu dan membuang sampah pada tempatnya\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0079": {
+   "perubahan": {
+    "options": [
+     "A. begadang dan jarang olahraga",
+     "B. minum air putih yang cukup setiap hari",
+     "C. makan sayur dan buah setiap hari",
+     "D. tidur cukup dan teratur tiap malam"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"begadang dan jarang olahraga\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0080": {
+   "perubahan": {
+    "options": [
+     "A. menyikat gigi dan mencuci kaki",
+     "B. bermain lumpur lalu langsung tidur",
+     "C. tidur tanpa menyikat gigi sama sekali",
+     "D. makan permen manis lalu tidur"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menyikat gigi dan mencuci kaki\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0083": {
+   "perubahan": {
+    "options": [
+     "A. makan terburu-buru sambil berbicara",
+     "B. makan secukupnya dan tidak berlebihan",
+     "C. makan sambil berlari ke sana kemari",
+     "D. menelan makanan tanpa dikunyah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"makan secukupnya dan tidak berlebihan\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0115": {
+   "perubahan": {
+    "options": [
+     "A. televisi dan gawai",
+     "B. jajanan dan minuman",
+     "C. lingkungan dan sesama",
+     "D. mainan dan boneka"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"lingkungan dan sesama\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0117": {
+   "perubahan": {
+    "options": [
+     "A. kamar tidur selalu berantakan dan berdebu",
+     "B. kuku panjang dan hitam jarang dipotong",
+     "C. pakaian kusut, kotor, dan berbau tak sedap",
+     "D. badan, pakaian, dan tempat tinggal selalu bersih"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"badan, pakaian, dan tempat tinggal selalu bersih\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0118": {
+   "perubahan": {
+    "options": [
+     "A. mencuci tangan dengan benar",
+     "B. mandi di bawah pancuran air",
+     "C. bermain air dan busa sabun saja",
+     "D. mencuci piring dan gelas kotor"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"mencuci tangan dengan benar\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0121": {
+   "perubahan": {
+    "options": [
+     "A. malas membersihkan lapangan",
+     "B. peduli kebersihan lingkungan",
+     "C. suka mengotori tempat bermain",
+     "D. tidak peduli pada sekitarnya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"peduli kebersihan lingkungan\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0123": {
+   "perubahan": {
+    "options": [
+     "A. menolak sayur dan membuangnya diam-diam",
+     "B. hanya makan kerupuk dan minum es",
+     "C. menangis supaya tidak disuruh makan",
+     "D. memakannya karena sayur menyehatkan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"memakannya karena sayur menyehatkan\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0125": {
+   "perubahan": {
+    "options": [
+     "A. bersembunyi agar tidak diajak kerja",
+     "B. bermain saja di halaman sekolah",
+     "C. ikut membersihkan dengan semangat",
+     "D. pulang lebih dulu sebelum selesai"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"ikut membersihkan dengan semangat\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0130": {
+   "perubahan": {
+    "options": [
+     "A. minum air sungai di dekat sekolah",
+     "B. meminta air matang yang bersih",
+     "C. minum air keruh dari genangan",
+     "D. menahan haus dan tidak minum seharian"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"meminta air matang yang bersih\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0132": {
+   "perubahan": {
+    "options": [
+     "A. membiarkannya tanpa mau membersihkan",
+     "B. ikut membersihkan bersama teman",
+     "C. memarahi petugas kebersihan sekolah",
+     "D. menambah sampah di taman itu"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"ikut membersihkan bersama teman\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SH-0134": {
+   "perubahan": {
+    "options": [
+     "A. tertawa keras tanpa menutup mulut",
+     "B. menepuk punggung teman dengan keras",
+     "C. bersin langsung ke arah wajah teman",
+     "D. menutup hidung dan mulut dengan siku"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menutup hidung dan mulut dengan siku\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0009": {
+   "perubahan": {
+    "options": [
+     "A. bekerja sama dan saling menghargai",
+     "B. mengejek teman yang salah bicara",
+     "C. mengganggu teman yang sedang berpikir",
+     "D. berebut alat tulis dengan teman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"bekerja sama dan saling menghargai\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0014": {
+   "perubahan": {
+    "options": [
+     "A. mainan baru dan boneka",
+     "B. uang saku dan hadiah",
+     "C. jajanan dan permen",
+     "D. ilmu dan pemahaman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"ilmu dan pemahaman\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0015": {
+   "perubahan": {
+    "options": [
+     "A. sombong dan angkuh",
+     "B. cuek dan tidak peduli",
+     "C. kasar dan tidak sopan",
+     "D. hormat dan sopan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"hormat dan sopan\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0018": {
+   "perubahan": {
+    "options": [
+     "A. dijauhi teman dan guru",
+     "B. sulit paham dan cepat lupa",
+     "C. dibenci Allah dan guru",
+     "D. dicintai Allah dan guru"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"dicintai Allah dan guru\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0057": {
+   "perubahan": {
+    "options": [
+     "A. menyontek saat ada ulangan",
+     "B. jujur dan tidak menyontek",
+     "C. bermalas-malasan sepanjang hari",
+     "D. berbohong kepada orang lain"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"jujur dan tidak menyontek\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0058": {
+   "perubahan": {
+    "options": [
+     "A. dijaga kebersihannya",
+     "B. dirusak dengan sengaja",
+     "C. dihilangkan begitu saja",
+     "D. dilempar sembarangan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"dijaga kebersihannya\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0061": {
+   "perubahan": {
+    "options": [
+     "A. berantakan, kotor, dan berdebu",
+     "B. bising, ramai, dan berisik",
+     "C. gelap, sempit, dan pengap",
+     "D. tenang, terang, dan rapi"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"tenang, terang, dan rapi\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0064": {
+   "perubahan": {
+    "options": [
+     "A. menghindar dan menjauh dari orang tua",
+     "B. membantah nasihat dan menjawab kasar",
+     "C. mendengarkan nasihat dan mencium tangan",
+     "D. memerintah orang tua seenaknya saja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"mendengarkan nasihat dan mencium tangan\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0065": {
+   "perubahan": {
+    "options": [
+     "A. jadwal yang dibuat teman saja",
+     "B. jadwal tidur sepanjang hari tanpa belajar",
+     "C. kemauan sendiri untuk bermain sepuasnya",
+     "D. jadwal belajar yang diatur bersama orang tua"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"jadwal belajar yang diatur bersama orang tua\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0066": {
+   "perubahan": {
+    "options": [
+     "A. lampu teras yang menerangi halaman",
+     "B. lampu kamar yang menerangi meja belajar",
+     "C. lampu belajar yang menerangi buku",
+     "D. televisi dan gawai yang mengganggu"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral. Pengecoh yang tidak masuk akal sebagai objek \"mematikan\" (buku, alat tulis) diganti benda yang dapat dimatikan namun tidak menjadi pengganggu belajar; kunci tetap satu-satunya yang mengurangi gangguan.",
+   "verifikasi": "Huruf dan teks kunci \"televisi dan gawai yang mengganggu\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0107": {
+   "perubahan": {
+    "options": [
+     "A. berkah dan mudah dipahami",
+     "B. sulit dipahami dan membingungkan",
+     "C. tidak berguna bagi diri sendiri",
+     "D. cepat hilang dari ingatan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"berkah dan mudah dipahami\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0108": {
+   "perubahan": {
+    "options": [
+     "A. tertinggal dari teman-teman",
+     "B. mudah bingung saat belajar",
+     "C. mudah memahami pelajaran",
+     "D. sulit memahami pelajaran"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"mudah memahami pelajaran\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0109": {
+   "perubahan": {
+    "options": [
+     "A. sulit mencari buku saat dibutuhkan",
+     "B. buku tidak hilang dan mudah ditemukan",
+     "C. buku cepat rusak dan halamannya lepas",
+     "D. meja menjadi berantakan dan kotor"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"buku tidak hilang dan mudah ditemukan\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0110": {
+   "perubahan": {
+    "options": [
+     "A. tugas lebih cepat dan menyenangkan",
+     "B. banyak pertengkaran antarteman",
+     "C. tugas tidak selesai tepat waktu",
+     "D. tugas semakin berat dan membosankan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"tugas lebih cepat dan menyenangkan\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0111": {
+   "perubahan": {
+    "options": [
+     "A. dipercaya dan nilainya hasil kerja sendiri",
+     "B. selalu takut ketahuan dan merasa gelisah",
+     "C. dibenci guru dan dijauhi teman sekelas",
+     "D. bangga dengan nilai hasil mencontek"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"dipercaya dan nilainya hasil kerja sendiri\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0112": {
+   "perubahan": {
+    "options": [
+     "A. malas belajar dan suka menunda tugas",
+     "B. menuntut ilmu dengan sungguh-sungguh",
+     "C. meremehkan ilmu dan pelajaran di sekolah",
+     "D. menyontek saat ulangan agar nilainya bagus"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menuntut ilmu dengan sungguh-sungguh\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0113": {
+   "perubahan": {
+    "options": [
+     "A. dijauhi dan diabaikan guru",
+     "B. disayangi dan didoakan guru",
+     "C. tidak diperhatikan oleh guru",
+     "D. dimarahi terus-menerus guru"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"disayangi dan didoakan guru\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0114": {
+   "perubahan": {
+    "options": [
+     "A. guru menjadi bosan dan merasa kesal",
+     "B. murid menjadi sombong terhadap teman",
+     "C. guru menjadi sedih dan merasa kecewa",
+     "D. hubungan murid dan guru menjadi baik"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"hubungan murid dan guru menjadi baik\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0115": {
+   "perubahan": {
+    "options": [
+     "A. kelas menjadi kotor dan berdebu",
+     "B. kelas berbau tidak sedap lagi",
+     "C. kelas menjadi gelap dan pengap",
+     "D. kelas nyaman untuk belajar"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"kelas nyaman untuk belajar\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0151": {
+   "perubahan": {
+    "options": [
+     "A. tidak peduli pada kesulitan teman",
+     "B. mengejek teman yang kesulitan",
+     "C. membantu teman yang kesulitan",
+     "D. menyembunyikan buku milik teman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"membantu teman yang kesulitan\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0152": {
+   "perubahan": {
+    "options": [
+     "A. mendengarkan dan menaati nasihatnya",
+     "B. mengejek guru di depan temannya",
+     "C. membantah nasihat guru dengan kasar",
+     "D. mengabaikan nasihat guru begitu saja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"mendengarkan dan menaati nasihatnya\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0153": {
+   "perubahan": {
+    "options": [
+     "A. mengejek teman yang rajin belajar",
+     "B. malas belajar dan suka bermain",
+     "C. merusak buku pelajaran milik teman",
+     "D. belajar dengan sungguh-sungguh"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"belajar dengan sungguh-sungguh\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0158": {
+   "perubahan": {
+    "options": [
+     "A. malas belajar dan membuang waktu",
+     "B. bermain sepanjang hari tanpa belajar",
+     "C. bersungguh-sungguh belajar di rumah",
+     "D. mengganggu orang tua yang bekerja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"bersungguh-sungguh belajar di rumah\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0162": {
+   "perubahan": {
+    "options": [
+     "A. cemberut lalu pergi tanpa mendengarkan guru",
+     "B. membantah nasihat guru dengan suara keras",
+     "C. menyalahkan teman dan tidak mau meminta maaf",
+     "D. mendengarkan, meminta maaf, dan memperbaiki diri"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"mendengarkan, meminta maaf, dan memperbaiki diri\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0163": {
+   "perubahan": {
+    "options": [
+     "A. membantu menjelaskan dengan sabar",
+     "B. membiarkannya tanpa mau membantu",
+     "C. menertawakannya di depan teman lain",
+     "D. memarahinya karena lambat paham"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"membantu menjelaskan dengan sabar\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0164": {
+   "perubahan": {
+    "options": [
+     "A. mengajak adik menunggu sampai selesai belajar",
+     "B. memarahi adik sampai adik menangis",
+     "C. mengabaikan buku dan membiarkan tugasnya",
+     "D. langsung bermain bersama adik di halaman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"mengajak adik menunggu sampai selesai belajar\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0167": {
+   "perubahan": {
+    "options": [
+     "A. menyimpannya di dalam tas sendiri",
+     "B. membuangnya ke tempat sampah kelas",
+     "C. mengembalikannya kepada pemiliknya",
+     "D. menyembunyikannya di laci temannya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"mengembalikannya kepada pemiliknya\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0168": {
+   "perubahan": {
+    "options": [
+     "A. melempar kertas ke arah temannya",
+     "B. berdiri sopan dan mengucap salam",
+     "C. pura-pura tidur di atas meja",
+     "D. terus mengobrol dengan suara keras"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"berdiri sopan dan mengucap salam\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0169": {
+   "perubahan": {
+    "options": [
+     "A. langsung berlari keluar tanpa merapikan",
+     "B. melempar tas ke lantai dan berlari pergi",
+     "C. meninggalkan sampah di kolong meja",
+     "D. merapikan meja, buku, dan membaca hamdalah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"merapikan meja, buku, dan membaca hamdalah\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0172": {
+   "perubahan": {
+    "options": [
+     "A. menolak dengan sopan dan terus memperhatikan guru",
+     "B. menutup buku dan berhenti memperhatikan guru",
+     "C. ikut mengobrol dan tidak memperhatikan guru",
+     "D. membalas ajakannya dengan suara yang keras"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menolak dengan sopan dan terus memperhatikan guru\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0173": {
+   "perubahan": {
+    "options": [
+     "A. bersembunyi di toilet agar tidak masuk kelas",
+     "B. berlari-lari di dalam kelas sambil berteriak",
+     "C. segera masuk kelas dan duduk dengan tertib",
+     "D. terus bermain di halaman sampai guru datang"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"segera masuk kelas dan duduk dengan tertib\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-AB-0174": {
+   "perubahan": {
+    "options": [
+     "A. makan bekal bersama",
+     "B. bermain bersama teman",
+     "C. berlarian di kelas",
+     "D. berdoa bersama"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"berdoa bersama\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-KN-0004": {
+   "perubahan": {
+    "options": [
+     "A. Abu Lahab",
+     "B. Abu Bakar ash-Shiddiq",
+     "C. Abu Jahal bin Hisyam",
+     "D. Abdul Muthalib"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral. Nama pengecoh dilengkapi agar sejajar dengan kunci; kakek Nabi tetap hanya Abdul Muthalib.",
+   "verifikasi": "Huruf dan teks kunci \"Abdul Muthalib\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-KN-0009": {
+   "perubahan": {
+    "options": [
+     "A. Gajah",
+     "B. Duka Cita",
+     "C. Hijriah",
+     "D. Fathu Makkah"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral. Pengecoh buatan \"tahun Kera\" dan \"tahun Singa\" diganti nama tahun/peristiwa nyata dalam sejarah Islam yang bukan tahun kelahiran Nabi.",
+   "verifikasi": "Huruf dan teks kunci \"Gajah\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-KN-0017": {
+   "perubahan": {
+    "options": [
+     "A. Halimah as-Sa'diyah",
+     "B. Khadijah binti Khuwailid",
+     "C. Aisyah binti Abu Bakar",
+     "D. Fatimah binti Muhammad"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"Halimah as-Sa'diyah\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-KN-0045": {
+   "perubahan": {
+    "options": [
+     "A. menambah pertengkaran dengan ikut berebut",
+     "B. memihak teman dekat dan menyalahkan lainnya",
+     "C. menjauh dan membiarkan mereka bertengkar",
+     "D. menyelesaikan masalah dengan adil dan damai"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menyelesaikan masalah dengan adil dan damai\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-KN-0049": {
+   "perubahan": {
+    "options": [
+     "A. cemberut dan suka marah",
+     "B. ramah dan murah senyum",
+     "C. sombong dan suka memerintah",
+     "D. acuh dan tidak mau menyapa"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"ramah dan murah senyum\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-KN-0110": {
+   "perubahan": {
+    "question": "Kelompokkan anggota keluarga Nabi berikut: 'Abdullah'; 'Aminah'; 'Abdul Muthalib'; 'Abu Thalib'; 'Khadijah'; 'Fatimah'.",
+    "options": {
+     "kelompok": [
+      "orang tua Nabi",
+      "kakek dan paman Nabi",
+      "istri dan putri Nabi"
+     ]
+    },
+    "answer": {
+     "orang tua Nabi": [
+      "Abdullah",
+      "Aminah"
+     ],
+     "kakek dan paman Nabi": [
+      "Abdul Muthalib",
+      "Abu Thalib"
+     ],
+     "istri dan putri Nabi": [
+      "Khadijah",
+      "Fatimah"
+     ]
+    }
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kategori sembarang diganti kategori hubungan keluarga yang bermakna (orang tua; kakek dan paman; istri dan putri), tiga kelompok masing-masing dua butir.",
+   "verifikasi": "Abdullah dan Aminah adalah orang tua Nabi; Abdul Muthalib kakek; Abu Thalib paman; Khadijah istri; Fatimah putri. Semua penempatan fakta tetap sama, hanya kategori yang dirapikan; setiap butir hanya cocok pada satu kelompok."
+  },
+  "AKA-KN-0115": {
+   "perubahan": {
+    "options": [
+     "A. memukul orang yang membuat marah",
+     "B. membalas dengan perbuatan serupa",
+     "C. menahan diri dan memaafkan",
+     "D. mengumpat dan berkata kasar"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menahan diri dan memaafkan\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-KN-0117": {
+   "perubahan": {
+    "options": [
+     "A. menyakiti hewan peliharaan di rumah",
+     "B. menyayangi keluarga, teman, dan hewan",
+     "C. mengabaikan adik, kakak, dan teman",
+     "D. membentak teman, adik, dan tetangga"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menyayangi keluarga, teman, dan hewan\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-KN-0124": {
+   "perubahan": {
+    "options": [
+     "A. menghentikan permainan dan bersiap salat",
+     "B. menutup telinga agar tidak mendengar azan",
+     "C. meneruskan bermain dan menunda salat",
+     "D. berteriak-teriak ketika azan berkumandang"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menghentikan permainan dan bersiap salat\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-KN-0127": {
+   "perubahan": {
+    "options": [
+     "A. memarahinya karena menangis",
+     "B. menertawakannya karena jatuh",
+     "C. meninggalkannya begitu saja",
+     "D. menolong dan menenangkannya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menolong dan menenangkannya\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-KN-0128": {
+   "perubahan": {
+    "options": [
+     "A. menyembunyikan dompet itu di dalam tas dan diam saja",
+     "B. mengambil uang di dalamnya lalu membuang dompetnya",
+     "C. mengembalikannya kepada pemilik atau menyerahkannya kepada orang dewasa",
+     "D. membuangnya ke tempat sampah tanpa memberi tahu siapa pun"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"mengembalikannya kepada pemilik atau menyerahkannya kepada orang dewasa\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-KN-0130": {
+   "perubahan": {
+    "options": [
+     "A. berpura-pura sakit supaya bebas",
+     "B. menolak dan marah kepada ibu",
+     "C. membantu dengan senang hati",
+     "D. pergi bermain tanpa pamit ke ibu"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"membantu dengan senang hati\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-KN-0131": {
+   "perubahan": {
+    "options": [
+     "A. menontonnya dari kejauhan saja",
+     "B. mengabaikannya dan terus berjalan",
+     "C. menertawakannya di depan orang",
+     "D. menawarkan bantuan dengan sopan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menawarkan bantuan dengan sopan\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-KN-0132": {
+   "perubahan": {
+    "options": [
+     "A. memihak salah satu teman saja",
+     "B. ikut bertengkar bersama mereka",
+     "C. mendamaikan mereka dengan adil",
+     "D. menertawakan mereka dari jauh"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"mendamaikan mereka dengan adil\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0002": {
+   "perubahan": {
+    "options": [
+     "A. tidak percaya bahwa Allah itu ada",
+     "B. percaya bahwa Allah itu ada dan Maha Esa",
+     "C. percaya bahwa Tuhan itu banyak jumlahnya",
+     "D. ragu-ragu apakah Allah itu benar ada"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"percaya bahwa Allah itu ada dan Maha Esa\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0004": {
+   "perubahan": {
+    "options": [
+     "A. keberuntungan dan nasib baik",
+     "B. kebetulan yang terjadi sendiri",
+     "C. ramalan bintang dan zodiak",
+     "D. ketentuan dan takdir Allah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"ketentuan dan takdir Allah\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0005": {
+   "perubahan": {
+    "options": [
+     "A. malaikat-malaikat Allah",
+     "B. kitab-kitab Allah",
+     "C. hari akhir (kiamat)",
+     "D. rasul-rasul Allah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"rasul-rasul Allah\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0011": {
+   "perubahan": {
+    "options": [
+     "A. aturan tata tertib di sekolah kita",
+     "B. pokok-pokok keyakinan dalam agama Islam",
+     "C. nama-nama bulan dalam kalender Hijriah",
+     "D. pokok-pokok ibadah salat lima waktu"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"pokok-pokok keyakinan dalam agama Islam\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0013": {
+   "perubahan": {
+    "options": [
+     "A. hiasan atau pajangan",
+     "B. pokok atau dasar",
+     "C. atap atau penutup",
+     "D. tambahan atau pelengkap"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"pokok atau dasar\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0014": {
+   "perubahan": {
+    "options": [
+     "A. malaikat untuk bermain bersama manusia",
+     "B. rasul untuk memberi petunjuk manusia",
+     "C. hewan untuk berbicara dengan manusia",
+     "D. raja untuk memerangi seluruh manusia"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"rasul untuk memberi petunjuk manusia\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0066": {
+   "perubahan": {
+    "options": [
+     "A. Ibrahim a.s.",
+     "B. Nuh a.s.",
+     "C. Muhammad saw.",
+     "D. Adam a.s."
+    ],
+    "question": "Manusia pertama yang diciptakan Allah sekaligus nabi pertama adalah Nabi ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pengecoh  disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral. Hanya batang soal yang disederhanakan; opsi tidak berubah.",
+   "verifikasi": "Huruf dan teks kunci \"Adam a.s.\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0091": {
+   "perubahan": {
+    "question": "Benar atau salah: Jumlah kitab Allah yang wajib kita ketahui namanya ada 4 kitab."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Titik-titik diganti angka sehingga pernyataan dapat dinilai; angka sesuai penjelasan asli (Taurat, Zabur, Injil, Al-Qur'an). Kunci tetap Benar.",
+   "verifikasi": "Empat kitab disebut dalam penjelasan asli, sehingga pernyataan benar dan kunci \"Benar\" tetap."
+  },
+  "AKA-RI-0093": {
+   "perubahan": {
+    "question": "Benar atau salah: Banyaknya malaikat yang wajib kita ketahui namanya ada 10 malaikat."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Titik-titik diganti angka sehingga pernyataan dapat dinilai; angka sesuai penjelasan asli (sepuluh malaikat). Kunci tetap Benar.",
+   "verifikasi": "Penjelasan asli menyebut sepuluh malaikat, sehingga pernyataan benar dan kunci \"Benar\" tetap."
+  },
+  "AKA-RI-0141": {
+   "perubahan": {
+    "options": [
+     "A. Allah dan takdir-Nya",
+     "B. setan dan bisikannya",
+     "C. ramalan dan zodiak",
+     "D. jimat dan benda keramat"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"Allah dan takdir-Nya\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0143": {
+   "perubahan": {
+    "options": [
+     "A. qada dan qadar",
+     "B. kitab-kitab suci",
+     "C. para malaikat Allah",
+     "D. rasul-rasul Allah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"qada dan qadar\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0146": {
+   "perubahan": {
+    "options": [
+     "A. mengabaikan perintah dan larangan",
+     "B. melanggar aturan dan larangan-Nya",
+     "C. menaati perintah dan menjauhi larangan",
+     "D. berbohong serta berkata kasar pada teman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menaati perintah dan menjauhi larangan\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0149": {
+   "perubahan": {
+    "options": [
+     "A. berdoa kepada-Nya",
+     "B. bersyukur kepada-Nya",
+     "C. menyekutukan-Nya",
+     "D. bersabar atas ujian-Nya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menyekutukan-Nya\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0154": {
+   "perubahan": {
+    "options": [
+     "A. ikut meminta tolong kepada pohon besar",
+     "B. menertawakan teman di depan orang lain",
+     "C. menolak karena hanya Allah tempat meminta",
+     "D. diam saja lalu ikut-ikutan meminta tolong"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menolak karena hanya Allah tempat meminta\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0158": {
+   "perubahan": {
+    "options": [
+     "A. bersyukur kepada Allah",
+     "B. tidak peduli pada nilainya",
+     "C. mengejek teman sebangkunya",
+     "D. sombong kepada teman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"bersyukur kepada Allah\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0159": {
+   "perubahan": {
+    "options": [
+     "A. menerima dengan sabar dan berusaha lebih giat",
+     "B. berbohong kepada orang tua tentang nilainya",
+     "C. menyobek rapor agar tidak terlihat orang tua",
+     "D. menyalahkan guru karena nilai yang rendah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menerima dengan sabar dan berusaha lebih giat\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0160": {
+   "perubahan": {
+    "options": [
+     "A. berbuat baik dan meninggalkan perbuatan buruk",
+     "B. berbuat semaunya tanpa memikirkan akibatnya",
+     "C. mengganggu teman dan menyakiti orang lain",
+     "D. menunda salat sampai waktunya hampir habis"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"berbuat baik dan meninggalkan perbuatan buruk\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0162": {
+   "perubahan": {
+    "options": [
+     "A. berusaha berkata jujur dan menyayangi teman",
+     "B. mengejek teman yang membuat kesalahan kecil",
+     "C. marah kepada adik tanpa alasan jelas",
+     "D. berbohong sedikit agar tidak dimarahi"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"berusaha berkata jujur dan menyayangi teman\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-RI-0163": {
+   "perubahan": {
+    "options": [
+     "A. marah kepada Allah karena jatuh sakit",
+     "B. putus asa dan tidak mau berobat",
+     "C. bersabar dan berdoa agar cepat sembuh",
+     "D. menyalahkan teman yang ikut lomba"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"bersabar dan berdoa agar cepat sembuh\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SW-0019": {
+   "perubahan": {
+    "options": [
+     "A. kekal (tidak ada akhir)",
+     "B. baru (ada permulaannya)",
+     "C. berakhir (ada akhirnya)",
+     "D. sementara (tidak kekal)"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"kekal (tidak ada akhir)\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SW-0024": {
+   "perubahan": {
+    "options": [
+     "A. berakhir (tidak kekal selamanya)",
+     "B. terdahulu (tidak ada permulaan)",
+     "C. baru ada (memiliki permulaan)",
+     "D. diciptakan (ada yang membuat)"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"terdahulu (tidak ada permulaan)\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SW-0034": {
+   "perubahan": {
+    "options": [
+     "A. diciptakan oleh manusia",
+     "B. tidak ada dan bukan pencipta",
+     "C. berakhir dan akan binasa",
+     "D. ada dan Maha Pencipta"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"ada dan Maha Pencipta\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SW-0035": {
+   "perubahan": {
+    "options": [
+     "A. malas beribadah kepada Allah",
+     "B. jauh dan lupa kepada Allah",
+     "C. ragu terhadap sifat Allah",
+     "D. cinta dan taat kepada Allah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"cinta dan taat kepada Allah\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SW-0039": {
+   "perubahan": {
+    "options": [
+     "A. benda keramat yang dianggap sakti",
+     "B. alam semesta yang diciptakan-Nya",
+     "C. ramalan tentang nasib seseorang",
+     "D. kebetulan yang terjadi begitu saja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"alam semesta yang diciptakan-Nya\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SW-0040": {
+   "perubahan": {
+    "options": [
+     "A. sombong dan lupa kepada Allah",
+     "B. ingkar dan tidak mau bersyukur",
+     "C. acuh pada semua ciptaan-Nya",
+     "D. bersyukur dan semakin beriman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, B, C disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"bersyukur dan semakin beriman\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SW-0055": {
+   "perubahan": {
+    "options": [
+     "A. Wujud (Allah ada dan menciptakan alam)",
+     "B. Allah baru ada setelah alam tercipta",
+     "C. Allah tidak ada dan alam jadi sendiri",
+     "D. Allah akan binasa bersama alam semesta"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh B, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"Wujud (Allah ada dan menciptakan alam)\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SW-0059": {
+   "perubahan": {
+    "options": [
+     "A. menyembah harta dan benda yang dimilikinya",
+     "B. bergantung hanya kepada Allah dan memperbanyak amal",
+     "C. bergantung kepada benda dan menunda amal",
+     "D. melupakan Allah dan hanya mengejar dunia"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"bergantung hanya kepada Allah dan memperbanyak amal\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "AKA-SW-0060": {
+   "perubahan": {
+    "options": [
+     "A. mengejek temannya di depan banyak teman lain",
+     "B. menjelaskan dengan sopan bahwa alam diciptakan Allah",
+     "C. diam saja karena takut berbeda pendapat",
+     "D. membenarkan teman bahwa alam ada sendiri"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh A, C, D disusun ulang agar panjang dan struktur kalimat sejajar dengan kunci (selisih sekitar 30% atau kurang) sehingga kunci tidak menonjol; tanpa menambah pesan moral.",
+   "verifikasi": "Huruf dan teks kunci \"menjelaskan dengan sopan bahwa alam diciptakan Allah\" tidak diubah. Pengecoh tetap bertentangan dengan kunci dan jelas keliru untuk kelas 1, sehingga tidak ada opsi lain yang menjadi benar."
+  }
+ },
+ "tidak_direvisi": {
+  "AKA-SY-0045": "Perbaikan membutuhkan keputusan desain: mengubah bentuk soal (mis. menjadi pilihan ganda/praktik membaca) tidak diizinkan lewat revisi isian, dan memendekkan kunci Arab berharakat mengubah kunci. Perlu keputusan pemilik/ahli.",
+  "AKA-SY-0046": "Sama dengan AKA-SY-0045: perbaikan butuh perubahan tipe soal atau kunci jawaban; perlu keputusan pemilik/ahli.",
+  "AKA-TY-0101": "Kelompok \"arti\" hanya berisi satu butir dan Alhamdulillah/Segala puji bagi Allah bermakna sama; memperbaikinya berarti merancang ulang butir dan kunci pengelompokan (konsep baru), bukan perbaikan redaksi. Disarankan diganti/diputuskan pemilik.",
+  "AKA-SH-0060": "Kunci majemuk panjang tidak cocok sebagai isian singkat; perbaikan butuh mengubah tipe soal atau memendekkan kunci (mengubah kunci). Perlu keputusan pemilik/ahli.",
+  "AKA-SH-0070": "Kunci kalimat panjang tidak cocok sebagai isian singkat; perbaikan butuh mengubah tipe soal atau memendekkan kunci (mengubah kunci). Perlu keputusan pemilik/ahli.",
+  "AKA-SH-0099": "Kunci kalimat panjang tidak cocok sebagai isian singkat; perbaikan butuh mengubah tipe soal atau memendekkan kunci (mengubah kunci). Perlu keputusan pemilik/ahli.",
+  "AKA-SH-0105": "Kunci kalimat panjang tidak cocok sebagai isian singkat; perbaikan butuh mengubah tipe soal atau memendekkan kunci (mengubah kunci). Perlu keputusan pemilik/ahli.",
+  "AKA-RI-0137": "Pengelompokan empat butir ke empat kelompok sebenarnya penjodohan; memperbaikinya membutuhkan perubahan tipe soal menjadi matching (tidak diizinkan di revisi ini) dan keputusan desain pemilik.",
+  "AKA-RI-0203": "Pengelompokan enam butir ke enam kelompok sebenarnya penjodohan, dan butir \"beramal untuk akhirat\" kabur; perbaikan butuh perubahan tipe soal dan keputusan isi/desain pemilik atau ahli.",
+  "AKA-SW-0032": "Pengelompokan tiga butir ke tiga kelompok sebenarnya penjodohan; perbaikan butuh perubahan tipe soal menjadi matching (tidak diizinkan di revisi ini) dan keputusan desain pemilik."
+ }
+}

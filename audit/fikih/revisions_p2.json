@@ -1,0 +1,1952 @@
+{
+ "revisi": {
+  "FIK-TH-0065": {
+   "perubahan": {
+    "options": [
+     "A. Hanya bermanfaat untuk sahnya ibadah tanpa kaitan dengan kesehatan",
+     "B. Hanya penting bagi orang dewasa yang sudah mulai belajar beribadah",
+     "C. Bermanfaat untuk kesehatan, kenyamanan, dan sahnya ibadah sekaligus",
+     "D. Tidak memiliki manfaat nyata bagi kesehatan maupun kenyamanan"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Bermanfaat untuk kesehatan, kenyamanan, dan sahnya ibadah sekaligus\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0066": {
+   "perubahan": {
+    "options": [
+     "A. Langsung berbaring di kasur tanpa membersihkan diri",
+     "B. Membiarkan badan tetap kotor dan masuk saja",
+     "C. Makan camilan tanpa mencuci tangan lebih dulu",
+     "D. Mencuci tangan dan kaki terlebih dahulu"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Mencuci tangan dan kaki terlebih dahulu\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0068": {
+   "perubahan": {
+    "options": [
+     "A. Ibadah haji di tanah suci Makkah",
+     "B. Puasa wajib di bulan Ramadan",
+     "C. Zakat fitrah kepada fakir miskin",
+     "D. Taharah dalam kehidupan sehari-hari"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Taharah dalam kehidupan sehari-hari\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0070": {
+   "perubahan": {
+    "options": [
+     "A. Menambah kotoran di lantai toilet agar semakin kotor",
+     "B. Membiarkannya saja tanpa berbuat apa-apa",
+     "C. Membersihkannya atau melaporkannya kepada petugas kebersihan",
+     "D. Tidak mau memakai toilet sekolah untuk selamanya"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Membersihkannya atau melaporkannya kepada petugas kebersihan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0073": {
+   "perubahan": {
+    "options": [
+     "A. Membiarkannya kering sendiri di badan",
+     "B. Mengabaikannya dan lanjut bermain",
+     "C. Menutupinya dengan baju lain di atasnya",
+     "D. Segera mengganti dan mencuci baju yang kotor"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Segera mengganti dan mencuci baju yang kotor\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0074": {
+   "perubahan": {
+    "options": [
+     "A. Sikap jorok yang tidak suka kebersihan",
+     "B. Sikap malas yang suka menunda pekerjaan",
+     "C. Kepedulian menjaga kesucian sebelum beribadah",
+     "D. Sikap tidak peduli pada kebersihan diri"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kepedulian menjaga kesucian sebelum beribadah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0076": {
+   "perubahan": {
+    "options": [
+     "A. Taharah dan menjaga kesehatan",
+     "B. Ibadah haji dan umrah ke Makkah",
+     "C. Zakat dan berbagi dengan fakir",
+     "D. Puasa dan menahan lapar haus"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Taharah dan menjaga kesehatan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0080": {
+   "perubahan": {
+    "options": [
+     "A. Taharah dalam rutinitas harian",
+     "B. Zakat harta kepada yang berhak",
+     "C. Ibadah haji ke tanah suci Makkah",
+     "D. Puasa wajib di bulan Ramadan"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Taharah dalam rutinitas harian\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0086": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: air hujan dan air sumur / air sungai dan air laut. Banyak sumber air suci yang bisa digunakan untuk bersuci, seperti air hujan, sumur, sungai, dan laut."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-TH-0089": {
+   "perubahan": {
+    "options": [
+     "A. Najis sedang yang harus dicuci",
+     "B. Suci, bukan termasuk najis",
+     "C. Najis berat yang sulit dibersihkan",
+     "D. Najis ringan yang cukup dipercik"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Suci, bukan termasuk najis\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0096": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: membaca doa / mendahulukan kaki kiri. Adab sebelum masuk kamar mandi antara lain membaca doa dan mendahulukan kaki kiri."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-TH-0099": {
+   "perubahan": {
+    "options": [
+     "A. Karena sebenarnya tidak ada alasan khusus di balik aturan tersebut",
+     "B. Karena ingin mempersulit umatnya dalam menjalani kehidupan sehari-hari",
+     "C. Karena itu hanya kebiasaan budaya dari masyarakat zaman dahulu saja",
+     "D. Karena kamar mandi adalah tempat yang berpotensi ada kotoran/najis sehingga perlu adab khusus"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Karena kamar mandi adalah tempat yang berpotensi ada kotoran/najis sehingga perlu adab khusus\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0108": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: harus bersih, kering, dan bisa menyerap kotoran (misalnya tisu atau batu). Benda yang digunakan untuk beristinja selain air harus bersih dan mampu menyerap kotoran, seperti tisu atau batu."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-TH-0122": {
+   "perubahan": {
+    "options": [
+     "A. Wudu membasuh seluruh tubuh, mandi wajib membasuh sebagian anggota tubuh",
+     "B. Wudu membasuh sebagian anggota tubuh, mandi wajib membasuh seluruh tubuh",
+     "C. Keduanya sama saja, hanya berbeda nama dan waktunya",
+     "D. Mandi wajib lebih ringan daripada wudu karena anggota yang dibasuh lebih sedikit"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Wudu membasuh sebagian anggota tubuh, mandi wajib membasuh seluruh tubuh\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0124": {
+   "perubahan": {
+    "options": [
+     "A. Menutup bagian tersebut dengan stiker lucu agar tidak terlihat",
+     "B. Segera mencuci bagian yang terkena najis dengan air hingga bersih",
+     "C. Membiarkannya kering sendiri tanpa dibersihkan sama sekali",
+     "D. Mengganti baju saja tanpa mencuci bagian yang terkena najis"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Segera mencuci bagian yang terkena najis dengan air hingga bersih\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0125": {
+   "perubahan": {
+    "options": [
+     "A. Wudu sebelum salat",
+     "B. Najis pada pakaian",
+     "C. Mandi wajib seluruh tubuh",
+     "D. Debu untuk tayamum"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Najis pada pakaian\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0126": {
+   "perubahan": {
+    "options": [
+     "A. Agar air terasa lebih dingin dan segar saat dipakai mandi",
+     "B. Agar hasil bersuci benar-benar bersih dan sah digunakan untuk ibadah",
+     "C. Tidak ada hikmahnya karena air apa saja pasti sama saja",
+     "D. Agar air terlihat jernih dan indah dipandang oleh banyak orang"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Agar hasil bersuci benar-benar bersih dan sah digunakan untuk ibadah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0127": {
+   "perubahan": {
+    "options": [
+     "A. Tidak ada hikmah khusus karena hanya bacaan biasa tanpa makna",
+     "B. Sekadar formalitas supaya terlihat rajin di depan orang lain",
+     "C. Memohon perlindungan Allah dari gangguan di tempat yang kurang baik",
+     "D. Agar waktu di kamar mandi cepat selesai dan segera keluar"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Memohon perlindungan Allah dari gangguan di tempat yang kurang baik\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0128": {
+   "perubahan": {
+    "options": [
+     "A. Agar badan benar-benar bersih dari najis sehingga ibadah menjadi sah",
+     "B. Karena hanya kebiasaan semata yang diwariskan tanpa tujuan lain",
+     "C. Karena tidak ada alasan khusus yang perlu dijelaskan kepada teman",
+     "D. Agar penampilan terlihat rapi dan menarik di depan teman saja"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Agar badan benar-benar bersih dari najis sehingga ibadah menjadi sah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0129": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: agar air tetap sehat digunakan dan tidak menyebarkan penyakit. Menjaga kebersihan air membantu mencegah penyebaran penyakit dan menjaga kesehatan."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-TH-0133": {
+   "perubahan": {
+    "options": [
+     "A. Karena hanya aturan lama semata yang tidak memiliki manfaat apa pun bagi kita",
+     "B. Karena bersuci menjaga kesucian diri dan membuat ibadah menjadi sah serta lebih khusyuk",
+     "C. Karena hanya ingin terlihat rapi dan menarik di depan banyak orang saja",
+     "D. Karena bersuci hanya untuk membuat badan terasa dingin saat cuaca sedang panas"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi",
+    "opsi_semua_benar"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang. Opsi \"Tidak ada jawaban yang tepat\" diganti pengecoh substantif.",
+   "verifikasi": "Teks kunci (\"Karena bersuci menjaga kesucian diri dan membuat ibadah menjadi sah serta lebih khusyuk\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0137": {
+   "perubahan": {
+    "options": [
+     "A. Agar tidur menjadi lebih nyaman dan bersih sekaligus mendekatkan diri kepada Allah",
+     "B. Tidak ada manfaatnya karena hanya kebiasaan lama yang tidak berguna sama sekali",
+     "C. Karena wajib hukumnya seperti wudu yang dilakukan sebelum melaksanakan salat",
+     "D. Hanya kebiasaan turun-temurun tanpa alasan dan manfaat yang jelas"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Agar tidur menjadi lebih nyaman dan bersih sekaligus mendekatkan diri kepada Allah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0138": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: agar tidur lebih nyaman dan bersih, serta mendekatkan diri kepada Allah. Berwudu sebelum tidur memberikan manfaat kenyamanan dan kedekatan spiritual kepada Allah."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-TH-0139": {
+   "perubahan": {
+    "options": [
+     "A. Manfaat bagi individu dan masyarakat sama saja dan tidak berbeda sedikit pun",
+     "B. Bagi individu tidak ada hikmahnya, hanya bermanfaat bagi masyarakat luas saja",
+     "C. Bagi individu menjaga kesehatan pribadi, bagi masyarakat mencegah penyebaran penyakit bersama",
+     "D. Bersuci hanya bermanfaat bagi individu dan tidak berpengaruh bagi lingkungan sekitar"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Bagi individu menjaga kesehatan pribadi, bagi masyarakat mencegah penyebaran penyakit bersama\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0141": {
+   "perubahan": {
+    "options": [
+     "A. Membuat badan menjadi lelah dan tidak bersemangat untuk beribadah",
+     "B. Tidak ada hikmahnya karena hanya kewajiban yang memberatkan",
+     "C. Hanya membuang waktu dan air tanpa memberi manfaat apa pun",
+     "D. Menyegarkan tubuh dan mensucikan diri kembali untuk beribadah"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Menyegarkan tubuh dan mensucikan diri kembali untuk beribadah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0143": {
+   "perubahan": {
+    "options": [
+     "A. Puasa sunah Senin Kamis",
+     "B. Taharah dalam Islam",
+     "C. Zakat harta tahunan",
+     "D. Ibadah haji ke Makkah"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Taharah dalam Islam\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0144": {
+   "perubahan": {
+    "options": [
+     "A. Penting untuk membentuk kebiasaan hidup bersih dan sehat sejak dini",
+     "B. Tidak berkaitan dengan tumbuh kembang dan kesehatan anak-anak",
+     "C. Hanya mulai penting dipelajari setelah anak mencapai usia balig",
+     "D. Tidak penting diajarkan karena anak-anak masih terlalu kecil untuk belajar"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Penting untuk membentuk kebiasaan hidup bersih dan sehat sejak dini\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0146": {
+   "perubahan": {
+    "options": [
+     "A. Membuat rumah terlihat kosong dan terasa tidak nyaman",
+     "B. Tidak ada manfaatnya karena rumah akan kotor lagi besok",
+     "C. Menambah pekerjaan rumah yang melelahkan setiap hari",
+     "D. Menciptakan suasana nyaman untuk beribadah dan beraktivitas"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Menciptakan suasana nyaman untuk beribadah dan beraktivitas\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0148": {
+   "perubahan": {
+    "options": [
+     "A. Zakat harta kepada fakir miskin",
+     "B. Ibadah haji ke tanah suci Makkah",
+     "C. Puasa sunah Senin dan Kamis",
+     "D. Taharah dalam kehidupan sehari-hari"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Taharah dalam kehidupan sehari-hari\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0151": {
+   "perubahan": {
+    "options": [
+     "A. Segera mematikannya untuk menghemat air",
+     "B. Mengabaikannya dan terus berjalan pergi",
+     "C. Membiarkannya menyala sampai air habis",
+     "D. Menambah aliran air supaya semakin deras"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Segera mematikannya untuk menghemat air\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0153": {
+   "perubahan": {
+    "options": [
+     "A. Kehematan dan cinta lingkungan dalam bersuci",
+     "B. Sikap mengabaikan kebersihan saat bersuci",
+     "C. Pemborosan air saat bersuci di tempat kemah",
+     "D. Sikap tidak peduli kepada sesama teman"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kehematan dan cinta lingkungan dalam bersuci\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0157": {
+   "perubahan": {
+    "options": [
+     "A. Mengejek dan menertawakannya di depan teman-teman lain",
+     "B. Membiarkannya saja tanpa berkata apa pun kepadanya",
+     "C. Mengingatkan dengan sopan dan memberi contoh yang baik",
+     "D. Melaporkannya kepada guru tanpa mengingatkannya"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Mengingatkan dengan sopan dan memberi contoh yang baik\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0158": {
+   "perubahan": {
+    "options": [
+     "A. Sikap malas yang suka menunda-nunda pekerjaan rumah",
+     "B. Sikap acuh tak acuh terhadap keadaan rumahnya",
+     "C. Sikap egois yang hanya memikirkan diri sendiri",
+     "D. Penerapan nilai kebersihan dan kerja sama keluarga"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Penerapan nilai kebersihan dan kerja sama keluarga\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0160": {
+   "perubahan": {
+    "options": [
+     "A. Menghemat tempat penyimpanan di kamar mandi rumah",
+     "B. Tidak ada tujuan khusus, hanya mengikuti kebiasaan lama",
+     "C. Supaya terlihat rapi dan tertata di dalam rak saja",
+     "D. Menjaga kebersihan dan mencegah penularan kuman"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Menjaga kebersihan dan mencegah penularan kuman\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0163": {
+   "perubahan": {
+    "options": [
+     "A. Tidak perlu melibatkan orang tua maupun guru dalam membiasakannya sehari-hari",
+     "B. Cukup dipahami dalam pikiran tanpa perlu dipraktikkan dalam kehidupan sehari-hari",
+     "C. Hanya perlu dilakukan saat berada di sekolah dan tidak perlu di rumah",
+     "D. Perlu dibiasakan melalui kegiatan sederhana sehari-hari seperti cuci tangan dan menjaga kebersihan diri"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Perlu dibiasakan melalui kegiatan sederhana sehari-hari seperti cuci tangan dan menjaga kebersihan diri\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0164": {
+   "perubahan": {
+    "options": [
+     "A. Sikap acuh terhadap air yang terbuang sia-sia di rumah",
+     "B. Sikap boros yang suka menghabiskan air tanpa berpikir panjang",
+     "C. Sikap malas yang enggan mengurus keadaan kran di rumah",
+     "D. Kepedulian menghemat air sebagai wujud cinta lingkungan"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kepedulian menghemat air sebagai wujud cinta lingkungan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0166": {
+   "perubahan": {
+    "options": [
+     "A. Mengabaikan lumpurnya dan langsung masuk ke dalam rumah begitu saja",
+     "B. Membersihkan diri terlebih dahulu, misalnya mencuci kaki dan tangan",
+     "C. Bermain lagi di halaman tanpa membersihkan badan sama sekali",
+     "D. Langsung duduk di sofa dengan badan yang masih berlumpur"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Membersihkan diri terlebih dahulu, misalnya mencuci kaki dan tangan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0169": {
+   "perubahan": {
+    "options": [
+     "A. Mengotori sumber air di sekitar area piknik dengan sisa makanan",
+     "B. Meninggalkan sisa makanan berserakan di area piknik setelah selesai",
+     "C. Membuang sampah sembarangan di rumput dan di bawah pohon rindang",
+     "D. Membawa pulang sampah sendiri dan menjaga kebersihan area piknik"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Membawa pulang sampah sendiri dan menjaga kebersihan area piknik\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0173": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: buang air kecil / buang air besar / kentut / tidur lama. Hadas kecil dapat disebabkan oleh buang air kecil, buang air besar, kentut, atau tidur dalam waktu lama."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-TH-0185": {
+   "perubahan": {
+    "options": [
+     "A. Ketenaran dan popularitas di sekolah",
+     "B. Kecepatan berlari di lapangan sekolah",
+     "C. Kebersihan mulut sebagai bagian dari taharah",
+     "D. Kekayaan dan harta benda keluarga"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kebersihan mulut sebagai bagian dari taharah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0203": {
+   "perubahan": {
+    "options": [
+     "A. Belum boleh salat dan harus menunggu hari berikutnya",
+     "B. Masih harus mandi lagi sampai tiga kali berturut-turut",
+     "C. Harus bertayamum juga sebelum bisa melaksanakan salat",
+     "D. Sudah suci dari hadas besar dan boleh melaksanakan salat"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Sudah suci dari hadas besar dan boleh melaksanakan salat\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0205": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: sela-sela rambut / belakang telinga / sela-sela jari. Bagian seperti sela-sela rambut, belakang telinga, atau sela-sela jari sering terlewat jika tidak berhati-hati saat mandi wajib."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-TH-0207": {
+   "perubahan": {
+    "options": [
+     "A. Membuangnya begitu saja tanpa diperiksa lebih dulu",
+     "B. Mengabaikannya dan tetap memakainya seperti biasa",
+     "C. Menganggapnya suci tanpa memeriksanya sama sekali",
+     "D. Memeriksa dan membersihkannya untuk memastikan kesucian"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Memeriksa dan membersihkannya untuk memastikan kesucian\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0213": {
+   "perubahan": {
+    "options": [
+     "A. Tidak ada hikmahnya karena hanya aturan yang merepotkan",
+     "B. Membuat ibadah menjadi tidak sah dalam perjalanan jauh",
+     "C. Memudahkan ibadah tetap dilaksanakan meski dalam perjalanan",
+     "D. Menghindarkan musafir dari kewajiban salat selama bepergian"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Memudahkan ibadah tetap dilaksanakan meski dalam perjalanan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0217": {
+   "perubahan": {
+    "options": [
+     "A. Tidak ada hikmah khusus karena hanya kebiasaan lama semata",
+     "B. Menjaga kebersihan mulut dan kenyamanan saat beribadah",
+     "C. Sekadar kebiasaan tanpa manfaat bagi kesehatan mulut",
+     "D. Membuat gigi menjadi putih dan berkilau saja tanpa manfaat lain"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Menjaga kebersihan mulut dan kenyamanan saat beribadah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0222": {
+   "perubahan": {
+    "options": [
+     "A. Karena Islam adalah agama yang sengaja mempersulit umatnya dalam beribadah",
+     "B. Karena air dianggap tidak penting sama sekali dalam kehidupan manusia",
+     "C. Karena Islam adalah agama yang memudahkan dan tidak membebani umatnya di luar kemampuan",
+     "D. Karena tidak ada alasan khusus yang melatarbelakangi keringanan tersebut"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Karena Islam adalah agama yang memudahkan dan tidak membebani umatnya di luar kemampuan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0228": {
+   "perubahan": {
+    "options": [
+     "A. Tidak ada hikmahnya karena hanya kebiasaan lama",
+     "B. Menambah kerepotan tanpa memberi manfaat apa pun",
+     "C. Hanya membuang-buang waktu sebelum ibadah dimulai",
+     "D. Memastikan ibadah dilakukan dengan sah dan tenang"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Memastikan ibadah dilakukan dengan sah dan tenang\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0230": {
+   "perubahan": {
+    "options": [
+     "A. Ajaran taharah sejalan dengan prinsip kebersihan dan kesehatan yang dianjurkan ilmu modern",
+     "B. Tidak ada hubungan sama sekali antara taharah dan ilmu kesehatan modern",
+     "C. Ilmu kesehatan modern tidak relevan dan tidak pernah membahas kebersihan diri",
+     "D. Taharah bertentangan dengan prinsip kebersihan dalam ilmu kesehatan modern"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Ajaran taharah sejalan dengan prinsip kebersihan dan kesehatan yang dianjurkan ilmu modern\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0232": {
+   "perubahan": {
+    "options": [
+     "A. Keduanya saling bertentangan dan tidak mungkin sejalan",
+     "B. Hanya salah satu dari keduanya yang benar dan lainnya keliru",
+     "C. Ajaran agama dan ilmu kesehatan bisa saling mendukung",
+     "D. Tidak ada kaitan sama sekali antara kedua penjelasan itu"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Ajaran agama dan ilmu kesehatan bisa saling mendukung\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0233": {
+   "perubahan": {
+    "options": [
+     "A. Hanya menghabiskan waktu sebelum berangkat salat",
+     "B. Membuat penampilan lebih nyaman dan percaya diri",
+     "C. Membuat pakaian menjadi cepat rusak dan luntur",
+     "D. Tidak ada manfaat lain selain sahnya salat"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Membuat penampilan lebih nyaman dan percaya diri\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0235": {
+   "perubahan": {
+    "options": [
+     "A. Hanya bermanfaat ketika masih kecil dan tidak berlanjut",
+     "B. Tidak ada manfaat jangka panjang bagi kehidupan di masa depan",
+     "C. Membentuk karakter disiplin yang bermanfaat sepanjang hidup",
+     "D. Membuat anak menjadi manja dan bergantung pada orang lain"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Membentuk karakter disiplin yang bermanfaat sepanjang hidup\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0236": {
+   "perubahan": {
+    "options": [
+     "A. Hanya supaya terlihat bersih dan rapi di depan banyak orang saja",
+     "B. Tidak berkaitan dengan hubungan manusia kepada Allah sama sekali",
+     "C. Hanya berkaitan dengan penampilan fisik dan kerapian badan saja",
+     "D. Mempersiapkan diri secara pantas untuk menghadap Allah dalam ibadah"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Mempersiapkan diri secara pantas untuk menghadap Allah dalam ibadah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0237": {
+   "perubahan": {
+    "options": [
+     "A. Menambah kotoran lagi sebelum pergi meninggalkannya",
+     "B. Menyiramnya agar bersih untuk pengguna berikutnya",
+     "C. Membiarkannya saja dan segera pergi meninggalkannya",
+     "D. Mengeluh kepada teman tanpa melakukan tindakan apa pun"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Menyiramnya agar bersih untuk pengguna berikutnya\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0238": {
+   "perubahan": {
+    "options": [
+     "A. Ibadah haji dan umrah ke Makkah",
+     "B. Puasa sunah dan menahan lapar",
+     "C. Zakat fitrah dan zakat harta",
+     "D. Taharah dan kesadaran kebersihan"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Taharah dan kesadaran kebersihan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0241": {
+   "perubahan": {
+    "options": [
+     "A. Diam saja dan pura-pura tidak melihat sampah itu",
+     "B. Mengingatkan dengan sopan dan membantu membersihkannya",
+     "C. Ikut membuang sampah juga di tempat yang sama",
+     "D. Menjauh dari tempat itu tanpa menegur temannya"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Mengingatkan dengan sopan dan membantu membersihkannya\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0243": {
+   "perubahan": {
+    "options": [
+     "A. Kepedulian menjaga kesucian dan kebersihan tempat ibadah",
+     "B. Sikap malas yang enggan membantu pekerjaan di musala",
+     "C. Sikap terpaksa karena disuruh dan takut dimarahi guru",
+     "D. Sikap mencari pujian semata dari guru dan teman"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kepedulian menjaga kesucian dan kebersihan tempat ibadah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0244": {
+   "perubahan": {
+    "options": [
+     "A. Menjaga kebersihan dan kesehatan",
+     "B. Sikap sombong kepada orang lain",
+     "C. Sikap boros dalam membelanjakan uang",
+     "D. Sikap tidak peduli pada kesehatan"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Menjaga kebersihan dan kesehatan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0249": {
+   "perubahan": {
+    "options": [
+     "A. Kepedulian menjaga kebersihan lingkungan",
+     "B. Sikap acuh terhadap lingkungan sekitar",
+     "C. Sikap malas membersihkan tempat makan",
+     "D. Sikap boros dalam menghabiskan camilan"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kepedulian menjaga kebersihan lingkungan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0250": {
+   "perubahan": {
+    "options": [
+     "A. Menyiram dan membersihkan setelah digunakan",
+     "B. Tidak peduli dengan kondisi toilet sesudahnya",
+     "C. Membuang sampah ke dalam lubang kloset toilet",
+     "D. Meninggalkannya dalam keadaan masih kotor dan bau"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Menyiram dan membersihkan setelah digunakan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0253": {
+   "perubahan": {
+    "options": [
+     "A. Hanya berlaku untuk diri sendiri ketika berada di dalam rumah saja",
+     "B. Tidak berkaitan dengan kehidupan bermasyarakat sehari-hari di sekitar kita",
+     "C. Hanya penting dilakukan menjelang waktu salat saat berada di masjid saja",
+     "D. Perlu diterapkan di rumah, sekolah, tempat ibadah, dan ruang publik secara konsisten"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Perlu diterapkan di rumah, sekolah, tempat ibadah, dan ruang publik secara konsisten\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0254": {
+   "perubahan": {
+    "options": [
+     "A. Konsistensi menerapkan nilai taharah di mana pun berada",
+     "B. Sikap kaku yang membuat suasana kurang nyaman",
+     "C. Sikap tidak fleksibel terhadap kebiasaan tuan rumah",
+     "D. Sikap berlebihan yang tidak perlu dilakukan di rumah orang"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Konsistensi menerapkan nilai taharah di mana pun berada\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0256": {
+   "perubahan": {
+    "options": [
+     "A. Melakukannya dengan asal-asalan dan terburu-buru",
+     "B. Menyuruh teman lain saja untuk mengerjakannya",
+     "C. Menghindari tugas piket dengan berbagai alasan",
+     "D. Membersihkan kelas dengan sungguh-sungguh"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Membersihkan kelas dengan sungguh-sungguh\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0259": {
+   "perubahan": {
+    "options": [
+     "A. Melaporkannya atau memperbaikinya jika mampu, serta menggunakan air secukupnya",
+     "B. Membiarkannya menetes terus tanpa melakukan apa pun dan terus berlalu",
+     "C. Menambah bukaan kran supaya air mengalir lebih deras dan cepat habis",
+     "D. Tidak peduli dan membiarkan air terbuang begitu saja setiap hari"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Melaporkannya atau memperbaikinya jika mampu, serta menggunakan air secukupnya\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0261": {
+   "perubahan": {
+    "options": [
+     "A. Sikap tidak sabar menghadapi adik yang masih kecil",
+     "B. Sikap mengabaikan adik yang sedang kesulitan",
+     "C. Kepedulian mengajarkan nilai taharah kepada adik",
+     "D. Sikap terpaksa karena disuruh oleh orang tua"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kepedulian mengajarkan nilai taharah kepada adik\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0264": {
+   "perubahan": {
+    "options": [
+     "A. Waktu bermain dan banyaknya teman yang hadir di rumah",
+     "B. Suasana hati seseorang semata pada saat akan bersuci",
+     "C. Warna pakaian dan model gambar yang dipakai hari itu",
+     "D. Jenis hadas/najis dan ketersediaan alat bersuci (air/debu)"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Jenis hadas/najis dan ketersediaan alat bersuci (air/debu)\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0265": {
+   "perubahan": {
+    "options": [
+     "A. Hanya sekadar kewajiban yang tidak memberi manfaat apa pun bagi seorang muslim",
+     "B. Tidak berkaitan dengan kehidupan sehari-hari maupun hubungan kepada Allah",
+     "C. Menjaga kesehatan, kenyamanan, dan sahnya ibadah sekaligus mendekatkan diri kepada Allah",
+     "D. Hanya bermanfaat bagi orang dewasa dan tidak berlaku untuk anak-anak kecil"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Menjaga kesehatan, kenyamanan, dan sahnya ibadah sekaligus mendekatkan diri kepada Allah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-TH-0267": {
+   "perubahan": {
+    "options": [
+     "A. Manfaat nyata dari kebiasaan menerapkan nilai taharah secara konsisten dan bersama-sama",
+     "B. Tidak ada hubungannya dengan kebiasaan menerapkan nilai taharah dalam kehidupan",
+     "C. Kebetulan semata yang terjadi tanpa ada kebiasaan murid di dalam kelas",
+     "D. Hasil kerja satu orang saja yang paling rajin membersihkan kelas setiap hari"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Manfaat nyata dari kebiasaan menerapkan nilai taharah secara konsisten dan bersama-sama\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0007": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: buang air kecil/besar, kentut, atau tidur nyenyak. Wudu dapat batal karena buang air kecil, buang air besar, kentut, atau tidur nyenyak."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-WT-0012": {
+   "perubahan": {
+    "options": [
+     "A. Sedang sakit dan dilarang terkena air oleh dokter",
+     "B. Sedang bermain di halaman bersama teman-temannya",
+     "C. Sedang menonton acara televisi di rumah bersama keluarga",
+     "D. Sedang belajar membaca di dalam kelas bersama guru"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Sedang sakit dan dilarang terkena air oleh dokter\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0032": {
+   "perubahan": {
+    "options": [
+     "A. Kepala dengan cara diusap",
+     "B. Kedua telinga bagian dalam",
+     "C. Kedua kaki sampai mata kaki",
+     "D. Kedua tangan sampai siku"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kedua tangan sampai siku\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0034": {
+   "perubahan": {
+    "options": [
+     "A. Membasuh kedua kaki sampai mata kaki",
+     "B. Membasuh wajah dari dahi sampai dagu",
+     "C. Membaca niat wudu di dalam hati",
+     "D. Mengusap sebagian rambut kepala"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Membasuh kedua kaki sampai mata kaki\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0050": {
+   "perubahan": {
+    "options": [
+     "A. Tayamum membasuh lebih banyak anggota tubuh daripada wudu dengan memakai air",
+     "B. Keduanya sama persis langkahnya, hanya berbeda pada nama dan waktu pelaksanaannya",
+     "C. Wudu tidak memerlukan niat sedangkan tayamum memerlukan niat dan doa khusus",
+     "D. Wudu membasuh lebih banyak anggota tubuh dengan air, tayamum hanya mengusap wajah dan tangan dengan debu"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Wudu membasuh lebih banyak anggota tubuh dengan air, tayamum hanya mengusap wajah dan tangan dengan debu\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0055": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: membasuh sela-sela jari, mendahulukan anggota kanan, membasuh tiga kali. Sunnah wudu lainnya meliputi membasuh sela-sela jari, mendahulukan anggota kanan, dan membasuh tiga kali."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-WT-0060": {
+   "perubahan": {
+    "options": [
+     "A. Tata cara wudu yang benar dalam keseharian",
+     "B. Sikap terburu-buru ketika akan beribadah",
+     "C. Sikap malas ketika akan mengerjakan ibadah",
+     "D. Sikap acuh tak acuh terhadap tata cara wudu"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Tata cara wudu yang benar dalam keseharian\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0062": {
+   "perubahan": {
+    "options": [
+     "A. Mengingatkan dengan sopan untuk menghemat air",
+     "B. Menegur dengan kasar di depan teman-teman",
+     "C. Ikut memboroskan air bersama temannya itu",
+     "D. Diam saja dan membiarkannya tanpa menegur"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Mengingatkan dengan sopan untuk menghemat air\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0063": {
+   "perubahan": {
+    "options": [
+     "A. Sikap sembarangan dalam memilih benda untuk bersuci di alam",
+     "B. Kemampuan menerapkan ketentuan tayamum dengan tepat sesuai kondisi",
+     "C. Sikap mengabaikan salat karena sedang berada di tempat kemah",
+     "D. Sikap malas mencari air bersih di sekitar tempat kemah"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kemampuan menerapkan ketentuan tayamum dengan tepat sesuai kondisi\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0068": {
+   "perubahan": {
+    "options": [
+     "A. Membuka kran lain agar air mengalir",
+     "B. Membiarkannya menetes terus tanpa ditutup",
+     "C. Menutupnya rapat untuk menghemat air",
+     "D. Tidak peduli dengan air yang terbuang"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Menutupnya rapat untuk menghemat air\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0069": {
+   "perubahan": {
+    "options": [
+     "A. Sikap tidak peduli terhadap penggunaan air",
+     "B. Kebijaksanaan dalam menggunakan air secukupnya",
+     "C. Sikap ceroboh dalam memakai air untuk wudu",
+     "D. Sikap boros dalam menggunakan air untuk wudu"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kebijaksanaan dalam menggunakan air secukupnya\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0071": {
+   "perubahan": {
+    "options": [
+     "A. Membimbingnya berulang kali dengan sabar hingga hafal",
+     "B. Membiarkannya begitu saja tanpa memberi bimbingan apa pun",
+     "C. Menyuruhnya berhenti belajar wudu sampai dewasa",
+     "D. Memarahinya setiap kali ia lupa urutan wudu"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Membimbingnya berulang kali dengan sabar hingga hafal\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0075": {
+   "perubahan": {
+    "options": [
+     "A. Membasuh anggota wudu dengan asal-asalan dan sekadarnya saja",
+     "B. Terburu-buru menyelesaikan wudu agar segera selesai dan cepat pergi",
+     "C. Melewati beberapa anggota wudu agar lebih cepat selesai",
+     "D. Membasuh setiap anggota wudu dengan sempurna dan tidak terburu-buru"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Membasuh setiap anggota wudu dengan sempurna dan tidak terburu-buru\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0081": {
+   "perubahan": {
+    "options": [
+     "A. Menunggu orang lain mengingatkan terus-menerus setiap akan berwudu",
+     "B. Menghafal urutan wudu tanpa pernah mempraktikkannya secara langsung",
+     "C. Berlatih langsung berulang kali dengan bimbingan sambil menyebutkan urutannya",
+     "D. Hanya membaca urutan wudu satu kali lalu tidak mengulanginya lagi"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Berlatih langsung berulang kali dengan bimbingan sambil menyebutkan urutannya\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0096": {
+   "perubahan": {
+    "options": [
+     "A. Bermain di luar rumah bersama teman-teman",
+     "B. Membaca buku cerita di perpustakaan sekolah",
+     "C. Berbicara dengan teman di dalam kelas",
+     "D. Menemukan air yang bisa digunakan untuk wudu"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Menemukan air yang bisa digunakan untuk wudu\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0099": {
+   "perubahan": {
+    "options": [
+     "A. Membuat kulit menjadi kering dan mudah pecah-pecah",
+     "B. Membuat badan menjadi lebih berat dan mudah lelah",
+     "C. Tidak ada manfaat kesehatan sama sekali bagi tubuh",
+     "D. Membersihkan anggota tubuh yang sering terkena kuman"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Membersihkan anggota tubuh yang sering terkena kuman\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0101": {
+   "perubahan": {
+    "options": [
+     "A. Hanya digunakan ketika benar-benar diperlukan sesuai syaratnya",
+     "B. Boleh digunakan kapan saja dan di mana saja tanpa syarat apa pun",
+     "C. Menggantikan wudu untuk selamanya meskipun air sudah tersedia",
+     "D. Tidak ada ketentuan khusus yang perlu diperhatikan saat bertayamum"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Hanya digunakan ketika benar-benar diperlukan sesuai syaratnya\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0104": {
+   "perubahan": {
+    "options": [
+     "A. Karena hemat adalah akhlak yang dianjurkan, terlepas dari banyak sedikitnya air yang tersedia",
+     "B. Karena anjuran hemat hanya berlaku di tempat yang airnya sedikit saja",
+     "C. Karena sungai tidak boleh digunakan untuk berwudu dalam keadaan apa pun",
+     "D. Karena air sungai akan habis dalam sekejap jika dipakai untuk berwudu"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Karena hemat adalah akhlak yang dianjurkan, terlepas dari banyak sedikitnya air yang tersedia\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0111": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: karena memberi solusi bersuci saat air tidak tersedia atau ada halangan tertentu. Tayamum memberikan solusi bersuci bagi umat Islam saat air tidak tersedia atau ada halangan tertentu."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-WT-0113": {
+   "perubahan": {
+    "options": [
+     "A. Bagian punggung badan",
+     "B. Seluruh bagian kepala",
+     "C. Kedua telapak kaki",
+     "D. Kedua telapak tangan"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kedua telapak tangan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0115": {
+   "perubahan": {
+    "options": [
+     "A. Hanya bagian dahi saja, mulai dari alis hingga batas rambut kepala",
+     "B. Hanya bagian mata saja, dari ujung alis hingga bagian bawah mata",
+     "C. Hanya bagian hidung saja, dari pangkal hidung hingga ujung hidung",
+     "D. Batas tumbuh rambut kepala hingga dagu, telinga kanan hingga telinga kiri"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Batas tumbuh rambut kepala hingga dagu, telinga kanan hingga telinga kiri\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0124": {
+   "perubahan": {
+    "options": [
+     "A. Doa memohon agar mendapat hadiah dari orang tua dan guru",
+     "B. Doa memohon nilai ujian bagus pada pelajaran di sekolah",
+     "C. Doa memohon kekayaan dan harta yang banyak dari Allah",
+     "D. Persaksian syahadat dan permohonan menjadi hamba yang bertobat"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Persaksian syahadat dan permohonan menjadi hamba yang bertobat\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0130": {
+   "perubahan": {
+    "options": [
+     "A. Mengusap kedua kaki sampai mata kaki dengan debu",
+     "B. Mengusap kedua tangan sampai siku dengan debu",
+     "C. Membasuh kedua telinga bagian dalam dengan air",
+     "D. Membaca surah yang panjang dari Al-Qur'an"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Mengusap kedua tangan sampai siku dengan debu\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0132": {
+   "perubahan": {
+    "options": [
+     "A. Keduanya sama-sama menggunakan air yang mengalir dan dibasuh",
+     "B. Tayamum menggunakan debu dan diusap, wudu menggunakan air dan dibasuh",
+     "C. Keduanya sama-sama menggunakan debu bersih dan hanya diusap",
+     "D. Tidak ada perbedaan sama sekali antara cara keduanya dilakukan"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Tayamum menggunakan debu dan diusap, wudu menggunakan air dan dibasuh\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0136": {
+   "perubahan": {
+    "options": [
+     "A. Tetap sah tanpa masalah walaupun ada bagian yang kering",
+     "B. Perlu diperbaiki dengan membasuh bagian yang masih kering",
+     "C. Tidak perlu diperbaiki karena bagian lainnya sudah basah semua",
+     "D. Sudah sempurna walaupun ada sebagian tangan yang kering"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Perlu diperbaiki dengan membasuh bagian yang masih kering\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0137": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: membasuh tangan kanan dahulu sebelum kiri / membasuh kaki kanan dahulu sebelum kiri. Sunnah wudu menganjurkan mendahulukan anggota kanan, seperti tangan kanan dan kaki kanan."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-WT-0144": {
+   "perubahan": {
+    "options": [
+     "A. Sikap malas dalam menerapkan tata cara wudu di sekolah",
+     "B. Kesungguhan dalam menerapkan tata cara wudu yang benar",
+     "C. Sikap acuh tak acuh terhadap tata cara berwudu di musala",
+     "D. Sikap terburu-buru dalam melaksanakan wudu sebelum salat"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kesungguhan dalam menerapkan tata cara wudu yang benar\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0147": {
+   "perubahan": {
+    "options": [
+     "A. Tidak peduli dengan air yang terbuang sia-sia saat wudu",
+     "B. Menggunakan dua keran sekaligus dengan aliran yang deras",
+     "C. Membiarkan keran menyala terus sampai selesai berwudu",
+     "D. Mematikan keran saat sedang mengusap kepala atau membasuh wajah"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Mematikan keran saat sedang mengusap kepala atau membasuh wajah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0156": {
+   "perubahan": {
+    "options": [
+     "A. Tidak perlu dikaitkan dengan kebiasaan sehari-hari anak di rumah dan sekolah",
+     "B. Hanya dilakukan ketika ada ujian praktik di sekolah dan tidak di rumah",
+     "C. Cukup dihafal bacaan dan urutannya tanpa perlu dipraktikkan secara langsung",
+     "D. Dipraktikkan secara rutin dengan bimbingan, disertai kesadaran menjaga air dan lingkungan"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Dipraktikkan secara rutin dengan bimbingan, disertai kesadaran menjaga air dan lingkungan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0161": {
+   "perubahan": {
+    "options": [
+     "A. Menyerobot antrean orang lain supaya bisa berwudu lebih dulu dan cepat",
+     "B. Melewati beberapa anggota wudu agar selesai lebih cepat dari yang lain",
+     "C. Tetap berwudu dengan tertib namun secepat mungkin tanpa mengurangi rukun",
+     "D. Tidak jadi salat karena antrean wudu terlalu panjang dan waktu hampir habis"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Tetap berwudu dengan tertib namun secepat mungkin tanpa mengurangi rukun\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0162": {
+   "perubahan": {
+    "options": [
+     "A. Sikap mengabaikan ibadah karena merasa tangannya sedang diperban",
+     "B. Sikap tidak peduli terhadap arahan guru dan ketentuan agama yang ada",
+     "C. Sikap menyerah dan tidak mau mencoba hal yang baru dipelajari",
+     "D. Kemauan belajar dan menerapkan ketentuan agama sesuai kondisi dirinya"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kemauan belajar dan menerapkan ketentuan agama sesuai kondisi dirinya\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0167": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: dilakukan dengan niat / dilakukan sesuai urutan (tertib) / tidak ada penghalang air ke kulit. Syarat sah wudu meliputi niat, urutan yang benar, dan tidak ada penghalang air ke kulit seperti cat kuku tebal."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-WT-0168": {
+   "perubahan": {
+    "options": [
+     "A. Wudunya tetap sah tanpa masalah meskipun air tidak sampai ke kulit",
+     "B. Tidak berpengaruh sama sekali terhadap sah atau tidaknya wudu",
+     "C. Harus mandi wajib karena kukunya tertutup oleh cat kuku yang tebal",
+     "D. Wudunya tidak sah pada bagian tersebut sampai penghalang dihilangkan"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Wudunya tidak sah pada bagian tersebut sampai penghalang dihilangkan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0170": {
+   "perubahan": {
+    "options": [
+     "A. Menjadi pemalas dan suka menunda-nunda ibadah",
+     "B. Tidak peduli kebersihan badan dan pakaiannya",
+     "C. Menghindari ibadah karena merasa terbebani",
+     "D. Terbiasa bersuci dengan benar sebelum beribadah"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Terbiasa bersuci dengan benar sebelum beribadah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0176": {
+   "perubahan": {
+    "options": [
+     "A. Agar bisa menghindari kewajiban berwudu sebelum salat",
+     "B. Hanya untuk pengetahuan semata tanpa dipraktikkan",
+     "C. Tidak ada alasan penting untuk mempelajarinya",
+     "D. Agar dapat memastikan ibadahnya sah dan diterima"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Agar dapat memastikan ibadahnya sah dan diterima\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0180": {
+   "perubahan": {
+    "options": [
+     "A. Tidak ada hikmah apa pun karena hanya aturan tambahan semata",
+     "B. Membuat wudu menjadi rumit tanpa memberi manfaat apa pun",
+     "C. Hanya formalitas yang tidak perlu diperhatikan sama sekali",
+     "D. Memberikan panduan lengkap agar wudu dilakukan dengan sempurna"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Memberikan panduan lengkap agar wudu dilakukan dengan sempurna\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0182": {
+   "perubahan": {
+    "options": [
+     "A. Penampilan fisik dan kerapian semata",
+     "B. Popularitas seseorang di antara teman",
+     "C. Kesucian dan kebersihan dalam beribadah",
+     "D. Kekayaan dan harta benda seseorang"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kesucian dan kebersihan dalam beribadah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0183": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: karena keduanya mengatur syarat sahnya ibadah seperti salat. Wudu dan tayamum penting karena mengatur syarat sahnya ibadah, terutama salat."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-WT-0185": {
+   "perubahan": {
+    "options": [
+     "A. Memilih sesuka hati tanpa mengikuti aturan yang ada",
+     "B. Bertayamum karena dianggap lebih praktis dan cepat",
+     "C. Berwudu, karena tayamum hanya untuk kondisi tertentu",
+     "D. Tidak bersuci sama sekali karena merasa sudah bersih"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Berwudu, karena tayamum hanya untuk kondisi tertentu\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0191": {
+   "perubahan": {
+    "options": [
+     "A. Sepatu yang dikenakan di kaki",
+     "B. Baju yang dipakai di badan",
+     "C. Kacamata yang dipakai di wajah",
+     "D. Cat kuku atau lem yang menutupi kulit"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Cat kuku atau lem yang menutupi kulit\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0193": {
+   "perubahan": {
+    "options": [
+     "A. Rambut saja tanpa membasahi anggota wudu lainnya",
+     "B. Tangan terlebih dahulu, lalu diusapkan ke anggota wudu",
+     "C. Lantai terlebih dahulu hingga lantainya basah semua",
+     "D. Baju yang dipakai hingga baju menjadi basah kuyup"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Tangan terlebih dahulu, lalu diusapkan ke anggota wudu\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0194": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: gayung / keran / ember kecil. Gayung, keran, atau ember kecil biasa digunakan untuk mengambil air saat berwudu."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-WT-0195": {
+   "perubahan": {
+    "options": [
+     "A. Sedang mengusap kepala atau membaca doa, agar air tidak terbuang",
+     "B. Sedang membasuh wajah yang membutuhkan aliran air",
+     "C. Sedang membasuh tangan yang membutuhkan aliran air",
+     "D. Tidak perlu dimatikan, biarkan menyala sampai selesai berwudu"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Sedang mengusap kepala atau membaca doa, agar air tidak terbuang\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0199": {
+   "perubahan": {
+    "options": [
+     "A. Air yang berbau dan sudah lama tergenang",
+     "B. Tidak perlu air sama sekali, cukup tangan kering",
+     "C. Air baru yang diambil khusus untuk kepala",
+     "D. Air kotor bekas mengepel lantai kamar mandi"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Air baru yang diambil khusus untuk kepala\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0203": {
+   "perubahan": {
+    "options": [
+     "A. Dicuci dengan air sampai debunya hilang semua",
+     "B. Dibiarkan tetap penuh debu tanpa dikurangi sedikit pun",
+     "C. Digosokkan ke baju sampai debunya hilang semua",
+     "D. Dikibaskan sedikit agar debu tidak berlebihan"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Dikibaskan sedikit agar debu tidak berlebihan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0207": {
+   "perubahan": {
+    "options": [
+     "A. Membasuh mengalirkan air, mengusap menyapukan tangan berdebu",
+     "B. Keduanya sama saja dan tidak ada bedanya sama sekali",
+     "C. Mengusap memakai air yang banyak lalu dialirkan ke tangan",
+     "D. Membasuh memakai debu yang disapukan ke seluruh tangan"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Membasuh mengalirkan air, mengusap menyapukan tangan berdebu\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0209": {
+   "perubahan": {
+    "options": [
+     "A. Mengusap bagian terluka atau penutupnya dengan tangan basah",
+     "B. Melewati bagian itu tanpa melakukan tindakan apa pun",
+     "C. Tidak berwudu sama sekali karena tangannya sedang terluka",
+     "D. Membiarkan luka basah penuh dengan air yang mengalir"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Mengusap bagian terluka atau penutupnya dengan tangan basah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0210": {
+   "perubahan": {
+    "question_type": "short_answer",
+    "explanation": "Jawaban terbuka; terima jawaban bermakna sama, contoh: mengusap bagian terluka atau penutup lukanya dengan tangan basah. Orang yang terluka dapat mengusap bagian terluka atau penutupnya sebagai keringanan."
+   },
+   "jenis": [
+    "tipe_soal",
+    "redaksi"
+   ],
+   "alasan": "Soal isian dengan kunci berupa contoh jawaban (jawaban terbuka) diubah menjadi short_answer dan penjelasan memuat catatan penilaian rubrik.",
+   "verifikasi": "Pertanyaan dan kunci (answer) tidak diubah; hanya tipe soal dan catatan penilaian pada penjelasan sehingga jawaban bermakna sama diterima."
+  },
+  "FIK-WT-0211": {
+   "perubahan": {
+    "options": [
+     "A. Mengusap memerlukan air yang banyak, membasuh cukup dengan tangan basah",
+     "B. Membasuh tidak memerlukan air sedangkan mengusap memakai air yang banyak",
+     "C. Membasuh mengalirkan air ke seluruh bagian, mengusap cukup dengan tangan basah",
+     "D. Keduanya sama persis dan tidak ada perbedaan cara mengerjakannya"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Membasuh mengalirkan air ke seluruh bagian, mengusap cukup dengan tangan basah\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0221": {
+   "perubahan": {
+    "options": [
+     "A. Sikap terpaksa yang dilakukan karena disuruh",
+     "B. Kebiasaan tanpa makna yang tidak perlu dilakukan",
+     "C. Sikap berlebihan yang tidak perlu dilakukan keluarga",
+     "D. Penerapan sunnah wudu dalam rutinitas keluarga"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Penerapan sunnah wudu dalam rutinitas keluarga\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0230": {
+   "perubahan": {
+    "options": [
+     "A. Tidak ada beda sama sekali antara rukun dan sunnah wudu",
+     "B. Rukun wajib dipenuhi, sunnah dianjurkan namun boleh ditinggalkan",
+     "C. Sunnah lebih wajib dipenuhi daripada rukun dalam wudu",
+     "D. Keduanya sama wajibnya dan tidak boleh ditinggalkan sedikit pun"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Rukun wajib dipenuhi, sunnah dianjurkan namun boleh ditinggalkan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0231": {
+   "perubahan": {
+    "options": [
+     "A. Kepedulian terhadap sahnya ibadah bersama",
+     "B. Sikap tidak percaya kepada teman-temannya",
+     "C. Sikap suka mengatur-atur orang lain tanpa alasan",
+     "D. Sikap sok tahu dan ingin tampak lebih pintar"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kepedulian terhadap sahnya ibadah bersama\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0237": {
+   "perubahan": {
+    "options": [
+     "A. Sikap hanya mencari perhatian dari guru di kelas",
+     "B. Kepedulian menjaga fasilitas ibadah bersama",
+     "C. Sikap tidak percaya diri di depan teman",
+     "D. Sikap terpaksa karena disuruh oleh guru"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kepedulian menjaga fasilitas ibadah bersama\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0239": {
+   "perubahan": {
+    "options": [
+     "A. Menyuruhnya untuk tidak salat sampai perbannya dibuka",
+     "B. Memaksanya membuka perban supaya terkena air wudu",
+     "C. Mengabaikannya dan membiarkannya berwudu sendirian",
+     "D. Mengusap bagian perban dengan tangan basah sesuai keringanan"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Mengusap bagian perban dengan tangan basah sesuai keringanan\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0241": {
+   "perubahan": {
+    "options": [
+     "A. Memakai air sebanyak-banyaknya sampai lantai menjadi basah kuyup",
+     "B. Tidak peduli berapa banyak air yang terpakai dan terbuang saat berwudu",
+     "C. Memakai air secukupnya dan tidak membiarkan keran menyala sia-sia",
+     "D. Membiarkan lantai tempat wudu menjadi becek dan penuh genangan air"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Memakai air secukupnya dan tidak membiarkan keran menyala sia-sia\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0242": {
+   "perubahan": {
+    "options": [
+     "A. Rasa tidak nyaman berada di rumah nenek",
+     "B. Kesadaran menjaga sumber air yang terbatas",
+     "C. Sikap kaku terhadap kebiasaan lingkungan desa",
+     "D. Sikap pelit terhadap air sumur milik nenek"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kesadaran menjaga sumber air yang terbatas\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0244": {
+   "perubahan": {
+    "options": [
+     "A. Menyerah setelah mencoba satu kali karena merasa wudu terlalu sulit",
+     "B. Mengandalkan orang lain sepenuhnya tanpa mau mencoba sendiri",
+     "C. Menghafal urutan wudu di buku saja tanpa pernah mempraktikkannya",
+     "D. Berlatih berulang dengan bimbingan hingga hafal urutan dan gerakannya"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Berlatih berulang dengan bimbingan hingga hafal urutan dan gerakannya\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0248": {
+   "perubahan": {
+    "options": [
+     "A. Perbuatan yang sebenarnya tidak perlu dilakukan",
+     "B. Sikap pamer kepada para tamu yang datang",
+     "C. Sikap berlebihan dalam menyiapkan sesuatu",
+     "D. Kepedulian memfasilitasi ibadah bersama"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Kepedulian memfasilitasi ibadah bersama\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0250": {
+   "perubahan": {
+    "options": [
+     "A. Menebak-nebak urutan wudu sendiri tanpa bertanya kepada siapa pun",
+     "B. Berwudu asal-asalan saja tanpa memperhatikan urutannya sama sekali",
+     "C. Bertanya dengan sopan kepada guru atau orang dewasa, atau melihat panduan wudu",
+     "D. Tidak jadi salat karena merasa malu untuk bertanya kepada orang lain"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Bertanya dengan sopan kepada guru atau orang dewasa, atau melihat panduan wudu\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0252": {
+   "perubahan": {
+    "options": [
+     "A. Memastikan murid mampu mempraktikkan taharah secara menyeluruh",
+     "B. Menyulitkan murid dengan tugas praktik yang berat sekali",
+     "C. Hanya formalitas akhir semester tanpa tujuan pembelajaran",
+     "D. Tidak ada tujuan khusus dari kegiatan praktik tersebut"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Memastikan murid mampu mempraktikkan taharah secara menyeluruh\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0253": {
+   "perubahan": {
+    "options": [
+     "A. Gambar 1 (keran air bersih)",
+     "B. Gambar 2 (tanah kering bersih)",
+     "C. Gambar 1 dan gambar 2 sekaligus",
+     "D. Tidak ada gambar yang cocok"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Gambar 2 (tanah kering bersih)\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0254": {
+   "perubahan": {
+    "question": "Setelah berwudu, Dina melakukan satu kegiatan, tetapi wudunya tetap sah. Kegiatan itu adalah ...."
+   },
+   "jenis": [
+    "redaksi",
+    "konstruksi"
+   ],
+   "alasan": "Stem negatif (BUKAN) kurang sesuai untuk kelas 1; diubah menjadi pertanyaan positif dengan makna dan kunci yang sama.",
+   "verifikasi": "Opsi dan kunci \"Makan nasi\" tidak berubah; hanya makan nasi yang tidak membatalkan wudu, sedangkan kentut, buang air kecil, dan tidur nyenyak membatalkannya sehingga tidak ada opsi lain yang menjadi benar."
+  },
+  "FIK-WT-0256": {
+   "perubahan": {
+    "options": [
+     "A. Dahi dan bagian wajah",
+     "B. Telapak kaki dan tumit",
+     "C. Rambut di bagian kepala",
+     "D. Sela-sela jari dan bagian siku"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Sela-sela jari dan bagian siku\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0260": {
+   "perubahan": {
+    "options": [
+     "A. Saling mendorong supaya mendapat giliran lebih dulu dari teman",
+     "B. Tidak peduli dengan arahan guru dan berwudu sesuka hati",
+     "C. Mengikuti arahan guru dan berwudu bergantian dengan hati-hati",
+     "D. Berlari agar cepat selesai berwudu dan segera masuk kelas"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Mengikuti arahan guru dan berwudu bergantian dengan hati-hati\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0261": {
+   "perubahan": {
+    "options": [
+     "A. Mengecilkan aliran keran agar air tidak terbuang",
+     "B. Membuka keran lebih besar agar air lebih deras",
+     "C. Meninggalkan keran begitu saja tanpa melakukan apa pun",
+     "D. Membiarkannya meluap hingga air membasahi lantai"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Mengecilkan aliran keran agar air tidak terbuang\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  },
+  "FIK-WT-0265": {
+   "perubahan": {
+    "options": [
+     "A. Menertawakannya karena terlihat kesulitan menjangkau keran wudu",
+     "B. Menyuruhnya menunggu sendirian sampai semua teman selesai berwudu",
+     "C. Menawarkan bantuan dengan sopan, misalnya mengambilkan air dalam gayung",
+     "D. Mengabaikannya dan membiarkannya kesulitan menjangkau keran sendiri"
+    ]
+   },
+   "jenis": [
+    "panjang_opsi"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang dan strukturnya dengan kunci agar kunci tidak menonjol sebagai opsi terpanjang.",
+   "verifikasi": "Teks kunci (\"Menawarkan bantuan dengan sopan, misalnya mengambilkan air dalam gayung\") dan huruf kunci tidak berubah; ketiga pengecoh baru tetap salah menurut penjelasan soal dan tidak bermakna sama dengan kunci."
+  }
+ },
+ "tidak_direvisi": {}
+}
