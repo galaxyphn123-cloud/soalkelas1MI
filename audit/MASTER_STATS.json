@@ -1,0 +1,551 @@
+{
+ "tanggal": "2026-10-12",
+ "total": {
+  "PASS": 6313,
+  "REVISE": 1601,
+  "NEEDS_REVIEW": 1086
+ },
+ "jumlah_soal": 9000,
+ "per_mapel": {
+  "Fikih": {
+   "awal": 1000,
+   "status_awal": {
+    "PASS": 569,
+    "REVISE": 266,
+    "NEEDS_REVIEW": 165
+   },
+   "status_akhir": {
+    "PASS": 569,
+    "REVISE": 266,
+    "NEEDS_REVIEW": 165
+   },
+   "revisi_diterima": 0,
+   "revisi_ditolak_validasi": 0,
+   "tidak_direvisi": 0,
+   "belum_ditangani": 266,
+   "isu_struktur_tersisa": {
+    "petunjuk_kunci_terpanjang": 260,
+    "isian_jawaban_terbuka": 46,
+    "grouping_kunci_tak_valid": 1,
+    "opsi_semua_benar": 1
+   },
+   "atp_final": {
+    "SELARAS_MESIN": 634,
+    "SELARAS_TINJAU_BACA": 278,
+    "INDIKASI_TINJAU_BACA": 85,
+    "INDIKASI_KUAT_DOKUMEN": 3
+   },
+   "tinjau_baca_kode": {
+    "AKURASI_AHLI": 33,
+    "ATP_INDIKASI": 85,
+    "USIA_ISI": 54,
+    "ATP_INDIKASI_KUAT": 3,
+    "KONSTRUKSI": 1,
+    "BAHASA": 3,
+    "AMBIGU": 4,
+    "DISTRAKTOR_AMBIGU": 1,
+    "AKURASI_KONFLIK_INTERNAL": 3
+   },
+   "kesulitan": {
+    "easy": 115,
+    "medium": 722,
+    "hard": 163
+   },
+   "tipe": {
+    "multiple_choice": 392,
+    "matching": 35,
+    "ordering": 19,
+    "true_false": 210,
+    "fill_in_short": 78,
+    "completion": 52,
+    "multiple_choice_visual": 43,
+    "contextual": 82,
+    "grouping": 34,
+    "performance_task": 55
+   },
+   "kunci_terpanjang": "402/517",
+   "tf": {
+    "Benar": 168,
+    "Salah": 42
+   },
+   "hash_bank_asli": "e001e39621f15f75df5a0e8d83f0bed3c9feeb899df709af8d8c399ac8ace052"
+  },
+  "Al-Quran Hadis": {
+   "awal": 1000,
+   "status_awal": {
+    "PASS": 871,
+    "NEEDS_REVIEW": 81,
+    "REVISE": 48
+   },
+   "status_akhir": {
+    "PASS": 871,
+    "NEEDS_REVIEW": 81,
+    "REVISE": 48
+   },
+   "revisi_diterima": 0,
+   "revisi_ditolak_validasi": 0,
+   "tidak_direvisi": 0,
+   "belum_ditangani": 48,
+   "isu_struktur_tersisa": {
+    "petunjuk_kunci_terpanjang": 51
+   },
+   "atp_final": {
+    "SELARAS_MESIN": 836,
+    "SELARAS_TINJAU_BACA": 153,
+    "INDIKASI_TINJAU_BACA": 11
+   },
+   "tinjau_baca_kode": {
+    "USIA_ISI": 16,
+    "DUP_DIPERTAHANKAN": 32,
+    "AMBIGU": 12,
+    "DISTRAKTOR_AMBIGU": 5,
+    "AKURASI_AHLI": 33,
+    "BAHASA": 1,
+    "ATP_INDIKASI": 11,
+    "KONSTRUKSI": 2,
+    "AKURASI_SALAH_TEGAS": 1,
+    "DUP_SUBSTANTIF": 2
+   },
+   "kesulitan": {
+    "medium": 553,
+    "easy": 284,
+    "hard": 163
+   },
+   "tipe": {
+    "multiple_choice": 436,
+    "multiple_choice_visual": 38,
+    "true_false": 202,
+    "fill_in_short": 91,
+    "completion": 43,
+    "matching": 28,
+    "ordering": 28,
+    "grouping": 19,
+    "performance_task": 49,
+    "contextual": 66
+   },
+   "kunci_terpanjang": "250/540",
+   "tf": {
+    "Benar": 104,
+    "Salah": 98
+   },
+   "hash_bank_asli": "b9bf7a8e113d91f6c9bd778799473c437e86c7062ac8d9fc18e548e6a223f250"
+  },
+  "Bahasa Arab": {
+   "awal": 1000,
+   "status_awal": {
+    "PASS": 915,
+    "REVISE": 51,
+    "NEEDS_REVIEW": 34
+   },
+   "status_akhir": {
+    "PASS": 915,
+    "REVISE": 51,
+    "NEEDS_REVIEW": 34
+   },
+   "revisi_diterima": 0,
+   "revisi_ditolak_validasi": 0,
+   "tidak_direvisi": 0,
+   "belum_ditangani": 51,
+   "isu_struktur_tersisa": {
+    "petunjuk_kunci_terpanjang": 40
+   },
+   "atp_final": {
+    "SELARAS_MESIN": 580,
+    "SELARAS_TINJAU_BACA": 420
+   },
+   "tinjau_baca_kode": {
+    "DISTRAKTOR_AMBIGU": 2,
+    "AMBIGU": 4,
+    "DUP_DIPERTAHANKAN": 88,
+    "BAHASA": 9,
+    "KONSTRUKSI": 25,
+    "USIA_ISI": 20,
+    "AKURASI_AHLI": 8
+   },
+   "kesulitan": {
+    "medium": 632,
+    "easy": 258,
+    "hard": 110
+   },
+   "tipe": {
+    "multiple_choice": 396,
+    "true_false": 200,
+    "fill_in_short": 88,
+    "matching": 32,
+    "multiple_choice_visual": 48,
+    "contextual": 100,
+    "completion": 48,
+    "ordering": 32,
+    "performance_task": 44,
+    "grouping": 12
+   },
+   "kunci_terpanjang": "333/544",
+   "tf": {
+    "Benar": 100,
+    "Salah": 100
+   },
+   "hash_bank_asli": "9c637a333d0f010f0b498a1233fd82102451f2d34e68afe56523803aa63d1796"
+  },
+  "Akidah Akhlak": {
+   "awal": 1000,
+   "status_awal": {
+    "PASS": 770,
+    "NEEDS_REVIEW": 98,
+    "REVISE": 132
+   },
+   "status_akhir": {
+    "PASS": 770,
+    "NEEDS_REVIEW": 98,
+    "REVISE": 132
+   },
+   "revisi_diterima": 0,
+   "revisi_ditolak_validasi": 0,
+   "tidak_direvisi": 0,
+   "belum_ditangani": 132,
+   "isu_struktur_tersisa": {
+    "petunjuk_kunci_terpanjang": 117
+   },
+   "atp_final": {
+    "SELARAS_MESIN": 773,
+    "SELARAS_TINJAU_BACA": 198,
+    "INDIKASI_TINJAU_BACA": 29
+   },
+   "tinjau_baca_kode": {
+    "USIA_ISI": 39,
+    "KONSTRUKSI": 20,
+    "ATP_INDIKASI": 29,
+    "AMBIGU": 7,
+    "BAHASA": 9,
+    "AKURASI_AHLI": 24,
+    "DISTRAKTOR_AMBIGU": 2,
+    "AKURASI_KONFLIK_INTERNAL": 6,
+    "DUP_DIPERTAHANKAN": 2
+   },
+   "kesulitan": {
+    "medium": 606,
+    "hard": 50,
+    "easy": 344
+   },
+   "tipe": {
+    "multiple_choice": 282,
+    "true_false": 231,
+    "fill_in_short": 225,
+    "matching": 17,
+    "performance_task": 47,
+    "ordering": 25,
+    "grouping": 21,
+    "multiple_choice_visual": 23,
+    "contextual": 75,
+    "completion": 54
+   },
+   "kunci_terpanjang": "237/380",
+   "tf": {
+    "Benar": 117,
+    "Salah": 114
+   },
+   "hash_bank_asli": "be3ac8a0eb75387ec1ca94be07006836098dfef092f90bb822606567f40873fa"
+  },
+  "Bahasa Indonesia": {
+   "awal": 1000,
+   "status_awal": {
+    "PASS": 634,
+    "NEEDS_REVIEW": 124,
+    "REVISE": 242
+   },
+   "status_akhir": {
+    "PASS": 634,
+    "NEEDS_REVIEW": 124,
+    "REVISE": 242
+   },
+   "revisi_diterima": 0,
+   "revisi_ditolak_validasi": 0,
+   "tidak_direvisi": 0,
+   "belum_ditangani": 242,
+   "isu_struktur_tersisa": {
+    "petunjuk_kunci_terpanjang": 52
+   },
+   "atp_final": {
+    "SELARAS_TINJAU_BACA": 72,
+    "INDIKASI_TINJAU_BACA": 77,
+    "SELARAS_MESIN": 851
+   },
+   "tinjau_baca_kode": {
+    "ATP_INDIKASI": 77,
+    "KONSTRUKSI": 211,
+    "DUP_DIPERTAHANKAN": 66,
+    "BAHASA": 8,
+    "AMBIGU": 21,
+    "USIA_ISI": 15,
+    "AKURASI_AHLI": 15,
+    "DISTRAKTOR_AMBIGU": 5
+   },
+   "kesulitan": {
+    "easy": 508,
+    "medium": 492
+   },
+   "tipe": {
+    "multiple_choice": 366,
+    "multiple_choice_visual": 47,
+    "contextual": 97,
+    "true_false": 200,
+    "fill_in_short": 131,
+    "completion": 43,
+    "ordering": 25,
+    "performance_task": 52,
+    "grouping": 16,
+    "matching": 23
+   },
+   "kunci_terpanjang": "322/510",
+   "tf": {
+    "Benar": 100,
+    "Salah": 100
+   },
+   "hash_bank_asli": "6367389c74ba5806c8804bdf50e114741869cb9f84f636759c6690db5e452880"
+  },
+  "Matematika": {
+   "awal": 1000,
+   "status_awal": {
+    "PASS": 835,
+    "NEEDS_REVIEW": 74,
+    "REVISE": 91
+   },
+   "status_akhir": {
+    "PASS": 835,
+    "NEEDS_REVIEW": 74,
+    "REVISE": 91
+   },
+   "revisi_diterima": 0,
+   "revisi_ditolak_validasi": 0,
+   "tidak_direvisi": 0,
+   "belum_ditangani": 91,
+   "isu_struktur_tersisa": {
+    "petunjuk_kunci_terpanjang": 23
+   },
+   "atp_final": {
+    "SELARAS_MESIN": 571,
+    "INDIKASI_TINJAU_BACA": 27,
+    "SELARAS_TINJAU_BACA": 401,
+    "INDIKASI_KUAT_DOKUMEN": 1
+   },
+   "tinjau_baca_kode": {
+    "ATP_INDIKASI": 27,
+    "DUP_DIPERTAHANKAN": 63,
+    "KONSTRUKSI": 77,
+    "AKURASI_AHLI": 13,
+    "USIA_ISI": 24,
+    "BAHASA": 27,
+    "AMBIGU": 10,
+    "DISTRAKTOR_AMBIGU": 1,
+    "DUP_SUBSTANTIF": 18,
+    "AKURASI_KONFLIK_INTERNAL": 1,
+    "ATP_INDIKASI_KUAT": 1
+   },
+   "kesulitan": {
+    "easy": 563,
+    "medium": 397,
+    "hard": 40
+   },
+   "tipe": {
+    "multiple_choice": 366,
+    "multiple_choice_visual": 52,
+    "true_false": 202,
+    "fill_in_short": 199,
+    "matching": 16,
+    "performance_task": 37,
+    "ordering": 14,
+    "contextual": 79,
+    "completion": 29,
+    "grouping": 6
+   },
+   "kunci_terpanjang": "335/497",
+   "tf": {
+    "Benar": 104,
+    "Salah": 98
+   },
+   "hash_bank_asli": "0d1b51e095fe81f560e67cee8bff41cd44e91d5cbb46e69c61af888420c5faca"
+  },
+  "Pancasila": {
+   "awal": 1000,
+   "status_awal": {
+    "PASS": 573,
+    "REVISE": 239,
+    "NEEDS_REVIEW": 188
+   },
+   "status_akhir": {
+    "PASS": 573,
+    "REVISE": 239,
+    "NEEDS_REVIEW": 188
+   },
+   "revisi_diterima": 0,
+   "revisi_ditolak_validasi": 0,
+   "tidak_direvisi": 0,
+   "belum_ditangani": 239,
+   "isu_struktur_tersisa": {
+    "petunjuk_kunci_terpanjang": 65
+   },
+   "atp_final": {
+    "SELARAS_TINJAU_BACA": 182,
+    "SELARAS_MESIN": 768,
+    "INDIKASI_TINJAU_BACA": 50
+   },
+   "tinjau_baca_kode": {
+    "ATP_INDIKASI": 50,
+    "DISTRAKTOR_AMBIGU": 36,
+    "BAHASA": 76,
+    "KONSTRUKSI": 157,
+    "AMBIGU": 41,
+    "AKURASI_AHLI": 25,
+    "USIA_ISI": 42,
+    "DUP_DIPERTAHANKAN": 10,
+    "DUP_SUBSTANTIF": 4,
+    "AKURASI_KONFLIK_INTERNAL": 9,
+    "AKURASI_SALAH_TEGAS": 1
+   },
+   "kesulitan": {
+    "easy": 543,
+    "medium": 451,
+    "hard": 6
+   },
+   "tipe": {
+    "multiple_choice": 297,
+    "multiple_choice_visual": 15,
+    "contextual": 58,
+    "true_false": 308,
+    "fill_in_short": 206,
+    "completion": 56,
+    "matching": 23,
+    "grouping": 10,
+    "performance_task": 24,
+    "ordering": 3
+   },
+   "kunci_terpanjang": "209/370",
+   "tf": {
+    "Benar": 155,
+    "Salah": 153
+   },
+   "hash_bank_asli": "61f4bceba748b23d42ec6de33e6044d946372dce15af0cd14e92164f53dcdd6b"
+  },
+  "PJOK": {
+   "awal": 1000,
+   "status_awal": {
+    "NEEDS_REVIEW": 203,
+    "PASS": 450,
+    "REVISE": 347
+   },
+   "status_akhir": {
+    "NEEDS_REVIEW": 203,
+    "PASS": 450,
+    "REVISE": 347
+   },
+   "revisi_diterima": 0,
+   "revisi_ditolak_validasi": 0,
+   "tidak_direvisi": 0,
+   "belum_ditangani": 347,
+   "isu_struktur_tersisa": {
+    "petunjuk_kunci_terpanjang": 67
+   },
+   "atp_final": {
+    "SELARAS_TINJAU_BACA": 221,
+    "SELARAS_MESIN": 763,
+    "INDIKASI_TINJAU_BACA": 16
+   },
+   "tinjau_baca_kode": {
+    "AKURASI_KONFLIK_INTERNAL": 9,
+    "KONSTRUKSI": 333,
+    "AKURASI_AHLI": 51,
+    "DISTRAKTOR_AMBIGU": 44,
+    "AMBIGU": 74,
+    "BAHASA": 58,
+    "DUP_DIPERTAHANKAN": 31,
+    "USIA_ISI": 13,
+    "DUP_SUBSTANTIF": 12,
+    "ATP_INDIKASI": 16,
+    "AKURASI_SALAH_TEGAS": 3
+   },
+   "kesulitan": {
+    "medium": 525,
+    "easy": 473,
+    "hard": 2
+   },
+   "tipe": {
+    "multiple_choice": 363,
+    "multiple_choice_visual": 16,
+    "contextual": 37,
+    "true_false": 200,
+    "fill_in_short": 218,
+    "completion": 25,
+    "matching": 27,
+    "ordering": 3,
+    "grouping": 11,
+    "performance_task": 100
+   },
+   "kunci_terpanjang": "192/416",
+   "tf": {
+    "Benar": 102,
+    "Salah": 98
+   },
+   "hash_bank_asli": "137d27911d6ca21665df44a51441f5de358bd2d8683aec1d8a993ba4b48c4f34"
+  },
+  "Bahasa Inggris": {
+   "awal": 1000,
+   "status_awal": {
+    "REVISE": 185,
+    "PASS": 696,
+    "NEEDS_REVIEW": 119
+   },
+   "status_akhir": {
+    "REVISE": 185,
+    "PASS": 696,
+    "NEEDS_REVIEW": 119
+   },
+   "revisi_diterima": 0,
+   "revisi_ditolak_validasi": 0,
+   "tidak_direvisi": 0,
+   "belum_ditangani": 185,
+   "isu_struktur_tersisa": {
+    "petunjuk_kunci_terpanjang": 19
+   },
+   "atp_final": {
+    "SELARAS_TINJAU_BACA": 205,
+    "SELARAS_MESIN": 788,
+    "INDIKASI_TINJAU_BACA": 7
+   },
+   "tinjau_baca_kode": {
+    "DISTRAKTOR_AMBIGU": 12,
+    "AMBIGU": 45,
+    "ATP_INDIKASI": 7,
+    "KONSTRUKSI": 127,
+    "AKURASI_AHLI": 21,
+    "BAHASA": 73,
+    "DUP_DIPERTAHANKAN": 35,
+    "AKURASI_SALAH_TEGAS": 5,
+    "USIA_ISI": 31,
+    "AKURASI_KONFLIK_INTERNAL": 10,
+    "DUP_SUBSTANTIF": 5
+   },
+   "kesulitan": {
+    "medium": 622,
+    "easy": 377,
+    "hard": 1
+   },
+   "tipe": {
+    "multiple_choice": 352,
+    "true_false": 180,
+    "fill_in_short": 92,
+    "completion": 63,
+    "performance_task": 81,
+    "multiple_choice_visual": 63,
+    "contextual": 70,
+    "matching": 27,
+    "ordering": 54,
+    "grouping": 18
+   },
+   "kunci_terpanjang": "239/485",
+   "tf": {
+    "Salah": 90,
+    "Benar": 90
+   },
+   "hash_bank_asli": "69d4143d6ebe4e6e95c8489fc2e67794cb65841ec52075b52e1c097e4bbe34c1"
+  }
+ }
+}

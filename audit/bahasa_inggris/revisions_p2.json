@@ -1,0 +1,1159 @@
+{
+ "revisi": {
+  "ENG-B5-0084": {
+   "perubahan": {
+    "options": [
+     "A. The garden is green.",
+     "B. The garden are green.",
+     "C. The garden is greens.",
+     "D. The garden has green."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"The garden is green.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B5-0085": {
+   "perubahan": {
+    "options": [
+     "A. The door are brown.",
+     "B. The door is browns.",
+     "C. The door is brown.",
+     "D. The door has brown."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"The door is brown.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B5-0086": {
+   "perubahan": {
+    "options": [
+     "A. It is a blue rectangle.",
+     "B. It is an blue rectangle.",
+     "C. It are a blue rectangle.",
+     "D. It has a blue rectangle."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"It is a blue rectangle.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B6-0079": {
+   "perubahan": {
+    "options": [
+     "A. I have three fish.",
+     "B. I has three fish.",
+     "C. I have three fishs.",
+     "D. I am three fish."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"I have three fish.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B6-0080": {
+   "perubahan": {
+    "options": [
+     "A. I has two white dogs.",
+     "B. I have two white dog.",
+     "C. I have two white dogs.",
+     "D. I am two white dogs."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"I have two white dogs.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B6-0081": {
+   "perubahan": {
+    "options": [
+     "A. My hamster is orange.",
+     "B. My hamster are orange.",
+     "C. My hamster is a orange.",
+     "D. My hamsters is orange."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"My hamster is orange.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B6-0082": {
+   "perubahan": {
+    "options": [
+     "A. The turtle are green.",
+     "B. The turtle is greens.",
+     "C. The turtles is green.",
+     "D. The turtle is green."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"The turtle is green.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B6-0101": {
+   "perubahan": {
+    "options": [
+     "A. The fish am in the aquarium.",
+     "B. The fish is in the aquarium.",
+     "C. The fish is on the aquarium.",
+     "D. The fish is in a aquarium."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"The fish is in the aquarium.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B6-0102": {
+   "perubahan": {
+    "options": [
+     "A. The cat are in the cage.",
+     "B. The cat is in the cage.",
+     "C. The cat is on the cage.",
+     "D. The cat am in the cage."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"The cat is in the cage.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B6-0103": {
+   "perubahan": {
+    "options": [
+     "A. The food are on the shelf.",
+     "B. The food is in the shelf.",
+     "C. The food am on the shelf.",
+     "D. The food is on the shelf."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"The food is on the shelf.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B6-0104": {
+   "perubahan": {
+    "options": [
+     "A. This is a pet shop.",
+     "B. This are a pet shop.",
+     "C. This is an pet shop.",
+     "D. These is a pet shop."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"This is a pet shop.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B7-0046": {
+   "perubahan": {
+    "options": [
+     "A. Thanks you very much.",
+     "B. Thank you very many.",
+     "C. Thank you very much.",
+     "D. Thank your very much."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"Thank you very much.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B7-0085": {
+   "perubahan": {
+    "options": [
+     "A. I have a long kite.",
+     "B. I has a long kite.",
+     "C. I have an long kite.",
+     "D. I am a long kite."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"I have a long kite.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B7-0086": {
+   "perubahan": {
+    "options": [
+     "A. It are a small doll.",
+     "B. It is an small doll.",
+     "C. It has a small doll.",
+     "D. It is a small doll."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"It is a small doll.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B7-0087": {
+   "perubahan": {
+    "options": [
+     "A. The car are small.",
+     "B. The car is small.",
+     "C. The car is smalls.",
+     "D. The cars is small."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"The car is small.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B7-0088": {
+   "perubahan": {
+    "options": [
+     "A. The train are long.",
+     "B. The train is long.",
+     "C. The train is longs.",
+     "D. The trains is long."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"The train is long.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B7-0089": {
+   "perubahan": {
+    "options": [
+     "A. It are a big ball.",
+     "B. It is a big ball.",
+     "C. It is an big ball.",
+     "D. It has a big ball."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"It is a big ball.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B7-0101": {
+   "perubahan": {
+    "options": [
+     "A. My toy car is blue.",
+     "B. My toy car are blue.",
+     "C. My toy cars is blue.",
+     "D. My toy car is blues."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"My toy car is blue.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B7-0103": {
+   "perubahan": {
+    "options": [
+     "A. I likes my robot.",
+     "B. I like my robot.",
+     "C. I like me robot.",
+     "D. I am like my robot."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"I like my robot.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B8-0031": {
+   "perubahan": {
+    "options": [
+     "A. Does you like apples?",
+     "B. Do you likes apples?",
+     "C. Do you like apples?",
+     "D. Do you like a apples?"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"Do you like apples?\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B8-0083": {
+   "perubahan": {
+    "options": [
+     "A. Yes, I do.",
+     "B. Yes, I does.",
+     "C. Yes, I am.",
+     "D. Yes, I do not."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"Yes, I do.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B8-0084": {
+   "perubahan": {
+    "options": [
+     "A. I do not like oranges.",
+     "B. I does not like oranges.",
+     "C. I do not likes oranges.",
+     "D. I am not like oranges."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"I do not like oranges.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B8-0085": {
+   "perubahan": {
+    "options": [
+     "A. What fruit does you like?",
+     "B. What fruit do you likes?",
+     "C. What fruit are you like?",
+     "D. What fruit do you like?"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"What fruit do you like?\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B8-0086": {
+   "perubahan": {
+    "options": [
+     "A. I like red apples.",
+     "B. I likes red apples.",
+     "C. I like red apple.",
+     "D. I am like red apples."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"I like red apples.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B8-0087": {
+   "perubahan": {
+    "options": [
+     "A. Does you like bananas?",
+     "B. Do you like bananas?",
+     "C. Do you likes bananas?",
+     "D. Do you like a bananas?"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"Do you like bananas?\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B9-0091": {
+   "perubahan": {
+    "options": [
+     "A. Rafi are climbing the ladder.",
+     "B. Rafi is climb the ladder.",
+     "C. Rafi is climbing the ladder.",
+     "D. Rafi is climbing the ladders."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"Rafi is climbing the ladder.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B9-0092": {
+   "perubahan": {
+    "options": [
+     "A. Dina are sliding.",
+     "B. Dina is sliding.",
+     "C. Dina is slide.",
+     "D. Dina am sliding."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"Dina is sliding.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B9-0093": {
+   "perubahan": {
+    "options": [
+     "A. I is digging in the sandbox.",
+     "B. I am dig in the sandbox.",
+     "C. I am digging in the sandbox.",
+     "D. I am digging on the sandbox."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"I am digging in the sandbox.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B9-0094": {
+   "perubahan": {
+    "options": [
+     "A. Can I plays on the swing?",
+     "B. Can I play on the swing?",
+     "C. Can I playing on the swing?",
+     "D. Am I play on the swing?"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"Can I play on the swing?\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B9-0095": {
+   "perubahan": {
+    "options": [
+     "A. Let us plays together.",
+     "B. Let we play together.",
+     "C. Let us playing together.",
+     "D. Let us play together."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"Let us play together.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B9-0096": {
+   "perubahan": {
+    "options": [
+     "A. I is playing on the swing.",
+     "B. I am play on the swing.",
+     "C. I am playing on the swing.",
+     "D. I are playing on the swing."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa (be/jamak/artikel/kata kerja) dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"I am playing on the swing.\" tidak diubah; pengecoh mengandung kesalahan tata bahasa/makna sehingga tidak ada yang benar selain kunci."
+  },
+  "ENG-B5-0087": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: rumah): u - s - h - e - o = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B5-0088": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: kamar tidur): m - r - e - b - o - d - o = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B5-0090": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: dapur): c - t - h - n - i - k - e = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B5-0091": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: halaman): a - r - d - y = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B6-0083": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: ikan): h - i - f - s = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B6-0084": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: kura-kura): e - l - u - t - r - t = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B6-0085": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: kelinci): i - r - b - t - a - b = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B6-0086": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: hewan peliharaan): e - t - p = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B6-0087": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: bermain): y - l - p - a = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B7-0090": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: layang-layang): t - i - e - k = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B7-0091": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: panjang): o - g - n - l = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B7-0092": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: kereta): r - a - t - i - n = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B7-0093": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: bola): a - l - l - b = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B8-0088": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: suka): l - k - i - e = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B8-0089": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: pepaya): a - p - p - a - y - a = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B8-0090": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: pisang): n - b - a - a - n - a = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B9-0099": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: memanjat): i - b - l - c - m = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B9-0100": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: melompat): p - j - m - u = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B9-0101": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: tangga): d - d - l - e - r - a = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B9-0102": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: menendang): c - i - k - k = ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Petunjuk arti Bahasa Indonesia ditambahkan agar kunci unik dan soal tidak membingungkan.",
+   "verifikasi": "Kunci tidak berubah; huruf yang sama dengan petunjuk arti hanya cocok dengan satu kata kunci."
+  },
+  "ENG-B6-0065": {
+   "perubahan": {
+    "question": "Hitung gambar hewan yang disiapkan guru, lalu katakan jumlahnya dengan kalimat \"I have ... pets.\" (isi dengan angka dalam Bahasa Inggris)."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Angka dihilangkan dari stem agar hasil hitungan murid yang dinilai.",
+   "verifikasi": "Jenis tugas kinerja (rubrik guru) tidak berubah; kunci rubrik tetap."
+  },
+  "ENG-B6-0066": {
+   "perubahan": {
+    "question": "Hitung gambar hewan yang disiapkan guru, lalu katakan jumlahnya dengan kalimat \"I have ... pets.\" (isi dengan angka dalam Bahasa Inggris)."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Angka dihilangkan dari stem agar hasil hitungan murid yang dinilai.",
+   "verifikasi": "Jenis tugas kinerja (rubrik guru) tidak berubah; kunci rubrik tetap."
+  },
+  "ENG-B6-0067": {
+   "perubahan": {
+    "question": "Hitung gambar hewan yang disiapkan guru, lalu katakan jumlahnya dengan kalimat \"I have ... pets.\" (isi dengan angka dalam Bahasa Inggris)."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Angka dihilangkan dari stem agar hasil hitungan murid yang dinilai.",
+   "verifikasi": "Jenis tugas kinerja (rubrik guru) tidak berubah; kunci rubrik tetap."
+  },
+  "ENG-B6-0068": {
+   "perubahan": {
+    "question": "Hitung gambar hewan yang disiapkan guru, lalu katakan jumlahnya dengan kalimat \"I have ... pets.\" (isi dengan angka dalam Bahasa Inggris)."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Angka dihilangkan dari stem agar hasil hitungan murid yang dinilai.",
+   "verifikasi": "Jenis tugas kinerja (rubrik guru) tidak berubah; kunci rubrik tetap."
+  },
+  "ENG-B7-0071": {
+   "perubahan": {
+    "question": "Hitung mainan yang disiapkan guru, lalu katakan jumlahnya dengan kalimat \"I have ... toys.\" (isi dengan angka dalam Bahasa Inggris)."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Angka dihilangkan dari stem agar hasil hitungan murid yang dinilai.",
+   "verifikasi": "Jenis tugas kinerja (rubrik guru) tidak berubah; kunci rubrik tetap."
+  },
+  "ENG-B7-0072": {
+   "perubahan": {
+    "question": "Hitung mainan yang disiapkan guru, lalu katakan jumlahnya dengan kalimat \"I have ... toys.\" (isi dengan angka dalam Bahasa Inggris)."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Angka dihilangkan dari stem agar hasil hitungan murid yang dinilai.",
+   "verifikasi": "Jenis tugas kinerja (rubrik guru) tidak berubah; kunci rubrik tetap."
+  },
+  "ENG-B7-0073": {
+   "perubahan": {
+    "question": "Hitung mainan yang disiapkan guru, lalu katakan jumlahnya dengan kalimat \"I have ... toys.\" (isi dengan angka dalam Bahasa Inggris)."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Angka dihilangkan dari stem agar hasil hitungan murid yang dinilai.",
+   "verifikasi": "Jenis tugas kinerja (rubrik guru) tidak berubah; kunci rubrik tetap."
+  },
+  "ENG-B7-0074": {
+   "perubahan": {
+    "question": "Sebuah bola besar dalam Bahasa Inggris adalah '....'."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Huruf kapital awal dan tanda baca akhir diperbaiki.",
+   "verifikasi": "Hanya redaksi stem; kunci dan opsi tidak berubah."
+  },
+  "ENG-B7-0076": {
+   "perubahan": {
+    "question": "Sebuah mobil kecil dalam Bahasa Inggris adalah '....'."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Huruf kapital awal dan tanda baca akhir diperbaiki.",
+   "verifikasi": "Hanya redaksi stem; kunci dan opsi tidak berubah."
+  },
+  "ENG-B7-0078": {
+   "perubahan": {
+    "question": "Sebuah tali pendek dalam Bahasa Inggris adalah '....'."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Huruf kapital awal dan tanda baca akhir diperbaiki.",
+   "verifikasi": "Hanya redaksi stem; kunci dan opsi tidak berubah."
+  },
+  "ENG-B6-0011": {
+   "perubahan": {
+    "question": "Hewan peliharaan kecil yang berlari di roda putar disebut '....'."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Redaksi tidak alami diperbaiki.",
+   "verifikasi": "Kunci hamster tetap."
+  },
+  "ENG-B6-0016": {
+   "perubahan": {
+    "question": "Benar atau salah: Hewan peliharaan yang berkicau di sangkar disebut 'bird'."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Redaksi tidak alami diperbaiki.",
+   "verifikasi": "Pernyataan tetap benar (bird)."
+  },
+  "ENG-B6-0017": {
+   "perubahan": {
+    "question": "Benar atau salah: Hewan peliharaan yang membawa cangkang disebut 'parrot'."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Redaksi tidak alami diperbaiki.",
+   "verifikasi": "Pernyataan tetap salah (turtle)."
+  },
+  "ENG-B6-0018": {
+   "perubahan": {
+    "question": "Benar atau salah: Hewan peliharaan kecil yang berlari di roda putar disebut 'turtle'."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Redaksi tidak alami diperbaiki.",
+   "verifikasi": "Pernyataan tetap salah (hamster)."
+  },
+  "ENG-B6-0006": {
+   "perubahan": {
+    "options": [
+     "A. It is a dog",
+     "B. It is a cat",
+     "C. It is a bird",
+     "D. It is a rabbit"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh benda kelas diganti nama hewan agar menguji kosakata hewan.",
+   "verifikasi": "Gambar/stem menunjukkan satu hewan; pengecoh adalah hewan lain sehingga hanya kunci benar."
+  },
+  "ENG-B6-0007": {
+   "perubahan": {
+    "options": [
+     "A. It is a dog",
+     "B. It is a bird",
+     "C. It is a fish",
+     "D. It is a cat"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh benda kelas diganti nama hewan agar menguji kosakata hewan.",
+   "verifikasi": "Gambar/stem menunjukkan satu hewan; pengecoh adalah hewan lain sehingga hanya kunci benar."
+  },
+  "ENG-B6-0008": {
+   "perubahan": {
+    "options": [
+     "A. It is a dog",
+     "B. It is a cat",
+     "C. It is a bird",
+     "D. It is a fish"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh benda kelas diganti nama hewan agar menguji kosakata hewan.",
+   "verifikasi": "Gambar/stem menunjukkan satu hewan; pengecoh adalah hewan lain sehingga hanya kunci benar."
+  },
+  "ENG-B6-0009": {
+   "perubahan": {
+    "options": [
+     "A. It is a dog",
+     "B. It is a fish",
+     "C. It is a cat",
+     "D. It is a bird"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh benda kelas diganti nama hewan agar menguji kosakata hewan.",
+   "verifikasi": "Gambar/stem menunjukkan satu hewan; pengecoh adalah hewan lain sehingga hanya kunci benar."
+  },
+  "ENG-B6-0020": {
+   "perubahan": {
+    "visual_prompt": "Dua anak bermain peran di toko hewan peliharaan; satu berdiri di balik meja, satu di depan meja.",
+    "options": [
+     "A. This is a white rabbit",
+     "B. You are welcome",
+     "C. Here you are",
+     "D. I want a dog, please"
+    ],
+    "explanation": "Pembeli menjawab sapaan penjual dengan menyebut hewan yang diinginkan."
+   },
+   "jenis": [
+    "bahasa",
+    "konstruksi"
+   ],
+   "alasan": "Deskripsi gambar disesuaikan dengan toko hewan peliharaan; pengecoh dibuat relevan dengan konteks toko.",
+   "verifikasi": "Penjawab adalah pembeli; hanya \"I want a dog, please\" menyatakan keinginan membeli, ketiga lainnya ucapan penjual/tidak menjawab \"Can I help you?\"."
+  },
+  "ENG-B6-0022": {
+   "perubahan": {
+    "options": [
+     "A. You are welcome",
+     "B. Thank you",
+     "C. Here you are",
+     "D. I want a rabbit"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh dibuat relevan dengan konteks toko hewan.",
+   "verifikasi": "Hanya \"Thank you\" yang menyatakan terima kasih; pengecoh bukan ungkapan terima kasih pembeli."
+  },
+  "ENG-B6-0023": {
+   "perubahan": {
+    "options": [
+     "A. I want a dog, please",
+     "B. Here you are",
+     "C. Hello, I am a buyer",
+     "D. Yes, I am a cat"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh dibuat relevan dengan konteks toko hewan.",
+   "verifikasi": "Penjual yang menyerahkan hewan berkata \"Here you are\"; pengecoh adalah ucapan pembeli/tidak nyambung."
+  },
+  "ENG-B6-0024": {
+   "perubahan": {
+    "options": [
+     "A. terbang dan bertengger di dahan",
+     "B. mengeong dan berjalan merangkak",
+     "C. berenang dan menyelam di air",
+     "D. menggonggong dan berlari kencang"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Panjang pengecoh disejajarkan dengan kunci.",
+   "verifikasi": "Kucing mengeong dan berjalan merangkak; pengecoh perilaku burung, ikan, anjing."
+  },
+  "ENG-B6-0026": {
+   "perubahan": {
+    "question": "Benar atau salah: Dalam peran pembeli, untuk berterima kasih, pembeli berkata I want a rabbit.",
+    "explanation": "Salah. Untuk berterima kasih, pembeli berkata Thank you."
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Ucapan salah dibuat relevan dengan konteks toko hewan.",
+   "verifikasi": "\"I want a rabbit\" bukan ungkapan terima kasih; kunci Salah tetap."
+  },
+  "ENG-B6-0043": {
+   "perubahan": {
+    "options": [
+     "A. Color the cat black.",
+     "B. Draw a big black bird.",
+     "C. Draw a cat on paper.",
+     "D. Color the fish green."
+    ],
+    "explanation": "mewarnai kucing dengan warna hitam = Color the cat black."
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Panjang pengecoh disejajarkan; titik ganda penjelasan diperbaiki.",
+   "verifikasi": "Hanya kunci memerintahkan mewarnai kucing dengan hitam."
+  },
+  "ENG-B6-0050": {
+   "perubahan": {
+    "question": "Gambarlah seekor kucing lalu warnai dengan warna kesukaanmu, lalu katakan \"It is a/an ... cat\" (pilih a atau an sesuai kata warnanya)!"
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Artikel a/an disesuaikan dengan warna pilihan murid.",
+   "verifikasi": "Tugas kinerja dinilai dengan rubrik guru yang tidak berubah."
+  },
+  "ENG-B7-0048": {
+   "perubahan": {
+    "options": [
+     "A. This is my robot.",
+     "B. Is this your robot?",
+     "C. I have a robot.",
+     "D. May I play with your robot?"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh lelucon diganti kalimat wajar yang bukan permintaan izin meminjam.",
+   "verifikasi": "Hanya kunci meminta izin bermain dengan sopan; pengecoh sekadar pernyataan/pertanyaan kepemilikan."
+  },
+  "ENG-B7-0049": {
+   "perubahan": {
+    "options": [
+     "A. This is my doll.",
+     "B. Is this your doll?",
+     "C. I have a doll.",
+     "D. May I play with your doll?"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh lelucon diganti kalimat wajar yang bukan permintaan izin meminjam.",
+   "verifikasi": "Hanya kunci meminta izin bermain dengan sopan; pengecoh sekadar pernyataan/pertanyaan kepemilikan."
+  },
+  "ENG-B7-0051": {
+   "perubahan": {
+    "options": [
+     "A. This is my train.",
+     "B. Is this your train?",
+     "C. May I play with your train?",
+     "D. I have a train."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh lelucon diganti kalimat wajar yang bukan permintaan izin meminjam.",
+   "verifikasi": "Hanya kunci meminta izin bermain dengan sopan; pengecoh sekadar pernyataan/pertanyaan kepemilikan."
+  },
+  "ENG-B7-0052": {
+   "perubahan": {
+    "options": [
+     "A. May I play with your kite?",
+     "B. This is my kite.",
+     "C. Is this your kite?",
+     "D. I have a kite."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh lelucon diganti kalimat wajar yang bukan permintaan izin meminjam.",
+   "verifikasi": "Hanya kunci meminta izin bermain dengan sopan; pengecoh sekadar pernyataan/pertanyaan kepemilikan."
+  },
+  "ENG-B7-0053": {
+   "perubahan": {
+    "options": [
+     "A. May I play with your ball?",
+     "B. This is my ball.",
+     "C. Is this your ball?",
+     "D. I have a ball."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh lelucon diganti kalimat wajar yang bukan permintaan izin meminjam.",
+   "verifikasi": "Hanya kunci meminta izin bermain dengan sopan; pengecoh sekadar pernyataan/pertanyaan kepemilikan."
+  },
+  "ENG-B8-0048": {
+   "perubahan": {
+    "options": [
+     "A. Yes, I am. I like mangoes",
+     "B. No, I do not like mangoes",
+     "C. Yes, I does. I like mangoes",
+     "D. Yes, I do. I like mangoes"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh diganti jawaban Yes/No yang relevan dengan pertanyaan Do you like ...?",
+   "verifikasi": "Stem menyatakan murid suka; hanya kunci Yes, I do yang sesuai dan tata bahasanya benar."
+  },
+  "ENG-B8-0049": {
+   "perubahan": {
+    "options": [
+     "A. Yes, I do. I like papaya",
+     "B. Yes, I am. I like papaya",
+     "C. No, I do not like papaya",
+     "D. Yes, I does. I like papaya"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh diganti jawaban Yes/No yang relevan dengan pertanyaan Do you like ...?",
+   "verifikasi": "Stem menyatakan murid suka; hanya kunci Yes, I do yang sesuai dan tata bahasanya benar."
+  },
+  "ENG-B8-0050": {
+   "perubahan": {
+    "options": [
+     "A. Yes, I am. I like bananas",
+     "B. No, I do not like bananas",
+     "C. Yes, I does. I like bananas",
+     "D. Yes, I do. I like bananas"
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh diganti jawaban Yes/No yang relevan dengan pertanyaan Do you like ...?",
+   "verifikasi": "Stem menyatakan murid suka; hanya kunci Yes, I do yang sesuai dan tata bahasanya benar."
+  },
+  "ENG-B8-0062": {
+   "perubahan": {
+    "options": [
+     "A. Yes, I do. I like to eat watermelon",
+     "B. No, I do not. I do not like watermelon",
+     "C. Yes, I am. I like to eat watermelon",
+     "D. No, I does not. I do not like watermelon"
+    ]
+   },
+   "jenis": [
+    "konstruksi",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diganti jawaban relevan dengan panjang sejajar.",
+   "verifikasi": "Stem menyatakan tidak suka; hanya kunci benar tata bahasa dan maknanya."
+  },
+  "ENG-B8-0110": {
+   "perubahan": {
+    "question": "Gambarlah buah kesukaanmu dan warnai, lalu katakan \"I like ...\" dengan nama buah yang kamu gambar!"
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Kalimat ucapan disesuaikan dengan buah pilihan murid.",
+   "verifikasi": "Rubrik guru tidak berubah."
+  },
+  "ENG-B9-0008": {
+   "perubahan": {
+    "options": [
+     "A. hanging swing",
+     "B. playground slide",
+     "C. wooden seesaw",
+     "D. merry-go-round"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Panjang pengecoh disejajarkan dengan kunci.",
+   "verifikasi": "Gambar komidi putar; pengecoh nama permainan lain."
+  },
+  "ENG-B9-0041": {
+   "perubahan": {
+    "question": "Kata kerja 'throw' cocok untuk kegiatan bermain ...."
+   },
+   "jenis": [
+    "bahasa"
+   ],
+   "alasan": "Redaksi stem dibuat wajar agar \"bola lempar\" terbaca sebagai nama permainan.",
+   "verifikasi": "Kunci tetap; throw hanya cocok dengan bola lempar."
+  },
+  "ENG-B9-0060": {
+   "perubahan": {
+    "options": [
+     "A. I do not like you, go home",
+     "B. Wait for your turn, please",
+     "C. Push me now, I want to swing",
+     "D. Go away, the swing is mine"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Panjang pengecoh disejajarkan dengan kunci.",
+   "verifikasi": "Hanya kunci sopan dan mengingatkan menunggu giliran."
+  }
+ },
+ "tidak_direvisi": {
+  "ENG-B6-0002": "Kata serapan hamster identik dengan kunci; perbaikan memerlukan perubahan maksud/duplikasi dengan ENG-B6-0011 sehingga perlu keputusan ahli.",
+  "ENG-B9-0016": "Pengelompokan perlu didesain ulang kategorinya (mengubah maksud soal); perlu keputusan ahli."
+ }
+}

@@ -1,0 +1,1323 @@
+{
+ "revisi": {
+  "BIN-B1-0006": {
+   "perubahan": {
+    "options": [
+     "A. angka atau tanda baca",
+     "B. kapital (besar)",
+     "C. huruf kecil biasa",
+     "D. bebas, huruf apa saja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Kunci \"kapital (besar)\" tidak berubah; nama orang wajib diawali huruf kapital, opsi lain jelas salah."
+  },
+  "BIN-B1-0011": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Sikap anak dalam gambar itu menunjukkan ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem tidak lagi menyebut isi gambar; detail gambar hanya di visual_prompt sehingga murid harus melihat gambar.",
+   "verifikasi": "Kunci B tetap; gambar (visual_prompt) memperlihatkan anak duduk tegak memegang pensil di buku, bukan bermain/mengantuk/malas."
+  },
+  "BIN-B1-0016": {
+   "perubahan": {
+    "question": "Benar atau salah: Banyaknya huruf dalam abjad bahasa Indonesia adalah 26 huruf."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Titik-titik diisi nilai benar sesuai kunci.",
+   "verifikasi": "Abjad bahasa Indonesia 26 huruf, pernyataan benar; kunci Benar tetap."
+  },
+  "BIN-B1-0042": {
+   "perubahan": {
+    "question": "Benar atau salah: Banyaknya huruf konsonan dalam abjad bahasa Indonesia adalah 21 huruf."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Titik-titik diisi nilai benar (21) sesuai kunci dan konteks abjad ditambahkan.",
+   "verifikasi": "26 huruf dikurangi 5 vokal = 21 konsonan; pernyataan benar, kunci Benar tetap."
+  },
+  "BIN-B1-0094": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Anak dalam gambar sedang membaca buku cerita. Anggota tubuh yang dipakai untuk membaca adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Frasa \"mata yang fokus\" yang membocorkan kunci dihapus dari stem.",
+   "verifikasi": "Kunci A (mata) tetap; kaki, hidung, telinga bukan alat untuk membaca."
+  },
+  "BIN-B1-0095": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Anak dalam gambar sedang menyimak cerita dari bu guru. Anggota tubuh yang dipakai untuk menyimak adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Frasa \"mendengarkan\" yang membocorkan kunci dihapus dari stem.",
+   "verifikasi": "Kunci A (telinga) tetap; kaki, mata, tangan bukan alat utama menyimak."
+  },
+  "BIN-B1-0096": {
+   "perubahan": {
+    "options": [
+     "A. mengobrol dengan teman di sebelahnya",
+     "B. bermain sendiri saat bu guru bercerita",
+     "C. menutup telinga dengan kedua tangan",
+     "D. mendengarkan dengan saksama sebagai wujud syukur"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci D tidak berubah; ketiga pengecoh jelas perilaku tidak menyimak."
+  },
+  "BIN-B1-0098": {
+   "perubahan": {
+    "options": [
+     "A. merusak buku pelajaran milik temannya di kelas",
+     "B. memukul teman yang duduk di sebelahnya saat belajar",
+     "C. mencoret-coret meja belajar di kelas dengan pensil",
+     "D. menggunakan tangannya untuk belajar dengan sungguh-sungguh"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci D tidak berubah; pengecoh jelas perbuatan buruk, bukan wujud syukur."
+  },
+  "BIN-B2-0008": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", jawaban dari \"Apa yang Dani lakukan setelah bangun pagi?\" adalah berdoa lalu mandi."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0009": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", jawaban dari \"Di mana Dani berlari?\" adalah di halaman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0010": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", jawaban dari \"Sayur apa yang dicoba Sinta?\" adalah bayam."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0011": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", jawaban dari \"Apa kata ibu tentang sayur?\" adalah membuat badan sehat."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0012": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", jawaban dari \"Siapa yang berlari bersama Dani?\" adalah ayah."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0013": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", jawaban dari \"Apa yang Dani ucapkan di akhir cerita?\" adalah hamdalah."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0014": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", jawaban dari \"Apa yang tidak disukai Sinta pada awalnya?\" adalah sayur."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0015": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", jawaban dari \"Bagaimana rasa bayam menurut Sinta?\" adalah enak."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0016": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", jawaban dari \"Apa yang Dani ucapkan di akhir cerita?\" adalah basmalah."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0017": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", jawaban dari \"Apa yang tidak disukai Sinta pada awalnya?\" adalah buah."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0018": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", jawaban dari \"Apa kata ibu tentang sayur?\" adalah membuat gemuk saja."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0019": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", jawaban dari \"Apa yang Dani lakukan setelah bangun pagi?\" adalah bermain gawai."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0020": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", jawaban dari \"Di mana Dani berlari?\" adalah di kelas."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0021": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", jawaban dari \"Bagaimana rasa bayam menurut Sinta?\" adalah pahit sekali."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0022": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", jawaban dari \"Siapa yang berlari bersama Dani?\" adalah ibu."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0023": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", jawaban dari \"Sayur apa yang dicoba Sinta?\" adalah wortel."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0024": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Isilah menurut cerita \"Dani Suka Olahraga\": Apa yang Dani ucapkan di akhir cerita?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0025": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Isilah menurut cerita \"Sinta Makan Sayur\": Apa kata ibu tentang sayur?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0026": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Isilah menurut cerita \"Dani Suka Olahraga\": Di mana Dani berlari?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0027": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Isilah menurut cerita \"Sinta Makan Sayur\": Apa yang tidak disukai Sinta pada awalnya?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0028": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Isilah menurut cerita \"Sinta Makan Sayur\": Sayur apa yang dicoba Sinta?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0029": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Isilah menurut cerita \"Sinta Makan Sayur\": Bagaimana rasa bayam menurut Sinta?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0030": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Isilah menurut cerita \"Dani Suka Olahraga\": Apa yang Dani lakukan setelah bangun pagi?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0031": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Isilah menurut cerita \"Dani Suka Olahraga\": Siapa yang berlari bersama Dani?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0032": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Dalam cerita \"Dani Suka Olahraga\", setelah \"Dani berdoa dan mandi\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0033": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Kejadian pertama dalam cerita \"Dani Suka Olahraga\" adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0034": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Kejadian pertama dalam cerita \"Sinta Makan Sayur\" adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0035": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Kejadian terakhir dalam cerita \"Sinta Makan Sayur\" adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0036": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Kejadian terakhir dalam cerita \"Dani Suka Olahraga\" adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0037": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Setelah menyimak cerita \"Dani Suka Olahraga\", pesan yang dapat kita ambil adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0038": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Dalam cerita \"Sinta Makan Sayur\", setelah \"Sinta tidak suka sayur\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0039": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", \"Dani mengucap hamdalah\" terjadi setelah \"Dani berlari bersama ayah\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0040": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", \"Ibu menasihati Sinta\" terjadi setelah \"Sinta tidak suka sayur\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0041": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", \"Sinta mencoba makan bayam\" terjadi setelah \"Ibu menasihati Sinta\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0042": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", \"Dani berdoa dan mandi\" terjadi setelah \"Dani bangun pagi\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0043": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", \"Sinta makan sayur setiap hari\" terjadi setelah \"Sinta mencoba makan bayam\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0044": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", \"Dani berlari bersama ayah\" terjadi setelah \"Dani berdoa dan mandi\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0045": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", \"Sinta tidak suka sayur\" terjadi setelah \"Ibu menasihati Sinta\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0046": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", \"Dani berdoa dan mandi\" terjadi setelah \"Dani berlari bersama ayah\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0047": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", \"Ibu menasihati Sinta\" terjadi setelah \"Sinta mencoba makan bayam\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0048": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Benar atau salah: Dalam cerita \"Sinta Makan Sayur\", \"Sinta mencoba makan bayam\" terjadi setelah \"Sinta makan sayur setiap hari\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0049": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", \"Dani berlari bersama ayah\" terjadi setelah \"Dani mengucap hamdalah\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0050": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Benar atau salah: Dalam cerita \"Dani Suka Olahraga\", \"Dani bangun pagi\" terjadi setelah \"Dani berdoa dan mandi\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0051": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Urutkan kejadian dalam cerita \"Dani Suka Olahraga\" dengan benar!"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0052": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Urutkan kejadian dalam cerita \"Sinta Makan Sayur\" dengan benar!"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0053": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Sinta tidak suka makan sayur. Ibu berkata sayur membuat badan sehat. Sinta mencoba makan bayam. Ternyata rasanya enak. Sejak itu Sinta makan sayur setiap hari.\" Ceritakan kembali cerita \"Sinta Makan Sayur\" dengan bahasamu sendiri secara berurutan!"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0054": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Dani bangun pagi. Ia berdoa lalu mandi. Setelah itu Dani berlari di halaman bersama ayah. Badan Dani menjadi sehat dan kuat. Dani mengucap hamdalah.\" Ceritakan kembali cerita \"Dani Suka Olahraga\" dengan bahasamu sendiri secara berurutan!"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B2-0059": {
+   "perubahan": {
+    "options": [
+     "A. jumlah benda yang dihitung",
+     "B. pertanyaan yang perlu dijawab",
+     "C. nama orang, benda, atau tempat",
+     "D. perasaan atau perintah yang kuat"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci D tidak berubah; kalimat seru menyatakan perasaan/perintah kuat, pengecoh adalah fungsi lain."
+  },
+  "BIN-B3-0002": {
+   "perubahan": {
+    "options": [
+     "A. bermain dengan boneka",
+     "B. membaca koran bersama ayah",
+     "C. membantu ibu memasak",
+     "D. memasak nasi di dapur"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci A tidak berubah; menurut cerita yang bermain boneka adalah adik, bukan pengecoh (ayah bekerja di kantor, ibu memasak, kakak membantu ibu)."
+  },
+  "BIN-B3-0003": {
+   "perubahan": {
+    "options": [
+     "A. menonton televisi bersama adik",
+     "B. bermain boneka bersama teman",
+     "C. tidur siang di tempat tidur",
+     "D. mengelap meja dan menyapu lantai"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci D tidak berubah; cerita menyebut Lani mengelap meja dan menyapu, pengecoh tidak ada di cerita."
+  },
+  "BIN-B3-0009": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ayah bekerja di kantor. Ibu memasak di dapur. Kakak membantu ibu. Adik bermain dengan boneka. Sore hari kami makan bersama.\" Benar atau salah: Dalam cerita \"Keluargaku\", jawaban dari \"Siapa yang memasak di dapur?\" adalah ibu."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0010": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ayah bekerja di kantor. Ibu memasak di dapur. Kakak membantu ibu. Adik bermain dengan boneka. Sore hari kami makan bersama.\" Benar atau salah: Dalam cerita \"Keluargaku\", jawaban dari \"Apa yang dilakukan adik?\" adalah bermain dengan boneka."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0011": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Lani melihat ibu mencuci piring. Lani ingin membantu. Ia mengelap meja dan menyapu lantai. Ibu tersenyum dan berkata terima kasih. Lani merasa senang.\" Benar atau salah: Dalam cerita \"Lani Membantu Ibu\", jawaban dari \"Apa yang sedang dilakukan ibu?\" adalah mencuci piring."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0012": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Lani melihat ibu mencuci piring. Lani ingin membantu. Ia mengelap meja dan menyapu lantai. Ibu tersenyum dan berkata terima kasih. Lani merasa senang.\" Benar atau salah: Dalam cerita \"Lani Membantu Ibu\", jawaban dari \"Apa kata ibu kepada Lani?\" adalah terima kasih."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0013": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ayah bekerja di kantor. Ibu memasak di dapur. Kakak membantu ibu. Adik bermain dengan boneka. Sore hari kami makan bersama.\" Benar atau salah: Dalam cerita \"Keluargaku\", jawaban dari \"Kapan keluarga makan bersama?\" adalah sore hari."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0014": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ayah bekerja di kantor. Ibu memasak di dapur. Kakak membantu ibu. Adik bermain dengan boneka. Sore hari kami makan bersama.\" Benar atau salah: Dalam cerita \"Keluargaku\", jawaban dari \"Di mana ayah bekerja?\" adalah di kantor."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0015": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Lani melihat ibu mencuci piring. Lani ingin membantu. Ia mengelap meja dan menyapu lantai. Ibu tersenyum dan berkata terima kasih. Lani merasa senang.\" Benar atau salah: Dalam cerita \"Lani Membantu Ibu\", jawaban dari \"Apa yang Lani lakukan untuk membantu?\" adalah mengelap meja dan menyapu lantai."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0016": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Lani melihat ibu mencuci piring. Lani ingin membantu. Ia mengelap meja dan menyapu lantai. Ibu tersenyum dan berkata terima kasih. Lani merasa senang.\" Benar atau salah: Dalam cerita \"Lani Membantu Ibu\", jawaban dari \"Bagaimana perasaan Lani?\" adalah senang."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0017": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Lani melihat ibu mencuci piring. Lani ingin membantu. Ia mengelap meja dan menyapu lantai. Ibu tersenyum dan berkata terima kasih. Lani merasa senang.\" Benar atau salah: Dalam cerita \"Lani Membantu Ibu\", jawaban dari \"Apa yang sedang dilakukan ibu?\" adalah memasak nasi."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0018": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ayah bekerja di kantor. Ibu memasak di dapur. Kakak membantu ibu. Adik bermain dengan boneka. Sore hari kami makan bersama.\" Benar atau salah: Dalam cerita \"Keluargaku\", jawaban dari \"Di mana ayah bekerja?\" adalah di sawah."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0019": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Lani melihat ibu mencuci piring. Lani ingin membantu. Ia mengelap meja dan menyapu lantai. Ibu tersenyum dan berkata terima kasih. Lani merasa senang.\" Benar atau salah: Dalam cerita \"Lani Membantu Ibu\", jawaban dari \"Bagaimana perasaan Lani?\" adalah sedih."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0020": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Lani melihat ibu mencuci piring. Lani ingin membantu. Ia mengelap meja dan menyapu lantai. Ibu tersenyum dan berkata terima kasih. Lani merasa senang.\" Benar atau salah: Dalam cerita \"Lani Membantu Ibu\", jawaban dari \"Apa kata ibu kepada Lani?\" adalah maaf."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0021": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ayah bekerja di kantor. Ibu memasak di dapur. Kakak membantu ibu. Adik bermain dengan boneka. Sore hari kami makan bersama.\" Benar atau salah: Dalam cerita \"Keluargaku\", jawaban dari \"Siapa yang memasak di dapur?\" adalah ayah."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0022": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ayah bekerja di kantor. Ibu memasak di dapur. Kakak membantu ibu. Adik bermain dengan boneka. Sore hari kami makan bersama.\" Benar atau salah: Dalam cerita \"Keluargaku\", jawaban dari \"Kapan keluarga makan bersama?\" adalah pagi hari."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0023": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ayah bekerja di kantor. Ibu memasak di dapur. Kakak membantu ibu. Adik bermain dengan boneka. Sore hari kami makan bersama.\" Benar atau salah: Dalam cerita \"Keluargaku\", jawaban dari \"Apa yang dilakukan adik?\" adalah membantu ibu."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0024": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Lani melihat ibu mencuci piring. Lani ingin membantu. Ia mengelap meja dan menyapu lantai. Ibu tersenyum dan berkata terima kasih. Lani merasa senang.\" Benar atau salah: Dalam cerita \"Lani Membantu Ibu\", jawaban dari \"Apa yang Lani lakukan untuk membantu?\" adalah bermain boneka."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0025": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ayah bekerja di kantor. Ibu memasak di dapur. Kakak membantu ibu. Adik bermain dengan boneka. Sore hari kami makan bersama.\" Isilah menurut cerita \"Keluargaku\": Apa yang dilakukan adik?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0026": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Lani melihat ibu mencuci piring. Lani ingin membantu. Ia mengelap meja dan menyapu lantai. Ibu tersenyum dan berkata terima kasih. Lani merasa senang.\" Isilah menurut cerita \"Lani Membantu Ibu\": Apa yang Lani lakukan untuk membantu?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0027": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ayah bekerja di kantor. Ibu memasak di dapur. Kakak membantu ibu. Adik bermain dengan boneka. Sore hari kami makan bersama.\" Isilah menurut cerita \"Keluargaku\": Siapa yang memasak di dapur?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0028": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ayah bekerja di kantor. Ibu memasak di dapur. Kakak membantu ibu. Adik bermain dengan boneka. Sore hari kami makan bersama.\" Isilah menurut cerita \"Keluargaku\": Di mana ayah bekerja?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0029": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Lani melihat ibu mencuci piring. Lani ingin membantu. Ia mengelap meja dan menyapu lantai. Ibu tersenyum dan berkata terima kasih. Lani merasa senang.\" Isilah menurut cerita \"Lani Membantu Ibu\": Apa kata ibu kepada Lani?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0030": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Lani melihat ibu mencuci piring. Lani ingin membantu. Ia mengelap meja dan menyapu lantai. Ibu tersenyum dan berkata terima kasih. Lani merasa senang.\" Isilah menurut cerita \"Lani Membantu Ibu\": Apa yang sedang dilakukan ibu?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0101": {
+   "perubahan": {
+    "options": [
+     "A. kata-kata kasar kepada teman",
+     "B. ide dan perasaan sendiri",
+     "C. cerita lain yang tidak berkaitan",
+     "D. kebohongan yang sangat besar"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci B tidak berubah; pengecoh jelas tidak pantas/tidak sesuai gambar."
+  },
+  "BIN-B3-0104": {
+   "perubahan": {
+    "options": [
+     "A. mengamati gambar dengan teliti",
+     "B. membalik gambar tanpa melihatnya",
+     "C. menutup mata lalu menebak-nebak",
+     "D. tidak melihat gambar sama sekali"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci A tidak berubah; langkah pertama menceritakan gambar adalah mengamati, pengecoh bukan cara mengamati."
+  },
+  "BIN-B3-0115": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Ayah bekerja di kantor. Ibu memasak di dapur. Kakak membantu ibu. Adik bermain dengan boneka. Sore hari kami makan bersama.\" Menurut cerita \"Keluargaku\", anggota keluarga yang memasak di dapur adalah ....",
+    "options": [
+     "A. ayah",
+     "B. kakak",
+     "C. adik",
+     "D. ibu"
+    ],
+    "explanation": "Sesuai cerita: ibu memasak di dapur."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti anggota keluarga lain dan kunci dirujuk pada teks cerita (bukan stereotip peran \"biasanya\").",
+   "verifikasi": "Kunci D (ibu) tetap; cerita menyatakan \"Ibu memasak di dapur\", sedangkan ayah bekerja di kantor, kakak membantu ibu, adik bermain boneka, sehingga tidak ada opsi lain yang benar."
+  },
+  "BIN-B3-0116": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Sikap anak dalam gambar itu menunjukkan ....",
+    "options": [
+     "A. bersungguh-sungguh belajar",
+     "B. bermain dan tidak belajar",
+     "C. malas dan tidak mau belajar",
+     "D. mengganggu teman yang belajar"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Stem tidak lagi menyebut isi gambar; detail gambar hanya di visual_prompt sehingga murid harus melihat gambar. Pengecoh dipanjangkan.",
+   "verifikasi": "Kunci A tetap; gambar menunjukkan anak menulis tenang, bukan bermain/malas/mengganggu."
+  },
+  "BIN-B3-0117": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Kalimat yang tepat untuk menceritakan gambar itu adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem tidak lagi menyebut isi gambar; detail gambar hanya di visual_prompt sehingga murid harus melihat gambar.",
+   "verifikasi": "Kunci B tetap; hanya kalimat B sesuai gambar dapur ibu dan anak."
+  },
+  "BIN-B3-0118": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Cerita yang sesuai dengan gambar itu adalah ....",
+    "options": [
+     "A. Ibu pergi ke pasar membeli sayur.",
+     "B. Keluargaku makan bersama dengan gembira.",
+     "C. Aku sendirian bermain di taman.",
+     "D. Ayah naik pesawat ke luar kota."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Stem tidak lagi menyebut isi gambar; detail gambar hanya di visual_prompt sehingga murid harus melihat gambar. Pengecoh dipanjangkan.",
+   "verifikasi": "Kunci B tetap; gambar keluarga makan bersama di meja makan, pengecoh tidak sesuai."
+  },
+  "BIN-B3-0119": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Kalimat yang tepat untuk gambar itu adalah ....",
+    "options": [
+     "A. Ibu mencuci baju di sungai kecil.",
+     "B. Anak-anak bermain di taman bermain.",
+     "C. Ayah membacakan cerita untuk anak-anaknya.",
+     "D. Kakek menanam padi di sawah luas."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Stem tidak lagi menyebut isi gambar; detail gambar hanya di visual_prompt sehingga murid harus melihat gambar. Pengecoh dipanjangkan.",
+   "verifikasi": "Kunci C tetap; gambar ayah membaca buku cerita di kamar, pengecoh tidak sesuai."
+  },
+  "BIN-B3-0120": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Kalimat yang tepat untuk gambar itu adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem tidak lagi menyebut isi gambar; detail gambar hanya di visual_prompt sehingga murid harus melihat gambar.",
+   "verifikasi": "Kunci B tetap; hanya kalimat B sesuai gambar kakak membantu adik memakai sepatu."
+  },
+  "BIN-B3-0121": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Lani melihat ibu mencuci piring. Lani ingin membantu. Ia mengelap meja dan menyapu lantai. Ibu tersenyum dan berkata terima kasih. Lani merasa senang.\" Setelah menyimak cerita \"Lani Membantu Ibu\", pesan yang dapat kita ambil adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B3-0123": {
+   "perubahan": {
+    "options": [
+     "A. menyobek buku bacaannya",
+     "B. menyerah dan berhenti membaca",
+     "C. marah-marah kepada teman",
+     "D. bertanya kepada bu guru"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci D tetap; pengecoh sikap kurang baik."
+  },
+  "BIN-B3-0125": {
+   "perubahan": {
+    "options": [
+     "A. Setiap orang sibuk sendiri-sendiri di rumah",
+     "B. Keluarga tidak perlu berkumpul untuk makan bersama",
+     "C. Anak tidak perlu membantu pekerjaan di rumah",
+     "D. Keluarga yang saling membantu dan berkumpul hidup rukun"
+    ],
+    "question": "Bacalah cerita berikut! \"Ayah bekerja di kantor. Ibu memasak di dapur. Kakak membantu ibu. Adik bermain dengan boneka. Sore hari kami makan bersama.\" Setelah menyimak cerita \"Keluargaku\", pesan yang dapat kita ambil adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci (teks cerita ditambahkan lewat otomatis). Teks cerita dari sumber ditambahkan di awal soal.",
+   "verifikasi": "Kunci D tetap; pengecoh bertentangan dengan isi cerita."
+  },
+  "BIN-B3-0126": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Lani melihat ibu mencuci piring. Lani ingin membantu. Ia mengelap meja dan menyapu lantai. Ibu tersenyum dan berkata terima kasih. Lani merasa senang.\" Kejadian pertama dalam cerita \"Lani Membantu Ibu\" adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0001": {
+   "perubahan": {
+    "options": [
+     "A. berteriak keras-keras di kelas",
+     "B. berlari ke sana kemari tanpa melihat",
+     "C. mendorong teman agar menyingkir",
+     "D. berhati-hati dan tidak mengganggu teman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci D tetap; pengecoh jelas perilaku tidak aman."
+  },
+  "BIN-B4-0002": {
+   "perubahan": {
+    "options": [
+     "A. melompat jauh seperti kelinci",
+     "B. merayap pelan di atas tanah",
+     "C. mengepakkan sayap dan terbang",
+     "D. berenang di dalam air kolam"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci C tetap; burung terbang dengan sayap, pengecoh gerakan hewan lain."
+  },
+  "BIN-B4-0007": {
+   "perubahan": {
+    "options": [
+     "A. terbang di udara",
+     "B. melompat-lompat",
+     "C. berenang di air",
+     "D. merayap di tanah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci B tetap; kelinci melompat-lompat menurut cerita."
+  },
+  "BIN-B4-0008": {
+   "perubahan": {
+    "options": [
+     "A. berenang di air",
+     "B. melompat tinggi",
+     "C. pelan dan berat",
+     "D. terbang di udara"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci C tetap; gajah berjalan pelan menurut cerita, pengecoh bukan cara gajah bergerak."
+  },
+  "BIN-B4-0010": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Kelinci melompat-lompat. Gajah berjalan pelan. Burung mengepakkan sayap. Ikan berenang di air. Anak-anak menirukan gerakan hewan itu.\" Dalam cerita \"Gerakan Hewan\", setelah \"Burung mengepakkan sayap\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0011": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Raka bermain bola di lapangan. Tangannya kotor. Sebelum makan, Raka mencuci tangan dengan sabun. Ia membilasnya dengan air bersih. Tangan Raka bersih dan wangi.\" Benar atau salah: Dalam cerita \"Cuci Tangan\", Raka mencuci tangan dengan sabun."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Cerita dimuat dan pernyataan dibuat lengkap tanpa mengubah kunci.",
+   "verifikasi": "Cerita menyebut Raka mencuci tangan dengan sabun; Benar tetap."
+  },
+  "BIN-B4-0016": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Kelinci melompat-lompat. Gajah berjalan pelan. Burung mengepakkan sayap. Ikan berenang di air. Anak-anak menirukan gerakan hewan itu.\" Benar atau salah: Dalam cerita \"Gerakan Hewan\", jawaban dari \"Bagaimana gerakan kelinci?\" adalah berenang."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0018": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Kelinci melompat-lompat. Gajah berjalan pelan. Burung mengepakkan sayap. Ikan berenang di air. Anak-anak menirukan gerakan hewan itu.\" Isilah menurut cerita \"Gerakan Hewan\": Bagaimana gerakan kelinci?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0020": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Kelinci melompat-lompat. Gajah berjalan pelan. Burung mengepakkan sayap. Ikan berenang di air. Anak-anak menirukan gerakan hewan itu.\" Isilah menurut cerita \"Gerakan Hewan\": Apa yang dilakukan burung?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0061": {
+   "perubahan": {
+    "options": [
+     "A. bermain bola di tengah taman",
+     "B. pulang ke rumah tanpa berkata apa-apa",
+     "C. ikut membuang sampah pada tempatnya",
+     "D. mengejek Bimo sambil tertawa"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci C tetap; sesuai cerita, pengecoh tidak ada di cerita."
+  },
+  "BIN-B4-0063": {
+   "perubahan": {
+    "options": [
+     "A. ke kebun belakang",
+     "B. ke lantai taman",
+     "C. ke sungai kecil",
+     "D. ke tempat sampah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Kunci D tetap; cerita menyebut bungkus roti dimasukkan ke tempat sampah."
+  },
+  "BIN-B4-0064": {
+   "perubahan": {
+    "options": [
+     "A. pasir dan tanah",
+     "B. pewarna makanan",
+     "C. minyak goreng",
+     "D. sabun dan air"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Kunci D tetap; cerita: Raka mencuci tangan dengan sabun dan air bersih."
+  },
+  "BIN-B4-0065": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Raka bermain bola di lapangan. Tangannya kotor. Sebelum makan, Raka mencuci tangan dengan sabun. Ia membilasnya dengan air bersih. Tangan Raka bersih dan wangi.\" Setelah menyimak cerita \"Cuci Tangan\", pesan yang dapat kita ambil adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0066": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Bimo makan roti di taman. Bungkus roti ia masukkan ke tempat sampah. Teman Bimo melihat dan ikut membuang sampah. Taman menjadi bersih.\" Kejadian pertama dalam cerita \"Bimo dan Sampah\" adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0067": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Raka bermain bola di lapangan. Tangannya kotor. Sebelum makan, Raka mencuci tangan dengan sabun. Ia membilasnya dengan air bersih. Tangan Raka bersih dan wangi.\" Dalam cerita \"Cuci Tangan\", setelah \"Raka bermain bola\", kejadian berikutnya adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0070": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Raka bermain bola di lapangan. Tangannya kotor. Sebelum makan, Raka mencuci tangan dengan sabun. Ia membilasnya dengan air bersih. Tangan Raka bersih dan wangi.\" Benar atau salah: Dalam cerita \"Cuci Tangan\", jawaban dari \"Bagaimana tangan Raka setelah dicuci?\" adalah bersih dan wangi."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0071": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Raka bermain bola di lapangan. Tangannya kotor. Sebelum makan, Raka mencuci tangan dengan sabun. Ia membilasnya dengan air bersih. Tangan Raka bersih dan wangi.\" Benar atau salah: Dalam cerita \"Cuci Tangan\", jawaban dari \"Apa yang dipakai Raka untuk mencuci tangan?\" adalah sabun dan air."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0072": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Raka bermain bola di lapangan. Tangannya kotor. Sebelum makan, Raka mencuci tangan dengan sabun. Ia membilasnya dengan air bersih. Tangan Raka bersih dan wangi.\" Benar atau salah: Dalam cerita \"Cuci Tangan\", \"Raka mencuci tangan dengan sabun\" terjadi setelah \"Tangan Raka kotor\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0073": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Raka bermain bola di lapangan. Tangannya kotor. Sebelum makan, Raka mencuci tangan dengan sabun. Ia membilasnya dengan air bersih. Tangan Raka bersih dan wangi.\" Benar atau salah: Dalam cerita \"Cuci Tangan\", \"Tangan Raka kotor\" terjadi setelah \"Raka bermain bola\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0074": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Raka bermain bola di lapangan. Tangannya kotor. Sebelum makan, Raka mencuci tangan dengan sabun. Ia membilasnya dengan air bersih. Tangan Raka bersih dan wangi.\" Benar atau salah: Dalam cerita \"Cuci Tangan\", \"Raka bermain bola\" terjadi setelah \"Tangan Raka kotor\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0075": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Bimo makan roti di taman. Bungkus roti ia masukkan ke tempat sampah. Teman Bimo melihat dan ikut membuang sampah. Taman menjadi bersih.\" Benar atau salah: Dalam cerita \"Bimo dan Sampah\", \"Bimo membuang bungkus ke tempat sampah\" terjadi setelah \"Teman Bimo ikut membuang sampah\"."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0076": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Bimo makan roti di taman. Bungkus roti ia masukkan ke tempat sampah. Teman Bimo melihat dan ikut membuang sampah. Taman menjadi bersih.\" Benar atau salah: Dalam cerita \"Bimo dan Sampah\", jawaban dari \"Di mana Bimo makan roti?\" adalah di kelas."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0077": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Raka bermain bola di lapangan. Tangannya kotor. Sebelum makan, Raka mencuci tangan dengan sabun. Ia membilasnya dengan air bersih. Tangan Raka bersih dan wangi.\" Benar atau salah: Dalam cerita \"Cuci Tangan\", jawaban dari \"Mengapa Raka mencuci tangan?\" adalah ingin bermain air."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0078": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Bimo makan roti di taman. Bungkus roti ia masukkan ke tempat sampah. Teman Bimo melihat dan ikut membuang sampah. Taman menjadi bersih.\" Isilah menurut cerita \"Bimo dan Sampah\": Bagaimana keadaan taman akhirnya?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0079": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Raka bermain bola di lapangan. Tangannya kotor. Sebelum makan, Raka mencuci tangan dengan sabun. Ia membilasnya dengan air bersih. Tangan Raka bersih dan wangi.\" Isilah menurut cerita \"Cuci Tangan\": Mengapa Raka mencuci tangan?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0080": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Bimo makan roti di taman. Bungkus roti ia masukkan ke tempat sampah. Teman Bimo melihat dan ikut membuang sampah. Taman menjadi bersih.\" Isilah menurut cerita \"Bimo dan Sampah\": Apa yang dilakukan teman Bimo?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0081": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Raka bermain bola di lapangan. Tangannya kotor. Sebelum makan, Raka mencuci tangan dengan sabun. Ia membilasnya dengan air bersih. Tangan Raka bersih dan wangi.\" Isilah menurut cerita \"Cuci Tangan\": Apa yang Raka mainkan?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  },
+  "BIN-B4-0082": {
+   "perubahan": {
+    "question": "Bacalah cerita berikut! \"Bimo makan roti di taman. Bungkus roti ia masukkan ke tempat sampah. Teman Bimo melihat dan ikut membuang sampah. Taman menjadi bersih.\" Urutkan kejadian dalam cerita \"Bimo dan Sampah\" dengan benar!"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Teks cerita asli dari sumber pembangkit (bi_misc.py) dimuat di awal soal agar murid dapat menjawab; pertanyaan, opsi, dan kunci tidak diubah.",
+   "verifikasi": "Kunci tetap; jawaban sesuai teks cerita yang dimuat, opsi/pernyataan tidak diubah sehingga tidak ada jawaban lain yang menjadi benar."
+  }
+ },
+ "tidak_direvisi": {
+  "BIN-B3-0080": "Kartu huruf g bergambar \"gambar\" (objek ambigu). Perbaikan menuntut penggantian objek bergambar (mis. gelas/gigi) yang berarti mengganti kunci/opsi dan menyusun ilustrasi baru; membutuhkan keputusan ahli/ilustrator, maka tidak direvisi."
+ }
+}
