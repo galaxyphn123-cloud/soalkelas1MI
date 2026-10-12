@@ -1,0 +1,1272 @@
+{
+ "revisi": {
+  "PPN-B1-0003": {
+   "perubahan": {
+    "options": [
+     "A. tata tertib kelas",
+     "B. tempat bermain",
+     "C. identitas diri",
+     "D. jenis permainan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disusun sejajar panjang kunci.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: nama, jenis kelamin, dan hobi tetap identitas diri; tata tertib, tempat, dan jenis permainan bukan identitas."
+  },
+  "PPN-B1-0011": {
+   "perubahan": {
+    "question": "Bahasa pemersatu di antara suku-suku di Indonesia adalah bahasa ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Redaksi diperbaiki sesuai catatan (bahasa pemersatu antarsuku), tidak lagi mengklaim dipakai di rumah.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: hanya bahasa Indonesia yang menjadi pemersatu antarsuku; Mandarin, Arab, Inggris bukan."
+  },
+  "PPN-B1-0016": {
+   "perubahan": {
+    "options": [
+     "A. kita benci dan selalu hindari",
+     "B. kita sukai dan senang lakukan",
+     "C. membuat kita marah dan sedih",
+     "D. tidak boleh dilakukan siapa pun"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan dibuat masuk akal tetapi salah.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: hobi = kegiatan yang disukai; pengecoh bertentangan dengan definisi hobi."
+  },
+  "PPN-B1-0021": {
+   "perubahan": {
+    "question": "Identitas diri orang-orang di rumah, sekolah, dan masyarakat ....",
+    "options": [
+     "A. beragam",
+     "B. sama persis semuanya",
+     "C. tidak boleh dimiliki",
+     "D. tidak pernah ada"
+    ]
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pasangan beragam/seragam diganti agar tidak tertukar dengan pakaian seragam.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: identitas orang bermacam-macam (beragam); \"sama persis\" salah."
+  },
+  "PPN-B1-0023": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Gambar ini menunjukkan ....",
+    "options": [
+     "A. keberagaman yang tetap rukun",
+     "B. anak-anak yang sedang bertengkar",
+     "C. anak-anak yang sedang bosan",
+     "D. anak-anak yang sedang bersedih"
+    ],
+    "visual_prompt": "Enam anak dengan pakaian, gaya rambut, dan bentuk tubuh yang berbeda-beda bermain bersama sambil tertawa di halaman sekolah."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Stem tidak lagi menjelaskan isi gambar (membocorkan kunci); deskripsi gambar dinetralkan tanpa warna kulit; pengecoh disetarakan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: gambar anak berbeda tampilan bermain rukun = keberagaman yang tetap rukun; pengecoh bertentangan dengan gambar (tertawa bersama)."
+  },
+  "PPN-B1-0029": {
+   "perubahan": {
+    "question": "Benar atau salah: Bahasa pemersatu di antara suku-suku di Indonesia adalah bahasa Indonesia"
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Redaksi diperbaiki sesuai PPN-B1-0011.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: pernyataan benar: bahasa Indonesia pemersatu antarsuku."
+  },
+  "PPN-B1-0036": {
+   "perubahan": {
+    "question": "Benar atau salah: Kita hanya boleh berteman dengan anak yang jenis kelaminnya sama."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat berbelit diganti pernyataan jelas; kunci Salah tetap.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: berteman hanya dengan sesama jenis kelamin tetap salah (penjelasan: menghargai semua teman)."
+  },
+  "PPN-B1-0041": {
+   "perubahan": {
+    "question": "Benar atau salah: Selain bahasa Indonesia, daerah-daerah di Indonesia tidak punya bahasa lain.",
+    "explanation": "Salah. Banyak daerah memiliki bahasa daerah."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pernyataan Salah janggal diganti pernyataan bermakna.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: pernyataan \"daerah tidak punya bahasa lain\" salah karena banyak daerah punya bahasa daerah."
+  },
+  "PPN-B1-0045": {
+   "perubahan": {
+    "question": "Benar atau salah: Identitas diri orang-orang di rumah, sekolah, dan masyarakat sama persis semuanya."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Istilah \"seragam\" diganti \"sama persis\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: identitas beragam, jadi pernyataan \"sama persis\" salah."
+  },
+  "PPN-B1-0046": {
+   "perubahan": {
+    "question": "Benar atau salah: Bahasa pemersatu di antara suku-suku di Indonesia adalah bahasa Inggris"
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Redaksi diperbaiki sesuai PPN-B1-0011.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: bahasa Inggris bukan bahasa pemersatu antarsuku di Indonesia."
+  },
+  "PPN-B1-0048": {
+   "perubahan": {
+    "question": "Isilah: Alat yang dipakai untuk bermain sepak bola adalah ....",
+    "explanation": "Alat bermain sepak bola: bola."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem dipersempit menjadi alat spesifik sehingga hanya satu jawaban lazim.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: alat utama sepak bola adalah bola; kunci \"bola\" tidak berubah."
+  },
+  "PPN-B1-0052": {
+   "perubahan": {
+    "question": "Isilah titik-titik berikut: Bahasa pemersatu di antara suku-suku di Indonesia adalah bahasa ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Redaksi diperbaiki sesuai PPN-B1-0011.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci Indonesia tetap."
+  },
+  "PPN-B1-0053": {
+   "perubahan": {
+    "question": "Isilah: Alat yang dipakai untuk memancing ikan adalah ....",
+    "explanation": "Alat memancing: pancing."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem dipersempit menjadi alat spesifik.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: alat memancing = pancing."
+  },
+  "PPN-B1-0057": {
+   "perubahan": {
+    "question": "Isilah: Benda berlembar-lembar, bersampul, dan berisi cerita yang dibaca saat membaca adalah ....",
+    "explanation": "Benda yang dibaca saat membaca: buku."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem dipersempit dengan ciri benda (berlembar, bersampul, dibaca).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci \"buku\" tetap; majalah/komik tetap mungkin dianggap alternatif oleh guru (lihat keraguan)."
+  },
+  "PPN-B1-0059": {
+   "perubahan": {
+    "question": "Isilah: Orang yang hobi menyanyi menyanyikan ....",
+    "explanation": "Yang dinyanyikan: lagu."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem dipersempit: yang dinyanyikan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: orang yang hobi menyanyi menyanyikan lagu; kunci \"lagu\"."
+  },
+  "PPN-B1-0062": {
+   "perubahan": {
+    "question": "Isilah: Orang yang hobi memasak memakai kompor, panci, dan wajan. Benda-benda itu disebut ....",
+    "explanation": "Kompor, panci, dan wajan: peralatan dapur."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem dipersempit dengan contoh benda sehingga kategori \"peralatan dapur\" jelas.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kompor, panci, wajan termasuk peralatan dapur."
+  },
+  "PPN-B1-0065": {
+   "perubahan": {
+    "question": "Isilah: Orang yang hobi berkebun menanam dan merawat ....",
+    "explanation": "Yang ditanam dan dirawat: tanaman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem dipersempit: yang ditanam dan dirawat.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: berkebun = merawat tanaman; \"bunga/sayur\" mungkin dianggap alternatif (lihat keraguan)."
+  },
+  "PPN-B1-0066": {
+   "perubahan": {
+    "question": "Isilah: Tempat berenang yang dibuat khusus dan berisi air bersih adalah ....",
+    "explanation": "Tempat berenang yang dibuat khusus: kolam renang."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem dipersempit: tempat berenang buatan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: tempat berenang yang dibuat khusus = kolam renang."
+  },
+  "PPN-B1-0081": {
+   "perubahan": {
+    "options": [
+     "A. bentuk tangan dan kaki",
+     "B. ukuran sepatu dan topi",
+     "C. warna daun dan rumput",
+     "D. suku, budaya, dan agama"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci, tetap jelas bukan keberagaman sosial.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: suku, budaya, agama benar; ukuran sepatu/topi, bentuk tangan/kaki, warna daun/rumput bukan."
+  },
+  "PPN-B1-0149": {
+   "perubahan": {
+    "options": [
+     "A. melarang teman merayakannya",
+     "B. mengejek cara mereka merayakan",
+     "C. menghormati dan tidak mengganggu",
+     "D. mengganggu teman yang merayakannya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: hanya menghormati dan tidak mengganggu yang tepat; melarang, mengejek, mengganggu salah."
+  },
+  "PPN-B1-0151": {
+   "perubahan": {
+    "options": [
+     "A. menolong dengan ikhlas",
+     "B. menjauhi dan tidak peduli",
+     "C. membiarkan begitu saja",
+     "D. menertawakan kesulitannya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disetarakan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: menolong benar; pengecoh sikap negatif."
+  },
+  "PPN-B1-0152": {
+   "perubahan": {
+    "options": [
+     "A. hanya menyayangi teman dekat",
+     "B. hanya menolong teman sesuku",
+     "C. menjauhi orang yang berbeda",
+     "D. mengasihi tanpa membedakan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh absurd diganti sikap pilih-pilih yang masuk akal tetapi salah; panjang disetarakan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: \"mengasihi tanpa membedakan\" tetap; tiga pengecoh bersifat membeda-bedakan. Tautologi stem-kunci belum sepenuhnya hilang."
+  },
+  "PPN-B1-0155": {
+   "perubahan": {
+    "options": [
+     "A. menghargai teman",
+     "B. meremehkan teman",
+     "C. sombong pada teman",
+     "D. mengejek teman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disetarakan panjang.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: menghargai teman benar; meremehkan, sombong, mengejek salah."
+  },
+  "PPN-B1-0156": {
+   "perubahan": {
+    "options": [
+     "A. toleran dan rukun",
+     "B. curang kepada teman",
+     "C. saling bermusuhan",
+     "D. sombong dan iri hati"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disetarakan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: toleran dan rukun benar; pengecoh sikap negatif."
+  },
+  "PPN-B1-0158": {
+   "perubahan": {
+    "options": [
+     "A. kesombongan dan iri hati",
+     "B. permusuhan dan perpecahan",
+     "C. saling membenci dan menjauh",
+     "D. toleransi dan persatuan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disetarakan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: gambar berpegangan tangan tersenyum = toleransi dan persatuan; pengecoh bertentangan dengan gambar."
+  },
+  "PPN-B1-0161": {
+   "perubahan": {
+    "options": [
+     "A. mengajak bermain bergantian sesuai hobi masing-masing",
+     "B. memihak salah satu teman dan menuruti hobinya",
+     "C. memarahi keduanya agar berhenti berebut",
+     "D. meninggalkan keduanya dan bermain sendiri saja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: bermain bergantian menyelesaikan perselisihan; memihak, memarahi, meninggalkan salah."
+  },
+  "PPN-B1-0162": {
+   "perubahan": {
+    "options": [
+     "A. menjauhinya dan tidak menyapa",
+     "B. mengejek cara bicaranya",
+     "C. acuh tak acuh dan diam saja",
+     "D. menyambutnya dengan ramah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disetarakan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: menyambut ramah benar; pengecoh sikap negatif."
+  },
+  "PPN-B1-0163": {
+   "perubahan": {
+    "options": [
+     "A. marah kepada temannya dengan keras",
+     "B. mengejek makanan itu di depan temannya",
+     "C. mengucap terima kasih dan menghargai tawarannya",
+     "D. membuang makanan itu ke tempat sampah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: berterima kasih dan menghargai adalah sikap sopan; marah, mengejek, membuang tidak sopan."
+  },
+  "PPN-B1-0164": {
+   "perubahan": {
+    "options": [
+     "A. menyembunyikan makanan khasnya karena malu",
+     "B. tidak mau mencicipi makanan milik teman",
+     "C. mengejek makanan khas daerah milik teman",
+     "D. membawa makanan khas daerahnya dan mencicipi milik teman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya yang ikut kegiatan; pengecoh menolak/mengejek."
+  },
+  "PPN-B1-0166": {
+   "perubahan": {
+    "options": [
+     "A. menertawakan logat bicaranya di depan teman",
+     "B. menjauhinya dan tidak mau menyapanya",
+     "C. meniru logatnya untuk mengejek temannya",
+     "D. mengajaknya berteman dan tidak menertawakan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: mengajak berteman benar; menertawakan, menjauhi, meniru untuk mengejek salah."
+  },
+  "PPN-B1-0168": {
+   "perubahan": {
+    "options": [
+     "A. mengganggunya saat sedang beribadah",
+     "B. berisik di dekat tempat ibadahnya",
+     "C. mengejek cara temannya beribadah",
+     "D. tidak mengganggu dan menghormatinya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: tidak mengganggu dan menghormati benar; pengecoh mengganggu/mengejek."
+  },
+  "PPN-B1-0169": {
+   "perubahan": {
+    "question": "Seorang teman sedang berbicara dengan bahasa daerahnya kepada temannya yang lain. Hasan ....",
+    "options": [
+     "A. melarangnya berbicara dengan bahasa daerah",
+     "B. meniru ucapannya untuk mengejek mereka",
+     "C. menertawakan bahasa yang tidak ia mengerti",
+     "D. menghargainya dan bertanya artinya dengan sopan"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Stem berbelit diperjelas; pengecoh dipanjangkan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: menghargai dan bertanya sopan benar; pengecoh melarang/mengejek."
+  },
+  "PPN-B1-0183": {
+   "perubahan": {
+    "question": "Benar atau salah: Cinta kepada sesama manusia berarti kita hanya mengasihi teman yang sesuku."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pernyataan Salah janggal diganti pernyataan wajar; kunci Salah tetap.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: cinta sesama berarti tidak membeda-bedakan, sehingga \"hanya mengasihi teman sesuku\" salah."
+  },
+  "PPN-B1-0186": {
+   "perubahan": {
+    "question": "Benar atau salah: Jika ada teman berbeda suku yang kesulitan, kita sebaiknya membiarkannya."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat dibuat gramatikal; kunci Salah tetap.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: membiarkan teman yang kesulitan bukan sikap yang benar."
+  },
+  "PPN-B2-0005": {
+   "perubahan": {
+    "options": [
+     "A. pergi dari rumah tanpa pamit",
+     "B. melanggar aturan itu diam-diam",
+     "C. berbicara baik-baik dengan orang tua",
+     "D. marah-marah dan membanting pintu"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disetarakan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: berbicara baik-baik benar; pengecoh tindakan buruk."
+  },
+  "PPN-B2-0009": {
+   "perubahan": {
+    "options": [
+     "A. kacau dan tidak tertib",
+     "B. rapi dan teratur",
+     "C. tenang dan nyaman",
+     "D. aman dan terkendali"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disetarakan; tetap berlawanan dengan kunci.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: rumah tanpa aturan kacau; rapi/tenang/aman adalah kebalikan."
+  },
+  "PPN-B2-0015": {
+   "perubahan": {
+    "options": [
+     "A. tetangga dan teman bermain",
+     "B. hewan peliharaan dan tanaman",
+     "C. orang tua dan ajaran Islam",
+     "D. teman sekelas dan guru"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disetarakan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: ketaatan aturan keluarga = kepada orang tua dan ajaran Islam; pengecoh tidak."
+  },
+  "PPN-B2-0081": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"makan bersama dengan tertib\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0083": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"berbicara sopan kepada orang tua\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0086": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"belajar pada jam belajar\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0088": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"menutup pintu dengan pelan\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0091": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"menyimpan sepatu di rak\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0093": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"mematikan lampu yang tidak dipakai\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0094": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"berkata jujur\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0097": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"mencuci tangan sebelum makan\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0100": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"berdoa sebelum makan\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0101": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"tidak mengganggu adik\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0102": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"mendengarkan nasihat orang tua\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0103": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"membuang sampah pada tempatnya\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0111": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"mengucap salam saat masuk rumah\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0113": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"salat tepat waktu\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0114": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"meminta izin sebelum keluar rumah\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0117": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"merapikan mainan\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0118": {
+   "perubahan": {
+    "question": "Perilaku yang melanggar aturan \"tidur tepat waktu\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif \"tidak menaati\" diganti kata kerja positif \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci tetap satu-satunya perilaku yang melanggar aturan itu, pengecoh perilaku yang baik."
+  },
+  "PPN-B2-0116": {
+   "perubahan": {
+    "question": "Contoh perilaku yang melanggar aturan adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem negatif diganti \"melanggar\".",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: opsi tidak diubah; kunci melanggar jam tidur tetap satu-satunya pelanggaran."
+  },
+  "PPN-B2-0082": {
+   "perubahan": {
+    "options": [
+     "A. menunda salat sambil bermain",
+     "B. menunggu disuruh dahulu baru salat",
+     "C. mengabaikan azan sambil menonton televisi",
+     "D. segera salat ketika azan berkumandang"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh di luar tema salat diganti pengecoh setema salat.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: hanya segera salat saat azan yang menaati aturan; pengecoh menunda/mengabaikan salat."
+  },
+  "PPN-B2-0085": {
+   "perubahan": {
+    "options": [
+     "A. duduk dan menunggu giliran mengambil makanan",
+     "B. mengambil makanan paling banyak lebih dulu",
+     "C. berebut makanan dengan kakak dan adik",
+     "D. makan sambil berlarian di dalam rumah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh di luar tema makan diganti pengecoh setema dan disetarakan panjangnya.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: hanya menunggu giliran yang tertib; pengecoh perilaku tidak tertib."
+  },
+  "PPN-B2-0087": {
+   "perubahan": {
+    "options": [
+     "A. berbohong agar tidak dimarahi",
+     "B. meminta maaf dan memperbaiki diri",
+     "C. melarikan diri agar tidak ketahuan",
+     "D. menyalahkan teman atau adiknya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disetarakan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: meminta maaf dan memperbaiki diri benar; pengecoh menghindar/menyalahkan."
+  },
+  "PPN-B2-0089": {
+   "perubahan": {
+    "options": [
+     "A. hadiah dan mainan baru",
+     "B. teguran atau nasihat",
+     "C. pujian dari orang tua",
+     "D. libur dari semua tugas"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disetarakan; tetap bukan akibat pelanggaran.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: akibat melanggar adalah teguran/nasihat; hadiah, pujian, libur bukan."
+  },
+  "PPN-B2-0107": {
+   "perubahan": {
+    "question": "Anak yang menaati aturan di rumah akan disayang dan dipercaya oleh ....",
+    "options": [
+     "A. orang yang baru dikenal",
+     "B. tamu yang baru datang",
+     "C. orang tua",
+     "D. penjual di pasar"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti pihak di luar keluarga yang jelas salah; stem diberi konteks \"di rumah\" agar teman/guru tidak menjadi benar.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: konteks aturan di rumah: orang tua; orang yang baru dikenal, tamu, penjual bukan jawaban."
+  },
+  "PPN-B2-0126": {
+   "perubahan": {
+    "question": "Benar atau salah: Anak yang menaati aturan di rumah hanya disayang dan dipercaya oleh tamu yang baru datang."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pernyataan janggal (\"dipercaya oleh tidak ada\") diganti kalimat gramatikal; kunci Salah tetap.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: anak yang taat disayang orang tuanya, bukan hanya tamu yang baru datang."
+  },
+  "PPN-B2-0140": {
+   "perubahan": {
+    "options": [
+     "A. baik",
+     "B. membosankan",
+     "C. melelahkan",
+     "D. merugikan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti sifat yang tampak masuk akal tetapi salah.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kebiasaan dari ketaatan adalah baik; membosankan/melelahkan/merugikan tidak benar."
+  },
+  "PPN-B2-0143": {
+   "perubahan": {
+    "options": [
+     "A. menaati aturan dan menghormati orang tua",
+     "B. melanggar aturan keluarga di rumah",
+     "C. tidak peduli dengan nasihat ibunya",
+     "D. sombong kepada ibu dan keluarga"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disetarakan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: berpamitan dan mencium tangan = taat dan hormat; pengecoh sikap negatif."
+  },
+  "PPN-B2-0144": {
+   "perubahan": {
+    "options": [
+     "A. berpamitan dan meminta izin kepada orang tua",
+     "B. pergi bermain lalu izin setelah pulang",
+     "C. menitip pesan kepada tetangga saja",
+     "D. pergi bermain tanpa memberi tahu siapa pun"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0146": {
+   "perubahan": {
+    "options": [
+     "A. menyalakan semua lampu sepanjang hari",
+     "B. mematikan lampu sebelum meninggalkan ruangan",
+     "C. membiarkan lampu kamar menyala terus",
+     "D. menunggu ibu mematikan lampu ruangan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0147": {
+   "perubahan": {
+    "options": [
+     "A. belajar dengan tenang di meja belajar",
+     "B. bermain mobil-mobilan saat jam belajar",
+     "C. mengobrol dan berlarian saat belajar",
+     "D. menunda belajar dan menonton televisi"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0148": {
+   "perubahan": {
+    "options": [
+     "A. langsung makan dengan tangan kotor",
+     "B. mengelap tangan dengan baju lalu makan",
+     "C. mencuci tangan setelah selesai makan",
+     "D. mencuci tangan dengan sabun sebelum makan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0149": {
+   "perubahan": {
+    "options": [
+     "A. menyalahkan adik atas kesalahannya",
+     "B. diam saja agar tidak ketahuan",
+     "C. mengakui kesalahan dengan jujur",
+     "D. berbohong kepada orang tua"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0150": {
+   "perubahan": {
+    "options": [
+     "A. meninggalkan mainan di lantai kamar",
+     "B. menyimpan mainan setelah bermain",
+     "C. membiarkan mainan berserakan",
+     "D. menunggu ibu merapikan mainan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0151": {
+   "perubahan": {
+    "options": [
+     "A. makan lebih dulu tanpa berdoa",
+     "B. makan dahulu, berdoa kalau ingat",
+     "C. langsung menyantap makanan yang tersedia",
+     "D. membaca bismillah sebelum makan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0152": {
+   "perubahan": {
+    "options": [
+     "A. berbicara dengan nada lembut",
+     "B. membentak orang tua saat marah",
+     "C. menjawab dengan nada tinggi",
+     "D. memotong ucapan ayah dan ibu"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0153": {
+   "perubahan": {
+    "options": [
+     "A. masuk diam-diam lewat pintu belakang",
+     "B. memberi salam hanya kepada tetangga",
+     "C. mengucap salam ketika masuk rumah",
+     "D. langsung masuk tanpa memberi salam"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0154": {
+   "perubahan": {
+    "options": [
+     "A. membuang sampah ke halaman tetangga",
+     "B. meletakkan sampah di bawah meja",
+     "C. memasukkan sampah ke tempat sampah",
+     "D. membiarkan sampah menumpuk di lantai"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0155": {
+   "perubahan": {
+    "options": [
+     "A. makan sambil berlarian di dalam rumah",
+     "B. duduk dan menunggu giliran mengambil makanan",
+     "C. berebut makanan dengan kakak dan adik",
+     "D. mengambil makanan paling banyak lebih dulu"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0158": {
+   "perubahan": {
+    "options": [
+     "A. merebut mainan adik tanpa izin",
+     "B. menjahili adik hingga menangis",
+     "C. mengabaikan adik yang mengajak bermain",
+     "D. bermain dengan adik secara baik"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0159": {
+   "perubahan": {
+    "options": [
+     "A. menutup pintu dengan perlahan",
+     "B. membanting pintu saat marah",
+     "C. menutup pintu dengan sangat keras",
+     "D. menendang pintu agar cepat tertutup"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0160": {
+   "perubahan": {
+    "options": [
+     "A. begadang sambil bermain gawai",
+     "B. menonton televisi sampai larut malam",
+     "C. tidur pada waktunya setelah berdoa",
+     "D. baru tidur setelah lewat tengah malam"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0161": {
+   "perubahan": {
+    "options": [
+     "A. melempar sepatu ke sudut ruangan",
+     "B. meletakkan sepatu di rak setelah dipakai",
+     "C. meninggalkan sepatu di depan pintu kamar",
+     "D. menaruh sepatu di bawah tempat tidur"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0162": {
+   "perubahan": {
+    "options": [
+     "A. berpura-pura sibuk saat ibu bekerja",
+     "B. membantu ibu menyapu atau mencuci piring",
+     "C. membiarkan ibu bekerja sendirian",
+     "D. menonton televisi saat ibu menyapu"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0163": {
+   "perubahan": {
+    "options": [
+     "A. pura-pura tidak mendengar nasihat",
+     "B. menutup telinga saat dinasihati",
+     "C. mendengarkan nasihat dengan baik",
+     "D. membantah nasihat dengan marah"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh lintas-aturan diganti pelanggaran/kesalahan setema aturan pada stem dan disetarakan panjangnya, sehingga kunci tidak terbaca dari kata kunci aturan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci satu-satunya perilaku yang menaati aturan di stem; pengecoh adalah pelanggaran atau perilaku keliru pada aturan yang sama."
+  },
+  "PPN-B2-0156": {
+   "perubahan": {
+    "question": "Salma sedang sakit. Ayah melarang Salma bermain hujan-hujanan. Salma ....",
+    "options": [
+     "A. tetap keluar rumah diam-diam",
+     "B. berpura-pura sehat agar boleh keluar",
+     "C. menurut dan bermain di dalam rumah",
+     "D. menangis dan membantah larangan ayah"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Rujukan \"karena sakit\" diperjelas; pengecoh disetarakan.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: menurut larangan ayah benar; pengecoh membangkang."
+  },
+  "PPN-B2-0184": {
+   "perubahan": {
+    "question": "Benar atau salah: Menaati aturan keluarga tidak ada hubungannya dengan ajaran Islam.",
+    "explanation": "Salah. Menaati aturan keluarga adalah bagian dari ajaran Islam."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pernyataan Salah tak bermakna diganti kalimat bermakna; kunci Salah tetap.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: menaati aturan keluarga tetap bagian dari ajaran Islam (sesuai penjelasan asli), maka pernyataan \"tidak ada hubungannya\" salah."
+  },
+  "PPN-B2-0192": {
+   "perubahan": {
+    "question": "Lengkapi: Di rumah ada aturan \"makan bersama dengan tertib\". Nisa menaati aturan itu dengan cara ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal \"Agar menaati aturan ...\" ditulis ulang menjadi kalimat wajar; kunci tidak diubah. Sifat isian terbuka tetap (tipe tidak dapat diubah).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci tidak berubah dan kalimat tetap mengarah pada perilaku yang menaati aturan."
+  },
+  "PPN-B2-0193": {
+   "perubahan": {
+    "question": "Lengkapi: Di rumah ada aturan \"mematikan lampu yang tidak dipakai\". Mira menaati aturan itu dengan cara ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal \"Agar menaati aturan ...\" ditulis ulang menjadi kalimat wajar; kunci tidak diubah. Sifat isian terbuka tetap (tipe tidak dapat diubah).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci tidak berubah dan kalimat tetap mengarah pada perilaku yang menaati aturan."
+  },
+  "PPN-B2-0194": {
+   "perubahan": {
+    "question": "Lengkapi: Di rumah ada aturan \"berdoa sebelum makan\". Alif menaati aturan itu dengan cara ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal \"Agar menaati aturan ...\" ditulis ulang menjadi kalimat wajar; kunci tidak diubah. Sifat isian terbuka tetap (tipe tidak dapat diubah).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci tidak berubah dan kalimat tetap mengarah pada perilaku yang menaati aturan."
+  },
+  "PPN-B2-0195": {
+   "perubahan": {
+    "question": "Lengkapi: Di rumah ada aturan \"tidak mengganggu adik\". Putri menaati aturan itu dengan cara ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal \"Agar menaati aturan ...\" ditulis ulang menjadi kalimat wajar; kunci tidak diubah. Sifat isian terbuka tetap (tipe tidak dapat diubah).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci tidak berubah dan kalimat tetap mengarah pada perilaku yang menaati aturan."
+  },
+  "PPN-B2-0196": {
+   "perubahan": {
+    "question": "Lengkapi: Di rumah ada aturan \"membuang sampah pada tempatnya\". Zaki menaati aturan itu dengan cara ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal \"Agar menaati aturan ...\" ditulis ulang menjadi kalimat wajar; kunci tidak diubah. Sifat isian terbuka tetap (tipe tidak dapat diubah).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci tidak berubah dan kalimat tetap mengarah pada perilaku yang menaati aturan."
+  },
+  "PPN-B2-0197": {
+   "perubahan": {
+    "question": "Lengkapi: Di rumah ada aturan \"menutup pintu dengan pelan\". Dani menaati aturan itu dengan cara ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal \"Agar menaati aturan ...\" ditulis ulang menjadi kalimat wajar; kunci tidak diubah. Sifat isian terbuka tetap (tipe tidak dapat diubah).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci tidak berubah dan kalimat tetap mengarah pada perilaku yang menaati aturan."
+  },
+  "PPN-B2-0198": {
+   "perubahan": {
+    "question": "Lengkapi: Di rumah ada aturan \"menyimpan sepatu di rak\". Hana menaati aturan itu dengan cara ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal \"Agar menaati aturan ...\" ditulis ulang menjadi kalimat wajar; kunci tidak diubah. Sifat isian terbuka tetap (tipe tidak dapat diubah).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci tidak berubah dan kalimat tetap mengarah pada perilaku yang menaati aturan."
+  },
+  "PPN-B2-0199": {
+   "perubahan": {
+    "question": "Lengkapi: Di rumah ada aturan \"mencuci tangan sebelum makan\". Fikri menaati aturan itu dengan cara ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal \"Agar menaati aturan ...\" ditulis ulang menjadi kalimat wajar; kunci tidak diubah. Sifat isian terbuka tetap (tipe tidak dapat diubah).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci tidak berubah dan kalimat tetap mengarah pada perilaku yang menaati aturan."
+  },
+  "PPN-B2-0200": {
+   "perubahan": {
+    "question": "Lengkapi: Di rumah ada aturan \"berbicara sopan kepada orang tua\". Aisyah menaati aturan itu dengan cara ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal \"Agar menaati aturan ...\" ditulis ulang menjadi kalimat wajar; kunci tidak diubah. Sifat isian terbuka tetap (tipe tidak dapat diubah).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci tidak berubah dan kalimat tetap mengarah pada perilaku yang menaati aturan."
+  },
+  "PPN-B2-0201": {
+   "perubahan": {
+    "question": "Lengkapi: Di rumah ada aturan \"mengucap salam saat masuk rumah\". Rafi menaati aturan itu dengan cara ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal \"Agar menaati aturan ...\" ditulis ulang menjadi kalimat wajar; kunci tidak diubah. Sifat isian terbuka tetap (tipe tidak dapat diubah).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci tidak berubah dan kalimat tetap mengarah pada perilaku yang menaati aturan."
+  },
+  "PPN-B2-0204": {
+   "perubahan": {
+    "question": "Lengkapi: Di rumah ada aturan \"tidur tepat waktu\". Hasan menaati aturan itu dengan cara ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal \"Agar menaati aturan ...\" ditulis ulang menjadi kalimat wajar; kunci tidak diubah. Sifat isian terbuka tetap (tipe tidak dapat diubah).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci tidak berubah dan kalimat tetap mengarah pada perilaku yang menaati aturan."
+  },
+  "PPN-B2-0206": {
+   "perubahan": {
+    "question": "Lengkapi: Di rumah ada aturan \"membantu pekerjaan rumah\". Umar menaati aturan itu dengan cara ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal \"Agar menaati aturan ...\" ditulis ulang menjadi kalimat wajar; kunci tidak diubah. Sifat isian terbuka tetap (tipe tidak dapat diubah).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci tidak berubah dan kalimat tetap mengarah pada perilaku yang menaati aturan."
+  },
+  "PPN-B2-0203": {
+   "perubahan": {
+    "question": "Lengkapi: Salma sedang sakit dan ayah melarangnya bermain hujan. Salma ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Redaksi diperjelas (siapa yang sakit).",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci sama."
+  },
+  "PPN-B2-0205": {
+   "perubahan": {
+    "question": "Lengkapi: Ibu berpesan agar Rafi tidak bermain gawai sebelum PR selesai. Rafi menaati pesan itu dengan ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal ditulis ulang menjadi kalimat wajar.",
+   "verifikasi": "Kunci tetap dan tidak ada pengecoh yang menjadi benar: kunci sama."
+  }
+ },
+ "tidak_direvisi": {
+  "PPN-B1-0197": "Tautologi stem-kunci pada isian terbuka dengan kunci frasa persis; perbaikannya memerlukan konversi tipe/penulisan ulang konsep (keputusan penyusun), bukan perbaikan redaksi.",
+  "PPN-B2-0050": "Isian \"Manfaat aturan X\" terbuka dengan kunci frasa persis; perbaikan membutuhkan konversi tipe (short_answer/pilihan ganda) atau kunci/rubrik baru, di luar perbaikan redaksi tanpa keputusan penyusun.",
+  "PPN-B2-0051": "Isian \"Manfaat aturan X\" terbuka dengan kunci frasa persis; perbaikan membutuhkan konversi tipe (short_answer/pilihan ganda) atau kunci/rubrik baru, di luar perbaikan redaksi tanpa keputusan penyusun.",
+  "PPN-B2-0054": "Isian \"Manfaat aturan X\" terbuka dengan kunci frasa persis; perbaikan membutuhkan konversi tipe (short_answer/pilihan ganda) atau kunci/rubrik baru, di luar perbaikan redaksi tanpa keputusan penyusun.",
+  "PPN-B2-0057": "Isian \"Manfaat aturan X\" terbuka dengan kunci frasa persis; perbaikan membutuhkan konversi tipe (short_answer/pilihan ganda) atau kunci/rubrik baru, di luar perbaikan redaksi tanpa keputusan penyusun.",
+  "PPN-B2-0058": "Isian \"Manfaat aturan X\" terbuka dengan kunci frasa persis; perbaikan membutuhkan konversi tipe (short_answer/pilihan ganda) atau kunci/rubrik baru, di luar perbaikan redaksi tanpa keputusan penyusun.",
+  "PPN-B2-0061": "Isian \"Manfaat aturan X\" terbuka dengan kunci frasa persis; perbaikan membutuhkan konversi tipe (short_answer/pilihan ganda) atau kunci/rubrik baru, di luar perbaikan redaksi tanpa keputusan penyusun.",
+  "PPN-B2-0065": "Isian \"Manfaat aturan X\" terbuka dengan kunci frasa persis; perbaikan membutuhkan konversi tipe (short_answer/pilihan ganda) atau kunci/rubrik baru, di luar perbaikan redaksi tanpa keputusan penyusun.",
+  "PPN-B2-0066": "Isian \"Manfaat aturan X\" terbuka dengan kunci frasa persis; perbaikan membutuhkan konversi tipe (short_answer/pilihan ganda) atau kunci/rubrik baru, di luar perbaikan redaksi tanpa keputusan penyusun.",
+  "PPN-B2-0068": "Isian \"Manfaat aturan X\" terbuka dengan kunci frasa persis; perbaikan membutuhkan konversi tipe (short_answer/pilihan ganda) atau kunci/rubrik baru, di luar perbaikan redaksi tanpa keputusan penyusun.",
+  "PPN-B2-0069": "Isian \"Manfaat aturan X\" terbuka dengan kunci frasa persis; perbaikan membutuhkan konversi tipe (short_answer/pilihan ganda) atau kunci/rubrik baru, di luar perbaikan redaksi tanpa keputusan penyusun.",
+  "PPN-B2-0070": "Isian \"Manfaat aturan X\" terbuka dengan kunci frasa persis; perbaikan membutuhkan konversi tipe (short_answer/pilihan ganda) atau kunci/rubrik baru, di luar perbaikan redaksi tanpa keputusan penyusun.",
+  "PPN-B2-0071": "Isian \"Manfaat aturan X\" terbuka dengan kunci frasa persis; perbaikan membutuhkan konversi tipe (short_answer/pilihan ganda) atau kunci/rubrik baru, di luar perbaikan redaksi tanpa keputusan penyusun.",
+  "PPN-B2-0073": "Isian \"Manfaat aturan X\" terbuka dengan kunci frasa persis; perbaikan membutuhkan konversi tipe (short_answer/pilihan ganda) atau kunci/rubrik baru, di luar perbaikan redaksi tanpa keputusan penyusun.",
+  "PPN-B2-0121": "Masalah pola kunci Salah beruntun pada rangkaian ini hanya dapat diatasi dengan menyeimbangkan kunci (sebagian menjadi Benar), sedangkan perubahan kunci tidak diizinkan tanpa AKURASI_SALAH_TEGAS; perlu keputusan penyusun.",
+  "PPN-B2-0122": "Masalah pola kunci Salah beruntun pada rangkaian ini hanya dapat diatasi dengan menyeimbangkan kunci (sebagian menjadi Benar), sedangkan perubahan kunci tidak diizinkan tanpa AKURASI_SALAH_TEGAS; perlu keputusan penyusun.",
+  "PPN-B2-0123": "Masalah pola kunci Salah beruntun pada rangkaian ini hanya dapat diatasi dengan menyeimbangkan kunci (sebagian menjadi Benar), sedangkan perubahan kunci tidak diizinkan tanpa AKURASI_SALAH_TEGAS; perlu keputusan penyusun.",
+  "PPN-B2-0124": "Masalah pola kunci Salah beruntun pada rangkaian ini hanya dapat diatasi dengan menyeimbangkan kunci (sebagian menjadi Benar), sedangkan perubahan kunci tidak diizinkan tanpa AKURASI_SALAH_TEGAS; perlu keputusan penyusun.",
+  "PPN-B2-0125": "Masalah pola kunci Salah beruntun pada rangkaian ini hanya dapat diatasi dengan menyeimbangkan kunci (sebagian menjadi Benar), sedangkan perubahan kunci tidak diizinkan tanpa AKURASI_SALAH_TEGAS; perlu keputusan penyusun.",
+  "PPN-B2-0127": "Masalah pola kunci Salah beruntun pada rangkaian ini hanya dapat diatasi dengan menyeimbangkan kunci (sebagian menjadi Benar), sedangkan perubahan kunci tidak diizinkan tanpa AKURASI_SALAH_TEGAS; perlu keputusan penyusun.",
+  "PPN-B2-0130": "Isian terbuka dengan kunci frasa persis; perbaikan memerlukan konversi tipe/rubrik (short_answer atau pilihan ganda), keputusan di luar perbaikan redaksi.",
+  "PPN-B2-0131": "Isian terbuka dengan kunci frasa persis; perbaikan memerlukan konversi tipe/rubrik (short_answer atau pilihan ganda), keputusan di luar perbaikan redaksi.",
+  "PPN-B2-0132": "Isian terbuka dengan kunci frasa persis; perbaikan memerlukan konversi tipe/rubrik (short_answer atau pilihan ganda), keputusan di luar perbaikan redaksi.",
+  "PPN-B2-0188": "Isian terbuka dengan kunci frasa persis; perbaikan memerlukan konversi tipe/rubrik (short_answer atau pilihan ganda), keputusan di luar perbaikan redaksi.",
+  "PPN-B2-0142": "Pengecoh bermain/berpetualang/berdagang absurd, tetapi pengganti yang wajar (agama lain) sensitif dan perlu keputusan ahli; stem membahas ajaran Islam."
+ }
+}

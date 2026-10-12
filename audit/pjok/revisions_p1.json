@@ -1,0 +1,973 @@
+{
+ "revisi": {
+  "PJK-TB-0003": {
+   "perubahan": {
+    "options": [
+     "A. tetap di tempat",
+     "B. hanya memutar badan",
+     "C. hanya meregangkan lengan",
+     "D. berpindah tempat"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah",
+   "verifikasi": "Kunci 'berpindah tempat' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0004": {
+   "perubahan": {
+    "options": [
+     "A. mengurangi tenaga sebelum bermain",
+     "B. mempersiapkan otot",
+     "C. membuat otot menjadi kaku",
+     "D. mengganti kegiatan berlari"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah",
+   "verifikasi": "Kunci 'mempersiapkan otot' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0023": {
+   "perubahan": {
+    "options": [
+     "A. aman dan tidak ada penghalang",
+     "B. penuh barang yang berserakan",
+     "C. licin karena lantai basah",
+     "D. ramai dan dipenuhi banyak orang"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah; pengecoh dipanjangkan sejajar kunci",
+   "verifikasi": "Kunci 'aman dan tidak ada penghalang' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0025": {
+   "perubahan": {
+    "options": [
+     "A. manipulatif",
+     "B. lokomotor",
+     "C. berirama",
+     "D. non-lokomotor"
+    ],
+    "question": "Perhatikan gambar! Gerakan anak di lapangan itu disebut gerak ....",
+    "explanation": "Anak berlari dan berpindah tempat, jadi gerak itu lokomotor.",
+    "visual_prompt": "Anak laki-laki berseragam olahraga berlari dari satu sisi lapangan ke sisi lain dengan kedua lengan diayun ke depan dan belakang."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem tidak lagi menyebut gerakan; deskripsi gerak dipindah ke visual_prompt agar gambar dibutuhkan; pengecoh 'diam' diganti 'berirama'",
+   "verifikasi": "Kunci 'lokomotor' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0026": {
+   "perubahan": {
+    "options": [
+     "A. berlari melawan arah putaran teman-temannya",
+     "B. berlari cepat dan menyalip dengan mendorong",
+     "C. berhenti mendadak di tengah jalur lari",
+     "D. berlari dengan tertib mengikuti arah yang ditentukan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah; pengecoh dipanjangkan sejajar kunci",
+   "verifikasi": "Kunci 'berlari dengan tertib mengikuti arah yang ditentukan' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0068": {
+   "perubahan": {
+    "options": [
+     "A. membungkuk ke depan",
+     "B. meregang ke atas",
+     "C. berdiri satu kaki",
+     "D. memutar badan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci",
+   "verifikasi": "Kunci 'berdiri satu kaki' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0076": {
+   "perubahan": {
+    "options": [
+     "A. tempat",
+     "B. garis lintasan",
+     "C. ujung lapangan",
+     "D. pojok ruangan"
+    ],
+    "question": "Saat memutar badan, kaki tidak berpindah karena tetap berada di ....",
+    "explanation": "Memutar badan adalah gerak non-lokomotor, jadi kaki tetap berada di tempat."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Opsi tidak gramatikal/tak sejenis diganti kata benda tempat yang sejenis; stem diperjelas",
+   "verifikasi": "Kunci 'tempat' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0082": {
+   "perubahan": {
+    "options": [
+     "A. sangat ramai dan padat",
+     "B. sempit tetapi aman",
+     "C. penuh barang berserakan",
+     "D. licin dan basah"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah; pengecoh disejajarkan panjangnya",
+   "verifikasi": "Kunci 'sempit tetapi aman' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0092": {
+   "perubahan": {
+    "options": [
+     "A. melompat (lokomotor)",
+     "B. meregang (non-lokomotor)",
+     "C. merayap (lokomotor)",
+     "D. berlari (lokomotor)"
+    ],
+    "question": "Perhatikan gambar! Gerakan anak-anak itu disebut ....",
+    "explanation": "Anak-anak berdiri di tempat dan meregangkan kedua lengan ke atas, jadi gerak itu meregang (non-lokomotor).",
+    "visual_prompt": "Lima anak berbaris di tempat dengan kedua lengan lurus ke atas; kaki tidak berpindah dari tempatnya."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Stem tidak lagi menyebut gerakan; deskripsi dipindah ke visual_prompt; pengecoh disejajarkan strukturnya dengan kunci",
+   "verifikasi": "Kunci 'meregang (non-lokomotor)' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0093": {
+   "perubahan": {
+    "options": [
+     "A. berusaha menjaga keseimbangan dengan tenang",
+     "B. berlari ke sekeliling kelas dengan cepat",
+     "C. menjatuhkan diri ke lantai dengan sengaja",
+     "D. menggoyangkan kaki sambil melompat-lompat"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci dan dibuat berupa gerak yang tidak sesuai tugas",
+   "verifikasi": "Kunci 'berusaha menjaga keseimbangan dengan tenang' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0100": {
+   "perubahan": {
+    "question": "Benar atau salah: Saat memutar badan di tempat, kaki berpindah sejauh mungkin.",
+    "explanation": "Salah. Saat memutar badan di tempat, kaki tetap berada di tempat dan tidak berpindah."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat tidak gramatikal ('berada di sejauh mungkin') ditulis ulang",
+   "verifikasi": "Kunci 'Salah' tetap benar: memutar badan di tempat tidak memindahkan kaki."
+  },
+  "PJK-TB-0115": {
+   "perubahan": {
+    "question": "Isilah titik-titik berikut: Memutar badan termasuk gerak non-lokomotor. Saat memutar badan, kaki tetap berada di ....",
+    "explanation": "Memutar badan adalah gerak non-lokomotor, jadi kaki tetap berada di tempat."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem diberi konteks agar jawaban 'tempat' jelas",
+   "verifikasi": "Kunci 'tempat' tidak berubah dan satu-satunya jawaban yang sesuai konteks non-lokomotor."
+  },
+  "PJK-TB-0137": {
+   "perubahan": {
+    "options": [
+     "A. bergerak secepat mungkin ke segala arah",
+     "B. berlari tanpa melihat keadaan sekitar",
+     "C. berhati-hati dan memperhatikan teman",
+     "D. bergerak mendekati teman sedekat mungkin"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah (perilaku absurd diganti perilaku kurang tepat yang masuk akal); panjang disejajarkan",
+   "verifikasi": "Kunci 'berhati-hati dan memperhatikan teman' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0144": {
+   "perubahan": {
+    "options": [
+     "A. kecil",
+     "B. tinggi",
+     "C. rendah",
+     "D. cepat"
+    ],
+    "question": "Lawan dari berjalan dengan langkah lebar adalah berjalan dengan langkah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti istilah gerak sejenis; stem 'berbeda dari' diubah menjadi 'lawan' agar kunci tunggal",
+   "verifikasi": "Kunci 'kecil' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0148": {
+   "perubahan": {
+    "options": [
+     "A. lambat",
+     "B. lurus",
+     "C. cepat",
+     "D. rendah"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah",
+   "verifikasi": "Kunci 'rendah' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0157": {
+   "perubahan": {
+    "options": [
+     "A. tinggi",
+     "B. rendah",
+     "C. lurus",
+     "D. lambat"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah",
+   "verifikasi": "Kunci 'lambat' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0158": {
+   "perubahan": {
+    "options": [
+     "A. zig-zag",
+     "B. cepat",
+     "C. rendah",
+     "D. lurus"
+    ],
+    "question": "Gerak yang berarti mengikuti garis tanpa berbelok adalah bergerak ....",
+    "explanation": "Mengikuti garis tanpa berbelok berkaitan dengan bergerak lurus."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kata kunci stem sama dengan kunci ('garis lurus'); stem diubah menjadi 'tanpa berbelok'; pengecoh 'zig-zag' ditambahkan",
+   "verifikasi": "Kunci 'lurus' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar. Zig-zag justru berbelok sehingga salah."
+  },
+  "PJK-TB-0160": {
+   "perubahan": {
+    "options": [
+     "A. samping",
+     "B. atas",
+     "C. bawah",
+     "D. tengah"
+    ],
+    "question": "Saat berjalan di lantai, kita dapat bergerak ke depan, ke belakang, atau ke ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti arah lain yang tidak mungkin dilakukan saat berjalan di lantai; stem diberi konteks",
+   "verifikasi": "Kunci 'samping' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0165": {
+   "perubahan": {
+    "options": [
+     "A. mengulang satu gerak saja",
+     "B. menghafal nama gerak",
+     "C. bereksplorasi gerak",
+     "D. menghentikan semua gerak"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah; panjang disejajarkan",
+   "verifikasi": "Kunci 'bereksplorasi gerak' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0168": {
+   "perubahan": {
+    "options": [
+     "A. mengeksplorasi gerak",
+     "B. mengulang satu gerak",
+     "C. menghitung langkah",
+     "D. menunggu giliran"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah",
+   "verifikasi": "Kunci 'mengeksplorasi gerak' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0170": {
+   "perubahan": {
+    "options": [
+     "A. lambat",
+     "B. tinggi",
+     "C. berirama",
+     "D. lurus"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah",
+   "verifikasi": "Kunci 'berirama' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0175": {
+   "perubahan": {
+    "options": [
+     "A. mengeksplorasi gerak",
+     "B. berlomba lari cepat",
+     "C. menyusun barisan",
+     "D. bermain petak umpet"
+    ],
+    "question": "Perhatikan gambar! Anak-anak itu sedang ....",
+    "explanation": "Anak-anak menirukan gerak gajah; kegiatan itu adalah mengeksplorasi gerak.",
+    "visual_prompt": "Empat anak berjalan pelan menirukan gajah dengan lengan lurus ke depan seperti belalai."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem tidak lagi menyebut 'menirukan gajah' (dipindah ke visual_prompt); pengecoh berupa perilaku buruk diganti kegiatan lain yang masuk akal",
+   "verifikasi": "Kunci 'mengeksplorasi gerak' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0176": {
+   "perubahan": {
+    "options": [
+     "A. dengan langkah lebar saja sepanjang jalan",
+     "B. dengan satu langkah yang sama berulang",
+     "C. sambil berdiri diam di satu tempat",
+     "D. dengan langkah kecil, lalu langkah lebar"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah; panjang disejajarkan",
+   "verifikasi": "Kunci 'dengan langkah kecil, lalu langkah lebar' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0202": {
+   "perubahan": {
+    "options": [
+     "A. kaki saja",
+     "B. tangan",
+     "C. kepala saja",
+     "D. lutut saja"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah",
+   "verifikasi": "Kunci 'tangan' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0206": {
+   "perubahan": {
+    "options": [
+     "A. lutut yang ditekuk",
+     "B. telapak tangan",
+     "C. dahi dan kepala",
+     "D. siku yang ditekuk"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci",
+   "verifikasi": "Kunci 'telapak tangan' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0208": {
+   "perubahan": {
+    "options": [
+     "A. kecil dan keras",
+     "B. lembut dan ringan",
+     "C. kasar dan berat",
+     "D. keras dan berat"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah",
+   "verifikasi": "Kunci 'lembut dan ringan' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0214": {
+   "perubahan": {
+    "options": [
+     "A. kedua tangan",
+     "B. kaki",
+     "C. satu tangan saja",
+     "D. siku dan lutut"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah",
+   "verifikasi": "Kunci 'kedua tangan' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0217": {
+   "perubahan": {
+    "options": [
+     "A. kantong biji dan selendang",
+     "B. meja dan kursi kelas",
+     "C. pintu dan jendela kelas",
+     "D. lemari dan rak buku"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh berbahaya/absurd diganti benda kelas yang bukan alat gerak manipulatif; panjang disejajarkan",
+   "verifikasi": "Kunci 'kantong biji dan selendang' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0219": {
+   "perubahan": {
+    "options": [
+     "A. telapak tangan",
+     "B. lutut yang ditekuk",
+     "C. siku yang ditekuk",
+     "D. pergelangan kaki"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah; panjang disejajarkan",
+   "verifikasi": "Kunci 'telapak tangan' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0239": {
+   "perubahan": {
+    "question": "Benar atau salah: Bola dilempar dengan menggunakan kaki saja."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pernyataan absurd ('telinga') diganti pernyataan salah yang masuk akal",
+   "verifikasi": "Kunci 'Salah' tetap benar: bola dilempar dengan tangan; menggunakan kaki disebut menendang."
+  },
+  "PJK-TB-0270": {
+   "perubahan": {
+    "options": [
+     "A. duduk diam sambil menunggu giliran",
+     "B. berlari, menghindar, dan berhenti",
+     "C. berdiri di tempat tanpa berpindah",
+     "D. berbaring dan beristirahat lama"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci",
+   "verifikasi": "Kunci 'berlari, menghindar, dan berhenti' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0273": {
+   "perubahan": {
+    "options": [
+     "A. menunggu giliran",
+     "B. berlari pelan",
+     "C. berhati-hati",
+     "D. mendorong teman"
+    ],
+    "question": "Perilaku yang membahayakan teman dalam lintasan rintangan adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem negatif ('tidak boleh') diubah menjadi stem positif tanpa mengubah kunci",
+   "verifikasi": "Kunci 'mendorong teman' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar. Tiga opsi lain adalah perilaku aman."
+  },
+  "PJK-TB-0275": {
+   "perubahan": {
+    "options": [
+     "A. berjalan dan duduk",
+     "B. merayap dan melompat",
+     "C. berguling dan berjinjit",
+     "D. berlari dan menangkap"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah (pola 'kunci mengulang stem' dipertahankan karena memerlukan perubahan kunci)",
+   "verifikasi": "Kunci 'berlari dan menangkap' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0276": {
+   "perubahan": {
+    "options": [
+     "A. memperhatikan ruang gerak teman",
+     "B. menutup mata sambil bergerak",
+     "C. berlari tanpa melihat sekitar",
+     "D. bergerak sekencang mungkin"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah; panjang disejajarkan",
+   "verifikasi": "Kunci 'memperhatikan ruang gerak teman' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0280": {
+   "perubahan": {
+    "options": [
+     "A. berjalan dan merayap",
+     "B. berlari dan melompat",
+     "C. merayap dan berguling",
+     "D. berjinjit dan berjalan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah",
+   "verifikasi": "Kunci 'berlari dan melompat' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0283": {
+   "perubahan": {
+    "options": [
+     "A. gerak di tempat saja",
+     "B. satu gerak berulang saja",
+     "C. gabungan beberapa gerak",
+     "D. gerak melempar bola saja"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah; panjang disejajarkan",
+   "verifikasi": "Kunci 'gabungan beberapa gerak' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0284": {
+   "perubahan": {
+    "options": [
+     "A. melewati rintangan tanpa mengikuti urutan lintasan",
+     "B. berhenti di tengah lintasan lalu pulang ke garis awal",
+     "C. melompati semua rintangan sekaligus dalam satu lompatan",
+     "D. melakukan gerak satu per satu dengan urutan yang benar"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci",
+   "verifikasi": "Kunci 'melakukan gerak satu per satu dengan urutan yang benar' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0338": {
+   "perubahan": {
+    "options": [
+     "A. kontrol tubuh",
+     "B. ketepatan melempar",
+     "C. kelincahan berlari",
+     "D. kecepatan lari"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh afektif absurd diganti kemampuan gerak lain yang tidak terkait menahan posisi",
+   "verifikasi": "Kunci 'kontrol tubuh' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0339": {
+   "perubahan": {
+    "options": [
+     "A. berhenti dan bergerak sesuai keinginan",
+     "B. bergerak terus tanpa bisa berhenti",
+     "C. menabrak benda ketika bergerak",
+     "D. terjatuh ketika mengubah gerakan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh absurd diganti pengecoh masuk akal tetapi jelas salah; panjang disejajarkan",
+   "verifikasi": "Kunci 'berhenti dan bergerak sesuai keinginan' tidak berubah (huruf sama); pengecoh baru jelas salah menurut materi dan tidak ada yang menjadi benar."
+  },
+  "PJK-TB-0063": {
+   "perubahan": {
+    "question": "Peragakan gerak merayap dengan benar dan aman! Guru mengamati: (1) tubuh dekat lantai; (2) bergerak maju dengan bantuan tangan dan kaki; (3) tidak menyentuh teman.",
+    "explanation": "Indikator yang diamati guru: (1) tubuh dekat lantai; (2) bergerak maju dengan bantuan tangan dan kaki; (3) tidak menyentuh teman. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0064": {
+   "perubahan": {
+    "question": "Peragakan gerak melompat dengan benar dan aman! Guru mengamati: (1) lutut ditekuk sebelum melompat; (2) kedua kaki menolak dan tubuh terangkat dari lantai; (3) mendarat dengan lutut sedikit ditekuk dan seimbang.",
+    "explanation": "Indikator yang diamati guru: (1) lutut ditekuk sebelum melompat; (2) kedua kaki menolak dan tubuh terangkat dari lantai; (3) mendarat dengan lutut sedikit ditekuk dan seimbang. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0065": {
+   "perubahan": {
+    "question": "Peragakan gerak meloncat dengan benar dan aman! Guru mengamati: (1) kaki menolak sehingga tubuh terangkat dari lantai; (2) mendarat dengan lutut sedikit ditekuk; (3) mendarat seimbang tanpa terjatuh.",
+    "explanation": "Indikator yang diamati guru: (1) kaki menolak sehingga tubuh terangkat dari lantai; (2) mendarat dengan lutut sedikit ditekuk; (3) mendarat seimbang tanpa terjatuh. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0067": {
+   "perubahan": {
+    "question": "Praktikkan berjalan, berlari kecil, dan melompat di tempat yang aman! Guru mengamati: (1) ketiga gerak dilakukan berurutan; (2) berjalan dengan langkah bergantian dan berlari kecil dengan langkah ringan; (3) melompat dan mendarat seimbang di area yang kosong.",
+    "explanation": "Indikator yang diamati guru: (1) ketiga gerak dilakukan berurutan; (2) berjalan dengan langkah bergantian dan berlari kecil dengan langkah ringan; (3) melompat dan mendarat seimbang di area yang kosong. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0128": {
+   "perubahan": {
+    "question": "Peragakan gerak menekuk dengan benar dan aman! Guru mengamati: (1) sendi seperti lutut atau siku dilipat; (2) bagian tubuh lain tetap di tempat; (3) gerak dilakukan pelan dan terkendali.",
+    "explanation": "Indikator yang diamati guru: (1) sendi seperti lutut atau siku dilipat; (2) bagian tubuh lain tetap di tempat; (3) gerak dilakukan pelan dan terkendali. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0129": {
+   "perubahan": {
+    "question": "Peragakan gerak menarik dengan benar dan aman! Guru mengamati: (1) kedua tangan memegang benda ringan; (2) benda dibawa mendekati badan dengan siku menekuk; (3) badan tetap seimbang.",
+    "explanation": "Indikator yang diamati guru: (1) kedua tangan memegang benda ringan; (2) benda dibawa mendekati badan dengan siku menekuk; (3) badan tetap seimbang. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0130": {
+   "perubahan": {
+    "question": "Peragakan gerak mengayun dengan benar dan aman! Guru mengamati: (1) lengan atau kaki bergerak ke depan dan ke belakang; (2) ayunan beraturan dan tidak menyentak; (3) badan tetap seimbang.",
+    "explanation": "Indikator yang diamati guru: (1) lengan atau kaki bergerak ke depan dan ke belakang; (2) ayunan beraturan dan tidak menyentak; (3) badan tetap seimbang. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0131": {
+   "perubahan": {
+    "question": "Ayunkan kedua lengan ke depan dan ke belakang dengan irama! Guru mengamati: (1) kedua lengan bergerak bersamaan ke depan lalu ke belakang; (2) irama ayunan teratur sesuai hitungan; (3) tidak mengenai teman di sekitar.",
+    "explanation": "Indikator yang diamati guru: (1) kedua lengan bergerak bersamaan ke depan lalu ke belakang; (2) irama ayunan teratur sesuai hitungan; (3) tidak mengenai teman di sekitar. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0132": {
+   "perubahan": {
+    "question": "Peragakan gerak mendorong dengan benar dan aman! Guru mengamati: (1) kedua tangan menekan benda ringan menjauhi badan; (2) lengan meluruskan ke depan; (3) badan tetap seimbang.",
+    "explanation": "Indikator yang diamati guru: (1) kedua tangan menekan benda ringan menjauhi badan; (2) lengan meluruskan ke depan; (3) badan tetap seimbang. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0133": {
+   "perubahan": {
+    "question": "Peragakan gerak berdiri satu kaki dengan benar dan aman! Guru mengamati: (1) satu kaki terangkat dari lantai; (2) badan tegak dan lengan boleh dibuka untuk menjaga keseimbangan; (3) bertahan sekitar lima hitungan tanpa terjatuh.",
+    "explanation": "Indikator yang diamati guru: (1) satu kaki terangkat dari lantai; (2) badan tegak dan lengan boleh dibuka untuk menjaga keseimbangan; (3) bertahan sekitar lima hitungan tanpa terjatuh. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0134": {
+   "perubahan": {
+    "question": "Peragakan gerak memutar dengan benar dan aman! Guru mengamati: (1) badan atau kepala berputar di tempat; (2) kaki tidak berpindah dari tempatnya; (3) putaran pelan dan terkendali.",
+    "explanation": "Indikator yang diamati guru: (1) badan atau kepala berputar di tempat; (2) kaki tidak berpindah dari tempatnya; (3) putaran pelan dan terkendali. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0196": {
+   "perubahan": {
+    "question": "Tunjukkan dua cara berbeda untuk meloncat! Guru mengamati: (1) dua cara terlihat berbeda, misalnya berbeda tinggi atau arah loncatan; (2) setiap cara dilakukan dengan menolak dan mendarat; (3) mendarat seimbang.",
+    "explanation": "Indikator yang diamati guru: (1) dua cara terlihat berbeda, misalnya berbeda tinggi atau arah loncatan; (2) setiap cara dilakukan dengan menolak dan mendarat; (3) mendarat seimbang. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0197": {
+   "perubahan": {
+    "question": "Tunjukkan dua cara berbeda untuk berlari! Guru mengamati: (1) dua cara terlihat berbeda, misalnya cepat dan pelan atau lurus dan zig-zag; (2) setiap cara berlari dengan langkah bergantian; (3) tidak menabrak teman.",
+    "explanation": "Indikator yang diamati guru: (1) dua cara terlihat berbeda, misalnya cepat dan pelan atau lurus dan zig-zag; (2) setiap cara berlari dengan langkah bergantian; (3) tidak menabrak teman. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0198": {
+   "perubahan": {
+    "question": "Bergerak mengikuti irama musik sederhana dengan gerakanmu sendiri! Guru mengamati: (1) gerakan mengikuti tempo musik; (2) paling sedikit dua gerakan berbeda yang dibuat sendiri; (3) tetap di area sendiri.",
+    "explanation": "Indikator yang diamati guru: (1) gerakan mengikuti tempo musik; (2) paling sedikit dua gerakan berbeda yang dibuat sendiri; (3) tetap di area sendiri. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0199": {
+   "perubahan": {
+    "question": "Tunjukkan dua cara berbeda untuk merayap! Guru mengamati: (1) dua cara terlihat berbeda, misalnya dengan perut menempel lantai dan dengan tangan serta lutut; (2) tubuh tetap dekat lantai; (3) bergerak maju tanpa menyentuh teman.",
+    "explanation": "Indikator yang diamati guru: (1) dua cara terlihat berbeda, misalnya dengan perut menempel lantai dan dengan tangan serta lutut; (2) tubuh tetap dekat lantai; (3) bergerak maju tanpa menyentuh teman. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0200": {
+   "perubahan": {
+    "question": "Tirukan gerak kelinci, gajah, dan burung! Guru mengamati: (1) kelinci: melompat-lompat dengan dua kaki; (2) gajah: berjalan pelan dengan lengan seperti belalai; (3) burung: mengepakkan kedua lengan.",
+    "explanation": "Indikator yang diamati guru: (1) kelinci: melompat-lompat dengan dua kaki; (2) gajah: berjalan pelan dengan lengan seperti belalai; (3) burung: mengepakkan kedua lengan. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0260": {
+   "perubahan": {
+    "question": "Peragakan gerakan menangkap bola dengan benar dan aman! Guru mengamati: (1) mata melihat bola; (2) kedua tangan terbuka di depan dada; (3) bola ditangkap dan didekap tanpa jatuh.",
+    "explanation": "Indikator yang diamati guru: (1) mata melihat bola; (2) kedua tangan terbuka di depan dada; (3) bola ditangkap dan didekap tanpa jatuh. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0261": {
+   "perubahan": {
+    "question": "Lempar dan tangkap bola kecil dengan temanmu dari jarak dekat! Guru mengamati: (1) bola dilempar dengan tangan ke arah teman; (2) teman menangkap bola dengan tangan; (3) bola tidak sering jatuh.",
+    "explanation": "Indikator yang diamati guru: (1) bola dilempar dengan tangan ke arah teman; (2) teman menangkap bola dengan tangan; (3) bola tidak sering jatuh. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0262": {
+   "perubahan": {
+    "question": "Peragakan gerakan memukul bola dengan raket dengan benar dan aman! Guru mengamati: (1) raket dipegang dan diayun ke arah bola; (2) raket mengenai bola ringan; (3) menjaga jarak dengan teman saat mengayun.",
+    "explanation": "Indikator yang diamati guru: (1) raket dipegang dan diayun ke arah bola; (2) raket mengenai bola ringan; (3) menjaga jarak dengan teman saat mengayun. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0263": {
+   "perubahan": {
+    "question": "Tendang bola pelan ke arah temanmu! Guru mengamati: (1) kaki menendang dengan ayunan kecil; (2) bola bergulir pelan ke arah teman; (3) teman dapat menghentikan bola.",
+    "explanation": "Indikator yang diamati guru: (1) kaki menendang dengan ayunan kecil; (2) bola bergulir pelan ke arah teman; (3) teman dapat menghentikan bola. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0264": {
+   "perubahan": {
+    "question": "Pantulkan bola ke lantai lima kali berturut-turut! Guru mengamati: (1) bola dipantulkan dengan telapak tangan; (2) bola memantul lima kali berturut-turut; (3) bola tidak lepas dari kendali.",
+    "explanation": "Indikator yang diamati guru: (1) bola dipantulkan dengan telapak tangan; (2) bola memantul lima kali berturut-turut; (3) bola tidak lepas dari kendali. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0265": {
+   "perubahan": {
+    "question": "Peragakan gerakan menendang bola dengan benar dan aman! Guru mengamati: (1) kaki diayun ke belakang lalu ke depan; (2) kaki mengenai bola; (3) kaki lain berdiri seimbang di samping bola.",
+    "explanation": "Indikator yang diamati guru: (1) kaki diayun ke belakang lalu ke depan; (2) kaki mengenai bola; (3) kaki lain berdiri seimbang di samping bola. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0267": {
+   "perubahan": {
+    "question": "Gerakkan selendang ke atas dan ke bawah dengan kedua tangan! Guru mengamati: (1) kedua tangan memegang selendang; (2) selendang bergerak ke atas dan ke bawah berulang kali; (3) gerakan terkendali dan tidak mengenai teman.",
+    "explanation": "Indikator yang diamati guru: (1) kedua tangan memegang selendang; (2) selendang bergerak ke atas dan ke bawah berulang kali; (3) gerakan terkendali dan tidak mengenai teman. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0325": {
+   "perubahan": {
+    "question": "Gabungkan berlari dengan menggiring bola dengan kaki! Guru mengamati: (1) berlari kecil; (2) bola tetap dekat kaki dan bergulir; (3) menggiring dengan sentuhan kaki bergantian atau terkendali.",
+    "explanation": "Indikator yang diamati guru: (1) berlari kecil; (2) bola tetap dekat kaki dan bergulir; (3) menggiring dengan sentuhan kaki bergantian atau terkendali. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0328": {
+   "perubahan": {
+    "question": "Berlari kecil lalu tangkap bola yang dilempar guru! Guru mengamati: (1) berlari kecil sebelum menangkap; (2) kedua tangan terbuka siap menerima bola; (3) bola ditangkap tanpa jatuh.",
+    "explanation": "Indikator yang diamati guru: (1) berlari kecil sebelum menangkap; (2) kedua tangan terbuka siap menerima bola; (3) bola ditangkap tanpa jatuh. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0329": {
+   "perubahan": {
+    "question": "Lewati lintasan rintangan sederhana: lompat, rayap, lalu lari! Guru mengamati: (1) urutan gerak benar: lompat, rayap, lalu lari; (2) setiap gerak dilakukan sesuai rintangan; (3) tidak berhenti terlalu lama atau menyentuh teman.",
+    "explanation": "Indikator yang diamati guru: (1) urutan gerak benar: lompat, rayap, lalu lari; (2) setiap gerak dilakukan sesuai rintangan; (3) tidak berhenti terlalu lama atau menyentuh teman. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0330": {
+   "perubahan": {
+    "question": "Berlari sambil menggiring bola dengan kaki dari garis awal ke garis akhir! Guru mengamati: (1) berlari dari garis awal sampai garis akhir; (2) bola tetap dekat kaki; (3) bola digiring dengan sentuhan kaki.",
+    "explanation": "Indikator yang diamati guru: (1) berlari dari garis awal sampai garis akhir; (2) bola tetap dekat kaki; (3) bola digiring dengan sentuhan kaki. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0331": {
+   "perubahan": {
+    "question": "Gabungkan berlari dengan melempar bola! Guru mengamati: (1) berlari kecil sebelum melempar; (2) bola dilempar dengan tangan ke arah depan; (3) badan tetap seimbang setelah melempar.",
+    "explanation": "Indikator yang diamati guru: (1) berlari kecil sebelum melempar; (2) bola dilempar dengan tangan ke arah depan; (3) badan tetap seimbang setelah melempar. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  },
+  "PJK-TB-0333": {
+   "perubahan": {
+    "question": "Gabungkan berlari dengan menangkap bola! Guru mengamati: (1) berlari kecil; (2) kedua tangan menyambut bola; (3) bola tertangkap tanpa jatuh.",
+    "explanation": "Indikator yang diamati guru: (1) berlari kecil; (2) kedua tangan menyambut bola; (3) bola tertangkap tanpa jatuh. Penilaian memakai rubrik skala 1-4."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria gerak teramati ditambahkan pada soal dan penjelasan agar rubrik umum dapat dinilai",
+   "verifikasi": "Kunci/rubrik inti (dinilai guru, skala 1-4) tidak diubah; hanya indikator teramati ditambahkan pada soal dan penjelasan sesuai gerak yang diminta; tidak ada opsi sehingga tidak ada kunci lain."
+  }
+ },
+ "tidak_direvisi": {
+  "PJK-TB-0058": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0111": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0112": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0117": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0119": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0121": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0177": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0178": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0180": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0185": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0188": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0189": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0192": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0315": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0316": "Perbaikan memerlukan perubahan kunci atau tipe soal (jawaban lebih pendek/ubah ke short_answer), bukan sekadar redaksi; di luar wewenang revisi tanpa keputusan pemilik/ahli.",
+  "PJK-TB-0135": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0138": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0139": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0140": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0141": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0142": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0143": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0146": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0147": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0149": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0150": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0151": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0152": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0153": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0154": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0155": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0156": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0161": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0162": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0163": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0164": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0166": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0167": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0169": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0172": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0173": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0174": "Soal definisi/klasifikasi gerak valid dan benar; temuan hanya ketidaksesuaian bentuk soal tertulis dengan TP berbasis praktik, yang memerlukan keputusan ahli/pemilik (bukan perbaikan redaksi).",
+  "PJK-TB-0201": "Berguling melibatkan risiko keselamatan (leher/kepala); perbaikan kriteria gerak bergantung ahli.",
+  "PJK-TB-0332": "Berlari sambil memukul bola dengan raket menyangkut keselamatan; kriteria gerak bergantung keputusan ahli.",
+  "PJK-TB-0334": "Aba-aba dan jawaban memuat kata yang sama secara melekat pada konsep; perbaikan memerlukan penggantian kunci atau bentuk soal (kinerja), bukan redaksi.",
+  "PJK-TB-0336": "Aba-aba dan jawaban memuat kata yang sama secara melekat pada konsep; perbaikan memerlukan penggantian kunci atau bentuk soal (kinerja), bukan redaksi.",
+  "PJK-TB-0337": "Aba-aba dan jawaban memuat kata yang sama secara melekat pada konsep; perbaikan memerlukan penggantian kunci atau bentuk soal (kinerja), bukan redaksi.",
+  "PJK-TB-0340": "Aba-aba dan jawaban memuat kata yang sama secara melekat pada konsep; perbaikan memerlukan penggantian kunci atau bentuk soal (kinerja), bukan redaksi.",
+  "PJK-TB-0344": "Aba-aba dan jawaban memuat kata yang sama secara melekat pada konsep; perbaikan memerlukan penggantian kunci atau bentuk soal (kinerja), bukan redaksi."
+ }
+}
