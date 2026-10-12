@@ -9,7 +9,8 @@
   "500-600 (PPN-B3-0073..0172)",
   "600-700 (PPN-B3-0173..0272)",
   "700-800 (PPN-B3-0273..0286, PPN-B4-0001..0086)",
-  "800-900 (PPN-B4-0087..0186)"
+  "800-900 (PPN-B4-0087..0186)",
+  "900-1000 (PPN-B4-0187..0286)"
  ],
  "temuan": {
   "PPN-B1-0010": [
@@ -2196,6 +2197,330 @@
    {
     "kode": "AKURASI_AHLI",
     "catatan": "Warna tong (hijau sisa makanan, biru plastik) tidak baku antardaerah; perlu keputusan guru. Stem membocorkan kunci 'memilah sampah'."
+   }
+  ],
+  "PPN-B4-0193": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Daun kering sebaiknya dijadikan asap' tidak bermakna sebagai pernyataan; dibuat dari pengecoh."
+   }
+  ],
+  "PPN-B4-0198": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'bagian dari iman karena tidak ada hubungannya' kontradiktif dan tidak gramatikal."
+   }
+  ],
+  "PPN-B4-0207": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Sama dengan PPN-B4-0163 ('kebersihan sebagian dari iman'; status hadis perlu keputusan ahli)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian tautologi: 'Menjaga lingkungan termasuk bagian dari iman karena kebersihan sebagian dari iman'; menuntut kutipan persis."
+   }
+  ],
+  "PPN-B4-0209": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'kompos' belum dikenal kelas 1 (lihat PPN-B4-0157)."
+   }
+  ],
+  "PPN-B4-0203": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Rujukan 'Membiarkannya terbuka' tidak jelas tanpa antecedent (lihat PPN-B4-0156)."
+   }
+  ],
+  "PPN-B4-0213": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Rujukan 'Membiarkannya terbuka' tidak jelas tanpa antecedent (lihat PPN-B4-0156)."
+   }
+  ],
+  "PPN-B4-0215": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Memilah sampah organik dan anorganik abstrak untuk kelas 1 (lihat PPN-B4-0167)."
+   }
+  ],
+  "PPN-B4-0221": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Template 'Di rumah ada kegiatan X ... sebagai wujud ketaatan' janggal: kegiatan di lingkungan (selokan, musala, kerja bakti) bukan 'di rumah' dan 'kegiatan' tidak ditaati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berulang dan generik ('mengacak-acak tumpukan sampah', 'mengganggu persiapan', 'duduk dan menonton saja', 'menertawakannya') sehingga kunci terbaca sebagai satu-satunya perilaku positif; pengecoh 'mengacak-acak tumpukan sampah' tidak relevan untuk kegiatan bunga/musala."
+   }
+  ],
+  "PPN-B4-0223": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Template 'Di rumah ada kegiatan X ... sebagai wujud ketaatan' janggal: kegiatan di lingkungan (selokan, musala, kerja bakti) bukan 'di rumah' dan 'kegiatan' tidak ditaati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berulang dan generik ('mengacak-acak tumpukan sampah', 'mengganggu persiapan', 'duduk dan menonton saja', 'menertawakannya') sehingga kunci terbaca sebagai satu-satunya perilaku positif; pengecoh 'mengacak-acak tumpukan sampah' tidak relevan untuk kegiatan bunga/musala."
+   }
+  ],
+  "PPN-B4-0224": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Template 'Di rumah ada kegiatan X ... sebagai wujud ketaatan' janggal: kegiatan di lingkungan (selokan, musala, kerja bakti) bukan 'di rumah' dan 'kegiatan' tidak ditaati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berulang dan generik ('mengacak-acak tumpukan sampah', 'mengganggu persiapan', 'duduk dan menonton saja', 'menertawakannya') sehingga kunci terbaca sebagai satu-satunya perilaku positif; pengecoh 'mengacak-acak tumpukan sampah' tidak relevan untuk kegiatan bunga/musala."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'Dapur umum' (dapur massal untuk keadaan darurat/hajatan) kurang dikenal kelas 1; konteks perlu disesuaikan guru."
+   }
+  ],
+  "PPN-B4-0226": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Template 'Di rumah ada kegiatan X ... sebagai wujud ketaatan' janggal: kegiatan di lingkungan (selokan, musala, kerja bakti) bukan 'di rumah' dan 'kegiatan' tidak ditaati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berulang dan generik ('mengacak-acak tumpukan sampah', 'mengganggu persiapan', 'duduk dan menonton saja', 'menertawakannya') sehingga kunci terbaca sebagai satu-satunya perilaku positif; pengecoh 'mengacak-acak tumpukan sampah' tidak relevan untuk kegiatan bunga/musala."
+   }
+  ],
+  "PPN-B4-0227": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Template 'Di rumah ada kegiatan X ... sebagai wujud ketaatan' janggal: kegiatan di lingkungan (selokan, musala, kerja bakti) bukan 'di rumah' dan 'kegiatan' tidak ditaati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berulang dan generik ('mengacak-acak tumpukan sampah', 'mengganggu persiapan', 'duduk dan menonton saja', 'menertawakannya') sehingga kunci terbaca sebagai satu-satunya perilaku positif; pengecoh 'mengacak-acak tumpukan sampah' tidak relevan untuk kegiatan bunga/musala."
+   }
+  ],
+  "PPN-B4-0228": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Template 'Di rumah ada kegiatan X ... sebagai wujud ketaatan' janggal: kegiatan di lingkungan (selokan, musala, kerja bakti) bukan 'di rumah' dan 'kegiatan' tidak ditaati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berulang dan generik ('mengacak-acak tumpukan sampah', 'mengganggu persiapan', 'duduk dan menonton saja', 'menertawakannya') sehingga kunci terbaca sebagai satu-satunya perilaku positif; pengecoh 'mengacak-acak tumpukan sampah' tidak relevan untuk kegiatan bunga/musala."
+   }
+  ],
+  "PPN-B4-0230": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Template 'Di rumah ada kegiatan X ... sebagai wujud ketaatan' janggal: kegiatan di lingkungan (selokan, musala, kerja bakti) bukan 'di rumah' dan 'kegiatan' tidak ditaati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berulang dan generik ('mengacak-acak tumpukan sampah', 'mengganggu persiapan', 'duduk dan menonton saja', 'menertawakannya') sehingga kunci terbaca sebagai satu-satunya perilaku positif; pengecoh 'mengacak-acak tumpukan sampah' tidak relevan untuk kegiatan bunga/musala."
+   }
+  ],
+  "PPN-B4-0232": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Template 'Di rumah ada kegiatan X ... sebagai wujud ketaatan' janggal: kegiatan di lingkungan (selokan, musala, kerja bakti) bukan 'di rumah' dan 'kegiatan' tidak ditaati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berulang dan generik ('mengacak-acak tumpukan sampah', 'mengganggu persiapan', 'duduk dan menonton saja', 'menertawakannya') sehingga kunci terbaca sebagai satu-satunya perilaku positif; pengecoh 'mengacak-acak tumpukan sampah' tidak relevan untuk kegiatan bunga/musala."
+   }
+  ],
+  "PPN-B4-0271": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Agar menaati kegiatan ...' tidak tepat: kegiatan diikuti, bukan ditaati; bentuk lengkapi bersifat terbuka dengan kunci frasa persis."
+   }
+  ],
+  "PPN-B4-0272": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Agar menaati kegiatan ...' tidak tepat: kegiatan diikuti, bukan ditaati; bentuk lengkapi bersifat terbuka dengan kunci frasa persis."
+   }
+  ],
+  "PPN-B4-0273": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Agar menaati kegiatan ...' tidak tepat: kegiatan diikuti, bukan ditaati; bentuk lengkapi bersifat terbuka dengan kunci frasa persis."
+   }
+  ],
+  "PPN-B4-0274": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Agar menaati kegiatan ...' tidak tepat: kegiatan diikuti, bukan ditaati; bentuk lengkapi bersifat terbuka dengan kunci frasa persis."
+   }
+  ],
+  "PPN-B4-0275": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Agar menaati kegiatan ...' tidak tepat: kegiatan diikuti, bukan ditaati; bentuk lengkapi bersifat terbuka dengan kunci frasa persis."
+   }
+  ],
+  "PPN-B4-0276": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Agar menaati kegiatan ...' tidak tepat: kegiatan diikuti, bukan ditaati; bentuk lengkapi bersifat terbuka dengan kunci frasa persis."
+   }
+  ],
+  "PPN-B4-0277": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Agar menaati kegiatan ...' tidak tepat: kegiatan diikuti, bukan ditaati; bentuk lengkapi bersifat terbuka dengan kunci frasa persis."
+   }
+  ],
+  "PPN-B4-0278": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Agar menaati kegiatan ...' tidak tepat: kegiatan diikuti, bukan ditaati; bentuk lengkapi bersifat terbuka dengan kunci frasa persis."
+   }
+  ],
+  "PPN-B4-0279": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Agar menaati kegiatan ...' tidak tepat: kegiatan diikuti, bukan ditaati; bentuk lengkapi bersifat terbuka dengan kunci frasa persis."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'Dapur umum' (dapur massal untuk keadaan darurat/hajatan) kurang dikenal kelas 1; konteks perlu disesuaikan guru."
+   }
+  ],
+  "PPN-B4-0251": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'Dapur umum' (dapur massal untuk keadaan darurat/hajatan) kurang dikenal kelas 1; konteks perlu disesuaikan guru."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0257": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'Dapur umum' (dapur massal untuk keadaan darurat/hajatan) kurang dikenal kelas 1; konteks perlu disesuaikan guru."
+   }
+  ],
+  "PPN-B4-0096": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'Dapur umum' (dapur massal untuk keadaan darurat/hajatan) kurang dikenal kelas 1; konteks perlu disesuaikan guru."
+   }
+  ],
+  "PPN-B4-0102": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'Dapur umum' (dapur massal untuk keadaan darurat/hajatan) kurang dikenal kelas 1; konteks perlu disesuaikan guru."
+   }
+  ],
+  "PPN-B4-0135": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'Dapur umum' (dapur massal untuk keadaan darurat/hajatan) kurang dikenal kelas 1; konteks perlu disesuaikan guru."
+   }
+  ],
+  "PPN-B4-0235": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0236": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0237": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0238": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0239": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0240": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0241": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0242": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0243": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0244": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0245": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0246": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0247": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0248": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0249": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0250": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
+   }
+  ],
+  "PPN-B4-0252": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Delapan belas pernyataan Benar/Salah berurutan berkunci Benar lalu Salah; pola dapat ditebak (sisa kunci Benar dominan 18:13)."
    }
   ]
  }

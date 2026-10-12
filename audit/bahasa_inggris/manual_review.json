@@ -8,7 +8,8 @@
   "400-500 (ENG-B4-0067..0111, ENG-B5-0001..0055)",
   "500-600 (ENG-B5-0056..0111, ENG-B6-0001..0044)",
   "600-700 (ENG-B6-0045..0111, ENG-B7-0001..0033)",
-  "700-800 (ENG-B7-0034..0111, ENG-B8-0001..0022)"
+  "700-800 (ENG-B7-0034..0111, ENG-B8-0001..0022)",
+  "800-900 (ENG-B8-0023..0111, ENG-B9-0001..0011)"
  ],
  "temuan": {
   "ENG-B1-0051": [
@@ -1497,6 +1498,184 @@
    {
     "kode": "USIA_ISI",
     "catatan": "Abstraksi pengelompokan menurut cara memakan buah terlalu abstrak untuk kelas 1 dan tidak terkait TP B8-01 (nama buah)."
+   }
+  ],
+  "ENG-B8-0029": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Opsi C 'What fruit do you like?' dan D 'What fruit do you like, Teacher?' keduanya wajar untuk menanyakan buah kesukaan guru; kunci D hanya beda sapaan 'Teacher'."
+   }
+  ],
+  "ENG-B8-0031": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Like apples you do?') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B8-0083": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Like apples you do?') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B8-0084": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Like apples you do?') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B8-0085": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Like apples you do?') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B8-0086": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Like apples you do?') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B8-0087": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'Like apples you do?') sehingga mudah dieliminasi; menuntut membaca kalimat tertulis (tepi CP Fase A)."
+   }
+  ],
+  "ENG-B8-0048": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'Good night', 'Goodbye, my friend', 'Good morning', 'Hello, my friend' tidak relevan dengan pertanyaan 'Do you like ...?' sehingga mudah dieliminasi; hanya jawaban berawalan Yes/No yang relevan."
+   }
+  ],
+  "ENG-B8-0049": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'Good night', 'Goodbye, my friend', 'Good morning', 'Hello, my friend' tidak relevan dengan pertanyaan 'Do you like ...?' sehingga mudah dieliminasi; hanya jawaban berawalan Yes/No yang relevan."
+   }
+  ],
+  "ENG-B8-0050": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'Good night', 'Goodbye, my friend', 'Good morning', 'Hello, my friend' tidak relevan dengan pertanyaan 'Do you like ...?' sehingga mudah dieliminasi; hanya jawaban berawalan Yes/No yang relevan."
+   }
+  ],
+  "ENG-B8-0062": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'Good night', 'Goodbye, my friend', 'Good morning', 'Hello, my friend' tidak relevan dengan pertanyaan 'Do you like ...?' sehingga mudah dieliminasi; hanya jawaban berawalan Yes/No yang relevan."
+   }
+  ],
+  "ENG-B8-0070": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi 'enak dan suka' tumpang tindih dengan 'suka'; acungan jempol/anggukan dan senyum juga dapat berarti enak dan suka."
+   }
+  ],
+  "ENG-B8-0073": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi 'enak dan suka' tumpang tindih dengan 'suka'; acungan jempol/anggukan dan senyum juga dapat berarti enak dan suka."
+   }
+  ],
+  "ENG-B8-0078": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Menyatakan acungan jempol sambil tersenyum BUKAN 'enak dan suka' (Salah), sementara ENG-B8-0070 dan ENG-B8-0076 memakai acungan jempol berarti suka dan 0077 menyebut mengusap perut = enak dan suka; pembedaan 'enak dan suka' vs 'suka' tidak tegas."
+   }
+  ],
+  "ENG-B8-0080": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'Jika menyukai tawaran buah dari teman, kita ....' dapat dijawab banyak cara (mengangguk, berterima kasih, mengatakan I like it); kunci hanya satu gerakan."
+   }
+  ],
+  "ENG-B8-0088": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B8-0089": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B8-0090": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B8-0091": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf e-l-v-o dapat disusun 'love' dan 'vole'; kunci tidak unik."
+   }
+  ],
+  "ENG-B8-0092": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Anagram 10 huruf (watermelon) terlalu sulit untuk kelas 1."
+   }
+  ],
+  "ENG-B8-0101": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'favorite' (ejaan Amerika; British 'favourite'); keputusan ahli varian ejaan yang dipakai."
+   }
+  ],
+  "ENG-B8-0103": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'favorite' (ejaan Amerika; British 'favourite'); keputusan ahli varian ejaan yang dipakai."
+   }
+  ],
+  "ENG-B8-0106": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'favorite' (ejaan Amerika; British 'favourite'); keputusan ahli varian ejaan yang dipakai."
+   }
+  ],
+  "ENG-B8-0108": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'favorite' (ejaan Amerika; British 'favourite'); keputusan ahli varian ejaan yang dipakai."
+   }
+  ],
+  "ENG-B8-0109": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "'I like mango.' / 'I like pineapple.' (tunggal) bertentangan dengan ENG-B8-0044/0045/0056/0058 yang memakai bentuk jamak ('I like mangoes', 'pineapples') dan judul bab 'I Like Mangoes'; kalimat tetap juga tidak sesuai bila murid menggambar buah lain."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Murid boleh menggambar 'buah kesukaanmu' tetapi diminta mengucapkan kalimat tetap tentang mango/watermelon/pineapple; ucapan tidak cocok dengan gambar sehingga tidak dapat dinilai konsisten."
+   }
+  ],
+  "ENG-B8-0111": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "'I like mango.' / 'I like pineapple.' (tunggal) bertentangan dengan ENG-B8-0044/0045/0056/0058 yang memakai bentuk jamak ('I like mangoes', 'pineapples') dan judul bab 'I Like Mangoes'; kalimat tetap juga tidak sesuai bila murid menggambar buah lain."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Murid boleh menggambar 'buah kesukaanmu' tetapi diminta mengucapkan kalimat tetap tentang mango/watermelon/pineapple; ucapan tidak cocok dengan gambar sehingga tidak dapat dinilai konsisten."
+   }
+  ],
+  "ENG-B8-0110": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Murid boleh menggambar 'buah kesukaanmu' tetapi diminta mengucapkan kalimat tetap tentang mango/watermelon/pineapple; ucapan tidak cocok dengan gambar sehingga tidak dapat dinilai konsisten."
    }
   ]
  }

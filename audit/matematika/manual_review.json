@@ -203,6 +203,10 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Kunci 'kotak kado berbentuk kubus' memuat kata 'kubus' sedangkan pengecoh tidak; terbaca tanpa mengetahui bentuk dadu."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B4-0038; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
    }
   ],
   "MTK-B4-0064": [
@@ -315,12 +319,20 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Data tidak realistis: buku 4 depa (kira-kira 6 m) dan pintu 5 depa; ukuran bertentangan dengan pengalaman murid dan melemahkan konteks."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0061; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
    }
   ],
   "MTK-B5-0061": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Data tidak realistis: buku 4 depa (kira-kira 6 m) dan pintu 5 depa; ukuran bertentangan dengan pengalaman murid dan melemahkan konteks."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0047; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
    }
   ],
   "MTK-B5-0066": [
@@ -347,12 +359,20 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Data tidak realistis: lorong kelas hanya 7 langkah tetapi papan tulis 8 langkah (papan tulis lebih panjang dari lorong)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0058; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
    }
   ],
   "MTK-B5-0058": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Data tidak realistis: lorong kelas hanya 7 langkah tetapi papan tulis 8 langkah (papan tulis lebih panjang dari lorong)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0049; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
    }
   ],
   "MTK-B5-0073": [
@@ -373,12 +393,20 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Data tidak realistis: tongkat hanya 2 klip kertas sedangkan tali 7 klip kertas; ukuran tongkat tidak masuk akal."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0044; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
    }
   ],
   "MTK-B5-0044": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Data tidak realistis: tongkat hanya 2 klip kertas sedangkan tali 7 klip kertas; ukuran tongkat tidak masuk akal."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0041; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
    }
   ],
   "MTK-B5-0080": [
@@ -399,12 +427,20 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Data tidak realistis: pintu hanya 3 jengkal (sekitar 60 cm)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0056; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
    }
   ],
   "MTK-B5-0056": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Data tidak realistis: pintu hanya 3 jengkal (sekitar 60 cm)."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0055; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
    }
   ],
   "MTK-B5-0067": [
@@ -431,12 +467,20 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Data tidak realistis: tongkat 6 langkah (sekitar 3 m) dibandingkan dengan lorong kelas 8 langkah."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0059; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
    }
   ],
   "MTK-B5-0059": [
    {
     "kode": "KONSTRUKSI",
     "catatan": "Data tidak realistis: tongkat 6 langkah (sekitar 3 m) dibandingkan dengan lorong kelas 8 langkah."
+   },
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0050; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
    }
   ],
   "MTK-B5-0075": [
@@ -711,12 +755,20 @@
    {
     "kode": "BAHASA",
     "catatan": "Pernyataan Benar/Salah menyalin kalimat tanya berisi titik-titik ('Sisa ... adalah .... Jawabannya N'); bentuk campuran pertanyaan dan pernyataan, titik-titik tanpa makna. Kunci tidak berubah jika dirapikan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0120, MTK-B7-0122; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
    }
   ],
   "MTK-B7-0120": [
    {
     "kode": "BAHASA",
     "catatan": "Pernyataan Benar/Salah menyalin kalimat tanya berisi titik-titik ('Sisa ... adalah .... Jawabannya N'); bentuk campuran pertanyaan dan pernyataan, titik-titik tanpa makna. Kunci tidak berubah jika dirapikan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0119; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
    }
   ],
   "MTK-B7-0121": [
@@ -733,6 +785,10 @@
    {
     "kode": "BAHASA",
     "catatan": "Pernyataan Benar/Salah menyalin kalimat tanya berisi titik-titik ('Sisa ... adalah .... Jawabannya N'); bentuk campuran pertanyaan dan pernyataan, titik-titik tanpa makna. Kunci tidak berubah jika dirapikan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0119; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
    }
   ],
   "MTK-B7-0123": [
@@ -771,30 +827,50 @@
    {
     "kode": "AKURASI_AHLI",
     "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0117; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
    }
   ],
   "MTK-B7-0110": [
    {
     "kode": "AKURASI_AHLI",
     "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0114, MTK-B7-0116; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
    }
   ],
   "MTK-B7-0114": [
    {
     "kode": "AKURASI_AHLI",
     "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0110; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
    }
   ],
   "MTK-B7-0116": [
    {
     "kode": "AKURASI_AHLI",
     "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0110; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
    }
   ],
   "MTK-B7-0117": [
    {
     "kode": "AKURASI_AHLI",
     "catatan": "Konteks 'dalam permainan, X kalah N kelereng' menormalkan kehilangan kelereng sebagai taruhan; dalam bingkai keislaman (integrasi nilai) ahli/guru perlu memutuskan apakah permainan kelereng bertaruh pantas dijadikan konteks jujur. Hitungan benar."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0108; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
    }
   ],
   "MTK-B7-0129": [
@@ -1023,6 +1099,378 @@
    {
     "kode": "KONSTRUKSI",
     "catatan": "Konteks tidak masuk akal akibat templat: kursi dimasukkan ke keranjang. Hitungan benar."
+   }
+  ],
+  "MTK-B1-0035": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B1-0041; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B1-0041": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B1-0035; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B1-0037": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B1-0040, MTK-B1-0042; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B1-0040": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B1-0037; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B1-0042": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B1-0037; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B1-0081": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B1-0084; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B1-0084": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B1-0081; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0001": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0010, MTK-B2-0016; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0010": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0001, MTK-B2-0009, MTK-B2-0016; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0016": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0001, MTK-B2-0010, MTK-B2-0014; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0002": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0004, MTK-B2-0009; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0004": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0002, MTK-B2-0003, MTK-B2-0009, MTK-B2-0014; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0009": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0002, MTK-B2-0004, MTK-B2-0010; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0003": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0004, MTK-B2-0014; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0014": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0003, MTK-B2-0004, MTK-B2-0016; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0005": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0013, MTK-B2-0019; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0013": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0005, MTK-B2-0008, MTK-B2-0017, MTK-B2-0019; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0019": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0005, MTK-B2-0013; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0006": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0007, MTK-B2-0021; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0007": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0006, MTK-B2-0021; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0021": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0006, MTK-B2-0007, MTK-B2-0015; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0008": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0013, MTK-B2-0017; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0017": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0008, MTK-B2-0013; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0015": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0021; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0064": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0068; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B2-0068": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B2-0064; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B4-0035": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B4-0037; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B4-0037": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B4-0035; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B4-0038": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B4-0048; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B4-0040": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B4-0045; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B4-0045": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B4-0040; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B5-0045": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B5-0054, MTK-B5-0060; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B5-0054": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B5-0045, MTK-B5-0060; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B5-0060": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B5-0045, MTK-B5-0054; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0038": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0046; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0046": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0038; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0044": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0045; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0045": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0044; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0047": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0049; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0049": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0047; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0073": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0078, MTK-B6-0079; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0078": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0073; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0079": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0073; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0098": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0099; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0099": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0098; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0112": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0115; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0115": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0112, MTK-B6-0113; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B6-0113": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B6-0115; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B7-0006": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0008; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B7-0008": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0006; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B7-0105": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0111; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B7-0111": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0105; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B7-0109": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0115; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B7-0115": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Mirip dengan MTK-B7-0109; bilangan/benda/fakta berbeda (bukan butir identik), berfungsi sebagai latihan variasi fakta."
+   }
+  ],
+  "MTK-B5-0048": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0062; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
+   }
+  ],
+  "MTK-B5-0062": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0048; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
+   }
+  ],
+  "MTK-B5-0063": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0065; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
+   }
+  ],
+  "MTK-B5-0065": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0063; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
+   }
+  ],
+  "MTK-B5-0042": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0051; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
+   }
+  ],
+  "MTK-B5-0051": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0042; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
+   }
+  ],
+  "MTK-B5-0046": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0057; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
+   }
+  ],
+  "MTK-B5-0057": [
+   {
+    "kode": "DUP_SUBSTANTIF",
+    "catatan": "Data dan konteks identik dengan MTK-B5-0046; hanya kata tanya dibalik (lebih panjang/lebih pendek) sehingga mengukur hal yang sama tanpa manfaat variasi; cukup satu dipertahankan."
    }
   ]
  }
