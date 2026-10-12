@@ -1,0 +1,491 @@
+{
+ "subject": "Pendidikan Pancasila",
+ "grade": 1,
+ "phase": "A",
+ "jenjang": "MI",
+ "sumber_atp": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "total_soal": 1000,
+ "catatan": "ATP tidak merinci JP per bab; soal dibagi sebanding jumlah TP (bab 4 TP = 286 soal, bab 3 TP = 214 soal; 4 bab, 14 TP).",
+ "materi": [
+  {
+   "material": "Bab 1. Tentang Diriku",
+   "prefix": "PPN-B1",
+   "alokasi_jp": null,
+   "jumlah_soal": 214,
+   "tp": [
+    {
+     "tp_id": "TP-PPN-B1-01",
+     "tp": "Murid mampu memahami keberagaman identitas di lingkungan rumah, sekolah, dan masyarakat dengan benar.",
+     "jumlah_soal": 74,
+     "distribusi_difficulty": {
+      "easy": 50,
+      "medium": 24
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 22,
+      "multiple_choice_visual": 1,
+      "contextual": 3,
+      "true_false": 20,
+      "fill_in_short": 21,
+      "completion": 1,
+      "matching": 3,
+      "grouping": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 45,
+      "memahami": 18,
+      "menerapkan": 7,
+      "mencocokkan": 3,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Memahami keberagaman identitas",
+      "Memahami konsep",
+      "Menerapkan sikap dalam kehidupan",
+      "Mengelompokkan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PPN-B1-02",
+     "tp": "Murid mampu mengidentifikasi berbagai bentuk keberagaman suku bangsa, budaya, dan agama di lingkungan rumah, sekolah, dan masyarakat dengan benar.",
+     "jumlah_soal": 73,
+     "distribusi_difficulty": {
+      "easy": 36,
+      "medium": 37
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 48,
+      "multiple_choice_visual": 2,
+      "fill_in_short": 18,
+      "matching": 3,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 41,
+      "mengenali": 18,
+      "memahami": 7,
+      "menerapkan": 4,
+      "mencocokkan": 3
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan sikap dalam kehidupan",
+      "Mengidentifikasi keberagaman agama",
+      "Mengidentifikasi keberagaman bahasa",
+      "Mengidentifikasi keberagaman budaya",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PPN-B1-03",
+     "tp": "Murid mampu melaksanakan sikap menghargai keberagaman identitas dengan penuh cinta dan toleransi dalam kehidupan sehari-hari.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "easy": 43,
+      "hard": 2,
+      "medium": 22
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 10,
+      "multiple_choice_visual": 2,
+      "contextual": 10,
+      "true_false": 23,
+      "fill_in_short": 10,
+      "completion": 10,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 24,
+      "menerapkan": 24,
+      "mengingat": 19
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan sikap dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 2. Menaati Aturan",
+   "prefix": "PPN-B2",
+   "alokasi_jp": null,
+   "jumlah_soal": 214,
+   "tp": [
+    {
+     "tp_id": "TP-PPN-B2-01",
+     "tp": "Murid mampu memahami pentingnya aturan di lingkungan keluarga dengan benar.",
+     "jumlah_soal": 80,
+     "distribusi_difficulty": {
+      "easy": 46,
+      "medium": 34
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 25,
+      "true_false": 24,
+      "fill_in_short": 25,
+      "matching": 5,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 59,
+      "mengingat": 15,
+      "mencocokkan": 5,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Memahami pentingnya aturan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PPN-B2-02",
+     "tp": "Murid mampu menguraikan perilaku menaati dan tidak menaati aturan di lingkungan keluarga dengan benar.",
+     "jumlah_soal": 58,
+     "distribusi_difficulty": {
+      "medium": 28,
+      "easy": 30
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 40,
+      "true_false": 8,
+      "fill_in_short": 4,
+      "grouping": 5,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "menganalisis": 42,
+      "memahami": 4,
+      "mengingat": 6,
+      "mengelompokkan": 5,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menguraikan perilaku menaati aturan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PPN-B2-03",
+     "tp": "Murid mampu menerapkan perilaku menaati aturan di lingkungan keluarga dengan benar dalam kehidupan sehari-hari sebagai wujud mengamalkan ajaran Islam untuk kebaikan bersama.",
+     "jumlah_soal": 76,
+     "distribusi_difficulty": {
+      "easy": 28,
+      "medium": 48
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "multiple_choice_visual": 1,
+      "contextual": 20,
+      "true_false": 24,
+      "fill_in_short": 4,
+      "completion": 20,
+      "ordering": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 4,
+      "menerapkan": 60,
+      "mengingat": 11,
+      "mengurutkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan perilaku menaati aturan",
+      "Menerapkan sikap dalam kehidupan",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 3. Negaraku Indonesia",
+   "prefix": "PPN-B3",
+   "alokasi_jp": null,
+   "jumlah_soal": 286,
+   "tp": [
+    {
+     "tp_id": "TP-PPN-B3-01",
+     "tp": "Murid mampu memahami simbol dan sila Pancasila pada lambang negara dengan benar.",
+     "jumlah_soal": 87,
+     "distribusi_difficulty": {
+      "easy": 36,
+      "medium": 49,
+      "hard": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 34,
+      "multiple_choice_visual": 2,
+      "true_false": 11,
+      "fill_in_short": 34,
+      "matching": 2,
+      "ordering": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 45,
+      "mengenali": 20,
+      "memahami": 14,
+      "menerapkan": 4,
+      "mencocokkan": 2,
+      "mengurutkan": 2
+     },
+     "kompetensi": [
+      "Memahami bunyi sila Pancasila",
+      "Memahami konsep",
+      "Memahami simbol dan sila Pancasila",
+      "Menerapkan sikap dalam kehidupan",
+      "Mengurutkan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PPN-B3-02",
+     "tp": "Murid mampu menguraikan makna penting sila-sila Pancasila sebagai dasar negara dengan benar.",
+     "jumlah_soal": 69,
+     "distribusi_difficulty": {
+      "easy": 35,
+      "medium": 34
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 20,
+      "true_false": 27,
+      "fill_in_short": 20,
+      "matching": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 45,
+      "mengenali": 10,
+      "memahami": 12,
+      "mencocokkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menguraikan makna sila Pancasila",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PPN-B3-03",
+     "tp": "Murid mampu memahami nilai-nilai Pancasila di lingkungan keluarga dengan benar.",
+     "jumlah_soal": 63,
+     "distribusi_difficulty": {
+      "medium": 40,
+      "easy": 23
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 13,
+      "multiple_choice_visual": 1,
+      "contextual": 2,
+      "true_false": 30,
+      "fill_in_short": 13,
+      "completion": 2,
+      "grouping": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 46,
+      "memahami": 7,
+      "mengingat": 9,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan sikap dalam kehidupan",
+      "Mengenal nilai Pancasila di keluarga",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PPN-B3-04",
+     "tp": "Murid mampu melaksanakan nilai-nilai Pancasila dengan benar dalam kehidupan sehari-hari sebagai wujud cinta tanah air.",
+     "jumlah_soal": 67,
+     "distribusi_difficulty": {
+      "hard": 2,
+      "easy": 47,
+      "medium": 18
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 9,
+      "multiple_choice_visual": 1,
+      "contextual": 9,
+      "true_false": 28,
+      "fill_in_short": 9,
+      "completion": 9,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 26,
+      "menerapkan": 21,
+      "mengingat": 20
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan sikap dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 4. Menjaga Lingkunganku",
+   "prefix": "PPN-B4",
+   "alokasi_jp": null,
+   "jumlah_soal": 286,
+   "tp": [
+    {
+     "tp_id": "TP-PPN-B4-01",
+     "tp": "Murid mampu mengenal karakteristik lingkungan rumah dengan benar.",
+     "jumlah_soal": 75,
+     "distribusi_difficulty": {
+      "easy": 45,
+      "medium": 30
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 18,
+      "multiple_choice_visual": 2,
+      "true_false": 31,
+      "fill_in_short": 18,
+      "matching": 4,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 9,
+      "mengingat": 58,
+      "menerapkan": 4,
+      "mencocokkan": 4
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan sikap dalam kehidupan",
+      "Mengenal karakteristik lingkungan rumah",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PPN-B4-02",
+     "tp": "Murid mampu memahami bentuk kerja sama di lingkungan rumah dengan benar.",
+     "jumlah_soal": 80,
+     "distribusi_difficulty": {
+      "easy": 44,
+      "medium": 36
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 22,
+      "true_false": 29,
+      "fill_in_short": 22,
+      "matching": 5,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 32,
+      "mengingat": 41,
+      "mencocokkan": 5,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Memahami bentuk kerja sama",
+      "Memahami konsep",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PPN-B4-03",
+     "tp": "Murid mampu menguraikan perilaku menjaga lingkungan rumah dengan benar.",
+     "jumlah_soal": 60,
+     "distribusi_difficulty": {
+      "easy": 40,
+      "medium": 20
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 28,
+      "multiple_choice_visual": 2,
+      "true_false": 21,
+      "fill_in_short": 4,
+      "grouping": 3,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "menganalisis": 39,
+      "memahami": 6,
+      "menerapkan": 4,
+      "mengingat": 8,
+      "mengelompokkan": 3
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menerapkan sikap dalam kehidupan",
+      "Menguraikan perilaku menjaga lingkungan",
+      "Praktik dan unjuk kerja"
+     ]
+    },
+    {
+     "tp_id": "TP-PPN-B4-04",
+     "tp": "Murid mampu melaksanakan kerja sama dalam menjaga lingkungan rumah dengan penuh kepedulian dan kebersamaan dalam kehidupan sehari-hari.",
+     "jumlah_soal": 71,
+     "distribusi_difficulty": {
+      "easy": 40,
+      "medium": 31
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "multiple_choice_visual": 1,
+      "contextual": 14,
+      "true_false": 32,
+      "fill_in_short": 4,
+      "completion": 14,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "memahami": 16,
+      "menerapkan": 45,
+      "mengingat": 10
+     },
+     "kompetensi": [
+      "Melaksanakan kerja sama menjaga lingkungan",
+      "Memahami konsep",
+      "Menerapkan sikap dalam kehidupan",
+      "Praktik dan unjuk kerja"
+     ]
+    }
+   ]
+  }
+ ],
+ "distribusi_total": {
+  "difficulty": {
+   "easy": 543,
+   "medium": 451,
+   "hard": 6
+  },
+  "question_type": {
+   "multiple_choice": 297,
+   "multiple_choice_visual": 15,
+   "contextual": 58,
+   "true_false": 308,
+   "fill_in_short": 206,
+   "completion": 56,
+   "matching": 23,
+   "grouping": 10,
+   "performance_task": 24,
+   "ordering": 3
+  },
+  "cognitive_level": {
+   "mengingat": 373,
+   "memahami": 238,
+   "menerapkan": 224,
+   "mencocokkan": 23,
+   "mengelompokkan": 10,
+   "mengenali": 48,
+   "menganalisis": 81,
+   "mengurutkan": 3
+  }
+ }
+}

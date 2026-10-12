@@ -1,0 +1,734 @@
+{
+ "subject": "Pendidikan Pancasila",
+ "grade": 1,
+ "phase": "A",
+ "sumber": "ppn_bank_1000.json",
+ "tanggal_audit": "2026-10-12",
+ "total_soal": 1000,
+ "id_unik": 1000,
+ "semua_punya_jawaban": true,
+ "semua_punya_penjelasan": true,
+ "teks_soal_unik_non_matching_ordering_grouping": 964,
+ "jumlah_soal_non_matching_ordering_grouping": 964,
+ "teks_soal_sama_tetapi_isi_di_opsi": {
+  "jumlah_teks": 5,
+  "per_tipe": {
+   "matching": 17
+  },
+  "catatan": "Hanya tipe matching/ordering/grouping; isi soal ada pada opsi dan jawaban sehingga tidak kembar."
+ },
+ "per_materi": {
+  "Bab 1. Tentang Diriku": 214,
+  "Bab 2. Menaati Aturan": 214,
+  "Bab 3. Negaraku Indonesia": 286,
+  "Bab 4. Menjaga Lingkunganku": 286
+ },
+ "per_tp": {
+  "TP-PPN-B1-01": 74,
+  "TP-PPN-B1-02": 73,
+  "TP-PPN-B1-03": 67,
+  "TP-PPN-B2-01": 80,
+  "TP-PPN-B2-02": 58,
+  "TP-PPN-B2-03": 76,
+  "TP-PPN-B3-01": 87,
+  "TP-PPN-B3-02": 69,
+  "TP-PPN-B3-03": 63,
+  "TP-PPN-B3-04": 67,
+  "TP-PPN-B4-01": 75,
+  "TP-PPN-B4-02": 80,
+  "TP-PPN-B4-03": 60,
+  "TP-PPN-B4-04": 71
+ },
+ "per_difficulty": {
+  "easy": 543,
+  "medium": 451,
+  "hard": 6
+ },
+ "per_question_type": {
+  "multiple_choice": 297,
+  "multiple_choice_visual": 15,
+  "contextual": 58,
+  "true_false": 308,
+  "fill_in_short": 206,
+  "completion": 56,
+  "matching": 23,
+  "grouping": 10,
+  "performance_task": 24,
+  "ordering": 3
+ },
+ "jumlah_soal_pilihan_ganda_format_ABCD": 370,
+ "posisi_kunci_pilihan_ganda": {
+  "A": 93,
+  "B": 93,
+  "C": 92,
+  "D": 92
+ },
+ "pilihan_ganda_kunci_opsi_terpanjang": 173,
+ "true_false_distribusi_jawaban": {
+  "Benar": 155,
+  "Salah": 153
+ },
+ "soal_visual": 15,
+ "jumlah_temuan_validasi": 0,
+ "temuan_validasi": [],
+ "pasangan_hampir_duplikat_(kemiripan>=0.9)": {
+  "jumlah": 162,
+  "lintas_materi": 0,
+  "dengan_jawaban_sama": 4,
+  "daftar": [
+   [
+    "PPN-B1-0001",
+    "PPN-B1-0065"
+   ],
+   [
+    "PPN-B1-0002",
+    "PPN-B1-0053"
+   ],
+   [
+    "PPN-B1-0005",
+    "PPN-B1-0059"
+   ],
+   [
+    "PPN-B1-0006",
+    "PPN-B1-0048"
+   ],
+   [
+    "PPN-B1-0009",
+    "PPN-B1-0062"
+   ],
+   [
+    "PPN-B1-0015",
+    "PPN-B1-0050"
+   ],
+   [
+    "PPN-B1-0020",
+    "PPN-B1-0057"
+   ],
+   [
+    "PPN-B1-0022",
+    "PPN-B1-0066"
+   ],
+   [
+    "PPN-B1-0029",
+    "PPN-B1-0046"
+   ],
+   [
+    "PPN-B1-0030",
+    "PPN-B1-0045"
+   ],
+   [
+    "PPN-B1-0075",
+    "PPN-B1-0135"
+   ],
+   [
+    "PPN-B1-0086",
+    "PPN-B1-0137"
+   ],
+   [
+    "PPN-B1-0087",
+    "PPN-B1-0130"
+   ],
+   [
+    "PPN-B1-0097",
+    "PPN-B1-0132"
+   ],
+   [
+    "PPN-B1-0099",
+    "PPN-B1-0140"
+   ],
+   [
+    "PPN-B1-0110",
+    "PPN-B1-0128"
+   ],
+   [
+    "PPN-B1-0118",
+    "PPN-B1-0131"
+   ],
+   [
+    "PPN-B2-0001",
+    "PPN-B2-0071"
+   ],
+   [
+    "PPN-B2-0002",
+    "PPN-B2-0066"
+   ],
+   [
+    "PPN-B2-0003",
+    "PPN-B2-0070"
+   ],
+   [
+    "PPN-B2-0006",
+    "PPN-B2-0061"
+   ],
+   [
+    "PPN-B2-0007",
+    "PPN-B2-0059"
+   ],
+   [
+    "PPN-B2-0010",
+    "PPN-B2-0067"
+   ],
+   [
+    "PPN-B2-0011",
+    "PPN-B2-0069"
+   ],
+   [
+    "PPN-B2-0013",
+    "PPN-B2-0073"
+   ],
+   [
+    "PPN-B2-0014",
+    "PPN-B2-0054"
+   ],
+   [
+    "PPN-B2-0017",
+    "PPN-B2-0053"
+   ],
+   [
+    "PPN-B2-0018",
+    "PPN-B2-0062"
+   ],
+   [
+    "PPN-B2-0019",
+    "PPN-B2-0057"
+   ],
+   [
+    "PPN-B2-0020",
+    "PPN-B2-0065"
+   ],
+   [
+    "PPN-B2-0021",
+    "PPN-B2-0068"
+   ],
+   [
+    "PPN-B2-0022",
+    "PPN-B2-0051"
+   ],
+   [
+    "PPN-B2-0023",
+    "PPN-B2-0050"
+   ],
+   [
+    "PPN-B2-0024",
+    "PPN-B2-0058"
+   ],
+   [
+    "PPN-B2-0025",
+    "PPN-B2-0055"
+   ],
+   [
+    "PPN-B2-0081",
+    "PPN-B2-0085"
+   ],
+   [
+    "PPN-B2-0082",
+    "PPN-B2-0113"
+   ],
+   [
+    "PPN-B2-0083",
+    "PPN-B2-0112"
+   ],
+   [
+    "PPN-B2-0084",
+    "PPN-B2-0097"
+   ],
+   [
+    "PPN-B2-0086",
+    "PPN-B2-0095"
+   ],
+   [
+    "PPN-B2-0088",
+    "PPN-B2-0098"
+   ],
+   [
+    "PPN-B2-0090",
+    "PPN-B2-0102"
+   ],
+   [
+    "PPN-B2-0091",
+    "PPN-B2-0115"
+   ],
+   [
+    "PPN-B2-0092",
+    "PPN-B2-0103"
+   ],
+   [
+    "PPN-B2-0093",
+    "PPN-B2-0105"
+   ],
+   [
+    "PPN-B2-0094",
+    "PPN-B2-0096"
+   ],
+   [
+    "PPN-B2-0099",
+    "PPN-B2-0111"
+   ],
+   [
+    "PPN-B2-0100",
+    "PPN-B2-0109"
+   ],
+   [
+    "PPN-B2-0101",
+    "PPN-B2-0108"
+   ],
+   [
+    "PPN-B2-0104",
+    "PPN-B2-0120"
+   ],
+   [
+    "PPN-B2-0106",
+    "PPN-B2-0114"
+   ],
+   [
+    "PPN-B2-0110",
+    "PPN-B2-0117"
+   ],
+   [
+    "PPN-B2-0113",
+    "PPN-B2-0118"
+   ],
+   [
+    "PPN-B2-0118",
+    "PPN-B2-0119"
+   ],
+   [
+    "PPN-B2-0145",
+    "PPN-B2-0160"
+   ],
+   [
+    "PPN-B2-0170",
+    "PPN-B2-0179"
+   ],
+   [
+    "PPN-B2-0177",
+    "PPN-B2-0184"
+   ],
+   [
+    "PPN-B3-0002",
+    "PPN-B3-0072"
+   ],
+   [
+    "PPN-B3-0003",
+    "PPN-B3-0066"
+   ],
+   [
+    "PPN-B3-0004",
+    "PPN-B3-0048"
+   ],
+   [
+    "PPN-B3-0006",
+    "PPN-B3-0069"
+   ],
+   [
+    "PPN-B3-0012",
+    "PPN-B3-0058"
+   ],
+   [
+    "PPN-B3-0013",
+    "PPN-B3-0057"
+   ],
+   [
+    "PPN-B3-0016",
+    "PPN-B3-0073"
+   ],
+   [
+    "PPN-B3-0018",
+    "PPN-B3-0077"
+   ],
+   [
+    "PPN-B3-0021",
+    "PPN-B3-0079"
+   ],
+   [
+    "PPN-B3-0024",
+    "PPN-B3-0064"
+   ],
+   [
+    "PPN-B3-0025",
+    "PPN-B3-0080"
+   ],
+   [
+    "PPN-B3-0030",
+    "PPN-B3-0065"
+   ],
+   [
+    "PPN-B3-0032",
+    "PPN-B3-0078"
+   ],
+   [
+    "PPN-B3-0057",
+    "PPN-B3-0058"
+   ],
+   [
+    "PPN-B3-0057",
+    "PPN-B3-0077"
+   ],
+   [
+    "PPN-B3-0057",
+    "PPN-B3-0079"
+   ],
+   [
+    "PPN-B3-0057",
+    "PPN-B3-0080"
+   ],
+   [
+    "PPN-B3-0058",
+    "PPN-B3-0077"
+   ],
+   [
+    "PPN-B3-0058",
+    "PPN-B3-0079"
+   ],
+   [
+    "PPN-B3-0058",
+    "PPN-B3-0080"
+   ],
+   [
+    "PPN-B3-0077",
+    "PPN-B3-0079"
+   ],
+   [
+    "PPN-B3-0077",
+    "PPN-B3-0080"
+   ],
+   [
+    "PPN-B3-0079",
+    "PPN-B3-0080"
+   ],
+   [
+    "PPN-B3-0088",
+    "PPN-B3-0146"
+   ],
+   [
+    "PPN-B3-0089",
+    "PPN-B3-0149"
+   ],
+   [
+    "PPN-B3-0090",
+    "PPN-B3-0151"
+   ],
+   [
+    "PPN-B3-0093",
+    "PPN-B3-0150"
+   ],
+   [
+    "PPN-B3-0095",
+    "PPN-B3-0147"
+   ],
+   [
+    "PPN-B3-0096",
+    "PPN-B3-0152"
+   ],
+   [
+    "PPN-B3-0099",
+    "PPN-B3-0153"
+   ],
+   [
+    "PPN-B3-0101",
+    "PPN-B3-0154"
+   ],
+   [
+    "PPN-B3-0104",
+    "PPN-B3-0148"
+   ],
+   [
+    "PPN-B3-0105",
+    "PPN-B3-0137"
+   ],
+   [
+    "PPN-B3-0108",
+    "PPN-B3-0125"
+   ],
+   [
+    "PPN-B3-0117",
+    "PPN-B3-0131"
+   ],
+   [
+    "PPN-B3-0118",
+    "PPN-B3-0124"
+   ],
+   [
+    "PPN-B3-0119",
+    "PPN-B3-0126"
+   ],
+   [
+    "PPN-B3-0121",
+    "PPN-B3-0132"
+   ],
+   [
+    "PPN-B3-0122",
+    "PPN-B3-0127"
+   ],
+   [
+    "PPN-B3-0173",
+    "PPN-B3-0193"
+   ],
+   [
+    "PPN-B3-0174",
+    "PPN-B3-0196"
+   ],
+   [
+    "PPN-B3-0175",
+    "PPN-B3-0200"
+   ],
+   [
+    "PPN-B3-0176",
+    "PPN-B3-0192"
+   ],
+   [
+    "PPN-B3-0177",
+    "PPN-B3-0194"
+   ],
+   [
+    "PPN-B3-0178",
+    "PPN-B3-0199"
+   ],
+   [
+    "PPN-B3-0179",
+    "PPN-B3-0189"
+   ],
+   [
+    "PPN-B3-0181",
+    "PPN-B3-0198"
+   ],
+   [
+    "PPN-B3-0182",
+    "PPN-B3-0197"
+   ],
+   [
+    "PPN-B3-0184",
+    "PPN-B3-0190"
+   ],
+   [
+    "PPN-B3-0185",
+    "PPN-B3-0202"
+   ],
+   [
+    "PPN-B3-0187",
+    "PPN-B3-0191"
+   ],
+   [
+    "PPN-B3-0188",
+    "PPN-B3-0201"
+   ],
+   [
+    "PPN-B4-0003",
+    "PPN-B4-0058"
+   ],
+   [
+    "PPN-B4-0004",
+    "PPN-B4-0056"
+   ],
+   [
+    "PPN-B4-0005",
+    "PPN-B4-0059"
+   ],
+   [
+    "PPN-B4-0007",
+    "PPN-B4-0069"
+   ],
+   [
+    "PPN-B4-0008",
+    "PPN-B4-0063"
+   ],
+   [
+    "PPN-B4-0010",
+    "PPN-B4-0053"
+   ],
+   [
+    "PPN-B4-0012",
+    "PPN-B4-0064"
+   ],
+   [
+    "PPN-B4-0013",
+    "PPN-B4-0067"
+   ],
+   [
+    "PPN-B4-0015",
+    "PPN-B4-0060"
+   ],
+   [
+    "PPN-B4-0017",
+    "PPN-B4-0062"
+   ],
+   [
+    "PPN-B4-0021",
+    "PPN-B4-0042"
+   ],
+   [
+    "PPN-B4-0023",
+    "PPN-B4-0044"
+   ],
+   [
+    "PPN-B4-0024",
+    "PPN-B4-0050"
+   ],
+   [
+    "PPN-B4-0025",
+    "PPN-B4-0043"
+   ],
+   [
+    "PPN-B4-0026",
+    "PPN-B4-0045"
+   ],
+   [
+    "PPN-B4-0030",
+    "PPN-B4-0048"
+   ],
+   [
+    "PPN-B4-0034",
+    "PPN-B4-0042"
+   ],
+   [
+    "PPN-B4-0078",
+    "PPN-B4-0130"
+   ],
+   [
+    "PPN-B4-0080",
+    "PPN-B4-0128"
+   ],
+   [
+    "PPN-B4-0081",
+    "PPN-B4-0091"
+   ],
+   [
+    "PPN-B4-0081",
+    "PPN-B4-0148"
+   ],
+   [
+    "PPN-B4-0082",
+    "PPN-B4-0140"
+   ],
+   [
+    "PPN-B4-0083",
+    "PPN-B4-0132"
+   ],
+   [
+    "PPN-B4-0084",
+    "PPN-B4-0143"
+   ],
+   [
+    "PPN-B4-0085",
+    "PPN-B4-0144"
+   ],
+   [
+    "PPN-B4-0088",
+    "PPN-B4-0131"
+   ],
+   [
+    "PPN-B4-0090",
+    "PPN-B4-0136"
+   ],
+   [
+    "PPN-B4-0091",
+    "PPN-B4-0134"
+   ],
+   [
+    "PPN-B4-0092",
+    "PPN-B4-0146"
+   ],
+   [
+    "PPN-B4-0094",
+    "PPN-B4-0147"
+   ],
+   [
+    "PPN-B4-0096",
+    "PPN-B4-0135"
+   ],
+   [
+    "PPN-B4-0097",
+    "PPN-B4-0127"
+   ],
+   [
+    "PPN-B4-0104",
+    "PPN-B4-0124"
+   ],
+   [
+    "PPN-B4-0110",
+    "PPN-B4-0120"
+   ],
+   [
+    "PPN-B4-0134",
+    "PPN-B4-0148"
+   ],
+   [
+    "PPN-B4-0156",
+    "PPN-B4-0177"
+   ],
+   [
+    "PPN-B4-0158",
+    "PPN-B4-0164"
+   ],
+   [
+    "PPN-B4-0158",
+    "PPN-B4-0166"
+   ],
+   [
+    "PPN-B4-0159",
+    "PPN-B4-0175"
+   ],
+   [
+    "PPN-B4-0160",
+    "PPN-B4-0165"
+   ],
+   [
+    "PPN-B4-0162",
+    "PPN-B4-0182"
+   ],
+   [
+    "PPN-B4-0164",
+    "PPN-B4-0179"
+   ],
+   [
+    "PPN-B4-0166",
+    "PPN-B4-0179"
+   ],
+   [
+    "PPN-B4-0167",
+    "PPN-B4-0168"
+   ],
+   [
+    "PPN-B4-0169",
+    "PPN-B4-0176"
+   ],
+   [
+    "PPN-B4-0170",
+    "PPN-B4-0171"
+   ],
+   [
+    "PPN-B4-0172",
+    "PPN-B4-0183"
+   ],
+   [
+    "PPN-B4-0173",
+    "PPN-B4-0178"
+   ],
+   [
+    "PPN-B4-0180",
+    "PPN-B4-0181"
+   ],
+   [
+    "PPN-B4-0221",
+    "PPN-B4-0226"
+   ],
+   [
+    "PPN-B4-0225",
+    "PPN-B4-0280"
+   ],
+   [
+    "PPN-B4-0242",
+    "PPN-B4-0250"
+   ],
+   [
+    "PPN-B4-0244",
+    "PPN-B4-0266"
+   ]
+  ]
+ },
+ "cek_duplikat_lintas_materi": "Dilakukan saat pemilihan soal (kunci teks + opsi + gambar) dan diverifikasi ulang pada audit ini.",
+ "catatan": [
+  "Soal dibangun dari tabel fakta (sila, lambang, agama, budaya daerah, aturan, lingkungan), skenario sikap, dan tugas kinerja sesuai TP pada ATP ILMA.",
+  "Soal bergambar memuat deskripsi ilustrasi pada visual_prompt."
+ ]
+}
