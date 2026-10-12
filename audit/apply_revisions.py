@@ -57,8 +57,9 @@ def main(subj, only=None):
     ok, bad = {}, {}
     for i, v in rev.items():
         r = rows.get(i)
-        if not r or r['quality_status'] != 'REVISE': bad[i] = ['bukan berstatus REVISE pada audit']; continue
+        if not r: bad[i] = ['ID tidak ada pada audit']; continue
         flags = set(r['alasan_status']) | {t['kode'] for t in r['tinjau_baca']}
+        if r['quality_status'] != 'REVISE' and 'AKURASI_SALAH_TEGAS' not in flags: bad[i] = ['bukan berstatus REVISE pada audit']; continue
         new, errs = validate(bank[i], v['perubahan'], flags)
         if v.get('_dobel'): errs = (errs or []) + ['ID direvisi lebih dari satu berkas']
         if errs: bad[i] = errs

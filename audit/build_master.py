@@ -4,8 +4,11 @@ import sys, os, json, csv, copy, collections, hashlib, datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import audit_engine as E, audit_full as F, apply_revisions as AR
 
+hdr = ['question_id', 'subject', 'tp_id', 'tp_text', 'material', 'question_type', 'difficulty', 'cognitive_level', 'skor_atp', 'skor_akurasi', 'skor_usia_bahasa', 'skor_konstruksi', 'skor_keunikan', 'atp_keselarasan', 'quality_status_awal', 'quality_status_akhir', 'alasan_status', 'issues', 'recommended_action', 'tinjau_baca', 'kbc_langsung_dengan_bukti', 'profil_lulusan_langsung', 'dl_pengalaman', 'berkas_sumber']
+hdr_idx = {h: n for n, h in enumerate(hdr)}
 OUT = os.path.join(F.HERE, 'FINAL'); os.makedirs(OUT, exist_ok=True)
 subjects = list(E.BANKS)
+POST = json.load(open(os.path.join(F.HERE, 'post_review_flags.json'), encoding='utf-8'))
 tot = collections.Counter(); per = {}
 rev_rows = []; detail_rows = []; all_cov = []; all_dups = []; all_queue = []
 profile = {}
@@ -55,6 +58,31 @@ for subj in subjects:
                             ';'.join(f"{m['nilai']}[{','.join(sum([v for v in m['bukti'].values()], []))}]" for m in y['audit']['kbc_mapping'] if m['relevansi'] == 'langsung'),
                             ';'.join(f"{m['dimensi']}/{m['subdimensi']}" for m in y['audit']['graduate_profile_mapping'] if m['relevansi'] == 'langsung'),
                             ';'.join(a['jenis'] for a in y['audit']['deep_learning_mapping']['pengalaman_belajar']), E.BANKS[subj]])
+    for z in final:
+        nt = POST.get(z['id'])
+        if nt:
+            z['audit']['issues'] = z['audit']['issues'] + ['konfirmasi_pasca_revisi']
+            if z['audit']['quality_status'] == 'PASS':
+                st['PASS'] -= 1; st['NEEDS_REVIEW'] += 1; z['audit']['quality_status'] = 'NEEDS_REVIEW'
+            z['audit']['recommended_action'] = 'TAHAN: ' + nt
+            all_queue.append([subj, z['id'], z['tp_id'], z['question_type'], z['question'][:140], 'KONFIRMASI_PASCA_REVISI', 'Guru/ahli', nt, 'Setujui, perbaiki, atau kembalikan ke versi asli', z['audit']['atp_keselarasan']])
+    # duplikat identik yang muncul akibat revisi: tahan untuk keputusan (tidak dihapus)
+    kcount = collections.Counter(E.norm(z['question']) + '|' + E.norm(json.dumps([z.get('options'), z['answer']], ensure_ascii=False)) for z in final)
+    for z in final:
+        kk = E.norm(z['question']) + '|' + E.norm(json.dumps([z.get('options'), z['answer']], ensure_ascii=False))
+        if kcount[kk] > 1:
+            mates = [w['id'] for w in final if w['id'] != z['id'] and E.norm(w['question']) + '|' + E.norm(json.dumps([w.get('options'), w['answer']], ensure_ascii=False)) == kk]
+            z['audit']['issues'] = z['audit']['issues'] + ['duplikat_identik_hasil_revisi:' + ','.join(mates)]
+            if z['audit']['quality_status'] == 'PASS':
+                st[z['audit']['quality_status']] -= 1; st['NEEDS_REVIEW'] += 1; z['audit']['quality_status'] = 'NEEDS_REVIEW'
+            z['audit']['recommended_action'] = 'TAHAN: duplikat identik dengan ' + ','.join(mates) + ' (muncul setelah revisi); hapus/ubah hanya setelah keputusan guru'
+            for m in mates:
+                if z['id'] < m: all_dups.append({'mapel': subj, 'jenis': 'identik_hasil_revisi', 'id_1': z['id'], 'id_2': m, 'kemiripan': '1.0', 'tindakan_disarankan': 'tinjau; pertahankan satu varian atau bedakan angka; jangan hapus tanpa keputusan'})
+    base_i = len(detail_rows) - len(final)
+    for n, z in enumerate(final):
+        row = detail_rows[base_i + n]
+        row[hdr_idx['quality_status_akhir']] = z['audit']['quality_status']; row[hdr_idx['recommended_action']] = z['audit']['recommended_action']
+        if any(t.startswith('duplikat_identik_hasil_revisi') for t in z['audit']['issues']): row[hdr_idx['issues']] = row[hdr_idx['issues']] + ';duplikat_identik_hasil_revisi'
     # integritas
     assert len(final) == len(bank) and [z['id'] for z in final] == [z['id'] for z in bank]
     h1 = hashlib.sha256(open(src, 'rb').read()).hexdigest(); assert h0 == h1
@@ -71,7 +99,6 @@ for subj in subjects:
     profile[subj] = json.load(open(os.path.join(d, 'KBC_DEEP_LEARNING_PROFILE_MATRIX.json')))
     integrity[subj] = json.load(open(os.path.join(d, 'CONSISTENCY_CHECK.json')))
 R = F.HERE
-hdr = ['question_id', 'subject', 'tp_id', 'tp_text', 'material', 'question_type', 'difficulty', 'cognitive_level', 'skor_atp', 'skor_akurasi', 'skor_usia_bahasa', 'skor_konstruksi', 'skor_keunikan', 'atp_keselarasan', 'quality_status_awal', 'quality_status_akhir', 'alasan_status', 'issues', 'recommended_action', 'tinjau_baca', 'kbc_langsung_dengan_bukti', 'profil_lulusan_langsung', 'dl_pengalaman', 'berkas_sumber']
 with open(os.path.join(R, 'QUESTION_AUDIT_DETAIL.csv'), 'w', encoding='utf-8', newline='') as f: w = csv.writer(f); w.writerow(hdr); w.writerows(detail_rows)
 with open(os.path.join(R, 'QUESTION_REVISIONS.csv'), 'w', encoding='utf-8', newline='') as f:
     w = csv.writer(f); w.writerow(['question_id', 'subject', 'tp_id', 'jenis_revisi', 'masalah_ditemukan', 'versi_asli', 'versi_revisi', 'kunci_hasil_verifikasi', 'alasan_lebih_sesuai', 'berkas_usulan']); w.writerows(rev_rows)

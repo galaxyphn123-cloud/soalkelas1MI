@@ -3,7 +3,7 @@
  "grade": 1,
  "phase": "A",
  "jenjang": "MI",
- "sumber_atp": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "sumber_atp": "ATP Akidah Akhlak MI Kelas I (berkas KBC: AKIDAH_AKHLAK_UNTUK_MI_KLS.1_KM_REVISI-ATP...docx)",
  "total_soal": 1000,
  "catatan": "Jumlah soal dibagi sebanding alokasi JP (total 58 JP): 104/103/155/207/155/207/69 soal; 7 materi, 26 TP.",
  "materi": [
@@ -890,5 +890,7 @@
    "membandingkan": 70,
    "mengelompokkan": 21
   }
- }
+ },
+ "sumber_atp_sebelumnya_salah": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "catatan_koreksi": "sumber_atp dikoreksi pada audit 2026-10-12 (sebelumnya tertulis rujukan Al-Qur'an Hadis akibat salinan templat)."
 }

@@ -7805,9 +7805,9 @@
   "question": "Perhatikan gambar! Dua anak berbagi sepuluh kelereng sehingga masing-masing mendapat lima. Sikap mereka menunjukkan ....",
   "options": [
    "A. adil dan saling berbagi",
-   "B. curang",
-   "C. rebutan",
-   "D. pelit"
+   "B. curang dan menang sendiri",
+   "C. berebut dan saling marah",
+   "D. pelit dan tidak mau berbagi"
   ],
   "answer": "A",
   "explanation": "Berbagi sama banyak itu adil.",
@@ -7820,17 +7820,15 @@
   "audit": {
    "question_id": "MTK-B1-0106",
    "tp_text": "Murid mampu menerapkan pengetahuan tentang bilangan dalam kehidupan sehari-hari sesuai ajaran Islam, seperti untuk berbagi secara adil dan bersedekah.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Diri dan Sesama",
@@ -7881,7 +7879,25 @@
     "id_asli": "MTK-B1-0106"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+    "verifikasi": "Gambar: 10 kelereng terbagi 5 dan 5, sehingga adil dan saling berbagi tetap benar; opsi lain bertentangan dengan gambar.",
+    "sebelum": {
+     "options": [
+      "A. adil dan saling berbagi",
+      "B. curang",
+      "C. rebutan",
+      "D. pelit"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B1-0107",
@@ -8391,9 +8407,9 @@
   "question": "Salma menghitung uang tabungannya untuk disedekahkan. Sikap yang baik adalah ....",
   "options": [
    "A. menghitung dengan teliti dan memberi dengan ikhlas",
-   "B. mengambil kembali",
-   "C. memberi sambil marah",
-   "D. asal memberi lalu menyombongkan diri"
+   "B. menghitung asal-asalan dan memberi dengan terpaksa",
+   "C. menghitung dengan teliti lalu memberi sambil marah",
+   "D. memberi asal-asalan lalu menyombongkan diri"
   ],
   "answer": "A",
   "explanation": "Sedekah dengan ikhlas dan teliti.",
@@ -8406,15 +8422,15 @@
   "audit": {
    "question_id": "MTK-B1-0114",
    "tp_text": "Murid mampu menerapkan pengetahuan tentang bilangan dalam kehidupan sehari-hari sesuai ajaran Islam, seperti untuk berbagi secara adil dan bersedekah.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh absurd (\"mengambil kembali\") diganti pengecoh yang masuk akal dan panjangnya sejajar dengan kunci.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -8460,7 +8476,26 @@
     "id_asli": "MTK-B1-0114"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI",
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh absurd (\"mengambil kembali\") diganti pengecoh yang masuk akal dan panjangnya sejajar dengan kunci.",
+    "verifikasi": "Kunci tidak berubah; ketiga pengecoh memuat sikap yang jelas tidak baik (asal-asalan, terpaksa, marah, sombong) sehingga hanya A yang benar.",
+    "sebelum": {
+     "options": [
+      "A. menghitung dengan teliti dan memberi dengan ikhlas",
+      "B. mengambil kembali",
+      "C. memberi sambil marah",
+      "D. asal memberi lalu menyombongkan diri"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B1-0115",
@@ -9582,10 +9617,10 @@
   "question_type": "completion",
   "difficulty": "medium",
   "cognitive_level": "menerapkan",
-  "question": "Lengkapi: Melihat temannya tidak punya kue, Rafi ....",
+  "question": "Lengkapi: Rafi punya 4 kue. Melihat temannya tidak punya kue, Rafi ....",
   "options": null,
   "answer": "membagi kuenya sama banyak, masing-masing 2",
-  "explanation": "Berbagi adil: 4 dibagi 2 = 2.",
+  "explanation": "Berbagi adil: 4 dibagi 2 = 2, jadi masing-masing mendapat 2 kue.",
   "visual_required": false,
   "visual_prompt": null,
   "tags": [
@@ -9595,15 +9630,16 @@
   "audit": {
    "question_id": "MTK-B1-0131",
    "tp_text": "Murid mampu menerapkan pengetahuan tentang bilangan dalam kehidupan sehari-hari sesuai ajaran Islam, seperti untuk berbagi secara adil dan bersedekah.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
-    "tinjau_baca_KONSTRUKSI"
+    "tinjau_baca_KONSTRUKSI",
+    "konfirmasi_pasca_revisi"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "TAHAN: Revisi mengganti nama benda/konteks/pernyataan; konfirmasi guru bahwa tuntutan soal tetap sama.",
+   "revision_notes": "Data tidak cukup: banyak kue Rafi ditambahkan ke stem (4 kue) agar kunci \"masing-masing 2\" dapat diturunkan.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Diri dan Sesama",
@@ -9657,7 +9693,21 @@
     "id_asli": "MTK-B1-0131"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Data tidak cukup: banyak kue Rafi ditambahkan ke stem (4 kue) agar kunci \"masing-masing 2\" dapat diturunkan.",
+    "verifikasi": "Kunci tetap \"membagi kuenya sama banyak, masing-masing 2\": 4 kue dibagi untuk 2 anak = 2 kue masing-masing.",
+    "sebelum": {
+     "question": "Lengkapi: Melihat temannya tidak punya kue, Rafi ....",
+     "explanation": "Berbagi adil: 4 dibagi 2 = 2."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B1-0132",
@@ -15876,7 +15926,7 @@
   "question_type": "contextual",
   "difficulty": "medium",
   "cognitive_level": "menerapkan",
-  "question": "Di keranjang ada 4 kursi. Ibu memasukkan 6 kursi lagi. Berapa seluruh kursi di keranjang?",
+  "question": "Di keranjang ada 4 bola. Ibu memasukkan 6 bola lagi. Berapa seluruh bola di keranjang?",
   "options": [
    "A. 11",
    "B. 6",
@@ -15894,15 +15944,15 @@
   "audit": {
    "question_id": "MTK-B2-0086",
    "tp_text": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Benda kursi diganti bola agar konteks wajar; angka dan kunci tetap.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Diri dan Sesama",
@@ -15938,7 +15988,20 @@
     "id_asli": "MTK-B2-0086"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Benda kursi diganti bola agar konteks wajar; angka dan kunci tetap.",
+    "verifikasi": "4 + 6 = 10; kunci 10 tetap, opsi lain (11, 6, 7) salah.",
+    "sebelum": {
+     "question": "Di keranjang ada 4 kursi. Ibu memasukkan 6 kursi lagi. Berapa seluruh kursi di keranjang?"
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0087",
@@ -16016,7 +16079,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Di keranjang ada 6 apel. Ibu memasukkan 1 apel lagi. Berapa seluruh apel di keranjang? Jawabannya 7.",
+  "question": "Benar atau salah: Di keranjang ada 6 apel. Ibu memasukkan 1 apel lagi. Seluruh apel di keranjang ada 7.",
   "options": [
    "Benar",
    "Salah"
@@ -16032,15 +16095,15 @@
   "audit": {
    "question_id": "MTK-B2-0088",
    "tp_text": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Diri dan Sesama",
@@ -16076,7 +16139,20 @@
     "id_asli": "MTK-B2-0088"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+    "verifikasi": "6 + 1 = 7; kunci tetap Benar.",
+    "sebelum": {
+     "question": "Benar atau salah: Di keranjang ada 6 apel. Ibu memasukkan 1 apel lagi. Berapa seluruh apel di keranjang? Jawabannya 7."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0089",
@@ -16090,7 +16166,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Mira membeli 4 pisang di pagi hari dan 5 pisang di sore hari. Berapa jumlah pisang yang dibeli Mira? Jawabannya 9.",
+  "question": "Benar atau salah: Mira membeli 4 pisang di pagi hari dan 5 pisang di sore hari. Jumlah pisang yang dibeli Mira adalah 9.",
   "options": [
    "Benar",
    "Salah"
@@ -16106,15 +16182,15 @@
   "audit": {
    "question_id": "MTK-B2-0089",
    "tp_text": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -16145,7 +16221,20 @@
     "id_asli": "MTK-B2-0089"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+    "verifikasi": "4 + 5 = 9; kunci tetap Benar.",
+    "sebelum": {
+     "question": "Benar atau salah: Mira membeli 4 pisang di pagi hari dan 5 pisang di sore hari. Berapa jumlah pisang yang dibeli Mira? Jawabannya 9."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0090",
@@ -16159,7 +16248,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Umar membeli 9 permen di pagi hari dan 1 permen di sore hari. Berapa jumlah permen yang dibeli Umar? Jawabannya 10.",
+  "question": "Benar atau salah: Umar membeli 9 permen di pagi hari dan 1 permen di sore hari. Jumlah permen yang dibeli Umar adalah 10.",
   "options": [
    "Benar",
    "Salah"
@@ -16175,15 +16264,15 @@
   "audit": {
    "question_id": "MTK-B2-0090",
    "tp_text": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -16214,7 +16303,20 @@
     "id_asli": "MTK-B2-0090"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+    "verifikasi": "9 + 1 = 10; kunci tetap Benar.",
+    "sebelum": {
+     "question": "Benar atau salah: Umar membeli 9 permen di pagi hari dan 1 permen di sore hari. Berapa jumlah permen yang dibeli Umar? Jawabannya 10."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0091",
@@ -16228,7 +16330,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Di keranjang ada 3 pisang. Ibu memasukkan 3 pisang lagi. Berapa seluruh pisang di keranjang? Jawabannya 6.",
+  "question": "Benar atau salah: Di keranjang ada 3 pisang. Ibu memasukkan 3 pisang lagi. Seluruh pisang di keranjang ada 6.",
   "options": [
    "Benar",
    "Salah"
@@ -16244,15 +16346,15 @@
   "audit": {
    "question_id": "MTK-B2-0091",
    "tp_text": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Diri dan Sesama",
@@ -16288,7 +16390,20 @@
     "id_asli": "MTK-B2-0091"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+    "verifikasi": "3 + 3 = 6; kunci tetap Benar.",
+    "sebelum": {
+     "question": "Benar atau salah: Di keranjang ada 3 pisang. Ibu memasukkan 3 pisang lagi. Berapa seluruh pisang di keranjang? Jawabannya 6."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0092",
@@ -16302,7 +16417,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Dani memiliki 4 jeruk. Kemudian Dani mendapat 3 jeruk lagi. Berapa jeruk Dani sekarang? Jawabannya 7.",
+  "question": "Benar atau salah: Dani memiliki 4 jeruk. Kemudian Dani mendapat 3 jeruk lagi. Sekarang jeruk Dani ada 7.",
   "options": [
    "Benar",
    "Salah"
@@ -16318,15 +16433,15 @@
   "audit": {
    "question_id": "MTK-B2-0092",
    "tp_text": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -16357,7 +16472,20 @@
     "id_asli": "MTK-B2-0092"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+    "verifikasi": "4 + 3 = 7; kunci tetap Benar.",
+    "sebelum": {
+     "question": "Benar atau salah: Dani memiliki 4 jeruk. Kemudian Dani mendapat 3 jeruk lagi. Berapa jeruk Dani sekarang? Jawabannya 7."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0093",
@@ -16371,7 +16499,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Rafi membeli 4 pensil di pagi hari dan 1 pensil di sore hari. Berapa jumlah pensil yang dibeli Rafi? Jawabannya 5.",
+  "question": "Benar atau salah: Rafi membeli 4 pensil di pagi hari dan 1 pensil di sore hari. Jumlah pensil yang dibeli Rafi adalah 5.",
   "options": [
    "Benar",
    "Salah"
@@ -16387,15 +16515,15 @@
   "audit": {
    "question_id": "MTK-B2-0093",
    "tp_text": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -16426,7 +16554,20 @@
     "id_asli": "MTK-B2-0093"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+    "verifikasi": "4 + 1 = 5; kunci tetap Benar.",
+    "sebelum": {
+     "question": "Benar atau salah: Rafi membeli 4 pensil di pagi hari dan 1 pensil di sore hari. Berapa jumlah pensil yang dibeli Rafi? Jawabannya 5."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0094",
@@ -16440,7 +16581,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Di keranjang ada 3 kue. Ibu memasukkan 5 kue lagi. Berapa seluruh kue di keranjang? Jawabannya 10.",
+  "question": "Benar atau salah: Di keranjang ada 3 kue. Ibu memasukkan 5 kue lagi. Seluruh kue di keranjang ada 10.",
   "options": [
    "Benar",
    "Salah"
@@ -16456,15 +16597,15 @@
   "audit": {
    "question_id": "MTK-B2-0094",
    "tp_text": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Diri dan Sesama",
@@ -16500,7 +16641,20 @@
     "id_asli": "MTK-B2-0094"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+    "verifikasi": "3 + 5 = 8, bukan 10; kunci tetap Salah.",
+    "sebelum": {
+     "question": "Benar atau salah: Di keranjang ada 3 kue. Ibu memasukkan 5 kue lagi. Berapa seluruh kue di keranjang? Jawabannya 10."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0095",
@@ -16514,7 +16668,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Aisyah membeli 2 ikan di pagi hari dan 2 ikan di sore hari. Berapa jumlah ikan yang dibeli Aisyah? Jawabannya 3.",
+  "question": "Benar atau salah: Aisyah membeli 2 ikan di pagi hari dan 2 ikan di sore hari. Jumlah ikan yang dibeli Aisyah adalah 3.",
   "options": [
    "Benar",
    "Salah"
@@ -16530,15 +16684,15 @@
   "audit": {
    "question_id": "MTK-B2-0095",
    "tp_text": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -16569,7 +16723,20 @@
     "id_asli": "MTK-B2-0095"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+    "verifikasi": "2 + 2 = 4, bukan 3; kunci tetap Salah.",
+    "sebelum": {
+     "question": "Benar atau salah: Aisyah membeli 2 ikan di pagi hari dan 2 ikan di sore hari. Berapa jumlah ikan yang dibeli Aisyah? Jawabannya 3."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0096",
@@ -16583,7 +16750,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Aisyah memiliki 5 ikan. Kemudian Aisyah mendapat 2 ikan lagi. Berapa ikan Aisyah sekarang? Jawabannya 9.",
+  "question": "Benar atau salah: Aisyah memiliki 5 ikan. Kemudian Aisyah mendapat 2 ikan lagi. Sekarang ikan Aisyah ada 9.",
   "options": [
    "Benar",
    "Salah"
@@ -16599,15 +16766,15 @@
   "audit": {
    "question_id": "MTK-B2-0096",
    "tp_text": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -16638,7 +16805,20 @@
     "id_asli": "MTK-B2-0096"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+    "verifikasi": "5 + 2 = 7, bukan 9; kunci tetap Salah.",
+    "sebelum": {
+     "question": "Benar atau salah: Aisyah memiliki 5 ikan. Kemudian Aisyah mendapat 2 ikan lagi. Berapa ikan Aisyah sekarang? Jawabannya 9."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0097",
@@ -16652,7 +16832,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Hasan memiliki 1 balon. Kemudian Hasan mendapat 8 balon lagi. Berapa balon Hasan sekarang? Jawabannya 10.",
+  "question": "Benar atau salah: Hasan memiliki 1 balon. Kemudian Hasan mendapat 8 balon lagi. Sekarang balon Hasan ada 10.",
   "options": [
    "Benar",
    "Salah"
@@ -16668,15 +16848,15 @@
   "audit": {
    "question_id": "MTK-B2-0097",
    "tp_text": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -16707,7 +16887,20 @@
     "id_asli": "MTK-B2-0097"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+    "verifikasi": "1 + 8 = 9, bukan 10; kunci tetap Salah.",
+    "sebelum": {
+     "question": "Benar atau salah: Hasan memiliki 1 balon. Kemudian Hasan mendapat 8 balon lagi. Berapa balon Hasan sekarang? Jawabannya 10."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0098",
@@ -16721,7 +16914,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Salma membeli 1 bunga di pagi hari dan 2 bunga di sore hari. Berapa jumlah bunga yang dibeli Salma? Jawabannya 4.",
+  "question": "Benar atau salah: Salma membeli 1 bunga di pagi hari dan 2 bunga di sore hari. Jumlah bunga yang dibeli Salma adalah 4.",
   "options": [
    "Benar",
    "Salah"
@@ -16737,15 +16930,15 @@
   "audit": {
    "question_id": "MTK-B2-0098",
    "tp_text": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -16776,7 +16969,20 @@
     "id_asli": "MTK-B2-0098"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+    "verifikasi": "1 + 2 = 3, bukan 4; kunci tetap Salah.",
+    "sebelum": {
+     "question": "Benar atau salah: Salma membeli 1 bunga di pagi hari dan 2 bunga di sore hari. Berapa jumlah bunga yang dibeli Salma? Jawabannya 4."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0099",
@@ -16972,7 +17178,7 @@
   "question_type": "completion",
   "difficulty": "medium",
   "cognitive_level": "menerapkan",
-  "question": "Di keranjang ada 4 kursi. Ibu memasukkan 6 kursi lagi. Berapa seluruh kursi di keranjang? Jawaban: ....",
+  "question": "Di keranjang ada 4 bola. Ibu memasukkan 6 bola lagi. Berapa seluruh bola di keranjang? Jawaban: ....",
   "options": null,
   "answer": "10",
   "explanation": "4 + 6 = 10.",
@@ -16985,15 +17191,15 @@
   "audit": {
    "question_id": "MTK-B2-0102",
    "tp_text": "Murid mampu menyelesaikan soal cerita penjumlahan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Benda kursi diganti bola agar konteks wajar; angka dan kunci tetap.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Diri dan Sesama",
@@ -17029,7 +17235,20 @@
     "id_asli": "MTK-B2-0102"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Benda kursi diganti bola agar konteks wajar; angka dan kunci tetap.",
+    "verifikasi": "4 + 6 = 10; kunci 10 tetap, opsi lain (11, 6, 7) salah.",
+    "sebelum": {
+     "question": "Di keranjang ada 4 kursi. Ibu memasukkan 6 kursi lagi. Berapa seluruh kursi di keranjang? Jawaban: ...."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0103",
@@ -17239,9 +17458,9 @@
   "question": "Orang yang jujur dalam berhitung akan disukai ....",
   "options": [
    "A. Allah dan sesama",
-   "B. setan",
-   "C. tidak ada",
-   "D. musuhnya"
+   "B. dirinya sendiri saja",
+   "C. orang yang berbuat curang",
+   "D. orang yang suka berbohong"
   ],
   "answer": "A",
   "explanation": "Jawaban: Allah dan sesama.",
@@ -17254,18 +17473,16 @@
   "audit": {
    "question_id": "MTK-B2-0106",
    "tp_text": "Murid mampu menerapkan ilmu tentang penjumlahan dalam kehidupan sehari-hari dengan sikap yang jujur dan mengharapkan rida-Nya.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang",
     "tinjau_baca_KONSTRUKSI"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh (\"setan\", \"tidak ada\", \"musuhnya\") diganti pengecoh yang lebih masuk akal dan sejajar panjangnya.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -17323,7 +17540,26 @@
     "id_asli": "MTK-B2-0106"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI",
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh (\"setan\", \"tidak ada\", \"musuhnya\") diganti pengecoh yang lebih masuk akal dan sejajar panjangnya.",
+    "verifikasi": "Kunci \"Allah dan sesama\" tetap; pengecoh bertentangan dengan stem bahwa orang jujur disukai.",
+    "sebelum": {
+     "options": [
+      "A. Allah dan sesama",
+      "B. setan",
+      "C. tidak ada",
+      "D. musuhnya"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0107",
@@ -17355,14 +17591,14 @@
   "audit": {
    "question_id": "MTK-B2-0107",
    "tp_text": "Murid mampu menerapkan ilmu tentang penjumlahan dalam kehidupan sehari-hari dengan sikap yang jujur dan mengharapkan rida-Nya.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Pengecoh sudah wajar; masalah yang dicatat adalah keterkaitan topik sikap dengan TP penjumlahan, yang memerlukan keputusan ahli (bukan perbaikan redaksi).)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -17425,10 +17661,10 @@
   "cognitive_level": "memahami",
   "question": "Menghitung barang dagangan dengan jujur berarti hasilnya ....",
   "options": [
-   "A. dikurangi",
+   "A. dikurangi beberapa buah",
    "B. sesuai jumlah sebenarnya",
-   "C. asal sebut",
-   "D. ditambah-tambah"
+   "C. disebut dengan asal-asalan",
+   "D. ditambah-tambah sedikit"
   ],
   "answer": "B",
   "explanation": "Jawaban: sesuai jumlah sebenarnya.",
@@ -17441,18 +17677,16 @@
   "audit": {
    "question_id": "MTK-B2-0108",
    "tp_text": "Murid mampu menerapkan ilmu tentang penjumlahan dalam kehidupan sehari-hari dengan sikap yang jujur dan mengharapkan rida-Nya.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang",
     "tinjau_baca_KONSTRUKSI"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -17501,7 +17735,25 @@
     "id_asli": "MTK-B2-0108"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+    "verifikasi": "Kunci \"sesuai jumlah sebenarnya\" tetap; pengecoh semuanya menyimpang dari jumlah sebenarnya.",
+    "sebelum": {
+     "options": [
+      "A. dikurangi",
+      "B. sesuai jumlah sebenarnya",
+      "C. asal sebut",
+      "D. ditambah-tambah"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0109",
@@ -17533,14 +17785,14 @@
   "audit": {
    "question_id": "MTK-B2-0109",
    "tp_text": "Murid mampu menerapkan ilmu tentang penjumlahan dalam kehidupan sehari-hari dengan sikap yang jujur dan mengharapkan rida-Nya.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Pengecoh sudah wajar; masalah adalah keterkaitan soal sikap dengan TP penjumlahan, memerlukan keputusan ahli.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -17613,9 +17865,9 @@
   "cognitive_level": "memahami",
   "question": "Saat menghitung uang kembalian, kita harus ....",
   "options": [
-   "A. asal-asalan",
+   "A. asal hitung agar cepat",
    "B. teliti dan jujur",
-   "C. curang",
+   "C. menghitung sambil bermain",
    "D. tergesa-gesa"
   ],
   "answer": "B",
@@ -17629,15 +17881,15 @@
   "audit": {
    "question_id": "MTK-B2-0110",
    "tp_text": "Murid mampu menerapkan ilmu tentang penjumlahan dalam kehidupan sehari-hari dengan sikap yang jujur dan mengharapkan rida-Nya.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh \"curang/asal-asalan\" diganti perilaku menghitung yang tidak teliti dan lebih wajar.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -17669,7 +17921,12 @@
       "bukti": "tipe multiple_choice meminta mengenali/menjelaskan konsep"
      }
     ],
-    "prinsip": [],
+    "prinsip": [
+     {
+      "jenis": "Menggembirakan",
+      "bukti": "aktivitas bermain/praktik pada soal"
+     }
+    ],
     "catatan": "Soal tertulis tidak membuktikan praktik pedagogis, kemitraan, lingkungan, atau pemanfaatan digital; itu dilengkapi aktivitas pendamping guru."
    },
    "graduate_profile_mapping": [],
@@ -17685,7 +17942,25 @@
     "id_asli": "MTK-B2-0110"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Pengecoh \"curang/asal-asalan\" diganti perilaku menghitung yang tidak teliti dan lebih wajar.",
+    "verifikasi": "Kunci \"teliti dan jujur\" tetap; pengecoh menggambarkan menghitung tidak teliti sehingga tidak ada yang benar selain B.",
+    "sebelum": {
+     "options": [
+      "A. asal-asalan",
+      "B. teliti dan jujur",
+      "C. curang",
+      "D. tergesa-gesa"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0111",
@@ -18688,13 +18963,13 @@
   "question_type": "true_false",
   "difficulty": "medium",
   "cognitive_level": "mengingat",
-  "question": "Benar atau salah: Orang yang jujur dalam berhitung akan disukai tidak ada",
+  "question": "Benar atau salah: Orang yang jujur dalam berhitung tidak akan disukai siapa pun.",
   "options": [
    "Benar",
    "Salah"
   ],
   "answer": "Salah",
-  "explanation": "Salah. Jawaban: Allah dan sesama.",
+  "explanation": "Salah. Orang yang jujur dalam berhitung akan disukai Allah dan sesama.",
   "visual_required": false,
   "visual_prompt": null,
   "tags": [
@@ -18704,15 +18979,16 @@
   "audit": {
    "question_id": "MTK-B2-0123",
    "tp_text": "Murid mampu menerapkan ilmu tentang penjumlahan dalam kehidupan sehari-hari dengan sikap yang jujur dan mengharapkan rida-Nya.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
-    "tinjau_baca_BAHASA"
+    "tinjau_baca_BAHASA",
+    "konfirmasi_pasca_revisi"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "TAHAN: Revisi mengganti nama benda/konteks/pernyataan; konfirmasi guru bahwa tuntutan soal tetap sama.",
+   "revision_notes": "Pernyataan tidak gramatikal (\"disukai tidak ada\") dirapikan.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -18729,6 +19005,7 @@
      "relevansi": "langsung",
      "bukti": {
       "dalam_kunci_atau_penjelasan": [
+       "jujur",
        "sesama"
       ],
       "dalam_TP_materi": [
@@ -18760,7 +19037,21 @@
     "id_asli": "MTK-B2-0123"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Pernyataan tidak gramatikal (\"disukai tidak ada\") dirapikan.",
+    "verifikasi": "Pernyataan salah karena orang jujur disukai Allah dan sesama; kunci tetap Salah.",
+    "sebelum": {
+     "question": "Benar atau salah: Orang yang jujur dalam berhitung akan disukai tidak ada",
+     "explanation": "Salah. Jawaban: Allah dan sesama."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B2-0124",
@@ -25176,7 +25467,7 @@
   "question_type": "contextual",
   "difficulty": "medium",
   "cognitive_level": "menerapkan",
-  "question": "Di piring ada 10 topi. Sebanyak 2 topi dimakan. Berapa topi yang tersisa?",
+  "question": "Di rak ada 10 topi. Sebanyak 2 topi diambil. Berapa topi yang tersisa?",
   "options": [
    "A. 9",
    "B. 8",
@@ -25194,15 +25485,15 @@
   "audit": {
    "question_id": "MTK-B3-0088",
    "tp_text": "Murid mampu menyelesaikan soal cerita pengurangan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Topi \"dimakan\" diganti \"diambil\" agar wajar.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -25233,7 +25524,20 @@
     "id_asli": "MTK-B3-0088"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Topi \"dimakan\" diganti \"diambil\" agar wajar.",
+    "verifikasi": "10 - 2 = 8; kunci 8 tetap.",
+    "sebelum": {
+     "question": "Di piring ada 10 topi. Sebanyak 2 topi dimakan. Berapa topi yang tersisa?"
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B3-0089",
@@ -25376,7 +25680,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Fikri membawa 10 kursi. Sebanyak 9 kursi jatuh. Berapa kursi yang masih dibawa Fikri? Jawabannya 1.",
+  "question": "Benar atau salah: Fikri membawa 10 buku. Sebanyak 9 buku jatuh. Buku yang masih dibawa Fikri ada 1.",
   "options": [
    "Benar",
    "Salah"
@@ -25392,20 +25696,25 @@
   "audit": {
    "question_id": "MTK-B3-0091",
    "tp_text": "Murid mampu menyelesaikan soal cerita pengurangan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Membawa 10 kursi diganti 10 buku; pertanyaan dirapikan jadi pernyataan.",
    "kbc_mapping": [
     {
-     "nilai": null,
-     "relevansi": "tidak_relevan",
-     "catatan": "KBC tidak harus ada pada setiap soal; soal ini mengukur kompetensi akademik/teknis"
+     "nilai": "Cinta Ilmu",
+     "relevansi": "konteks",
+     "bukti": {
+      "dalam_soal": [
+       "buku"
+      ]
+     },
+     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
     }
    ],
    "deep_learning_mapping": {
@@ -25431,7 +25740,21 @@
     "id_asli": "MTK-B3-0091"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI",
+     "BAHASA"
+    ],
+    "alasan": "Membawa 10 kursi diganti 10 buku; pertanyaan dirapikan jadi pernyataan.",
+    "verifikasi": "10 - 9 = 1; kunci Benar tetap.",
+    "sebelum": {
+     "question": "Benar atau salah: Fikri membawa 10 kursi. Sebanyak 9 kursi jatuh. Berapa kursi yang masih dibawa Fikri? Jawabannya 1."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B3-0092",
@@ -25445,7 +25768,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Di piring ada 10 topi. Sebanyak 2 topi dimakan. Berapa topi yang tersisa? Jawabannya 8.",
+  "question": "Benar atau salah: Di rak ada 10 topi. Sebanyak 2 topi diambil. Topi yang tersisa ada 8.",
   "options": [
    "Benar",
    "Salah"
@@ -25461,15 +25784,15 @@
   "audit": {
    "question_id": "MTK-B3-0092",
    "tp_text": "Murid mampu menyelesaikan soal cerita pengurangan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Topi \"dimakan\" diganti \"diambil\"; pernyataan dirapikan.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -25500,7 +25823,21 @@
     "id_asli": "MTK-B3-0092"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI",
+     "BAHASA"
+    ],
+    "alasan": "Topi \"dimakan\" diganti \"diambil\"; pernyataan dirapikan.",
+    "verifikasi": "10 - 2 = 8; kunci Benar tetap.",
+    "sebelum": {
+     "question": "Benar atau salah: Di piring ada 10 topi. Sebanyak 2 topi dimakan. Berapa topi yang tersisa? Jawabannya 8."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B3-0093",
@@ -25514,7 +25851,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Di piring ada 5 kelereng. Sebanyak 4 kelereng dimakan. Berapa kelereng yang tersisa? Jawabannya 1.",
+  "question": "Benar atau salah: Di kotak ada 5 kelereng. Sebanyak 4 kelereng diambil. Kelereng yang tersisa ada 1.",
   "options": [
    "Benar",
    "Salah"
@@ -25530,15 +25867,15 @@
   "audit": {
    "question_id": "MTK-B3-0093",
    "tp_text": "Murid mampu menyelesaikan soal cerita pengurangan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Kelereng \"dimakan\" diganti \"diambil\"; pernyataan dirapikan.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -25569,7 +25906,21 @@
     "id_asli": "MTK-B3-0093"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI",
+     "BAHASA"
+    ],
+    "alasan": "Kelereng \"dimakan\" diganti \"diambil\"; pernyataan dirapikan.",
+    "verifikasi": "5 - 4 = 1; kunci Benar tetap.",
+    "sebelum": {
+     "question": "Benar atau salah: Di piring ada 5 kelereng. Sebanyak 4 kelereng dimakan. Berapa kelereng yang tersisa? Jawabannya 1."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B3-0094",
@@ -25583,7 +25934,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Fikri membawa 10 kursi. Sebanyak 9 kursi jatuh. Berapa kursi yang masih dibawa Fikri? Jawabannya 2.",
+  "question": "Benar atau salah: Fikri membawa 10 buku. Sebanyak 9 buku jatuh. Buku yang masih dibawa Fikri ada 2.",
   "options": [
    "Benar",
    "Salah"
@@ -25599,20 +25950,25 @@
   "audit": {
    "question_id": "MTK-B3-0094",
    "tp_text": "Murid mampu menyelesaikan soal cerita pengurangan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Membawa 10 kursi diganti 10 buku; pernyataan dirapikan.",
    "kbc_mapping": [
     {
-     "nilai": null,
-     "relevansi": "tidak_relevan",
-     "catatan": "KBC tidak harus ada pada setiap soal; soal ini mengukur kompetensi akademik/teknis"
+     "nilai": "Cinta Ilmu",
+     "relevansi": "konteks",
+     "bukti": {
+      "dalam_soal": [
+       "buku"
+      ]
+     },
+     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
     }
    ],
    "deep_learning_mapping": {
@@ -25638,7 +25994,21 @@
     "id_asli": "MTK-B3-0094"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI",
+     "BAHASA"
+    ],
+    "alasan": "Membawa 10 kursi diganti 10 buku; pernyataan dirapikan.",
+    "verifikasi": "10 - 9 = 1, bukan 2; kunci Salah tetap.",
+    "sebelum": {
+     "question": "Benar atau salah: Fikri membawa 10 kursi. Sebanyak 9 kursi jatuh. Berapa kursi yang masih dibawa Fikri? Jawabannya 2."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B3-0095",
@@ -25966,7 +26336,7 @@
   "question_type": "completion",
   "difficulty": "medium",
   "cognitive_level": "menerapkan",
-  "question": "Di piring ada 9 pensil. Sebanyak 1 pensil dimakan. Berapa pensil yang tersisa? Jawaban: ....",
+  "question": "Di kotak ada 9 pensil. Sebanyak 1 pensil diambil. Berapa pensil yang tersisa? Jawaban: ....",
   "options": null,
   "answer": "8",
   "explanation": "9 - 1 = 8.",
@@ -25979,15 +26349,15 @@
   "audit": {
    "question_id": "MTK-B3-0100",
    "tp_text": "Murid mampu menyelesaikan soal cerita pengurangan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pensil \"dimakan\" diganti \"diambil\".",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -26018,7 +26388,20 @@
     "id_asli": "MTK-B3-0100"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Pensil \"dimakan\" diganti \"diambil\".",
+    "verifikasi": "9 - 1 = 8; kunci 8 tetap.",
+    "sebelum": {
+     "question": "Di piring ada 9 pensil. Sebanyak 1 pensil dimakan. Berapa pensil yang tersisa? Jawaban: ...."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B3-0101",
@@ -26155,7 +26538,7 @@
   "question_type": "completion",
   "difficulty": "medium",
   "cognitive_level": "menerapkan",
-  "question": "Fikri membawa 10 kursi. Sebanyak 9 kursi jatuh. Berapa kursi yang masih dibawa Fikri? Jawaban: ....",
+  "question": "Fikri membawa 10 buku. Sebanyak 9 buku jatuh. Berapa buku yang masih dibawa Fikri? Jawaban: ....",
   "options": null,
   "answer": "1",
   "explanation": "10 - 9 = 1.",
@@ -26168,20 +26551,25 @@
   "audit": {
    "question_id": "MTK-B3-0103",
    "tp_text": "Murid mampu menyelesaikan soal cerita pengurangan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Membawa 10 kursi diganti 10 buku.",
    "kbc_mapping": [
     {
-     "nilai": null,
-     "relevansi": "tidak_relevan",
-     "catatan": "KBC tidak harus ada pada setiap soal; soal ini mengukur kompetensi akademik/teknis"
+     "nilai": "Cinta Ilmu",
+     "relevansi": "konteks",
+     "bukti": {
+      "dalam_soal": [
+       "buku"
+      ]
+     },
+     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
     }
    ],
    "deep_learning_mapping": {
@@ -26207,7 +26595,20 @@
     "id_asli": "MTK-B3-0103"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Membawa 10 kursi diganti 10 buku.",
+    "verifikasi": "10 - 9 = 1; kunci 1 tetap.",
+    "sebelum": {
+     "question": "Fikri membawa 10 kursi. Sebanyak 9 kursi jatuh. Berapa kursi yang masih dibawa Fikri? Jawaban: ...."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B3-0104",
@@ -26582,9 +26983,9 @@
   "question": "Berbagi kepada teman yang membutuhkan menunjukkan kepedulian kepada ....",
   "options": [
    "A. sesama",
-   "B. benda",
-   "C. mainan",
-   "D. televisi"
+   "B. benda mati",
+   "C. mainan miliknya",
+   "D. barang yang dibagikan"
   ],
   "answer": "A",
   "explanation": "Jawaban: sesama.",
@@ -26597,15 +26998,15 @@
   "audit": {
    "question_id": "MTK-B3-0109",
    "tp_text": "Murid mampu menerapkan operasi hitung pengurangan dalam konteks berbagi sebagai wujud kepedulian terhadap sesama.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh absurd (\"televisi\") diganti yang lebih wajar.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Diri dan Sesama",
@@ -26644,7 +27045,25 @@
     "id_asli": "MTK-B3-0109"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Pengecoh absurd (\"televisi\") diganti yang lebih wajar.",
+    "verifikasi": "Berbagi kepada teman yang membutuhkan menunjukkan kepedulian kepada sesama; kunci tetap A; pengecoh adalah benda, bukan penerima kepedulian.",
+    "sebelum": {
+     "options": [
+      "A. sesama",
+      "B. benda",
+      "C. mainan",
+      "D. televisi"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B3-0110",
@@ -26879,10 +27298,10 @@
   "cognitive_level": "menerapkan",
   "question": "Mira punya 7 apel. Ia memberi 2 apel kepada tetangga. Sikap Mira menunjukkan ....",
   "options": [
-   "A. pelit",
-   "B. tidak peduli",
+   "A. pelit kepada tetangga",
+   "B. tidak peduli pada tetangga",
    "C. peduli kepada sesama",
-   "D. serakah"
+   "D. serakah dan menang sendiri"
   ],
   "answer": "C",
   "explanation": "Berbagi = peduli.",
@@ -26895,17 +27314,15 @@
   "audit": {
    "question_id": "MTK-B3-0113",
    "tp_text": "Murid mampu menerapkan operasi hitung pengurangan dalam konteks berbagi sebagai wujud kepedulian terhadap sesama.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Diri dan Sesama",
@@ -26956,7 +27373,25 @@
     "id_asli": "MTK-B3-0113"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+    "verifikasi": "Mira memberi 2 apel dari 7 (sisa 5), perilaku peduli; kunci C tetap, pengecoh bertentangan dengan tindakan memberi.",
+    "sebelum": {
+     "options": [
+      "A. pelit",
+      "B. tidak peduli",
+      "C. peduli kepada sesama",
+      "D. serakah"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B3-0114",
@@ -28473,9 +28908,9 @@
   "cognitive_level": "mengenali",
   "question": "Benda \"layar televisi\" berbentuk ....",
   "options": [
-   "A. lingkaran",
-   "B. segitiga",
-   "C. persegi",
+   "A. lingkaran yang bulat",
+   "B. segitiga bersisi tiga",
+   "C. persegi bersisi sama",
    "D. persegi panjang"
   ],
   "answer": "D",
@@ -28489,17 +28924,15 @@
   "audit": {
    "question_id": "MTK-B4-0002",
    "tp_text": "Murid mampu mendeskripsikan benda berdasarkan bentuk dengan benar sebagai bagian dari mengamalkan ilmu dengan baik.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -28530,7 +28963,25 @@
     "id_asli": "MTK-B4-0002"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+    "verifikasi": "Layar televisi berbentuk persegi panjang; kunci D tetap; pengecoh bukan bentuk layar.",
+    "sebelum": {
+     "options": [
+      "A. lingkaran",
+      "B. segitiga",
+      "C. persegi",
+      "D. persegi panjang"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0003",
@@ -28754,9 +29205,9 @@
   "question": "Benda \"pintu\" berbentuk ....",
   "options": [
    "A. persegi panjang",
-   "B. lingkaran",
-   "C. persegi",
-   "D. segitiga"
+   "B. lingkaran yang bulat",
+   "C. persegi bersisi sama",
+   "D. segitiga bersisi tiga"
   ],
   "answer": "A",
   "explanation": "pintu berbentuk persegi panjang.",
@@ -28769,17 +29220,15 @@
   "audit": {
    "question_id": "MTK-B4-0006",
    "tp_text": "Murid mampu mendeskripsikan benda berdasarkan bentuk dengan benar sebagai bagian dari mengamalkan ilmu dengan baik.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -28810,7 +29259,25 @@
     "id_asli": "MTK-B4-0006"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+    "verifikasi": "Pintu berbentuk persegi panjang; kunci A tetap; pengecoh bukan bentuk pintu.",
+    "sebelum": {
+     "options": [
+      "A. persegi panjang",
+      "B. lingkaran",
+      "C. persegi",
+      "D. segitiga"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0007",
@@ -29383,7 +29850,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benda \"kotak kado berbentuk kubus\" berbentuk ....",
+  "question": "Benda \"dadu\" berbentuk ....",
   "options": [
    "A. kubus",
    "B. kerucut",
@@ -29391,7 +29858,7 @@
    "D. balok"
   ],
   "answer": "A",
-  "explanation": "kotak kado berbentuk kubus berbentuk kubus.",
+  "explanation": "Dadu berbentuk kubus.",
   "visual_required": false,
   "visual_prompt": null,
   "tags": [
@@ -29401,15 +29868,16 @@
   "audit": {
    "question_id": "MTK-B4-0015",
    "tp_text": "Murid mampu mendeskripsikan benda berdasarkan bentuk dengan benar sebagai bagian dari mengamalkan ilmu dengan baik.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
-    "tinjau_baca_KONSTRUKSI"
+    "tinjau_baca_KONSTRUKSI",
+    "konfirmasi_pasca_revisi"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "TAHAN: Revisi mengganti nama benda/konteks/pernyataan; konfirmasi guru bahwa tuntutan soal tetap sama.",
+   "revision_notes": "Nama benda yang memuat jawaban (\"kotak kado berbentuk kubus\") diganti \"dadu\".",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -29445,7 +29913,21 @@
     "id_asli": "MTK-B4-0015"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Nama benda yang memuat jawaban (\"kotak kado berbentuk kubus\") diganti \"dadu\".",
+    "verifikasi": "Dadu berbentuk kubus; kunci A tetap; kerucut, bola, balok salah.",
+    "sebelum": {
+     "question": "Benda \"kotak kado berbentuk kubus\" berbentuk ....",
+     "explanation": "kotak kado berbentuk kubus berbentuk kubus."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0016",
@@ -29958,10 +30440,10 @@
   "question_type": "fill_in_short",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Isilah: Bentuk benda \"bendera segitiga\" adalah ....",
+  "question": "Isilah: Bentuk benda \"satu potong pizza\" adalah ....",
   "options": null,
   "answer": "segitiga",
-  "explanation": "bendera segitiga berbentuk segitiga.",
+  "explanation": "Satu potong pizza berbentuk segitiga.",
   "visual_required": false,
   "visual_prompt": null,
   "tags": [
@@ -29971,15 +30453,16 @@
   "audit": {
    "question_id": "MTK-B4-0023",
    "tp_text": "Murid mampu mendeskripsikan benda berdasarkan bentuk dengan benar sebagai bagian dari mengamalkan ilmu dengan baik.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
-    "tinjau_baca_KONSTRUKSI"
+    "tinjau_baca_KONSTRUKSI",
+    "konfirmasi_pasca_revisi"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "TAHAN: Revisi mengganti nama benda/konteks/pernyataan; konfirmasi guru bahwa tuntutan soal tetap sama.",
+   "revision_notes": "Nama benda yang memuat jawaban (\"bendera segitiga\") diganti \"satu potong pizza\".",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -29990,16 +30473,6 @@
       ]
      },
      "catatan": "hanya terkait lewat teks TP/materi"
-    },
-    {
-     "nilai": "Cinta Tanah Air",
-     "relevansi": "konteks",
-     "bukti": {
-      "dalam_soal": [
-       "bendera"
-      ]
-     },
-     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
     }
    ],
    "deep_learning_mapping": {
@@ -30025,7 +30498,21 @@
     "id_asli": "MTK-B4-0023"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Nama benda yang memuat jawaban (\"bendera segitiga\") diganti \"satu potong pizza\".",
+    "verifikasi": "Potongan pizza berbentuk segitiga; kunci \"segitiga\" tetap.",
+    "sebelum": {
+     "question": "Isilah: Bentuk benda \"bendera segitiga\" adalah ....",
+     "explanation": "bendera segitiga berbentuk segitiga."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0024",
@@ -31681,10 +32168,10 @@
   "cognitive_level": "mengelompokkan",
   "question": "Benda yang dapat dikelompokkan bersama \"dadu\" berdasarkan bentuknya adalah ....",
   "options": [
-   "A. corong",
+   "A. corong berbentuk kerucut",
    "B. kotak kado berbentuk kubus",
-   "C. lemari es",
-   "D. topi ulang tahun"
+   "C. lemari es berbentuk balok",
+   "D. topi pesta berbentuk kerucut"
   ],
   "answer": "B",
   "explanation": "dadu dan kotak kado berbentuk kubus sama-sama berbentuk kubus.",
@@ -31697,7 +32184,7 @@
   "audit": {
    "question_id": "MTK-B4-0048",
    "tp_text": "Murid mampu mengelompokkan benda berdasarkan bentuknya dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
@@ -31706,11 +32193,9 @@
     "tinjau_baca_KONSTRUKSI",
     "tinjau_baca_DUP_DIPERTAHANKAN"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh diberi nama bentuk juga agar kata \"kubus\" tidak hanya muncul pada kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -31745,7 +32230,26 @@
     "id_asli": "MTK-B4-0048"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI",
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh diberi nama bentuk juga agar kata \"kubus\" tidak hanya muncul pada kunci; teks kunci tidak diubah.",
+    "verifikasi": "Dadu berbentuk kubus sehingga yang sebentuk adalah kotak kado kubus (B); corong/topi kerucut dan lemari es balok bukan kubus.",
+    "sebelum": {
+     "options": [
+      "A. corong",
+      "B. kotak kado berbentuk kubus",
+      "C. lemari es",
+      "D. topi ulang tahun"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0049",
@@ -31889,10 +32393,10 @@
   "cognitive_level": "mengelompokkan",
   "question": "Perhatikan gambar nomor 8 bangun datar! Benda \"pintu\" masuk ke dalam kelompok benda berbentuk ....",
   "options": [
-   "A. segitiga",
-   "B. persegi",
+   "A. segitiga bersisi tiga",
+   "B. persegi bersisi sama",
    "C. persegi panjang",
-   "D. lingkaran"
+   "D. lingkaran yang bulat"
   ],
   "answer": "C",
   "explanation": "pintu termasuk kelompok persegi panjang.",
@@ -31905,17 +32409,15 @@
   "audit": {
    "question_id": "MTK-B4-0051",
    "tp_text": "Murid mampu mengelompokkan benda berdasarkan bentuknya dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -31941,7 +32443,25 @@
     "id_asli": "MTK-B4-0051"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+    "verifikasi": "Gambar pintu persegi panjang; kunci C tetap.",
+    "sebelum": {
+     "options": [
+      "A. segitiga",
+      "B. persegi",
+      "C. persegi panjang",
+      "D. lingkaran"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0052",
@@ -32442,7 +32962,7 @@
   "question_type": "fill_in_short",
   "difficulty": "medium",
   "cognitive_level": "mengelompokkan",
-  "question": "Isilah: \"potongan sandwich segitiga\" dan \"bendera segitiga\" termasuk kelompok benda berbentuk ....",
+  "question": "Isilah: \"satu potong pizza\" dan \"roti tawar yang dibelah miring\" termasuk kelompok benda berbentuk ....",
   "options": null,
   "answer": "segitiga",
   "explanation": "Keduanya berbentuk segitiga.",
@@ -32455,25 +32975,21 @@
   "audit": {
    "question_id": "MTK-B4-0060",
    "tp_text": "Murid mampu mengelompokkan benda berdasarkan bentuknya dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
-    "tinjau_baca_KONSTRUKSI"
+    "tinjau_baca_KONSTRUKSI",
+    "konfirmasi_pasca_revisi"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "TAHAN: Revisi mengganti nama benda/konteks/pernyataan; konfirmasi guru bahwa tuntutan soal tetap sama.",
+   "revision_notes": "Nama benda yang memuat jawaban (\"segitiga\") dinetralkan.",
    "kbc_mapping": [
     {
-     "nilai": "Cinta Tanah Air",
-     "relevansi": "konteks",
-     "bukti": {
-      "dalam_soal": [
-       "bendera"
-      ]
-     },
-     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
+     "nilai": null,
+     "relevansi": "tidak_relevan",
+     "catatan": "KBC tidak harus ada pada setiap soal; soal ini mengukur kompetensi akademik/teknis"
     }
    ],
    "deep_learning_mapping": {
@@ -32499,7 +33015,20 @@
     "id_asli": "MTK-B4-0060"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Nama benda yang memuat jawaban (\"segitiga\") dinetralkan.",
+    "verifikasi": "Keduanya berbentuk segitiga; kunci \"segitiga\" tetap.",
+    "sebelum": {
+     "question": "Isilah: \"potongan sandwich segitiga\" dan \"bendera segitiga\" termasuk kelompok benda berbentuk ...."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0061",
@@ -32725,14 +33254,14 @@
   "audit": {
    "question_id": "MTK-B4-0064",
    "tp_text": "Murid mampu mengelompokkan benda berdasarkan bentuknya dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Item mengelompokkan; penetralan nama \"kotak kado berbentuk kubus\" menyentuh teks kunci/jawaban pengelompokan sehingga perlu keputusan pemilik soal.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -33140,10 +33669,10 @@
   "cognitive_level": "memahami",
   "question": "Persegi panjang dapat dibagi menjadi dua ....",
   "options": [
-   "A. kerucut",
-   "B. bola",
+   "A. kerucut yang lebih kecil",
+   "B. bola kecil yang sama besar",
    "C. persegi panjang yang lebih kecil",
-   "D. lingkaran"
+   "D. lingkaran yang lebih kecil"
   ],
   "answer": "C",
   "explanation": "Jawaban: persegi panjang yang lebih kecil.",
@@ -33156,17 +33685,15 @@
   "audit": {
    "question_id": "MTK-B4-0069",
    "tp_text": "Murid mampu menyusun dan mengurai bentuk benda dengan sabar dan tekun sebagai bentuk ikhtiar dalam belajar dan mengembangkan potensi yang diberikan Allah Swt.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -33231,7 +33758,25 @@
     "id_asli": "MTK-B4-0069"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+    "verifikasi": "Persegi panjang dapat dibagi menjadi dua persegi panjang yang lebih kecil; kunci C tetap.",
+    "sebelum": {
+     "options": [
+      "A. kerucut",
+      "B. bola",
+      "C. persegi panjang yang lebih kecil",
+      "D. lingkaran"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0070",
@@ -33245,11 +33790,11 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "memahami",
-  "question": "Menyusun beberapa bentuk menjadi gambar baru disebut ....",
+  "question": "Membuat gambar baru dari beberapa bentuk, misalnya tangram, disebut ....",
   "options": [
-   "A. melipat angka",
+   "A. menghitung bentuk",
    "B. menyusun bentuk",
-   "C. merobek bentuk",
+   "C. mewarnai bentuk",
    "D. menghapus bentuk"
   ],
   "answer": "B",
@@ -33263,15 +33808,15 @@
   "audit": {
    "question_id": "MTK-B4-0070",
    "tp_text": "Murid mampu menyusun dan mengurai bentuk benda dengan sabar dan tekun sebagai bentuk ikhtiar dalam belajar dan mengembangkan potensi yang diberikan Allah Swt.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Tautologi pada stem dihilangkan dan pengecoh absurd diganti.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -33341,7 +33886,26 @@
     "id_asli": "MTK-B4-0070"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Tautologi pada stem dihilangkan dan pengecoh absurd diganti.",
+    "verifikasi": "Kunci \"menyusun bentuk\" tetap; pengecoh bukan istilah membuat gambar dari bentuk.",
+    "sebelum": {
+     "question": "Menyusun beberapa bentuk menjadi gambar baru disebut ....",
+     "options": [
+      "A. melipat angka",
+      "B. menyusun bentuk",
+      "C. merobek bentuk",
+      "D. menghapus bentuk"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0071",
@@ -33688,10 +34252,10 @@
   "cognitive_level": "memahami",
   "question": "Mengurai bentuk berarti ....",
   "options": [
-   "A. mewarnai",
+   "A. mewarnai seluruh bagian bentuk itu",
    "B. memecah menjadi bagian-bagian kecil",
-   "C. menghitung",
-   "D. menggabungkan"
+   "C. menghitung banyak sisi bentuk itu",
+   "D. menggabungkan dengan bentuk lain"
   ],
   "answer": "B",
   "explanation": "Jawaban: memecah menjadi bagian-bagian kecil.",
@@ -33704,17 +34268,15 @@
   "audit": {
    "question_id": "MTK-B4-0074",
    "tp_text": "Murid mampu menyusun dan mengurai bentuk benda dengan sabar dan tekun sebagai bentuk ikhtiar dalam belajar dan mengembangkan potensi yang diberikan Allah Swt.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -33779,7 +34341,25 @@
     "id_asli": "MTK-B4-0074"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+    "verifikasi": "Mengurai bentuk = memecah; pengecoh bukan arti mengurai.",
+    "sebelum": {
+     "options": [
+      "A. mewarnai",
+      "B. memecah menjadi bagian-bagian kecil",
+      "C. menghitung",
+      "D. menggabungkan"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0075",
@@ -33795,9 +34375,9 @@
   "cognitive_level": "memahami",
   "question": "Sikap sabar dan tekun saat menyusun bentuk adalah bentuk ikhtiar dalam ....",
   "options": [
-   "A. malas",
-   "B. bermain saja",
-   "C. mengganggu",
+   "A. bermalas-malasan saat belajar",
+   "B. bermain tanpa belajar apa pun",
+   "C. mengganggu teman yang sedang belajar",
    "D. belajar dan mengembangkan potensi"
   ],
   "answer": "D",
@@ -33811,18 +34391,16 @@
   "audit": {
    "question_id": "MTK-B4-0075",
    "tp_text": "Murid mampu menyusun dan mengurai bentuk benda dengan sabar dan tekun sebagai bentuk ikhtiar dalam belajar dan mengembangkan potensi yang diberikan Allah Swt.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang",
     "tinjau_baca_KONSTRUKSI"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan tidak lagi absurd.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -33852,7 +34430,8 @@
      "relevansi": "konteks",
      "bukti": {
       "dalam_soal": [
-       "sabar"
+       "sabar",
+       "teman"
       ],
       "dalam_TP_materi": [
        "sabar"
@@ -33902,7 +34481,26 @@
     "id_asli": "MTK-B4-0075"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI",
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan tidak lagi absurd.",
+    "verifikasi": "Kunci D tetap; pengecoh adalah sikap yang bukan ikhtiar sabar dan tekun.",
+    "sebelum": {
+     "options": [
+      "A. malas",
+      "B. bermain saja",
+      "C. mengganggu",
+      "D. belajar dan mengembangkan potensi"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0076",
@@ -33918,10 +34516,10 @@
   "cognitive_level": "menerapkan",
   "question": "Perhatikan gambar! Dua segitiga siku-siku yang sama digabung pada sisi miringnya. Bentuk yang terjadi adalah ....",
   "options": [
-   "A. kubus",
-   "B. lingkaran",
+   "A. kubus dengan enam sisi",
+   "B. lingkaran tanpa sudut",
    "C. persegi panjang atau persegi",
-   "D. bola"
+   "D. bola yang bulat sempurna"
   ],
   "answer": "C",
   "explanation": "Dua segitiga siku-siku sama dapat menjadi persegi/persegi panjang.",
@@ -33934,17 +34532,15 @@
   "audit": {
    "question_id": "MTK-B4-0076",
    "tp_text": "Murid mampu menyusun dan mengurai bentuk benda dengan sabar dan tekun sebagai bentuk ikhtiar dalam belajar dan mengembangkan potensi yang diberikan Allah Swt.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -34009,7 +34605,25 @@
     "id_asli": "MTK-B4-0076"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+    "verifikasi": "Dua segitiga siku-siku sama dirapatkan pada sisi miring membentuk persegi panjang/persegi; kunci C tetap.",
+    "sebelum": {
+     "options": [
+      "A. kubus",
+      "B. lingkaran",
+      "C. persegi panjang atau persegi",
+      "D. bola"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0077",
@@ -34025,9 +34639,9 @@
   "cognitive_level": "menerapkan",
   "question": "Rafi mencoba menyusun tangram menjadi bentuk kelinci, tetapi belum berhasil. Sikap Rafi yang baik adalah ....",
   "options": [
-   "A. menyalahkan temannya",
-   "B. menangis dan berhenti",
-   "C. membuang tangram",
+   "A. menyalahkan temannya karena sulit",
+   "B. menangis lalu berhenti mencoba",
+   "C. membuang tangram ke tempat sampah",
    "D. terus mencoba dengan sabar dan tekun"
   ],
   "answer": "D",
@@ -34041,17 +34655,15 @@
   "audit": {
    "question_id": "MTK-B4-0077",
    "tp_text": "Murid mampu menyusun dan mengurai bentuk benda dengan sabar dan tekun sebagai bentuk ikhtiar dalam belajar dan mengembangkan potensi yang diberikan Allah Swt.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -34087,6 +34699,16 @@
        "sabar"
       ]
      }
+    },
+    {
+     "nilai": "Cinta Lingkungan",
+     "relevansi": "konteks",
+     "bukti": {
+      "dalam_soal": [
+       "sampah"
+      ]
+     },
+     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
     }
    ],
    "deep_learning_mapping": {
@@ -34120,7 +34742,25 @@
     "id_asli": "MTK-B4-0077"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+    "verifikasi": "Kunci D tetap; pengecoh bukan sikap sabar dan tekun.",
+    "sebelum": {
+     "options": [
+      "A. menyalahkan temannya",
+      "B. menangis dan berhenti",
+      "C. membuang tangram",
+      "D. terus mencoba dengan sabar dan tekun"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0078",
@@ -34552,7 +35192,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengingat",
-  "question": "Benar atau salah: Menyusun beberapa bentuk menjadi gambar baru disebut menyusun bentuk",
+  "question": "Benar atau salah: Membuat gambar baru dari beberapa bentuk, misalnya tangram, disebut menyusun bentuk.",
   "options": [
    "Benar",
    "Salah"
@@ -34568,15 +35208,15 @@
   "audit": {
    "question_id": "MTK-B4-0082",
    "tp_text": "Murid mampu menyusun dan mengurai bentuk benda dengan sabar dan tekun sebagai bentuk ikhtiar dalam belajar dan mengembangkan potensi yang diberikan Allah Swt.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Tautologi pada pernyataan dihilangkan.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -34646,7 +35286,20 @@
     "id_asli": "MTK-B4-0082"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Tautologi pada pernyataan dihilangkan.",
+    "verifikasi": "Pernyataan benar; kunci Benar tetap.",
+    "sebelum": {
+     "question": "Benar atau salah: Menyusun beberapa bentuk menjadi gambar baru disebut menyusun bentuk"
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B4-0083",
@@ -35290,14 +35943,14 @@
   "audit": {
    "question_id": "MTK-B4-0089",
    "tp_text": "Murid mampu menyusun dan mengurai bentuk benda dengan sabar dan tekun sebagai bentuk ikhtiar dalam belajar dan mengembangkan potensi yang diberikan Allah Swt.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Isian bebas dengan kunci frasa panjang; perbaikan (ubah ke pilihan ganda/isian terbuka) mengubah format/penilaian dan memerlukan keputusan ahli.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -35395,14 +36048,14 @@
   "audit": {
    "question_id": "MTK-B4-0090",
    "tp_text": "Murid mampu menyusun dan mengurai bentuk benda dengan sabar dan tekun sebagai bentuk ikhtiar dalam belajar dan mengembangkan potensi yang diberikan Allah Swt.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Isian bebas dengan kunci frasa panjang; perbaikan (ubah ke pilihan ganda/isian terbuka) mengubah format/penilaian dan memerlukan keputusan ahli.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -35920,14 +36573,14 @@
   "audit": {
    "question_id": "MTK-B4-0095",
    "tp_text": "Murid mampu menyusun dan mengurai bentuk benda dengan sabar dan tekun sebagai bentuk ikhtiar dalam belajar dan mengembangkan potensi yang diberikan Allah Swt.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Isian bebas dengan kunci frasa panjang; perbaikan (ubah ke pilihan ganda/isian terbuka) mengubah format/penilaian dan memerlukan keputusan ahli.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -41163,13 +41816,13 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "membandingkan",
-  "question": "Benar atau salah: Panjang pintu 5 depa dan panjang buku 4 depa. Buku lebih panjang.",
+  "question": "Benar atau salah: Panjang tali merah 5 depa dan panjang tali biru 4 depa. Tali biru lebih panjang.",
   "options": [
    "Benar",
    "Salah"
   ],
   "answer": "Salah",
-  "explanation": "Yang lebih panjang pintu.",
+  "explanation": "Yang lebih panjang tali merah (5 depa).",
   "visual_required": false,
   "visual_prompt": null,
   "tags": [
@@ -41179,25 +41832,20 @@
   "audit": {
    "question_id": "MTK-B5-0066",
    "tp_text": "Murid mampu membandingkan panjang benda dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Data tidak realistis (buku 4 depa) diganti dua tali.",
    "kbc_mapping": [
     {
-     "nilai": "Cinta Ilmu",
-     "relevansi": "konteks",
-     "bukti": {
-      "dalam_soal": [
-       "buku"
-      ]
-     },
-     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
+     "nilai": null,
+     "relevansi": "tidak_relevan",
+     "catatan": "KBC tidak harus ada pada setiap soal; soal ini mengukur kompetensi akademik/teknis"
     }
    ],
    "deep_learning_mapping": {
@@ -41235,7 +41883,21 @@
     "id_asli": "MTK-B5-0066"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Data tidak realistis (buku 4 depa) diganti dua tali.",
+    "verifikasi": "5 depa > 4 depa sehingga tali merah lebih panjang; pernyataan salah, kunci Salah tetap.",
+    "sebelum": {
+     "question": "Benar atau salah: Panjang pintu 5 depa dan panjang buku 4 depa. Buku lebih panjang.",
+     "explanation": "Yang lebih panjang pintu."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0067",
@@ -41249,13 +41911,13 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "membandingkan",
-  "question": "Benar atau salah: Panjang kain 7 jengkal dan panjang pintu 3 jengkal. Pintu lebih panjang.",
+  "question": "Benar atau salah: Panjang kain merah 7 jengkal dan panjang kain biru 3 jengkal. Kain biru lebih panjang.",
   "options": [
    "Benar",
    "Salah"
   ],
   "answer": "Salah",
-  "explanation": "Yang lebih panjang kain.",
+  "explanation": "Yang lebih panjang kain merah (7 jengkal).",
   "visual_required": false,
   "visual_prompt": null,
   "tags": [
@@ -41265,15 +41927,15 @@
   "audit": {
    "question_id": "MTK-B5-0067",
    "tp_text": "Murid mampu membandingkan panjang benda dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Data tidak realistis (pintu 3 jengkal) diganti dua kain.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -41316,7 +41978,21 @@
     "id_asli": "MTK-B5-0067"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Data tidak realistis (pintu 3 jengkal) diganti dua kain.",
+    "verifikasi": "7 > 3 sehingga kain merah lebih panjang; pernyataan salah, kunci Salah tetap.",
+    "sebelum": {
+     "question": "Benar atau salah: Panjang kain 7 jengkal dan panjang pintu 3 jengkal. Pintu lebih panjang.",
+     "explanation": "Yang lebih panjang kain."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0068",
@@ -42500,7 +43176,7 @@
   "question_type": "multiple_choice_visual",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Perhatikan gambar! Buku diukur dengan klip kertas, dan hasilnya 6 klip kertas. Ukuran buku adalah ....",
+  "question": "Perhatikan gambar! Buku diukur dengan klip kertas. Ukuran buku adalah ....",
   "options": [
    "A. 7 klip kertas",
    "B. 8 klip kertas",
@@ -42518,15 +43194,15 @@
   "audit": {
    "question_id": "MTK-B5-0083",
    "tp_text": "Murid mampu mengukur panjang benda dengan satuan tidak baku.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Hasil ukur dihapus dari stem agar gambar diperlukan.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -42562,7 +43238,20 @@
     "id_asli": "MTK-B5-0083"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Hasil ukur dihapus dari stem agar gambar diperlukan.",
+    "verifikasi": "Gambar menunjukkan 6 klip kertas; kunci tetap 6 klip kertas; opsi lain berbeda.",
+    "sebelum": {
+     "question": "Perhatikan gambar! Buku diukur dengan klip kertas, dan hasilnya 6 klip kertas. Ukuran buku adalah ...."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0084",
@@ -42576,7 +43265,7 @@
   "question_type": "multiple_choice_visual",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Perhatikan gambar! Tongkat diukur dengan langkah, dan hasilnya 6 langkah. Ukuran tongkat adalah ....",
+  "question": "Perhatikan gambar! Lorong kelas diukur dengan langkah. Ukuran lorong kelas adalah ....",
   "options": [
    "A. 5 langkah",
    "B. 7 langkah",
@@ -42586,7 +43275,7 @@
   "answer": "C",
   "explanation": "Hasil pengukuran: 6 langkah.",
   "visual_required": true,
-  "visual_prompt": "Gambar tongkat dengan 6 langkah diletakkan berjajar dari ujung ke ujung tanpa celah.",
+  "visual_prompt": "Gambar lorong kelas dengan 6 langkah kaki diletakkan berjajar dari ujung ke ujung tanpa celah.",
   "tags": [
    "TP-MTK-B5-03",
    "bab-5.-pengukuran-panjang"
@@ -42594,7 +43283,7 @@
   "audit": {
    "question_id": "MTK-B5-0084",
    "tp_text": "Murid mampu mengukur panjang benda dengan satuan tidak baku.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
@@ -42602,8 +43291,8 @@
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Hasil ukur dihapus dari stem agar gambar diperlukan. Tongkat 6 langkah diganti lorong kelas.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -42638,7 +43327,21 @@
     "id_asli": "MTK-B5-0084"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Hasil ukur dihapus dari stem agar gambar diperlukan. Tongkat 6 langkah diganti lorong kelas.",
+    "verifikasi": "Gambar menunjukkan 6 langkah; kunci tetap 6 langkah; opsi lain berbeda.",
+    "sebelum": {
+     "question": "Perhatikan gambar! Tongkat diukur dengan langkah, dan hasilnya 6 langkah. Ukuran tongkat adalah ....",
+     "visual_prompt": "Gambar tongkat dengan 6 langkah diletakkan berjajar dari ujung ke ujung tanpa celah."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0085",
@@ -42652,7 +43355,7 @@
   "question_type": "multiple_choice_visual",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Perhatikan gambar! Karpet diukur dengan jengkal, dan hasilnya 3 jengkal. Ukuran karpet adalah ....",
+  "question": "Perhatikan gambar! Karpet diukur dengan jengkal. Ukuran karpet adalah ....",
   "options": [
    "A. 3 jengkal",
    "B. 4 jengkal",
@@ -42670,15 +43373,15 @@
   "audit": {
    "question_id": "MTK-B5-0085",
    "tp_text": "Murid mampu mengukur panjang benda dengan satuan tidak baku.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Hasil ukur dihapus dari stem agar gambar diperlukan.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -42709,7 +43412,20 @@
     "id_asli": "MTK-B5-0085"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Hasil ukur dihapus dari stem agar gambar diperlukan.",
+    "verifikasi": "Gambar menunjukkan 3 jengkal; kunci tetap 3 jengkal; opsi lain berbeda.",
+    "sebelum": {
+     "question": "Perhatikan gambar! Karpet diukur dengan jengkal, dan hasilnya 3 jengkal. Ukuran karpet adalah ...."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0086",
@@ -42723,7 +43439,7 @@
   "question_type": "multiple_choice_visual",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Perhatikan gambar! Tali diukur dengan klip kertas, dan hasilnya 7 klip kertas. Ukuran tali adalah ....",
+  "question": "Perhatikan gambar! Tali diukur dengan klip kertas. Ukuran tali adalah ....",
   "options": [
    "A. 9 klip kertas",
    "B. 6 klip kertas",
@@ -42741,15 +43457,15 @@
   "audit": {
    "question_id": "MTK-B5-0086",
    "tp_text": "Murid mampu mengukur panjang benda dengan satuan tidak baku.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Hasil ukur dihapus dari stem agar gambar diperlukan.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -42780,7 +43496,20 @@
     "id_asli": "MTK-B5-0086"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Hasil ukur dihapus dari stem agar gambar diperlukan.",
+    "verifikasi": "Gambar menunjukkan 7 klip kertas; kunci tetap 7 klip kertas; opsi lain berbeda.",
+    "sebelum": {
+     "question": "Perhatikan gambar! Tali diukur dengan klip kertas, dan hasilnya 7 klip kertas. Ukuran tali adalah ...."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0087",
@@ -42794,7 +43523,7 @@
   "question_type": "multiple_choice_visual",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Perhatikan gambar! Pita diukur dengan pensil, dan hasilnya 6 pensil. Ukuran pita adalah ....",
+  "question": "Perhatikan gambar! Pita diukur dengan pensil. Ukuran pita adalah ....",
   "options": [
    "A. 7 pensil",
    "B. 8 pensil",
@@ -42812,15 +43541,15 @@
   "audit": {
    "question_id": "MTK-B5-0087",
    "tp_text": "Murid mampu mengukur panjang benda dengan satuan tidak baku.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Hasil ukur dihapus dari stem agar gambar diperlukan.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -42851,7 +43580,20 @@
     "id_asli": "MTK-B5-0087"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Hasil ukur dihapus dari stem agar gambar diperlukan.",
+    "verifikasi": "Gambar menunjukkan 6 pensil; kunci tetap 6 pensil; opsi lain berbeda.",
+    "sebelum": {
+     "question": "Perhatikan gambar! Pita diukur dengan pensil, dan hasilnya 6 pensil. Ukuran pita adalah ...."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0088",
@@ -43042,7 +43784,7 @@
   "question_type": "fill_in_short",
   "difficulty": "hard",
   "cognitive_level": "menerapkan",
-  "question": "Isilah: Jika tongkat diukur dengan langkah, panjangnya 6 langkah. Jika dua tongkat yang sama disambung, panjangnya ....",
+  "question": "Isilah: Jika karpet diukur dengan jengkal, panjangnya 6 jengkal. Jika dua karpet yang sama disambung, panjangnya ....",
   "options": null,
   "answer": "12",
   "explanation": "6 + 6 = 12.",
@@ -43055,15 +43797,15 @@
   "audit": {
    "question_id": "MTK-B5-0091",
    "tp_text": "Murid mampu mengukur panjang benda dengan satuan tidak baku.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Tongkat 6 langkah (tidak realistis) diganti karpet 6 jengkal.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -43094,7 +43836,20 @@
     "id_asli": "MTK-B5-0091"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Tongkat 6 langkah (tidak realistis) diganti karpet 6 jengkal.",
+    "verifikasi": "6 + 6 = 12; kunci 12 tetap.",
+    "sebelum": {
+     "question": "Isilah: Jika tongkat diukur dengan langkah, panjangnya 6 langkah. Jika dua tongkat yang sama disambung, panjangnya ...."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0092",
@@ -43587,10 +44342,10 @@
   "cognitive_level": "memahami",
   "question": "Jika hasil mengukur ternyata salah, kita harus ....",
   "options": [
-   "A. membiarkannya",
-   "B. berbohong",
+   "A. membiarkannya tanpa memeriksa",
+   "B. mengubah hasil tanpa mengukur",
    "C. mengukur ulang dengan teliti",
-   "D. menyalahkan teman"
+   "D. menyalahkan teman sebangku"
   ],
   "answer": "C",
   "explanation": "Jawaban: mengukur ulang dengan teliti.",
@@ -43603,18 +44358,16 @@
   "audit": {
    "question_id": "MTK-B5-0100",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "petunjuk_kunci_terpanjang",
     "tinjau_baca_KONSTRUKSI"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh absurd (\"berbohong\") diganti dan dipanjangkan.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -43660,7 +44413,26 @@
     "id_asli": "MTK-B5-0100"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI",
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh absurd (\"berbohong\") diganti dan dipanjangkan.",
+    "verifikasi": "Kunci C tetap; pengecoh bukan cara memperbaiki hasil ukur.",
+    "sebelum": {
+     "options": [
+      "A. membiarkannya",
+      "B. berbohong",
+      "C. mengukur ulang dengan teliti",
+      "D. menyalahkan teman"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0101",
@@ -43676,10 +44448,10 @@
   "cognitive_level": "memahami",
   "question": "Mengukur dengan benar dan jujur menunjukkan sikap ....",
   "options": [
-   "A. curang",
-   "B. malas",
+   "A. curang saat bekerja",
+   "B. malas dan ceroboh",
    "C. bertanggung jawab",
-   "D. sombong"
+   "D. sombong kepada teman"
   ],
   "answer": "C",
   "explanation": "Jawaban: bertanggung jawab.",
@@ -43692,18 +44464,16 @@
   "audit": {
    "question_id": "MTK-B5-0101",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang",
     "tinjau_baca_KONSTRUKSI"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan sejajar kunci.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -43720,7 +44490,8 @@
      "relevansi": "konteks",
      "bukti": {
       "dalam_soal": [
-       "jujur"
+       "jujur",
+       "teman"
       ]
      },
      "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
@@ -43749,7 +44520,26 @@
     "id_asli": "MTK-B5-0101"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI",
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+    "verifikasi": "Mengukur benar dan jujur = bertanggung jawab; kunci C tetap.",
+    "sebelum": {
+     "options": [
+      "A. curang",
+      "B. malas",
+      "C. bertanggung jawab",
+      "D. sombong"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0102",
@@ -43766,9 +44556,9 @@
   "question": "Alat ukur setelah dipakai sebaiknya ....",
   "options": [
    "A. disimpan kembali dengan rapi",
-   "B. dirusak",
-   "C. diletakkan sembarangan",
-   "D. dibuang"
+   "B. dibiarkan tergeletak di lantai",
+   "C. dimasukkan ke tas dengan asal",
+   "D. dibuang ke tempat sampah"
   ],
   "answer": "A",
   "explanation": "Jawaban: disimpan kembali dengan rapi.",
@@ -43781,15 +44571,15 @@
   "audit": {
    "question_id": "MTK-B5-0102",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh absurd (\"dirusak\") diganti yang lebih wajar dan sejajar panjang.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -43800,6 +44590,16 @@
       ]
      },
      "catatan": "hanya terkait lewat teks TP/materi"
+    },
+    {
+     "nilai": "Cinta Lingkungan",
+     "relevansi": "konteks",
+     "bukti": {
+      "dalam_soal": [
+       "sampah"
+      ]
+     },
+     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
     }
    ],
    "deep_learning_mapping": {
@@ -43825,7 +44625,25 @@
     "id_asli": "MTK-B5-0102"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Pengecoh absurd (\"dirusak\") diganti yang lebih wajar dan sejajar panjang.",
+    "verifikasi": "Kunci A tetap; pengecoh merupakan perlakuan buruk terhadap alat ukur.",
+    "sebelum": {
+     "options": [
+      "A. disimpan kembali dengan rapi",
+      "B. dirusak",
+      "C. diletakkan sembarangan",
+      "D. dibuang"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0103",
@@ -43842,9 +44660,9 @@
   "question": "Ilmu mengukur membantu kita ketika ....",
   "options": [
    "A. membuat atau membeli sesuatu dengan ukuran tepat",
-   "B. bermimpi",
-   "C. tidur",
-   "D. bermain saja"
+   "B. menebak ukuran tanpa mengukur sama sekali",
+   "C. membaca cerita sebelum tidur malam",
+   "D. bermain bersama teman di halaman sekolah"
   ],
   "answer": "A",
   "explanation": "Jawaban: membuat atau membeli sesuatu dengan ukuran tepat.",
@@ -43857,25 +44675,25 @@
   "audit": {
    "question_id": "MTK-B5-0103",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang",
     "tinjau_baca_KONSTRUKSI"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh absurd diganti dan dipanjangkan.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
      "relevansi": "konteks",
      "bukti": {
       "dalam_soal": [
-       "ilmu"
+       "ilmu",
+       "membaca",
+       "sekolah"
       ],
       "dalam_TP_materi": [
        "ilmu"
@@ -43888,7 +44706,8 @@
      "relevansi": "konteks",
      "bukti": {
       "dalam_soal": [
-       "membantu"
+       "membantu",
+       "teman"
       ]
      },
      "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
@@ -43922,7 +44741,26 @@
     "id_asli": "MTK-B5-0103"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI",
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh absurd diganti dan dipanjangkan.",
+    "verifikasi": "Kunci A tetap; pengecoh bukan manfaat ilmu mengukur.",
+    "sebelum": {
+     "options": [
+      "A. membuat atau membeli sesuatu dengan ukuran tepat",
+      "B. bermimpi",
+      "C. tidur",
+      "D. bermain saja"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0104",
@@ -43936,7 +44774,7 @@
   "question_type": "contextual",
   "difficulty": "hard",
   "cognitive_level": "menerapkan",
-  "question": "Alif menyambung dua pintu yang panjangnya 1 depa dan 8 depa. Panjang sambungannya adalah ... depa.",
+  "question": "Alif menyambung dua tali yang panjangnya 1 depa dan 8 depa. Panjang sambungannya adalah ... depa.",
   "options": [
    "A. 13",
    "B. 11",
@@ -43954,15 +44792,15 @@
   "audit": {
    "question_id": "MTK-B5-0104",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pintu diganti tali.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -43998,7 +44836,20 @@
     "id_asli": "MTK-B5-0104"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Pintu diganti tali.",
+    "verifikasi": "1 + 8 = 9; kunci D (9) tetap.",
+    "sebelum": {
+     "question": "Alif menyambung dua pintu yang panjangnya 1 depa dan 8 depa. Panjang sambungannya adalah ... depa."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0105",
@@ -44012,7 +44863,7 @@
   "question_type": "contextual",
   "difficulty": "hard",
   "cognitive_level": "menerapkan",
-  "question": "Putri memotong karpet sepanjang 6 jengkal sebanyak 2 jengkal untuk tugas sekolah. Sisa panjang karpet adalah ... jengkal.",
+  "question": "Putri memiliki kain sepanjang 6 jengkal. Ia memotong 2 jengkal untuk tugas sekolah. Sisa panjang kain adalah ... jengkal.",
   "options": [
    "A. 4",
    "B. 2",
@@ -44030,7 +44881,7 @@
   "audit": {
    "question_id": "MTK-B5-0105",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
@@ -44038,8 +44889,8 @@
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Redaksi diperjelas (panjang total vs potongan) dan objek diganti kain.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -44087,7 +44938,21 @@
     "id_asli": "MTK-B5-0105"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA",
+     "KONSTRUKSI"
+    ],
+    "alasan": "Redaksi diperjelas (panjang total vs potongan) dan objek diganti kain.",
+    "verifikasi": "6 - 2 = 4; kunci A (4) tetap.",
+    "sebelum": {
+     "question": "Putri memotong karpet sepanjang 6 jengkal sebanyak 2 jengkal untuk tugas sekolah. Sisa panjang karpet adalah ... jengkal."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0106",
@@ -44104,9 +44969,9 @@
   "question": "Ibu meminta Rani mengukur kain dengan jengkal. Hasilnya 8 jengkal. Rani mengukur dengan teliti dan melaporkan apa adanya. Sikap Rani adalah ....",
   "options": [
    "A. bertanggung jawab dan jujur",
-   "B. malas",
-   "C. curang",
-   "D. ceroboh"
+   "B. malas dan asal mengukur",
+   "C. curang dan mengubah hasil",
+   "D. ceroboh dan terburu-buru"
   ],
   "answer": "A",
   "explanation": "Bertanggung jawab.",
@@ -44119,17 +44984,15 @@
   "audit": {
    "question_id": "MTK-B5-0106",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan sejajar kunci.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -44171,7 +45034,25 @@
     "id_asli": "MTK-B5-0106"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+    "verifikasi": "Kunci A tetap; stem menyebut teliti dan jujur sehingga pengecoh salah.",
+    "sebelum": {
+     "options": [
+      "A. bertanggung jawab dan jujur",
+      "B. malas",
+      "C. curang",
+      "D. ceroboh"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0107",
@@ -44185,7 +45066,7 @@
   "question_type": "contextual",
   "difficulty": "hard",
   "cognitive_level": "menerapkan",
-  "question": "Dina memotong lorong kelas sepanjang 7 langkah sebanyak 4 langkah untuk tugas sekolah. Sisa panjang lorong kelas adalah ... langkah.",
+  "question": "Dina memiliki tali sepanjang 7 langkah. Ia memotong 4 langkah untuk tugas sekolah. Sisa panjang tali adalah ... langkah.",
   "options": [
    "A. 6",
    "B. 3",
@@ -44203,7 +45084,7 @@
   "audit": {
    "question_id": "MTK-B5-0107",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
@@ -44211,8 +45092,8 @@
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Redaksi diperjelas dan objek diganti tali.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -44260,7 +45141,21 @@
     "id_asli": "MTK-B5-0107"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA",
+     "KONSTRUKSI"
+    ],
+    "alasan": "Redaksi diperjelas dan objek diganti tali.",
+    "verifikasi": "7 - 4 = 3; kunci B (3) tetap.",
+    "sebelum": {
+     "question": "Dina memotong lorong kelas sepanjang 7 langkah sebanyak 4 langkah untuk tugas sekolah. Sisa panjang lorong kelas adalah ... langkah."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0108",
@@ -44274,7 +45169,7 @@
   "question_type": "contextual",
   "difficulty": "hard",
   "cognitive_level": "menerapkan",
-  "question": "Mira memotong tali sepanjang 10 klip kertas sebanyak 3 klip kertas untuk tugas sekolah. Sisa panjang tali adalah ... klip kertas.",
+  "question": "Mira memiliki pita sepanjang 10 klip kertas. Ia memotong 3 klip kertas untuk tugas sekolah. Sisa panjang pita adalah ... klip kertas.",
   "options": [
    "A. 7",
    "B. 10",
@@ -44292,15 +45187,15 @@
   "audit": {
    "question_id": "MTK-B5-0108",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Redaksi diperjelas (panjang total vs potongan).",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -44344,7 +45239,20 @@
     "id_asli": "MTK-B5-0108"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Redaksi diperjelas (panjang total vs potongan).",
+    "verifikasi": "10 - 3 = 7; kunci A (7) tetap.",
+    "sebelum": {
+     "question": "Mira memotong tali sepanjang 10 klip kertas sebanyak 3 klip kertas untuk tugas sekolah. Sisa panjang tali adalah ... klip kertas."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0109",
@@ -44358,7 +45266,7 @@
   "question_type": "contextual",
   "difficulty": "hard",
   "cognitive_level": "menerapkan",
-  "question": "Dina menyambung dua lorong kelas yang panjangnya 4 langkah dan 7 langkah. Panjang sambungannya adalah ... langkah.",
+  "question": "Dina menyambung dua tali rafia yang panjangnya 4 langkah dan 7 langkah. Panjang sambungannya adalah ... langkah.",
   "options": [
    "A. 11",
    "B. 12",
@@ -44376,15 +45284,15 @@
   "audit": {
    "question_id": "MTK-B5-0109",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Lorong kelas diganti tali rafia.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -44420,7 +45328,20 @@
     "id_asli": "MTK-B5-0109"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Lorong kelas diganti tali rafia.",
+    "verifikasi": "4 + 7 = 11; kunci A (11) tetap.",
+    "sebelum": {
+     "question": "Dina menyambung dua lorong kelas yang panjangnya 4 langkah dan 7 langkah. Panjang sambungannya adalah ... langkah."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0110",
@@ -44434,7 +45355,7 @@
   "question_type": "contextual",
   "difficulty": "hard",
   "cognitive_level": "menerapkan",
-  "question": "Umar menyambung dua tongkat yang panjangnya 1 langkah dan 5 langkah. Panjang sambungannya adalah ... langkah.",
+  "question": "Umar menyambung dua tali tambang yang panjangnya 1 langkah dan 5 langkah. Panjang sambungannya adalah ... langkah.",
   "options": [
    "A. 4",
    "B. 6",
@@ -44452,15 +45373,15 @@
   "audit": {
    "question_id": "MTK-B5-0110",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Tongkat diganti tali tambang.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -44496,7 +45417,20 @@
     "id_asli": "MTK-B5-0110"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Tongkat diganti tali tambang.",
+    "verifikasi": "1 + 5 = 6; kunci B (6) tetap.",
+    "sebelum": {
+     "question": "Umar menyambung dua tongkat yang panjangnya 1 langkah dan 5 langkah. Panjang sambungannya adalah ... langkah."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0111",
@@ -44510,7 +45444,7 @@
   "question_type": "contextual",
   "difficulty": "hard",
   "cognitive_level": "menerapkan",
-  "question": "Aisyah menyambung dua buku yang panjangnya 3 klip kertas dan 10 klip kertas. Panjang sambungannya adalah ... klip kertas.",
+  "question": "Aisyah menyambung dua pita yang panjangnya 3 klip kertas dan 10 klip kertas. Panjang sambungannya adalah ... klip kertas.",
   "options": [
    "A. 15",
    "B. 9",
@@ -44528,28 +45462,25 @@
   "audit": {
    "question_id": "MTK-B5-0111",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Buku diganti pita.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
-     "relevansi": "konteks",
+     "relevansi": "melalui_TP",
      "bukti": {
-      "dalam_soal": [
-       "buku"
-      ],
       "dalam_TP_materi": [
        "ilmu"
       ]
      },
-     "catatan": "nilai muncul pada TP/latar soal, tetapi kunci tidak mengukurnya"
+     "catatan": "hanya terkait lewat teks TP/materi"
     }
    ],
    "deep_learning_mapping": {
@@ -44575,7 +45506,20 @@
     "id_asli": "MTK-B5-0111"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Buku diganti pita.",
+    "verifikasi": "3 + 10 = 13; kunci C (13) tetap.",
+    "sebelum": {
+     "question": "Aisyah menyambung dua buku yang panjangnya 3 klip kertas dan 10 klip kertas. Panjang sambungannya adalah ... klip kertas."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0112",
@@ -44589,7 +45533,7 @@
   "question_type": "contextual",
   "difficulty": "hard",
   "cognitive_level": "menerapkan",
-  "question": "Zaki menyambung dua papan tulis yang panjangnya 2 jengkal dan 9 jengkal. Panjang sambungannya adalah ... jengkal.",
+  "question": "Zaki menyambung dua kain yang panjangnya 2 jengkal dan 9 jengkal. Panjang sambungannya adalah ... jengkal.",
   "options": [
    "A. 10",
    "B. 11",
@@ -44607,15 +45551,15 @@
   "audit": {
    "question_id": "MTK-B5-0112",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Papan tulis diganti kain.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -44651,7 +45595,20 @@
     "id_asli": "MTK-B5-0112"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI"
+    ],
+    "alasan": "Papan tulis diganti kain.",
+    "verifikasi": "2 + 9 = 11; kunci B (11) tetap.",
+    "sebelum": {
+     "question": "Zaki menyambung dua papan tulis yang panjangnya 2 jengkal dan 9 jengkal. Panjang sambungannya adalah ... jengkal."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0113",
@@ -44683,14 +45640,14 @@
   "audit": {
    "question_id": "MTK-B5-0113",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Konteks (kain/tali/pita yang disambung) sudah wajar; catatan menyangkut objek pada butir lain dalam templat. Tidak ada perbaikan teridentifikasi.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -44759,14 +45716,14 @@
   "audit": {
    "question_id": "MTK-B5-0114",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Konteks (kain/tali/pita yang disambung) sudah wajar; catatan menyangkut objek pada butir lain dalam templat. Tidak ada perbaikan teridentifikasi.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -44835,14 +45792,14 @@
   "audit": {
    "question_id": "MTK-B5-0115",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Konteks (kain/tali/pita yang disambung) sudah wajar; catatan menyangkut objek pada butir lain dalam templat. Tidak ada perbaikan teridentifikasi.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -44893,7 +45850,7 @@
   "question_type": "contextual",
   "difficulty": "hard",
   "cognitive_level": "menerapkan",
-  "question": "Alif memotong pintu sepanjang 8 depa sebanyak 1 depa untuk tugas sekolah. Sisa panjang pintu adalah ... depa.",
+  "question": "Alif memiliki tali tambang sepanjang 8 depa. Ia memotong 1 depa untuk tugas sekolah. Sisa panjang tali tambang adalah ... depa.",
   "options": [
    "A. 8",
    "B. 10",
@@ -44911,7 +45868,7 @@
   "audit": {
    "question_id": "MTK-B5-0116",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
@@ -44919,8 +45876,8 @@
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Redaksi diperjelas dan objek diganti tali tambang.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -44968,7 +45925,21 @@
     "id_asli": "MTK-B5-0116"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA",
+     "KONSTRUKSI"
+    ],
+    "alasan": "Redaksi diperjelas dan objek diganti tali tambang.",
+    "verifikasi": "8 - 1 = 7; kunci C (7) tetap.",
+    "sebelum": {
+     "question": "Alif memotong pintu sepanjang 8 depa sebanyak 1 depa untuk tugas sekolah. Sisa panjang pintu adalah ... depa."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B5-0117",
@@ -45756,14 +46727,14 @@
   "audit": {
    "question_id": "MTK-B5-0127",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -45914,14 +46885,14 @@
   "audit": {
    "question_id": "MTK-B5-0129",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -45985,14 +46956,14 @@
   "audit": {
    "question_id": "MTK-B5-0130",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -46120,14 +47091,14 @@
   "audit": {
    "question_id": "MTK-B5-0132",
    "tp_text": "Murid mampu menerapkan ilmu tentang pengukuran panjang dengan benar dan bertanggung jawab dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -63409,10 +64380,10 @@
   "question_type": "contextual",
   "difficulty": "medium",
   "cognitive_level": "menerapkan",
-  "question": "Umar dan Hana membantu penjual menghitung 8 jeruk dan 7 jeruk. Jumlahnya 15 jeruk. Sikap mereka yang baik adalah ....",
+  "question": "Umar dan Hana membantu penjual menghitung 8 jeruk dan 7 jeruk. Sikap mereka yang baik adalah ....",
   "options": [
-   "A. asal menyebut jumlah",
-   "B. menyembunyikan beberapa jeruk",
+   "A. asal menyebut jumlah tanpa menghitung",
+   "B. menyembunyikan beberapa jeruk dari penjual",
    "C. menghitung teliti dan melaporkan apa adanya",
    "D. mengurangi jumlah agar dibayar lebih"
   ],
@@ -63427,15 +64398,15 @@
   "audit": {
    "question_id": "MTK-B7-0112",
    "tp_text": "Murid mampu mengamalkan ilmu penjumlahan dan pengurangan dengan jujur dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Jumlah 15 dihapus dari stem dan pengecoh disejajarkan panjangnya.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -63483,7 +64454,27 @@
     "id_asli": "MTK-B7-0112"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI",
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Jumlah 15 dihapus dari stem dan pengecoh disejajarkan panjangnya.",
+    "verifikasi": "Kunci C tetap; penjelasan 8 + 7 = 15 tetap benar; pengecoh adalah sikap tidak jujur.",
+    "sebelum": {
+     "question": "Umar dan Hana membantu penjual menghitung 8 jeruk dan 7 jeruk. Jumlahnya 15 jeruk. Sikap mereka yang baik adalah ....",
+     "options": [
+      "A. asal menyebut jumlah",
+      "B. menyembunyikan beberapa jeruk",
+      "C. menghitung teliti dan melaporkan apa adanya",
+      "D. mengurangi jumlah agar dibayar lebih"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B7-0113",
@@ -64069,7 +65060,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Zaki menemukan 6 koin di kelas dan 8 koin di halaman. Zaki menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah .... Jawabannya 14.",
+  "question": "Benar atau salah: Zaki menemukan 6 koin di kelas dan 8 koin di halaman. Zaki menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah 14.",
   "options": [
    "Benar",
    "Salah"
@@ -64085,7 +65076,7 @@
   "audit": {
    "question_id": "MTK-B7-0119",
    "tp_text": "Murid mampu mengamalkan ilmu penjumlahan dan pengurangan dengan jujur dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
@@ -64094,8 +65085,8 @@
     "tinjau_baca_DUP_DIPERTAHANKAN"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Kalimat tanya bertitik-titik dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -64151,7 +65142,20 @@
     "id_asli": "MTK-B7-0119"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Kalimat tanya bertitik-titik dirapikan menjadi satu pernyataan.",
+    "verifikasi": "6 + 8 = 14; kunci Benar tetap.",
+    "sebelum": {
+     "question": "Benar atau salah: Zaki menemukan 6 koin di kelas dan 8 koin di halaman. Zaki menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah .... Jawabannya 14."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B7-0120",
@@ -64165,7 +65169,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Fikri menemukan 12 koin di kelas dan 8 koin di halaman. Fikri menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah .... Jawabannya 20.",
+  "question": "Benar atau salah: Fikri menemukan 12 koin di kelas dan 8 koin di halaman. Fikri menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah 20.",
   "options": [
    "Benar",
    "Salah"
@@ -64181,7 +65185,7 @@
   "audit": {
    "question_id": "MTK-B7-0120",
    "tp_text": "Murid mampu mengamalkan ilmu penjumlahan dan pengurangan dengan jujur dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
@@ -64190,8 +65194,8 @@
     "tinjau_baca_DUP_DIPERTAHANKAN"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Kalimat tanya bertitik-titik dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -64247,7 +65251,20 @@
     "id_asli": "MTK-B7-0120"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Kalimat tanya bertitik-titik dirapikan menjadi satu pernyataan.",
+    "verifikasi": "12 + 8 = 20; kunci Benar tetap.",
+    "sebelum": {
+     "question": "Benar atau salah: Fikri menemukan 12 koin di kelas dan 8 koin di halaman. Fikri menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah .... Jawabannya 20."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B7-0121",
@@ -64358,7 +65375,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Alif menemukan 10 koin di kelas dan 6 koin di halaman. Alif menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah .... Jawabannya 16.",
+  "question": "Benar atau salah: Alif menemukan 10 koin di kelas dan 6 koin di halaman. Alif menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah 16.",
   "options": [
    "Benar",
    "Salah"
@@ -64374,7 +65391,7 @@
   "audit": {
    "question_id": "MTK-B7-0122",
    "tp_text": "Murid mampu mengamalkan ilmu penjumlahan dan pengurangan dengan jujur dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
@@ -64383,8 +65400,8 @@
     "tinjau_baca_DUP_DIPERTAHANKAN"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Kalimat tanya bertitik-titik dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -64440,7 +65457,20 @@
     "id_asli": "MTK-B7-0122"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Kalimat tanya bertitik-titik dirapikan menjadi satu pernyataan.",
+    "verifikasi": "10 + 6 = 16; kunci Benar tetap.",
+    "sebelum": {
+     "question": "Benar atau salah: Alif menemukan 10 koin di kelas dan 6 koin di halaman. Alif menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah .... Jawabannya 16."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B7-0123",
@@ -64454,7 +65484,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "menerapkan",
-  "question": "Benar atau salah: Fikri menemukan 12 koin di kelas dan 8 koin di halaman. Fikri menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah .... Jawabannya 19.",
+  "question": "Benar atau salah: Fikri menemukan 12 koin di kelas dan 8 koin di halaman. Fikri menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah 19.",
   "options": [
    "Benar",
    "Salah"
@@ -64470,15 +65500,15 @@
   "audit": {
    "question_id": "MTK-B7-0123",
    "tp_text": "Murid mampu mengamalkan ilmu penjumlahan dan pengurangan dengan jujur dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Kalimat tanya bertitik-titik dirapikan menjadi satu pernyataan.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -64530,7 +65560,20 @@
     "id_asli": "MTK-B7-0123"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Kalimat tanya bertitik-titik dirapikan menjadi satu pernyataan.",
+    "verifikasi": "12 + 8 = 20; kunci Salah tetap.",
+    "sebelum": {
+     "question": "Benar atau salah: Fikri menemukan 12 koin di kelas dan 8 koin di halaman. Fikri menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah .... Jawabannya 19."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B7-0124",
@@ -65068,14 +66111,14 @@
   "audit": {
    "question_id": "MTK-B7-0130",
    "tp_text": "Murid mampu mengamalkan ilmu penjumlahan dan pengurangan dengan jujur dalam kehidupan sehari-hari.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -65376,9 +66419,9 @@
   "cognitive_level": "memahami",
   "question": "Data adalah ....",
   "options": [
-   "A. alat tulis",
-   "B. makanan",
-   "C. mainan",
+   "A. benda yang dipakai untuk menulis",
+   "B. makanan yang dimakan saat istirahat",
+   "C. mainan yang dimainkan di rumah",
    "D. keterangan yang dikumpulkan dan dihitung"
   ],
   "answer": "D",
@@ -65392,18 +66435,16 @@
   "audit": {
    "question_id": "MTK-B8-0001",
    "tp_text": "Murid mampu mengenal berbagai cara dalam menyajikan data.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang",
     "tinjau_baca_KONSTRUKSI"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan sejajar kunci.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -65434,7 +66475,26 @@
     "id_asli": "MTK-B8-0001"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "KONSTRUKSI",
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+    "verifikasi": "Kunci D tetap; pengecoh adalah benda, bukan arti data.",
+    "sebelum": {
+     "options": [
+      "A. alat tulis",
+      "B. makanan",
+      "C. mainan",
+      "D. keterangan yang dikumpulkan dan dihitung"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B8-0002",
@@ -65579,9 +66639,9 @@
   "question": "Pada piktogram, satu gambar mewakili ....",
   "options": [
    "A. satu benda atau satu data",
-   "B. seribu benda",
-   "C. tidak ada",
-   "D. warna"
+   "B. seribu benda sekaligus",
+   "C. tidak mewakili apa pun",
+   "D. warna dari gambar itu"
   ],
   "answer": "A",
   "explanation": "Jawaban: satu benda atau satu data.",
@@ -65594,17 +66654,15 @@
   "audit": {
    "question_id": "MTK-B8-0004",
    "tp_text": "Murid mampu mengenal berbagai cara dalam menyajikan data.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan sejajar kunci.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -65630,7 +66688,25 @@
     "id_asli": "MTK-B8-0004"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+    "verifikasi": "Kunci A tetap; pengecoh keliru.",
+    "sebelum": {
+     "options": [
+      "A. satu benda atau satu data",
+      "B. seribu benda",
+      "C. tidak ada",
+      "D. warna"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B8-0005",
@@ -65715,10 +66791,10 @@
   "cognitive_level": "memahami",
   "question": "Sebelum menyajikan data kita harus ....",
   "options": [
-   "A. melupakan data",
+   "A. melupakan data yang dimiliki",
    "B. mengumpulkan dan menghitung data",
-   "C. membuang data",
-   "D. menghapus data"
+   "C. membuang data tanpa dihitung",
+   "D. menghapus data yang terkumpul"
   ],
   "answer": "B",
   "explanation": "Jawaban: mengumpulkan dan menghitung data.",
@@ -65731,17 +66807,15 @@
   "audit": {
    "question_id": "MTK-B8-0006",
    "tp_text": "Murid mampu mengenal berbagai cara dalam menyajikan data.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan sejajar kunci.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -65767,7 +66841,25 @@
     "id_asli": "MTK-B8-0006"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+    "verifikasi": "Kunci B tetap; pengecoh bertentangan dengan menyajikan data.",
+    "sebelum": {
+     "options": [
+      "A. melupakan data",
+      "B. mengumpulkan dan menghitung data",
+      "C. membuang data",
+      "D. menghapus data"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B8-0007",
@@ -65845,7 +66937,7 @@
   "question_type": "multiple_choice_visual",
   "difficulty": "medium",
   "cognitive_level": "membandingkan",
-  "question": "Perhatikan piktogram buku di rak! pelajaran digambar 4 kali dan gambar digambar 3 kali. Yang digambar lebih banyak adalah ....",
+  "question": "Perhatikan piktogram buku di rak! Jenis buku yang paling banyak adalah ....",
   "options": [
    "A. pelajaran",
    "B. gambar",
@@ -65853,9 +66945,9 @@
    "D. sama banyak"
   ],
   "answer": "A",
-  "explanation": "Bandingkan banyak gambar.",
+  "explanation": "Bandingkan banyak simbol: buku pelajaran 4, buku gambar 3.",
   "visual_required": true,
-  "visual_prompt": "Piktogram buku di rak: baris pelajaran berisi 4 gambar kecil, baris gambar berisi 3 gambar kecil.",
+  "visual_prompt": "Piktogram buku di rak: baris buku pelajaran berisi 4 simbol buku kecil, baris buku gambar berisi 3 simbol buku kecil.",
   "tags": [
    "TP-MTK-B8-01",
    "bab-8.-data"
@@ -65863,15 +66955,15 @@
   "audit": {
    "question_id": "MTK-B8-0008",
    "tp_text": "Murid mampu mengenal berbagai cara dalam menyajikan data.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Kalimat ambigu (\"digambar\") diganti pertanyaan jelas; data dibaca dari gambar.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Ilmu",
@@ -65920,7 +67012,22 @@
     "id_asli": "MTK-B8-0008"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Kalimat ambigu (\"digambar\") diganti pertanyaan jelas; data dibaca dari gambar.",
+    "verifikasi": "4 > 3 sehingga pelajaran paling banyak; kunci A tetap.",
+    "sebelum": {
+     "question": "Perhatikan piktogram buku di rak! pelajaran digambar 4 kali dan gambar digambar 3 kali. Yang digambar lebih banyak adalah ....",
+     "explanation": "Bandingkan banyak gambar.",
+     "visual_prompt": "Piktogram buku di rak: baris pelajaran berisi 4 gambar kecil, baris gambar berisi 3 gambar kecil."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B8-0009",
@@ -67193,14 +68300,14 @@
   "audit": {
    "question_id": "MTK-B8-0029",
    "tp_text": "Murid mampu mengenal berbagai cara dalam menyajikan data.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -67318,14 +68425,14 @@
   "audit": {
    "question_id": "MTK-B8-0031",
    "tp_text": "Murid mampu mengenal berbagai cara dalam menyajikan data.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_KONSTRUKSI"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
+   "recommended_action": "TAHAN: revisi ditunda karena butuh keputusan guru/ahli (Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli.)",
    "revision_notes": "",
    "kbc_mapping": [
     {
@@ -67664,10 +68771,10 @@
   "cognitive_level": "memahami",
   "question": "Untuk menghitung data dengan mudah, kita ....",
   "options": [
-   "A. tidak menghitung",
+   "A. tidak menghitung sama sekali",
    "B. mengelompokkan terlebih dahulu",
-   "C. menghapus data",
-   "D. mencampur semua"
+   "C. menghapus sebagian data",
+   "D. mencampur semua data jadi satu"
   ],
   "answer": "B",
   "explanation": "Jawaban: mengelompokkan terlebih dahulu.",
@@ -67680,17 +68787,15 @@
   "audit": {
    "question_id": "MTK-B8-0036",
    "tp_text": "Murid mampu mengelompokkan data dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan sejajar kunci.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -67716,7 +68821,25 @@
     "id_asli": "MTK-B8-0036"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+    "verifikasi": "Kunci B tetap; pengecoh tidak membantu menghitung.",
+    "sebelum": {
+     "options": [
+      "A. tidak menghitung",
+      "B. mengelompokkan terlebih dahulu",
+      "C. menghapus data",
+      "D. mencampur semua"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "MTK-B8-0037",

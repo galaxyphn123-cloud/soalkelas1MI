@@ -1,9 +1,8 @@
 {
  "tanggal": "2026-10-12",
  "total": {
-  "PASS": 6313,
-  "REVISE": 1601,
-  "NEEDS_REVIEW": 1086
+  "PASS": 7698,
+  "NEEDS_REVIEW": 1302
  },
  "jumlah_soal": 9000,
  "per_mapel": {
@@ -15,19 +14,16 @@
     "NEEDS_REVIEW": 165
    },
    "status_akhir": {
-    "PASS": 569,
-    "REVISE": 266,
-    "NEEDS_REVIEW": 165
+    "PASS": 830,
+    "NEEDS_REVIEW": 170
    },
-   "revisi_diterima": 0,
+   "revisi_diterima": 265,
    "revisi_ditolak_validasi": 0,
-   "tidak_direvisi": 0,
-   "belum_ditangani": 266,
+   "tidak_direvisi": 1,
+   "belum_ditangani": 0,
    "isu_struktur_tersisa": {
-    "petunjuk_kunci_terpanjang": 260,
-    "isian_jawaban_terbuka": 46,
-    "grouping_kunci_tak_valid": 1,
-    "opsi_semua_benar": 1
+    "petunjuk_kunci_terpanjang": 36,
+    "isian_jawaban_terbuka": 8
    },
    "atp_final": {
     "SELARAS_MESIN": 634,
@@ -78,16 +74,15 @@
     "REVISE": 48
    },
    "status_akhir": {
-    "PASS": 871,
-    "NEEDS_REVIEW": 81,
-    "REVISE": 48
+    "PASS": 917,
+    "NEEDS_REVIEW": 83
    },
-   "revisi_diterima": 0,
+   "revisi_diterima": 48,
    "revisi_ditolak_validasi": 0,
    "tidak_direvisi": 0,
-   "belum_ditangani": 48,
+   "belum_ditangani": 0,
    "isu_struktur_tersisa": {
-    "petunjuk_kunci_terpanjang": 51
+    "petunjuk_kunci_terpanjang": 5
    },
    "atp_final": {
     "SELARAS_MESIN": 836,
@@ -138,16 +133,15 @@
     "NEEDS_REVIEW": 34
    },
    "status_akhir": {
-    "PASS": 915,
-    "REVISE": 51,
+    "PASS": 966,
     "NEEDS_REVIEW": 34
    },
-   "revisi_diterima": 0,
+   "revisi_diterima": 51,
    "revisi_ditolak_validasi": 0,
    "tidak_direvisi": 0,
-   "belum_ditangani": 51,
+   "belum_ditangani": 0,
    "isu_struktur_tersisa": {
-    "petunjuk_kunci_terpanjang": 40
+    "petunjuk_kunci_terpanjang": 1
    },
    "atp_final": {
     "SELARAS_MESIN": 580,
@@ -194,16 +188,15 @@
     "REVISE": 132
    },
    "status_akhir": {
-    "PASS": 770,
-    "NEEDS_REVIEW": 98,
-    "REVISE": 132
+    "PASS": 891,
+    "NEEDS_REVIEW": 109
    },
-   "revisi_diterima": 0,
+   "revisi_diterima": 122,
    "revisi_ditolak_validasi": 0,
-   "tidak_direvisi": 0,
-   "belum_ditangani": 132,
+   "tidak_direvisi": 10,
+   "belum_ditangani": 0,
    "isu_struktur_tersisa": {
-    "petunjuk_kunci_terpanjang": 117
+    "petunjuk_kunci_terpanjang": 11
    },
    "atp_final": {
     "SELARAS_MESIN": 773,
@@ -253,16 +246,15 @@
     "REVISE": 242
    },
    "status_akhir": {
-    "PASS": 634,
-    "NEEDS_REVIEW": 124,
-    "REVISE": 242
+    "PASS": 870,
+    "NEEDS_REVIEW": 130
    },
-   "revisi_diterima": 0,
+   "revisi_diterima": 239,
    "revisi_ditolak_validasi": 0,
-   "tidak_direvisi": 0,
-   "belum_ditangani": 242,
+   "tidak_direvisi": 3,
+   "belum_ditangani": 0,
    "isu_struktur_tersisa": {
-    "petunjuk_kunci_terpanjang": 52
+    "petunjuk_kunci_terpanjang": 10
    },
    "atp_final": {
     "SELARAS_TINJAU_BACA": 72,
@@ -310,16 +302,15 @@
     "REVISE": 91
    },
    "status_akhir": {
-    "PASS": 835,
-    "NEEDS_REVIEW": 74,
-    "REVISE": 91
+    "PASS": 905,
+    "NEEDS_REVIEW": 95
    },
-   "revisi_diterima": 0,
+   "revisi_diterima": 75,
    "revisi_ditolak_validasi": 0,
-   "tidak_direvisi": 0,
-   "belum_ditangani": 91,
+   "tidak_direvisi": 16,
+   "belum_ditangani": 0,
    "isu_struktur_tersisa": {
-    "petunjuk_kunci_terpanjang": 23
+    "petunjuk_kunci_terpanjang": 2
    },
    "atp_final": {
     "SELARAS_MESIN": 571,
@@ -372,16 +363,15 @@
     "NEEDS_REVIEW": 188
    },
    "status_akhir": {
-    "PASS": 573,
-    "REVISE": 239,
-    "NEEDS_REVIEW": 188
+    "PASS": 750,
+    "NEEDS_REVIEW": 250
    },
-   "revisi_diterima": 0,
+   "revisi_diterima": 179,
    "revisi_ditolak_validasi": 0,
-   "tidak_direvisi": 0,
-   "belum_ditangani": 239,
+   "tidak_direvisi": 62,
+   "belum_ditangani": 0,
    "isu_struktur_tersisa": {
-    "petunjuk_kunci_terpanjang": 65
+    "petunjuk_kunci_terpanjang": 7
    },
    "atp_final": {
     "SELARAS_TINJAU_BACA": 182,
@@ -433,16 +423,15 @@
     "REVISE": 347
    },
    "status_akhir": {
-    "NEEDS_REVIEW": 203,
-    "PASS": 450,
-    "REVISE": 347
+    "NEEDS_REVIEW": 294,
+    "PASS": 706
    },
-   "revisi_diterima": 0,
+   "revisi_diterima": 261,
    "revisi_ditolak_validasi": 0,
-   "tidak_direvisi": 0,
-   "belum_ditangani": 347,
+   "tidak_direvisi": 87,
+   "belum_ditangani": 0,
    "isu_struktur_tersisa": {
-    "petunjuk_kunci_terpanjang": 67
+    "petunjuk_kunci_terpanjang": 7
    },
    "atp_final": {
     "SELARAS_TINJAU_BACA": 221,
@@ -494,16 +483,15 @@
     "NEEDS_REVIEW": 119
    },
    "status_akhir": {
-    "REVISE": 185,
-    "PASS": 696,
-    "NEEDS_REVIEW": 119
+    "PASS": 863,
+    "NEEDS_REVIEW": 137
    },
-   "revisi_diterima": 0,
+   "revisi_diterima": 183,
    "revisi_ditolak_validasi": 0,
-   "tidak_direvisi": 0,
-   "belum_ditangani": 185,
+   "tidak_direvisi": 6,
+   "belum_ditangani": 0,
    "isu_struktur_tersisa": {
-    "petunjuk_kunci_terpanjang": 19
+    "petunjuk_kunci_terpanjang": 3
    },
    "atp_final": {
     "SELARAS_TINJAU_BACA": 205,

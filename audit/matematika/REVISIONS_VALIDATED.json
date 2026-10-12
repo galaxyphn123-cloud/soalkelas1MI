@@ -1,99 +1,1012 @@
 {
  "mapel": "Matematika",
- "diterima": {},
+ "diterima": {
+  "MTK-B1-0106": {
+   "perubahan": {
+    "options": [
+     "A. adil dan saling berbagi",
+     "B. curang dan menang sendiri",
+     "C. berebut dan saling marah",
+     "D. pelit dan tidak mau berbagi"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Gambar: 10 kelereng terbagi 5 dan 5, sehingga adil dan saling berbagi tetap benar; opsi lain bertentangan dengan gambar.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B1-0114": {
+   "perubahan": {
+    "options": [
+     "A. menghitung dengan teliti dan memberi dengan ikhlas",
+     "B. menghitung asal-asalan dan memberi dengan terpaksa",
+     "C. menghitung dengan teliti lalu memberi sambil marah",
+     "D. memberi asal-asalan lalu menyombongkan diri"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh absurd (\"mengambil kembali\") diganti pengecoh yang masuk akal dan panjangnya sejajar dengan kunci.",
+   "verifikasi": "Kunci tidak berubah; ketiga pengecoh memuat sikap yang jelas tidak baik (asal-asalan, terpaksa, marah, sombong) sehingga hanya A yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B1-0131": {
+   "perubahan": {
+    "question": "Lengkapi: Rafi punya 4 kue. Melihat temannya tidak punya kue, Rafi ....",
+    "explanation": "Berbagi adil: 4 dibagi 2 = 2, jadi masing-masing mendapat 2 kue."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Data tidak cukup: banyak kue Rafi ditambahkan ke stem (4 kue) agar kunci \"masing-masing 2\" dapat diturunkan.",
+   "verifikasi": "Kunci tetap \"membagi kuenya sama banyak, masing-masing 2\": 4 kue dibagi untuk 2 anak = 2 kue masing-masing.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0086": {
+   "perubahan": {
+    "question": "Di keranjang ada 4 bola. Ibu memasukkan 6 bola lagi. Berapa seluruh bola di keranjang?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Benda kursi diganti bola agar konteks wajar; angka dan kunci tetap.",
+   "verifikasi": "4 + 6 = 10; kunci 10 tetap, opsi lain (11, 6, 7) salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0102": {
+   "perubahan": {
+    "question": "Di keranjang ada 4 bola. Ibu memasukkan 6 bola lagi. Berapa seluruh bola di keranjang? Jawaban: ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Benda kursi diganti bola agar konteks wajar; angka dan kunci tetap.",
+   "verifikasi": "4 + 6 = 10; kunci 10 tetap, opsi lain (11, 6, 7) salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0088": {
+   "perubahan": {
+    "question": "Benar atau salah: Di keranjang ada 6 apel. Ibu memasukkan 1 apel lagi. Seluruh apel di keranjang ada 7."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+   "verifikasi": "6 + 1 = 7; kunci tetap Benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0089": {
+   "perubahan": {
+    "question": "Benar atau salah: Mira membeli 4 pisang di pagi hari dan 5 pisang di sore hari. Jumlah pisang yang dibeli Mira adalah 9."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+   "verifikasi": "4 + 5 = 9; kunci tetap Benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0090": {
+   "perubahan": {
+    "question": "Benar atau salah: Umar membeli 9 permen di pagi hari dan 1 permen di sore hari. Jumlah permen yang dibeli Umar adalah 10."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+   "verifikasi": "9 + 1 = 10; kunci tetap Benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0091": {
+   "perubahan": {
+    "question": "Benar atau salah: Di keranjang ada 3 pisang. Ibu memasukkan 3 pisang lagi. Seluruh pisang di keranjang ada 6."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+   "verifikasi": "3 + 3 = 6; kunci tetap Benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0092": {
+   "perubahan": {
+    "question": "Benar atau salah: Dani memiliki 4 jeruk. Kemudian Dani mendapat 3 jeruk lagi. Sekarang jeruk Dani ada 7."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+   "verifikasi": "4 + 3 = 7; kunci tetap Benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0093": {
+   "perubahan": {
+    "question": "Benar atau salah: Rafi membeli 4 pensil di pagi hari dan 1 pensil di sore hari. Jumlah pensil yang dibeli Rafi adalah 5."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+   "verifikasi": "4 + 1 = 5; kunci tetap Benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0094": {
+   "perubahan": {
+    "question": "Benar atau salah: Di keranjang ada 3 kue. Ibu memasukkan 5 kue lagi. Seluruh kue di keranjang ada 10."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+   "verifikasi": "3 + 5 = 8, bukan 10; kunci tetap Salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0095": {
+   "perubahan": {
+    "question": "Benar atau salah: Aisyah membeli 2 ikan di pagi hari dan 2 ikan di sore hari. Jumlah ikan yang dibeli Aisyah adalah 3."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+   "verifikasi": "2 + 2 = 4, bukan 3; kunci tetap Salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0096": {
+   "perubahan": {
+    "question": "Benar atau salah: Aisyah memiliki 5 ikan. Kemudian Aisyah mendapat 2 ikan lagi. Sekarang ikan Aisyah ada 9."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+   "verifikasi": "5 + 2 = 7, bukan 9; kunci tetap Salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0097": {
+   "perubahan": {
+    "question": "Benar atau salah: Hasan memiliki 1 balon. Kemudian Hasan mendapat 8 balon lagi. Sekarang balon Hasan ada 10."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+   "verifikasi": "1 + 8 = 9, bukan 10; kunci tetap Salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0098": {
+   "perubahan": {
+    "question": "Benar atau salah: Salma membeli 1 bunga di pagi hari dan 2 bunga di sore hari. Jumlah bunga yang dibeli Salma adalah 4."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pertanyaan \"Berapa ...?\" dan \"Jawabannya N\" dirapikan menjadi satu pernyataan.",
+   "verifikasi": "1 + 2 = 3, bukan 4; kunci tetap Salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0106": {
+   "perubahan": {
+    "options": [
+     "A. Allah dan sesama",
+     "B. dirinya sendiri saja",
+     "C. orang yang berbuat curang",
+     "D. orang yang suka berbohong"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh (\"setan\", \"tidak ada\", \"musuhnya\") diganti pengecoh yang lebih masuk akal dan sejajar panjangnya.",
+   "verifikasi": "Kunci \"Allah dan sesama\" tetap; pengecoh bertentangan dengan stem bahwa orang jujur disukai.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0108": {
+   "perubahan": {
+    "options": [
+     "A. dikurangi beberapa buah",
+     "B. sesuai jumlah sebenarnya",
+     "C. disebut dengan asal-asalan",
+     "D. ditambah-tambah sedikit"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Kunci \"sesuai jumlah sebenarnya\" tetap; pengecoh semuanya menyimpang dari jumlah sebenarnya.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0110": {
+   "perubahan": {
+    "options": [
+     "A. asal hitung agar cepat",
+     "B. teliti dan jujur",
+     "C. menghitung sambil bermain",
+     "D. tergesa-gesa"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh \"curang/asal-asalan\" diganti perilaku menghitung yang tidak teliti dan lebih wajar.",
+   "verifikasi": "Kunci \"teliti dan jujur\" tetap; pengecoh menggambarkan menghitung tidak teliti sehingga tidak ada yang benar selain B.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B2-0123": {
+   "perubahan": {
+    "question": "Benar atau salah: Orang yang jujur dalam berhitung tidak akan disukai siapa pun.",
+    "explanation": "Salah. Orang yang jujur dalam berhitung akan disukai Allah dan sesama."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pernyataan tidak gramatikal (\"disukai tidak ada\") dirapikan.",
+   "verifikasi": "Pernyataan salah karena orang jujur disukai Allah dan sesama; kunci tetap Salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B3-0088": {
+   "perubahan": {
+    "question": "Di rak ada 10 topi. Sebanyak 2 topi diambil. Berapa topi yang tersisa?"
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Topi \"dimakan\" diganti \"diambil\" agar wajar.",
+   "verifikasi": "10 - 2 = 8; kunci 8 tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B3-0091": {
+   "perubahan": {
+    "question": "Benar atau salah: Fikri membawa 10 buku. Sebanyak 9 buku jatuh. Buku yang masih dibawa Fikri ada 1."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Membawa 10 kursi diganti 10 buku; pertanyaan dirapikan jadi pernyataan.",
+   "verifikasi": "10 - 9 = 1; kunci Benar tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B3-0092": {
+   "perubahan": {
+    "question": "Benar atau salah: Di rak ada 10 topi. Sebanyak 2 topi diambil. Topi yang tersisa ada 8."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Topi \"dimakan\" diganti \"diambil\"; pernyataan dirapikan.",
+   "verifikasi": "10 - 2 = 8; kunci Benar tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B3-0093": {
+   "perubahan": {
+    "question": "Benar atau salah: Di kotak ada 5 kelereng. Sebanyak 4 kelereng diambil. Kelereng yang tersisa ada 1."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Kelereng \"dimakan\" diganti \"diambil\"; pernyataan dirapikan.",
+   "verifikasi": "5 - 4 = 1; kunci Benar tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B3-0094": {
+   "perubahan": {
+    "question": "Benar atau salah: Fikri membawa 10 buku. Sebanyak 9 buku jatuh. Buku yang masih dibawa Fikri ada 2."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Membawa 10 kursi diganti 10 buku; pernyataan dirapikan.",
+   "verifikasi": "10 - 9 = 1, bukan 2; kunci Salah tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B3-0100": {
+   "perubahan": {
+    "question": "Di kotak ada 9 pensil. Sebanyak 1 pensil diambil. Berapa pensil yang tersisa? Jawaban: ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pensil \"dimakan\" diganti \"diambil\".",
+   "verifikasi": "9 - 1 = 8; kunci 8 tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B3-0103": {
+   "perubahan": {
+    "question": "Fikri membawa 10 buku. Sebanyak 9 buku jatuh. Berapa buku yang masih dibawa Fikri? Jawaban: ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Membawa 10 kursi diganti 10 buku.",
+   "verifikasi": "10 - 9 = 1; kunci 1 tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B3-0109": {
+   "perubahan": {
+    "options": [
+     "A. sesama",
+     "B. benda mati",
+     "C. mainan miliknya",
+     "D. barang yang dibagikan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd (\"televisi\") diganti yang lebih wajar.",
+   "verifikasi": "Berbagi kepada teman yang membutuhkan menunjukkan kepedulian kepada sesama; kunci tetap A; pengecoh adalah benda, bukan penerima kepedulian.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B3-0113": {
+   "perubahan": {
+    "options": [
+     "A. pelit kepada tetangga",
+     "B. tidak peduli pada tetangga",
+     "C. peduli kepada sesama",
+     "D. serakah dan menang sendiri"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Mira memberi 2 apel dari 7 (sisa 5), perilaku peduli; kunci C tetap, pengecoh bertentangan dengan tindakan memberi.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0002": {
+   "perubahan": {
+    "options": [
+     "A. lingkaran yang bulat",
+     "B. segitiga bersisi tiga",
+     "C. persegi bersisi sama",
+     "D. persegi panjang"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Layar televisi berbentuk persegi panjang; kunci D tetap; pengecoh bukan bentuk layar.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0006": {
+   "perubahan": {
+    "options": [
+     "A. persegi panjang",
+     "B. lingkaran yang bulat",
+     "C. persegi bersisi sama",
+     "D. segitiga bersisi tiga"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Pintu berbentuk persegi panjang; kunci A tetap; pengecoh bukan bentuk pintu.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0015": {
+   "perubahan": {
+    "question": "Benda \"dadu\" berbentuk ....",
+    "explanation": "Dadu berbentuk kubus."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Nama benda yang memuat jawaban (\"kotak kado berbentuk kubus\") diganti \"dadu\".",
+   "verifikasi": "Dadu berbentuk kubus; kunci A tetap; kerucut, bola, balok salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0023": {
+   "perubahan": {
+    "question": "Isilah: Bentuk benda \"satu potong pizza\" adalah ....",
+    "explanation": "Satu potong pizza berbentuk segitiga."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Nama benda yang memuat jawaban (\"bendera segitiga\") diganti \"satu potong pizza\".",
+   "verifikasi": "Potongan pizza berbentuk segitiga; kunci \"segitiga\" tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0048": {
+   "perubahan": {
+    "options": [
+     "A. corong berbentuk kerucut",
+     "B. kotak kado berbentuk kubus",
+     "C. lemari es berbentuk balok",
+     "D. topi pesta berbentuk kerucut"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diberi nama bentuk juga agar kata \"kubus\" tidak hanya muncul pada kunci; teks kunci tidak diubah.",
+   "verifikasi": "Dadu berbentuk kubus sehingga yang sebentuk adalah kotak kado kubus (B); corong/topi kerucut dan lemari es balok bukan kubus.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0051": {
+   "perubahan": {
+    "options": [
+     "A. segitiga bersisi tiga",
+     "B. persegi bersisi sama",
+     "C. persegi panjang",
+     "D. lingkaran yang bulat"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Gambar pintu persegi panjang; kunci C tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0060": {
+   "perubahan": {
+    "question": "Isilah: \"satu potong pizza\" dan \"roti tawar yang dibelah miring\" termasuk kelompok benda berbentuk ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Nama benda yang memuat jawaban (\"segitiga\") dinetralkan.",
+   "verifikasi": "Keduanya berbentuk segitiga; kunci \"segitiga\" tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0069": {
+   "perubahan": {
+    "options": [
+     "A. kerucut yang lebih kecil",
+     "B. bola kecil yang sama besar",
+     "C. persegi panjang yang lebih kecil",
+     "D. lingkaran yang lebih kecil"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Persegi panjang dapat dibagi menjadi dua persegi panjang yang lebih kecil; kunci C tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0070": {
+   "perubahan": {
+    "question": "Membuat gambar baru dari beberapa bentuk, misalnya tangram, disebut ....",
+    "options": [
+     "A. menghitung bentuk",
+     "B. menyusun bentuk",
+     "C. mewarnai bentuk",
+     "D. menghapus bentuk"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Tautologi pada stem dihilangkan dan pengecoh absurd diganti.",
+   "verifikasi": "Kunci \"menyusun bentuk\" tetap; pengecoh bukan istilah membuat gambar dari bentuk.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0074": {
+   "perubahan": {
+    "options": [
+     "A. mewarnai seluruh bagian bentuk itu",
+     "B. memecah menjadi bagian-bagian kecil",
+     "C. menghitung banyak sisi bentuk itu",
+     "D. menggabungkan dengan bentuk lain"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Mengurai bentuk = memecah; pengecoh bukan arti mengurai.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0075": {
+   "perubahan": {
+    "options": [
+     "A. bermalas-malasan saat belajar",
+     "B. bermain tanpa belajar apa pun",
+     "C. mengganggu teman yang sedang belajar",
+     "D. belajar dan mengembangkan potensi"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan tidak lagi absurd.",
+   "verifikasi": "Kunci D tetap; pengecoh adalah sikap yang bukan ikhtiar sabar dan tekun.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0076": {
+   "perubahan": {
+    "options": [
+     "A. kubus dengan enam sisi",
+     "B. lingkaran tanpa sudut",
+     "C. persegi panjang atau persegi",
+     "D. bola yang bulat sempurna"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Dua segitiga siku-siku sama dirapatkan pada sisi miring membentuk persegi panjang/persegi; kunci C tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0077": {
+   "perubahan": {
+    "options": [
+     "A. menyalahkan temannya karena sulit",
+     "B. menangis lalu berhenti mencoba",
+     "C. membuang tangram ke tempat sampah",
+     "D. terus mencoba dengan sabar dan tekun"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Kunci D tetap; pengecoh bukan sikap sabar dan tekun.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B4-0082": {
+   "perubahan": {
+    "question": "Benar atau salah: Membuat gambar baru dari beberapa bentuk, misalnya tangram, disebut menyusun bentuk."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Tautologi pada pernyataan dihilangkan.",
+   "verifikasi": "Pernyataan benar; kunci Benar tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0066": {
+   "perubahan": {
+    "question": "Benar atau salah: Panjang tali merah 5 depa dan panjang tali biru 4 depa. Tali biru lebih panjang.",
+    "explanation": "Yang lebih panjang tali merah (5 depa)."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Data tidak realistis (buku 4 depa) diganti dua tali.",
+   "verifikasi": "5 depa > 4 depa sehingga tali merah lebih panjang; pernyataan salah, kunci Salah tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0067": {
+   "perubahan": {
+    "question": "Benar atau salah: Panjang kain merah 7 jengkal dan panjang kain biru 3 jengkal. Kain biru lebih panjang.",
+    "explanation": "Yang lebih panjang kain merah (7 jengkal)."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Data tidak realistis (pintu 3 jengkal) diganti dua kain.",
+   "verifikasi": "7 > 3 sehingga kain merah lebih panjang; pernyataan salah, kunci Salah tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0083": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Buku diukur dengan klip kertas. Ukuran buku adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hasil ukur dihapus dari stem agar gambar diperlukan.",
+   "verifikasi": "Gambar menunjukkan 6 klip kertas; kunci tetap 6 klip kertas; opsi lain berbeda.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0084": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Lorong kelas diukur dengan langkah. Ukuran lorong kelas adalah ....",
+    "visual_prompt": "Gambar lorong kelas dengan 6 langkah kaki diletakkan berjajar dari ujung ke ujung tanpa celah."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hasil ukur dihapus dari stem agar gambar diperlukan. Tongkat 6 langkah diganti lorong kelas.",
+   "verifikasi": "Gambar menunjukkan 6 langkah; kunci tetap 6 langkah; opsi lain berbeda.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0085": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Karpet diukur dengan jengkal. Ukuran karpet adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hasil ukur dihapus dari stem agar gambar diperlukan.",
+   "verifikasi": "Gambar menunjukkan 3 jengkal; kunci tetap 3 jengkal; opsi lain berbeda.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0086": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Tali diukur dengan klip kertas. Ukuran tali adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hasil ukur dihapus dari stem agar gambar diperlukan.",
+   "verifikasi": "Gambar menunjukkan 7 klip kertas; kunci tetap 7 klip kertas; opsi lain berbeda.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0087": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Pita diukur dengan pensil. Ukuran pita adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hasil ukur dihapus dari stem agar gambar diperlukan.",
+   "verifikasi": "Gambar menunjukkan 6 pensil; kunci tetap 6 pensil; opsi lain berbeda.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0091": {
+   "perubahan": {
+    "question": "Isilah: Jika karpet diukur dengan jengkal, panjangnya 6 jengkal. Jika dua karpet yang sama disambung, panjangnya ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Tongkat 6 langkah (tidak realistis) diganti karpet 6 jengkal.",
+   "verifikasi": "6 + 6 = 12; kunci 12 tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0100": {
+   "perubahan": {
+    "options": [
+     "A. membiarkannya tanpa memeriksa",
+     "B. mengubah hasil tanpa mengukur",
+     "C. mengukur ulang dengan teliti",
+     "D. menyalahkan teman sebangku"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh absurd (\"berbohong\") diganti dan dipanjangkan.",
+   "verifikasi": "Kunci C tetap; pengecoh bukan cara memperbaiki hasil ukur.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0101": {
+   "perubahan": {
+    "options": [
+     "A. curang saat bekerja",
+     "B. malas dan ceroboh",
+     "C. bertanggung jawab",
+     "D. sombong kepada teman"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Mengukur benar dan jujur = bertanggung jawab; kunci C tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0102": {
+   "perubahan": {
+    "options": [
+     "A. disimpan kembali dengan rapi",
+     "B. dibiarkan tergeletak di lantai",
+     "C. dimasukkan ke tas dengan asal",
+     "D. dibuang ke tempat sampah"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd (\"dirusak\") diganti yang lebih wajar dan sejajar panjang.",
+   "verifikasi": "Kunci A tetap; pengecoh merupakan perlakuan buruk terhadap alat ukur.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0103": {
+   "perubahan": {
+    "options": [
+     "A. membuat atau membeli sesuatu dengan ukuran tepat",
+     "B. menebak ukuran tanpa mengukur sama sekali",
+     "C. membaca cerita sebelum tidur malam",
+     "D. bermain bersama teman di halaman sekolah"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh absurd diganti dan dipanjangkan.",
+   "verifikasi": "Kunci A tetap; pengecoh bukan manfaat ilmu mengukur.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0104": {
+   "perubahan": {
+    "question": "Alif menyambung dua tali yang panjangnya 1 depa dan 8 depa. Panjang sambungannya adalah ... depa."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pintu diganti tali.",
+   "verifikasi": "1 + 8 = 9; kunci D (9) tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0105": {
+   "perubahan": {
+    "question": "Putri memiliki kain sepanjang 6 jengkal. Ia memotong 2 jengkal untuk tugas sekolah. Sisa panjang kain adalah ... jengkal."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Redaksi diperjelas (panjang total vs potongan) dan objek diganti kain.",
+   "verifikasi": "6 - 2 = 4; kunci A (4) tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0106": {
+   "perubahan": {
+    "options": [
+     "A. bertanggung jawab dan jujur",
+     "B. malas dan asal mengukur",
+     "C. curang dan mengubah hasil",
+     "D. ceroboh dan terburu-buru"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci A tetap; stem menyebut teliti dan jujur sehingga pengecoh salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0107": {
+   "perubahan": {
+    "question": "Dina memiliki tali sepanjang 7 langkah. Ia memotong 4 langkah untuk tugas sekolah. Sisa panjang tali adalah ... langkah."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Redaksi diperjelas dan objek diganti tali.",
+   "verifikasi": "7 - 4 = 3; kunci B (3) tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0108": {
+   "perubahan": {
+    "question": "Mira memiliki pita sepanjang 10 klip kertas. Ia memotong 3 klip kertas untuk tugas sekolah. Sisa panjang pita adalah ... klip kertas."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Redaksi diperjelas (panjang total vs potongan).",
+   "verifikasi": "10 - 3 = 7; kunci A (7) tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0109": {
+   "perubahan": {
+    "question": "Dina menyambung dua tali rafia yang panjangnya 4 langkah dan 7 langkah. Panjang sambungannya adalah ... langkah."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Lorong kelas diganti tali rafia.",
+   "verifikasi": "4 + 7 = 11; kunci A (11) tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0110": {
+   "perubahan": {
+    "question": "Umar menyambung dua tali tambang yang panjangnya 1 langkah dan 5 langkah. Panjang sambungannya adalah ... langkah."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Tongkat diganti tali tambang.",
+   "verifikasi": "1 + 5 = 6; kunci B (6) tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0111": {
+   "perubahan": {
+    "question": "Aisyah menyambung dua pita yang panjangnya 3 klip kertas dan 10 klip kertas. Panjang sambungannya adalah ... klip kertas."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Buku diganti pita.",
+   "verifikasi": "3 + 10 = 13; kunci C (13) tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0112": {
+   "perubahan": {
+    "question": "Zaki menyambung dua kain yang panjangnya 2 jengkal dan 9 jengkal. Panjang sambungannya adalah ... jengkal."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Papan tulis diganti kain.",
+   "verifikasi": "2 + 9 = 11; kunci B (11) tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B5-0116": {
+   "perubahan": {
+    "question": "Alif memiliki tali tambang sepanjang 8 depa. Ia memotong 1 depa untuk tugas sekolah. Sisa panjang tali tambang adalah ... depa."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Redaksi diperjelas dan objek diganti tali tambang.",
+   "verifikasi": "8 - 1 = 7; kunci C (7) tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B7-0112": {
+   "perubahan": {
+    "question": "Umar dan Hana membantu penjual menghitung 8 jeruk dan 7 jeruk. Sikap mereka yang baik adalah ....",
+    "options": [
+     "A. asal menyebut jumlah tanpa menghitung",
+     "B. menyembunyikan beberapa jeruk dari penjual",
+     "C. menghitung teliti dan melaporkan apa adanya",
+     "D. mengurangi jumlah agar dibayar lebih"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Jumlah 15 dihapus dari stem dan pengecoh disejajarkan panjangnya.",
+   "verifikasi": "Kunci C tetap; penjelasan 8 + 7 = 15 tetap benar; pengecoh adalah sikap tidak jujur.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B7-0119": {
+   "perubahan": {
+    "question": "Benar atau salah: Zaki menemukan 6 koin di kelas dan 8 koin di halaman. Zaki menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah 14."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat tanya bertitik-titik dirapikan menjadi satu pernyataan.",
+   "verifikasi": "6 + 8 = 14; kunci Benar tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B7-0120": {
+   "perubahan": {
+    "question": "Benar atau salah: Fikri menemukan 12 koin di kelas dan 8 koin di halaman. Fikri menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah 20."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat tanya bertitik-titik dirapikan menjadi satu pernyataan.",
+   "verifikasi": "12 + 8 = 20; kunci Benar tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B7-0122": {
+   "perubahan": {
+    "question": "Benar atau salah: Alif menemukan 10 koin di kelas dan 6 koin di halaman. Alif menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah 16."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat tanya bertitik-titik dirapikan menjadi satu pernyataan.",
+   "verifikasi": "10 + 6 = 16; kunci Benar tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B7-0123": {
+   "perubahan": {
+    "question": "Benar atau salah: Fikri menemukan 12 koin di kelas dan 8 koin di halaman. Fikri menyerahkan semuanya kepada guru dengan jujur. Jumlah koin yang diserahkan adalah 19."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat tanya bertitik-titik dirapikan menjadi satu pernyataan.",
+   "verifikasi": "12 + 8 = 20; kunci Salah tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B8-0001": {
+   "perubahan": {
+    "options": [
+     "A. benda yang dipakai untuk menulis",
+     "B. makanan yang dimakan saat istirahat",
+     "C. mainan yang dimainkan di rumah",
+     "D. keterangan yang dikumpulkan dan dihitung"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci D tetap; pengecoh adalah benda, bukan arti data.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B8-0004": {
+   "perubahan": {
+    "options": [
+     "A. satu benda atau satu data",
+     "B. seribu benda sekaligus",
+     "C. tidak mewakili apa pun",
+     "D. warna dari gambar itu"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci A tetap; pengecoh keliru.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B8-0006": {
+   "perubahan": {
+    "options": [
+     "A. melupakan data yang dimiliki",
+     "B. mengumpulkan dan menghitung data",
+     "C. membuang data tanpa dihitung",
+     "D. menghapus data yang terkumpul"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci B tetap; pengecoh bertentangan dengan menyajikan data.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B8-0008": {
+   "perubahan": {
+    "question": "Perhatikan piktogram buku di rak! Jenis buku yang paling banyak adalah ....",
+    "explanation": "Bandingkan banyak simbol: buku pelajaran 4, buku gambar 3.",
+    "visual_prompt": "Piktogram buku di rak: baris buku pelajaran berisi 4 simbol buku kecil, baris buku gambar berisi 3 simbol buku kecil."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat ambigu (\"digambar\") diganti pertanyaan jelas; data dibaca dari gambar.",
+   "verifikasi": "4 > 3 sehingga pelajaran paling banyak; kunci A tetap.",
+   "berkas": "revisions_p1.json"
+  },
+  "MTK-B8-0036": {
+   "perubahan": {
+    "options": [
+     "A. tidak menghitung sama sekali",
+     "B. mengelompokkan terlebih dahulu",
+     "C. menghapus sebagian data",
+     "D. mencampur semua data jadi satu"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan sejajar kunci.",
+   "verifikasi": "Kunci B tetap; pengecoh tidak membantu menghitung.",
+   "berkas": "revisions_p1.json"
+  }
+ },
  "ditolak_validasi": {},
- "tidak_direvisi": {},
- "belum_ditangani": [
-  "MTK-B1-0106",
-  "MTK-B1-0114",
-  "MTK-B1-0131",
-  "MTK-B2-0086",
-  "MTK-B2-0088",
-  "MTK-B2-0089",
-  "MTK-B2-0090",
-  "MTK-B2-0091",
-  "MTK-B2-0092",
-  "MTK-B2-0093",
-  "MTK-B2-0094",
-  "MTK-B2-0095",
-  "MTK-B2-0096",
-  "MTK-B2-0097",
-  "MTK-B2-0098",
-  "MTK-B2-0102",
-  "MTK-B2-0106",
-  "MTK-B2-0107",
-  "MTK-B2-0108",
-  "MTK-B2-0109",
-  "MTK-B2-0110",
-  "MTK-B2-0123",
-  "MTK-B3-0088",
-  "MTK-B3-0091",
-  "MTK-B3-0092",
-  "MTK-B3-0093",
-  "MTK-B3-0094",
-  "MTK-B3-0100",
-  "MTK-B3-0103",
-  "MTK-B3-0109",
-  "MTK-B3-0113",
-  "MTK-B4-0002",
-  "MTK-B4-0006",
-  "MTK-B4-0015",
-  "MTK-B4-0023",
-  "MTK-B4-0048",
-  "MTK-B4-0051",
-  "MTK-B4-0060",
-  "MTK-B4-0064",
-  "MTK-B4-0069",
-  "MTK-B4-0070",
-  "MTK-B4-0074",
-  "MTK-B4-0075",
-  "MTK-B4-0076",
-  "MTK-B4-0077",
-  "MTK-B4-0082",
-  "MTK-B4-0089",
-  "MTK-B4-0090",
-  "MTK-B4-0095",
-  "MTK-B5-0066",
-  "MTK-B5-0067",
-  "MTK-B5-0083",
-  "MTK-B5-0084",
-  "MTK-B5-0085",
-  "MTK-B5-0086",
-  "MTK-B5-0087",
-  "MTK-B5-0091",
-  "MTK-B5-0100",
-  "MTK-B5-0101",
-  "MTK-B5-0102",
-  "MTK-B5-0103",
-  "MTK-B5-0104",
-  "MTK-B5-0105",
-  "MTK-B5-0106",
-  "MTK-B5-0107",
-  "MTK-B5-0108",
-  "MTK-B5-0109",
-  "MTK-B5-0110",
-  "MTK-B5-0111",
-  "MTK-B5-0112",
-  "MTK-B5-0113",
-  "MTK-B5-0114",
-  "MTK-B5-0115",
-  "MTK-B5-0116",
-  "MTK-B5-0127",
-  "MTK-B5-0129",
-  "MTK-B5-0130",
-  "MTK-B5-0132",
-  "MTK-B7-0112",
-  "MTK-B7-0119",
-  "MTK-B7-0120",
-  "MTK-B7-0122",
-  "MTK-B7-0123",
-  "MTK-B7-0130",
-  "MTK-B8-0001",
-  "MTK-B8-0004",
-  "MTK-B8-0006",
-  "MTK-B8-0008",
-  "MTK-B8-0029",
-  "MTK-B8-0031",
-  "MTK-B8-0036"
- ]
+ "tidak_direvisi": {
+  "MTK-B2-0107": "Pengecoh sudah wajar; masalah yang dicatat adalah keterkaitan topik sikap dengan TP penjumlahan, yang memerlukan keputusan ahli (bukan perbaikan redaksi).",
+  "MTK-B2-0109": "Pengecoh sudah wajar; masalah adalah keterkaitan soal sikap dengan TP penjumlahan, memerlukan keputusan ahli.",
+  "MTK-B4-0064": "Item mengelompokkan; penetralan nama \"kotak kado berbentuk kubus\" menyentuh teks kunci/jawaban pengelompokan sehingga perlu keputusan pemilik soal.",
+  "MTK-B4-0089": "Isian bebas dengan kunci frasa panjang; perbaikan (ubah ke pilihan ganda/isian terbuka) mengubah format/penilaian dan memerlukan keputusan ahli.",
+  "MTK-B4-0090": "Isian bebas dengan kunci frasa panjang; perbaikan (ubah ke pilihan ganda/isian terbuka) mengubah format/penilaian dan memerlukan keputusan ahli.",
+  "MTK-B4-0095": "Isian bebas dengan kunci frasa panjang; perbaikan (ubah ke pilihan ganda/isian terbuka) mengubah format/penilaian dan memerlukan keputusan ahli.",
+  "MTK-B5-0113": "Konteks (kain/tali/pita yang disambung) sudah wajar; catatan menyangkut objek pada butir lain dalam templat. Tidak ada perbaikan teridentifikasi.",
+  "MTK-B5-0114": "Konteks (kain/tali/pita yang disambung) sudah wajar; catatan menyangkut objek pada butir lain dalam templat. Tidak ada perbaikan teridentifikasi.",
+  "MTK-B5-0115": "Konteks (kain/tali/pita yang disambung) sudah wajar; catatan menyangkut objek pada butir lain dalam templat. Tidak ada perbaikan teridentifikasi.",
+  "MTK-B5-0127": "Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli.",
+  "MTK-B5-0129": "Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli.",
+  "MTK-B5-0130": "Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli.",
+  "MTK-B5-0132": "Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli.",
+  "MTK-B7-0130": "Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli.",
+  "MTK-B8-0029": "Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli.",
+  "MTK-B8-0031": "Isian bebas dengan kunci frasa panjang; perbaikan (ubah tipe/format penilaian) memerlukan keputusan ahli."
+ },
+ "belum_ditangani": []
 }

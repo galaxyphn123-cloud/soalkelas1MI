@@ -1,59 +1,780 @@
 {
  "mapel": "Bahasa Arab",
- "diterima": {},
+ "diterima": {
+  "BAR-PK-0007": {
+   "perubahan": {
+    "options": [
+     "A. صَبَاحُ الْخَيْرِ",
+     "B. مَعَ السَّلَامَةِ",
+     "C. مَسَاءُ الْخَيْرِ",
+     "D. أَهْلًا وَسَهْلًا"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh berupa ucapan Arab sejajar panjang dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar. Hanya مَسَاءُ الْخَيْرِ yang berbunyi masa-ul khair.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0010": {
+   "perubahan": {
+    "options": [
+     "A. أَهْلًا وَسَهْلًا",
+     "B. مَعَ السَّلَامَةِ",
+     "C. صَبَاحُ الْخَيْرِ",
+     "D. مَسَاءُ الْخَيْرِ"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar. Hanya أَهْلًا وَسَهْلًا yang berbunyi ahlan wa sahlan.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0012": {
+   "perubahan": {
+    "options": [
+     "A. صَبَاحُ الْخَيْرِ",
+     "B. أَهْلًا وَسَهْلًا",
+     "C. مَعَ السَّلَامَةِ",
+     "D. مَسَاءُ الْخَيْرِ"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar. Pengecoh berarti selamat pagi, selamat tinggal, selamat sore.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0026": {
+   "perubahan": {
+    "options": [
+     "A. السَّلَامُ عَلَيْكُمْ",
+     "B. وَعَلَيْكُمُ السَّلَامُ",
+     "C. مَعَ السَّلَامَةِ",
+     "D. صَبَاحُ الْخَيْرِ"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar. وَعَلَيْكُمُ السَّلَامُ dibaca wa 'alaikumus salam, bukan assalamu 'alaikum.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0028": {
+   "perubahan": {
+    "options": [
+     "A. shabahul khair",
+     "B. ma'as salamah",
+     "C. masa-ul khair",
+     "D. ahlan wa sahlan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh berupa bacaan ucapan lain yang sejajar panjangnya.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar. Hanya masa-ul khair adalah bacaan مَسَاءُ الْخَيْرِ.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0035": {
+   "perubahan": {
+    "options": [
+     "A. kamu (kata ganti untuk laki-laki)",
+     "B. Fatimah (nama anak perempuan)",
+     "C. saya (kata ganti orang pertama)",
+     "D. kamu (kata ganti untuk perempuan)"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar. فَاطِمَةُ adalah nama, bukan kata ganti.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0064": {
+   "perubahan": {
+    "options": [
+     "A. Hadzihi shadiqati",
+     "B. Wa 'alaikumus salam",
+     "C. Ma'as salamah",
+     "D. Shabahul khair"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar. Pengecoh adalah bacaan ucapan lain.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0081": {
+   "perubahan": {
+    "options": [
+     "A. Assalamu 'alaikum",
+     "B. Wa 'alaikumus salam",
+     "C. Hadzihi shadiqati",
+     "D. Ahlan wa sahlan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar. Pengecoh adalah bacaan kalimat lain.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0094": {
+   "perubahan": {
+    "question": "Temanmu mengucapkan \"صَبَاحُ الْخَيْرِ\". Jawaban yang tepat adalah ....",
+    "explanation": "Jawaban untuk صَبَاحُ الْخَيْرِ (selamat pagi) adalah صَبَاحُ النُّوْرِ."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Redaksi templat 'Dalam percakapan yang ..., temanmu bertanya' diganti kalimat gramatikal.",
+   "verifikasi": "Kunci dan kebenaran jawaban tidak berubah; hanya redaksi stem/penjelasan diperbaiki.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0095": {
+   "perubahan": {
+    "question": "Temanmu mengucapkan \"السَّلَامُ عَلَيْكُمْ\". Jawaban yang tepat adalah ....",
+    "explanation": "Jawaban untuk السَّلَامُ عَلَيْكُمْ adalah وَعَلَيْكُمُ السَّلَامُ.",
+    "options": [
+     "A. صَبَاحُ النُّوْرِ",
+     "B. مَعَ السَّلَامَةِ",
+     "C. وَعَلَيْكُمُ السَّلَامُ",
+     "D. أَهْلًا وَسَهْلًا"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Redaksi stem diperbaiki dan pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Kunci dan kebenaran jawaban tidak berubah; hanya redaksi stem/penjelasan diperbaiki.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0096": {
+   "perubahan": {
+    "question": "Temanmu bertanya, \"كَيْفَ حَالُكَ؟\" Jawaban yang tepat adalah ....",
+    "explanation": "Untuk pertanyaan kabar كَيْفَ حَالُكَ؟, jawabannya أَنَا بِخَيْرٍ، اَلْحَمْدُ لِلّٰهِ.",
+    "options": [
+     "A. مَعَ السَّلَامَةِ",
+     "B. أَنَا بِخَيْرٍ، اَلْحَمْدُ لِلّٰهِ",
+     "C. وَعَلَيْكُمُ السَّلَامُ",
+     "D. صَبَاحُ النُّوْرِ"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Redaksi stem diperbaiki dan pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Kunci dan kebenaran jawaban tidak berubah; hanya redaksi stem/penjelasan diperbaiki.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0097": {
+   "perubahan": {
+    "question": "Temanmu bertanya, \"مَا اسْمُكَ؟\" Jawaban yang tepat adalah ....",
+    "explanation": "Jawaban untuk مَا اسْمُكَ؟ (menanyakan nama laki-laki) adalah اِسْمِيْ أَحْمَدُ."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Redaksi templat 'Dalam percakapan yang ..., temanmu bertanya' diganti kalimat gramatikal.",
+   "verifikasi": "Kunci dan kebenaran jawaban tidak berubah; hanya redaksi stem/penjelasan diperbaiki.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0098": {
+   "perubahan": {
+    "question": "Temanmu bertanya, \"مَا اسْمُكِ؟\" Jawaban yang tepat adalah ....",
+    "explanation": "Jawaban untuk مَا اسْمُكِ؟ (menanyakan nama perempuan) adalah اِسْمِيْ فَاطِمَةُ."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Redaksi templat 'Dalam percakapan yang ..., temanmu bertanya' diganti kalimat gramatikal.",
+   "verifikasi": "Kunci dan kebenaran jawaban tidak berubah; hanya redaksi stem/penjelasan diperbaiki.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0099": {
+   "perubahan": {
+    "question": "Temanmu mengucapkan \"شُكْرًا\". Jawaban yang tepat adalah ....",
+    "explanation": "Jawaban untuk ucapan terima kasih شُكْرًا adalah عَفْوًا."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Redaksi templat 'Dalam percakapan yang ..., temanmu bertanya' diganti kalimat gramatikal.",
+   "verifikasi": "Kunci dan kebenaran jawaban tidak berubah; hanya redaksi stem/penjelasan diperbaiki.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0166": {
+   "perubahan": {
+    "options": [
+     "A. ayahku (orang tua)",
+     "B. gurunya (pengajarnya)",
+     "C. namaku (nama diriku)",
+     "D. temanku (laki-laki)"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar. Teks menyebut هٰذَا صَدِيْقِيْ, hanya temanku yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0168": {
+   "perubahan": {
+    "question": "Benar atau salah: Ucapan \"شُكْرًا\" dijawab dengan \"عَفْوًا\" (ucapan terima kasih dan jawabannya).",
+    "explanation": "Benar, شُكْرًا (terima kasih) dijawab dengan عَفْوًا."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "شُكْرًا adalah ucapan, bukan pertanyaan.",
+   "verifikasi": "Kunci Benar tetap; hanya kata 'Pertanyaan' diganti 'Ucapan'.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0169": {
+   "perubahan": {
+    "question": "Benar atau salah: Ucapan \"مَرْحَبًا\" dijawab dengan \"أَهْلًا وَسَهْلًا\" (menyambut tamu).",
+    "explanation": "Benar, مَرْحَبًا dijawab dengan أَهْلًا وَسَهْلًا saat menyambut tamu."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "مَرْحَبًا adalah ucapan, bukan pertanyaan.",
+   "verifikasi": "Kunci Benar tetap; hanya kata 'Pertanyaan' diganti 'Ucapan'.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0186": {
+   "perubahan": {
+    "options": [
+     "A. tersenyum, mengucap salam, lalu menyebut namanya dengan \"اِسْمِيْ ....\"",
+     "B. memalingkan wajah dan langsung pergi meninggalkan temannya",
+     "C. diam saja sambil menunduk dan tidak menyapa temannya",
+     "D. langsung meminta jajanan temannya tanpa menyebut nama"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0189": {
+   "perubahan": {
+    "options": [
+     "A. memarahinya karena belum juga hafal",
+     "B. mengajarinya dengan sabar sambil memberi contoh",
+     "C. tidak mau mengajarinya dan membiarkannya sendiri",
+     "D. menertawakannya di depan teman-temannya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0191": {
+   "perubahan": {
+    "options": [
+     "A. \"وَعَلَيْكُمُ السَّلَامُ\"",
+     "B. \"صَبَاحُ النُّوْرِ\"",
+     "C. \"مَعَ السَّلَامَةِ\"",
+     "D. \"أَنَا بِخَيْرٍ، اَلْحَمْدُ لِلّٰهِ\""
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh berupa ucapan Arab yang sejajar panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar. Ketiga pengecoh bukan jawaban pertanyaan kabar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0192": {
+   "perubahan": {
+    "options": [
+     "A. menjauhinya karena ia pemalu dan pendiam",
+     "B. menyapa dengan ramah dan mengajaknya berkenalan",
+     "C. membiarkannya sendirian di pojok kelas",
+     "D. mengejeknya karena sifat pemalunya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-PK-0240": {
+   "perubahan": {
+    "question": "Kelompokkan ucapan berikut ke dalam ucapan sapaan/penyambutan dan ucapan penutup/terima kasih: 'صَبَاحُ الْخَيْرِ'; 'مَسَاءُ الْخَيْرِ'; 'مَرْحَبًا'; 'أَهْلًا وَسَهْلًا'; 'مَعَ السَّلَامَةِ'; 'شُكْرًا'."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Dasar pengelompokan 'waktu/keperluan' tidak sesuai dengan dua kelompok kunci; stem kini menyebut langsung kedua kelompok.",
+   "verifikasi": "Kelompok dan kunci tidak diubah; hanya syarat pengelompokan dibuat eksplisit sesuai kelompok yang sudah ada.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0010": {
+   "perubahan": {
+    "options": [
+     "A. paman (saudara ayah)",
+     "B. ibu (orang tua perempuan)",
+     "C. ayah (orang tua laki-laki)",
+     "D. keluarga (anggota rumah)"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0011": {
+   "perubahan": {
+    "options": [
+     "A. putra (anak laki-laki dari orang tua)",
+     "B. keluarga (seluruh anggota rumah tangga)",
+     "C. ayah (orang tua laki-laki dalam keluarga)",
+     "D. ibu (orang tua perempuan dalam keluarga)"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0023": {
+   "perubahan": {
+    "options": [
+     "A. ayah (orang tua)",
+     "B. ibu (orang tua)",
+     "C. saudara laki-laki",
+     "D. keluarga (seisi rumah)"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0030": {
+   "perubahan": {
+    "options": [
+     "A. ayah (orang tua)",
+     "B. ibu (orang tua)",
+     "C. bibi (saudari ibu)",
+     "D. keluarga (seisi rumah)"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0066": {
+   "perubahan": {
+    "options": [
+     "A. Hadzihi usrati",
+     "B. Hadzihi ummi",
+     "C. Ma'as salamah",
+     "D. Shabahul khair"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar. Hadzihi ummi berarti 'ini ibuku', bukan bacaan هٰذِهِ أُسْرَتِيْ.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0078": {
+   "perubahan": {
+    "options": [
+     "A. هٰذَا أَبِيْ",
+     "B. هٰذِهِ أُمِّيْ",
+     "C. هٰذِهِ أُسْرَتِيْ",
+     "D. هِيَ أُخْتِيْ"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar. Pengecoh adalah kalimat lain yang bukan bacaan Hadzihi usrati.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0083": {
+   "perubahan": {
+    "question": "Perhatikan gambar nomor 8 pada kartu kosakata tema Keluargaku! Gambar menunjukkan paman (saudara ayah). Kata Arab untuk gambar tersebut adalah ....",
+    "visual_prompt": "Seorang paman membawa oleh-oleh di depan pintu rumah; di bawah gambar tertulis 'Paman (saudara ayah)'."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Gambar tidak membedakan paman dari pihak ayah/ibu; keterangan relasi ditambahkan pada soal dan gambar.",
+   "verifikasi": "Kunci dan kebenaran jawaban tidak berubah; gambar kini disertai keterangan relasi paman sehingga kunci dapat ditentukan murid dari soal, tidak hanya dari nomor kartu. Opsi lain tetap salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0086": {
+   "perubahan": {
+    "question": "Perhatikan gambar nomor 10 pada kartu kosakata tema Keluargaku! Gambar menunjukkan paman (saudara ibu). Kata Arab untuk gambar tersebut adalah ....",
+    "visual_prompt": "Seorang paman melambai dari dalam mobil; di bawah gambar tertulis 'Paman (saudara ibu)'."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Gambar tidak membedakan paman dari pihak ayah/ibu; keterangan relasi ditambahkan pada soal dan gambar.",
+   "verifikasi": "Kunci dan kebenaran jawaban tidak berubah; gambar kini disertai keterangan relasi paman sehingga kunci dapat ditentukan murid dari soal, tidak hanya dari nomor kartu. Opsi lain tetap salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0088": {
+   "perubahan": {
+    "question": "Perhatikan gambar kartu nomor 8 tema Keluargaku! Gambar menunjukkan paman (saudara ayah). Nama gambar tersebut dibaca ....",
+    "visual_prompt": "Seorang paman membawa oleh-oleh di depan pintu rumah; di bawah gambar tertulis 'Paman (saudara ayah)'."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Gambar tidak membedakan paman dari pihak ayah/ibu; keterangan relasi ditambahkan pada soal dan gambar.",
+   "verifikasi": "Kunci dan kebenaran jawaban tidak berubah; gambar kini disertai keterangan relasi paman sehingga kunci dapat ditentukan murid dari soal, tidak hanya dari nomor kartu. Opsi lain tetap salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0089": {
+   "perubahan": {
+    "question": "Perhatikan gambar nomor 10 tema Keluargaku! Gambar menunjukkan paman (saudara ibu). Kalimat yang tepat untuk menunjuk gambar tersebut dari dekat adalah ....",
+    "visual_prompt": "Seorang paman melambai dari dalam mobil; di bawah gambar tertulis 'Paman (saudara ibu)'."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Gambar tidak membedakan paman dari pihak ayah/ibu; keterangan relasi ditambahkan pada soal dan gambar.",
+   "verifikasi": "Kunci dan kebenaran jawaban tidak berubah; gambar kini disertai keterangan relasi paman sehingga kunci dapat ditentukan murid dari soal, tidak hanya dari nomor kartu. Opsi lain tetap salah.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0093": {
+   "perubahan": {
+    "options": [
+     "A. dia saudara perempuanku",
+     "B. dia nenekku dari pihak ayah",
+     "C. dia ibuku yang ada di rumah",
+     "D. dia temanku di sekolah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0182": {
+   "perubahan": {
+    "options": [
+     "A. hormat dan sayang kepada orang tua",
+     "B. suka bermain di dekat pintu rumah",
+     "C. tidak peduli pada kedatangan ayahnya",
+     "D. malas bergerak dan enggan menyapa ayah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0184": {
+   "perubahan": {
+    "options": [
+     "A. tidak peduli kepada neneknya",
+     "B. bosan dengan suasana di rumah",
+     "C. takut kepada neneknya di rumah",
+     "D. sayang kepada anggota keluarga"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0185": {
+   "perubahan": {
+    "options": [
+     "A. berteriak memanggil teman di luar rumah",
+     "B. mendoakan dan membantu mengambilkan minum",
+     "C. tidak mau mendekat dan menjauh dari nenek",
+     "D. bermain keras di dekat tempat tidurnya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0190": {
+   "perubahan": {
+    "options": [
+     "A. mendengarkan dan berjanji menaati",
+     "B. membantah dengan suara keras",
+     "C. pergi tanpa menjawab sepatah kata",
+     "D. menutup telinga agar tidak mendengar"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0194": {
+   "perubahan": {
+    "options": [
+     "A. menertawakannya di depan teman",
+     "B. menghibur dan membantu mencarinya",
+     "C. pergi tanpa peduli sedikit pun",
+     "D. memarahinya karena terus menangis"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-KL-0195": {
+   "perubahan": {
+    "options": [
+     "A. membaca bismillah dan makan bersama dengan tertib",
+     "B. makan sendiri di dalam kamar tertutup",
+     "C. makan sambil berlari mengelilingi rumah",
+     "D. berebut makanan dengan saudara-saudara"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-RM-0093": {
+   "perubahan": {
+    "question": "Bacalah teks berikut! \"هٰذَا مَطْبَخٌ. هٰذِهِ ثَلَّاجَةٌ. هٰذَا حَمَّامٌ. هٰذَا بَابٌ.\" Tempat atau benda berikut disebut dalam teks, kecuali ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem menyebut 'ruang' padahal teks memuat pintu dan kulkas juga; diganti 'tempat atau benda'.",
+   "verifikasi": "Opsi pintu, dapur, kamar mandi disebut dalam teks (بَابٌ, مَطْبَخٌ, حَمَّامٌ); taman tidak disebut sehingga kunci C tetap satu-satunya.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-RM-0183": {
+   "perubahan": {
+    "options": [
+     "A. malas merapikan tempat tidur",
+     "B. disiplin dan menjaga kerapian",
+     "C. suka membuat kamar berantakan",
+     "D. tidak peduli pada kamarnya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-RM-0185": {
+   "perubahan": {
+    "options": [
+     "A. membasahi seluruh lantai kamar mandi",
+     "B. menyiram dan membiarkannya tetap bersih",
+     "C. membiarkan keran menyala terus-menerus",
+     "D. meninggalkannya dalam keadaan kotor"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-RM-0195": {
+   "perubahan": {
+    "options": [
+     "A. mencuci piringnya atau membantu ibu mencuci",
+     "B. membuangnya begitu saja ke halaman",
+     "C. menyembunyikannya di dalam lemari",
+     "D. meninggalkannya begitu saja di meja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-SK-0182": {
+   "perubahan": {
+    "options": [
+     "A. kerja sama dan cinta lingkungan",
+     "B. kemalasan dan enggan membantu",
+     "C. tidak peduli pada kebersihan kelas",
+     "D. suka membuat kelas menjadi kotor"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-SK-0185": {
+   "perubahan": {
+    "options": [
+     "A. bermain di bawah meja saat belajar",
+     "B. mengobrol dengan teman sebangku",
+     "C. mendengarkan dengan tenang dan mencatat",
+     "D. keluar kelas tanpa izin guru"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-SK-0186": {
+   "perubahan": {
+    "options": [
+     "A. mengajak belajar bersama dengan sabar",
+     "B. menertawakannya di depan teman",
+     "C. menyembunyikan bukunya agar tidak belajar",
+     "D. membiarkannya belajar sendirian saja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-SK-0189": {
+   "perubahan": {
+    "options": [
+     "A. langsung masuk dan duduk tanpa mengucap salam atau izin",
+     "B. menyalahkan temannya karena tidak membangunkan dirinya",
+     "C. membanting pintu kelas lalu duduk di bangkunya",
+     "D. mengucap salam, meminta maaf, dan meminta izin masuk dengan sopan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-SK-0193": {
+   "perubahan": {
+    "options": [
+     "A. menyobek buku tulis agar tidak diperiksa",
+     "B. menyontek pekerjaan teman sebelum guru datang",
+     "C. berbohong bahwa buku tertinggal di rumah",
+     "D. mengakui kepada guru dan berjanji menyelesaikannya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-SK-0194": {
+   "perubahan": {
+    "options": [
+     "A. menyuruh teman mengerjakan semua tugas piket",
+     "B. pulang lebih awal sebelum jadwal piket",
+     "C. pura-pura sakit supaya tidak piket",
+     "D. menyapu dan merapikan kelas dengan sungguh-sungguh"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-SK-0195": {
+   "perubahan": {
+    "options": [
+     "A. bersikap tenang dan merapikan buku setelah dibaca",
+     "B. mencoret buku perpustakaan dengan pulpen",
+     "C. berlari sambil berteriak di dalam ruangan",
+     "D. meninggalkan buku berserakan di meja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "BAR-SK-0197": {
+   "perubahan": {
+    "options": [
+     "A. terus berlarian di dalam kelas",
+     "B. berdiri sopan dan mengucap salam",
+     "C. berteriak keras memanggil teman",
+     "D. pura-pura tidur di atas meja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah dan tetap di huruf semula; pengecoh hanya diperpanjang dengan frasa yang jelas salah, sehingga tidak ada opsi lain yang benar.",
+   "berkas": "revisions_p1.json"
+  }
+ },
  "ditolak_validasi": {},
  "tidak_direvisi": {},
- "belum_ditangani": [
-  "BAR-PK-0007",
-  "BAR-PK-0010",
-  "BAR-PK-0012",
-  "BAR-PK-0026",
-  "BAR-PK-0028",
-  "BAR-PK-0035",
-  "BAR-PK-0064",
-  "BAR-PK-0081",
-  "BAR-PK-0094",
-  "BAR-PK-0095",
-  "BAR-PK-0096",
-  "BAR-PK-0097",
-  "BAR-PK-0098",
-  "BAR-PK-0099",
-  "BAR-PK-0166",
-  "BAR-PK-0168",
-  "BAR-PK-0169",
-  "BAR-PK-0186",
-  "BAR-PK-0189",
-  "BAR-PK-0191",
-  "BAR-PK-0192",
-  "BAR-PK-0240",
-  "BAR-KL-0010",
-  "BAR-KL-0011",
-  "BAR-KL-0023",
-  "BAR-KL-0030",
-  "BAR-KL-0066",
-  "BAR-KL-0078",
-  "BAR-KL-0083",
-  "BAR-KL-0086",
-  "BAR-KL-0088",
-  "BAR-KL-0089",
-  "BAR-KL-0093",
-  "BAR-KL-0182",
-  "BAR-KL-0184",
-  "BAR-KL-0185",
-  "BAR-KL-0190",
-  "BAR-KL-0194",
-  "BAR-KL-0195",
-  "BAR-RM-0093",
-  "BAR-RM-0183",
-  "BAR-RM-0185",
-  "BAR-RM-0195",
-  "BAR-SK-0182",
-  "BAR-SK-0185",
-  "BAR-SK-0186",
-  "BAR-SK-0189",
-  "BAR-SK-0193",
-  "BAR-SK-0194",
-  "BAR-SK-0195",
-  "BAR-SK-0197"
- ]
+ "belum_ditangani": []
 }

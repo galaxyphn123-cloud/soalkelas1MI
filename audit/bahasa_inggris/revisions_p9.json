@@ -1,0 +1,59 @@
+{
+ "revisi": {
+  "ENG-B3-0019": {
+   "perubahan": {
+    "question": "Kelompokkan: eyes; ears; nose; tongue; hair menurut bagian yang ada di dalam mulut atau di luar mulut.",
+    "answer": {
+     "di dalam mulut": [
+      "tongue"
+     ],
+     "di luar mulut": [
+      "eyes",
+      "ears",
+      "nose",
+      "hair"
+     ]
+    }
+   },
+   "jenis": [
+    "kunci_salah_tegas"
+   ],
+   "alasan": "'mouth' tidak dapat berada 'di luar mulut'; butir dikeluarkan dari daftar dan kunci.",
+   "verifikasi": "Lidah di dalam mulut; mata, telinga, hidung, rambut di luar mulut."
+  },
+  "ENG-B3-0076": {
+   "perubahan": {
+    "answer": "A",
+    "explanation": "alis: 2 (two eyebrows)."
+   },
+   "jenis": [
+    "kunci_salah_tegas"
+   ],
+   "alasan": "Manusia punya dua alis; kunci 'one' salah dan bertentangan dengan ENG-B3-0069.",
+   "verifikasi": "Opsi A 'two' benar; opsi lain (four, one, three) salah."
+  },
+  "ENG-B5-0098": {
+   "perubahan": {
+    "question": "Dalam Bahasa Inggris, 'Ruang tamunya besar' adalah '....'",
+    "explanation": "Ruang tamunya besar = The living room is big.."
+   },
+   "jenis": [
+    "terjemahan"
+   ],
+   "alasan": "'-ku' berarti 'my'; kunci 'The living room is big.' sesuai 'ruang tamunya'. Stem disesuaikan, kunci tetap.",
+   "verifikasi": "Kunci A tetap benar; selaras dengan ENG-B5-0107."
+  },
+  "ENG-B5-0106": {
+   "perubahan": {
+    "answer": "Ruang tamunya besar",
+    "explanation": "The living room is big. = Ruang tamunya besar."
+   },
+   "jenis": [
+    "terjemahan"
+   ],
+   "alasan": "Terjemahan 'The living room is big.' adalah 'ruang tamunya besar', bukan '-ku'.",
+   "verifikasi": "Selaras dengan ENG-B5-0107."
+  }
+ },
+ "tidak_direvisi": {}
+}

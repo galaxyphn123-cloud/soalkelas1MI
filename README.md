@@ -66,3 +66,8 @@ Prefix ID `PJK-<TB|BG|HA|MH>-NNNN`. Porsi tugas kinerja (praktik) 10%. Pembangki
 9 bab Grow with English (72 TP; tiap bab 8 JP): Bab 1 = 112 soal, Bab 2-9 = 111 soal. Sesuai CP Fase A, soal menekankan menyimak-berbicara
 dan membaca-memirsa; menulis hanya sampai frasa/kalimat sederhana. Prefix ID `ENG-B<n>-NNNN`. Pembangkit di `bahasa_inggris/generator/`
 (`python3 -I build_eng.py ../eng_bank_1000.json`, lalu `python3 -I make_files.py ../eng_bank_1000.json ..`).
+
+## Audit kurikulum (2026-10-12)
+Seluruh 9.000 soal diaudit terhadap ATP, Kurikulum Berbasis Cinta, Pembelajaran Mendalam, dan dimensi Profil Lulusan (mesin otomatis + tinjau baca model AI; bukan validasi ahli).
+Hasil: lihat `audit/MASTER_AUDIT_REPORT.md`. Bank asli tidak diubah; versi perbaikan ada di `audit/FINAL/<mapel>_final.json` (PASS 7.698, NEEDS_REVIEW 1.302 yang ditahan menunggu guru/ahli).
+Antrean verifikasi: `audit/ANTRIAN_VERIFIKASI_AHLI_SEMUA.csv`. Catatan: `sumber_atp` pada blueprint Bahasa Arab, Akidah Akhlak, Bahasa Indonesia, Matematika, dan Pancasila telah dikoreksi.

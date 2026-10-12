@@ -1,0 +1,16 @@
+{
+ "revisi": {
+  "PPN-B4-0115": {
+   "perubahan": {
+    "answer": "Benar",
+    "explanation": "Benar. Menanam pohon bersama membuat lingkungan menjadi asri dan udara menjadi segar."
+   },
+   "jenis": [
+    "kunci_salah_tegas"
+   ],
+   "alasan": "Pernyataan 'menanam pohon bersama membuat lingkungan asri' benar; kunci Salah keliru dan bertentangan dengan PPN-B4-0001/0024/0078/0130.",
+   "verifikasi": "Pernyataan sesuai TP lingkungan rumah dan butir-butir lain; kunci menjadi Benar."
+  }
+ },
+ "tidak_direvisi": {}
+}

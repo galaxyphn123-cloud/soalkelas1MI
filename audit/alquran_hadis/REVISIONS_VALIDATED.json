@@ -1,56 +1,770 @@
 {
  "mapel": "Al-Quran Hadis",
- "diterima": {},
+ "diterima": {
+  "AQH-HJ-0081": {
+   "perubahan": {
+    "options": [
+     "A. Ta (ت) dan Qaf (ق) sama-sama bertitik dua di atas, tetapi bentuk dasarnya berbeda",
+     "B. Ta (ت) dan Qaf (ق) sama-sama bertitik tiga di bawah, bentuk dasarnya sama",
+     "C. Ta (ت) dan Qaf (ق) sama persis, baik bentuk dasar maupun titiknya",
+     "D. Ta (ت) dan Qaf (ق) sama-sama tidak bertitik, tetapi bentuk dasarnya berbeda"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HJ-0082": {
+   "perubahan": {
+    "options": [
+     "A. Jim (ج) dan Kha (خ) sama-sama tidak bertitik sama sekali",
+     "B. Jim (ج) bertitik satu di bawah, Kha (خ) bertitik satu di atas",
+     "C. Jim (ج) dan Kha (خ) sama-sama bertitik tiga di bawah",
+     "D. Jim (ج) dan Kha (خ) sama persis bentuk dan titiknya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HJ-0086": {
+   "perubahan": {
+    "options": [
+     "A. fathah di atas huruf berbunyi a, kasrah di bawah huruf berbunyi i",
+     "B. fathah dan kasrah sama persis, keduanya berbunyi a",
+     "C. fathah di bawah huruf berbunyi i, kasrah di atas huruf berbunyi a",
+     "D. fathah dan kasrah sama-sama berbunyi a dan terletak di atas huruf"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HJ-0088": {
+   "perubahan": {
+    "options": [
+     "A. Ba (ب) bertitik satu di bawah, Tsa (ث) bertitik tiga di atas",
+     "B. Ba (ب) dan Tsa (ث) sama-sama tidak bertitik sama sekali",
+     "C. Ba (ب) dan Tsa (ث) sama persis bentuk dan titiknya",
+     "D. Ba (ب) dan Tsa (ث) sama-sama bertitik tiga di bawah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HJ-0090": {
+   "perubahan": {
+    "options": [
+     "A. Ta (ت) dan Tsa (ث) sama-sama bertitik tiga di bawah",
+     "B. Ta (ت) dan Tsa (ث) sama persis bentuk dan titiknya",
+     "C. Ta (ت) dan Tsa (ث) sama-sama tidak bertitik sama sekali",
+     "D. Ta (ت) bertitik dua di atas, Tsa (ث) bertitik tiga di atas"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HJ-0094": {
+   "perubahan": {
+    "options": [
+     "A. Jim (ج) dan Ha (ح) sama-sama tidak bertitik sama sekali",
+     "B. Jim (ج) dan Ha (ح) sama persis bentuk dan titiknya",
+     "C. Jim (ج) dan Ha (ح) sama-sama bertitik tiga di bawah",
+     "D. Jim (ج) bertitik satu di bawah, Ha (ح) tidak bertitik"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HJ-0126": {
+   "perubahan": {
+    "options": [
+     "A. Allah dan Rasul-Nya serta cinta ilmu",
+     "B. permainan dan hiburan semata",
+     "C. kendaraan baru dan barang mewah",
+     "D. uang jajan dan hadiah dari teman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FA-0005": {
+   "perubahan": {
+    "options": [
+     "A. Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin",
+     "B. Bismillahirrahmanirrahim, alhamdu lillahi rabbil 'alamin",
+     "C. Ar-rahmanir-rahim, maliki yaumiddin, iyyaka na'budu wa iyyaka nasta'in",
+     "D. Alhamdu lillahi rabbil 'alamin, ar-rahmanir-rahim, maliki yaumiddin"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FA-0021": {
+   "perubahan": {
+    "options": [
+     "A. Tuhan yang hanya mengatur satu kampung kecil saja",
+     "B. Tuhan yang mengatur dan memelihara seluruh alam",
+     "C. Tuhan yang hanya memelihara orang dewasa saja",
+     "D. Tuhan yang hanya menciptakan manusia saja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FA-0044": {
+   "perubahan": {
+    "options": [
+     "A. Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin",
+     "B. Bismillahirrahmanirrahim, alhamdu lillahi rabbil 'alamin",
+     "C. Alhamdu lillahi rabbil 'alamin, ar-rahmanir-rahim, maliki yaumiddin",
+     "D. Ar-rahmanir-rahim, maliki yaumiddin, iyyaka na'budu wa iyyaka nasta'in"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FA-0049": {
+   "perubahan": {
+    "options": [
+     "A. Alhamdu lillahi rabbil 'alamin, ar-rahmanir-rahim, maliki yaumiddin",
+     "B. Bismillahirrahmanirrahim, alhamdu lillahi rabbil 'alamin",
+     "C. Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin",
+     "D. Ar-rahmanir-rahim, maliki yaumiddin, iyyaka na'budu wa iyyaka nasta'in"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FA-0081": {
+   "perubahan": {
+    "options": [
+     "A. Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin",
+     "B. Bismillahirrahmanirrahim, alhamdu lillahi rabbil 'alamin",
+     "C. Alhamdu lillahi rabbil 'alamin, ar-rahmanir-rahim, maliki yaumiddin",
+     "D. Ar-rahmanir-rahim, maliki yaumiddin, iyyaka na'budu wa iyyaka nasta'in"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FA-0088": {
+   "perubahan": {
+    "options": [
+     "A. Tuhan pemelihara seluruh alam",
+     "B. kami memohon pertolongan",
+     "C. pemilik hari pembalasan",
+     "D. segala puji bagi Allah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FA-0110": {
+   "perubahan": {
+    "options": [
+     "A. berdoa memohon petunjuk Allah dan meminta nasihat orang tua",
+     "B. menyerah dan tidak berbuat apa pun karena merasa bingung",
+     "C. memilih secara asal-asalan tanpa berpikir dan bertanya",
+     "D. ikut-ikutan memilih seperti pilihan temannya tanpa berpikir"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-IK-0086": {
+   "perubahan": {
+    "options": [
+     "A. katakanlah kepada mereka",
+     "B. Dia, yaitu Allah",
+     "C. Allah Yang Maha Esa",
+     "D. setara/sebanding"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-IK-0091": {
+   "perubahan": {
+    "options": [
+     "A. tempat meminta segala sesuatu",
+     "B. Allah satu-satunya Tuhan",
+     "C. katakanlah kepada mereka",
+     "D. Dia yang disebut Allah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-IK-0107": {
+   "perubahan": {
+    "options": [
+     "A. sibuk bermain di malam hari dan tidak mau membaca apa pun",
+     "B. malas belajar di sekolah dan tidak mau mengerjakan tugas",
+     "C. membiasakan membaca surah pendek sebagai bentuk cinta kepada Al-Qur'an",
+     "D. menunda-nunda waktu tidur sampai larut malam tanpa tujuan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-IK-0114": {
+   "perubahan": {
+    "options": [
+     "A. menyembah langit karena langit itu besar dan sangat indah",
+     "B. tidak peduli pada ciptaan Allah dan tidak mau memikirkannya",
+     "C. mengingat bahwa Allah Maha Esa yang menciptakan semuanya",
+     "D. menganggap langit tercipta sendiri tanpa ada yang menciptakan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HT-0117": {
+   "perubahan": {
+    "options": [
+     "A. sebelum badan huruf mulai ditulis",
+     "B. di tempat mana saja sesuka hati",
+     "C. tidak perlu ditulis karena tidak penting",
+     "D. setelah badan huruf selesai ditulis"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HT-0118": {
+   "perubahan": {
+    "options": [
+     "A. yang dapat disambung dan memutus setelah huruf yang tidak dapat disambung",
+     "B. tidak ada huruf yang disambung, semuanya ditulis terpisah",
+     "C. semua huruf tanpa kecuali, termasuk huruf yang tidak dapat disambung",
+     "D. hanya huruf pertama dan terakhir, huruf lainnya terpisah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HT-0119": {
+   "perubahan": {
+    "options": [
+     "A. semua huruf tanpa kecuali, termasuk huruf yang tidak dapat disambung",
+     "B. tidak ada huruf yang disambung, semuanya ditulis terpisah",
+     "C. hanya huruf pertama dan terakhir, huruf lainnya terpisah",
+     "D. yang dapat disambung dan memutus setelah huruf yang tidak dapat disambung"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HT-0124": {
+   "perubahan": {
+    "options": [
+     "A. jumlah halaman buku yang dipakai",
+     "B. warna pensil yang dipakai menulis",
+     "C. ukuran meja tempat mereka menulis",
+     "D. bentuk huruf, titik, dan arah tulisan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kata pembatas 'saja' pada pengecoh dihapus dan pengecoh disejajarkan panjang/strukturnya dengan kunci sehingga kunci tidak terbaca dari pola kata.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HT-0128": {
+   "perubahan": {
+    "options": [
+     "A. berhenti berlatih dan tidak mau belajar lagi",
+     "B. menyalin tulisan teman tanpa mau belajar sendiri",
+     "C. berlatih menulis berulang-ulang dan meminta contoh guru",
+     "D. menulis asal-asalan tanpa memperhatikan bentuk huruf"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HT-0129": {
+   "perubahan": {
+    "options": [
+     "A. menulis perlahan dan rapi karena cinta kepada Allah",
+     "B. menulis dengan cepat tanpa melihat bentuk hurufnya",
+     "C. menyuruh teman menulisnya agar dirinya bisa bermain",
+     "D. mencoret-coret buku tulis dan tidak menulis tugas"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HT-0131": {
+   "perubahan": {
+    "options": [
+     "A. Hanif sudah lelah dan ingin segera beristirahat",
+     "B. alif tidak dapat disambung dengan huruf sesudahnya",
+     "C. ب tidak punya bentuk akhir sehingga harus terpisah",
+     "D. pensilnya tumpul sehingga harus diangkat dulu"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-NS-0112": {
+   "perubahan": {
+    "options": [
+     "A. ikut berbohong kepada guru agar tidak dimusuhi teman",
+     "B. menuruti ajakan itu karena takut kepada temannya",
+     "C. diam saja lalu melupakan ajakan itu tanpa berbuat apa pun",
+     "D. menolak dan berlindung kepada Allah dari bisikan jahat"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-NS-0113": {
+   "perubahan": {
+    "options": [
+     "A. menjerit sambil berlari ke luar rumah di tengah malam",
+     "B. tidak tidur sama sekali dan menyalakan semua lampu rumah",
+     "C. memanggil teman untuk menakut-nakuti adik di kamar",
+     "D. membaca doa dan surah An-Nas untuk berlindung kepada Allah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-NS-0114": {
+   "perubahan": {
+    "options": [
+     "A. berhati-hati memilih teman dan tidak mudah terpengaruh",
+     "B. meniru teman yang berbuat buruk agar disukai mereka",
+     "C. menuruti setiap ajakan teman tanpa memikirkannya",
+     "D. percaya begitu saja pada semua ajakan teman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FL-0016": {
+   "perubahan": {
+    "options": [
+     "A. kejahatan diri sendiri saja tanpa yang lain",
+     "B. kejahatan setan saja tanpa makhluk yang lain",
+     "C. kejahatan malam hari saja tanpa yang lain",
+     "D. kejahatan makhluk yang Allah ciptakan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FL-0040": {
+   "perubahan": {
+    "options": [
+     "A. ghasiqin idza waqab",
+     "B. birabbil-falaq",
+     "C. syarri ma khalaq",
+     "D. hasidin idza hasad"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FL-0109": {
+   "perubahan": {
+    "options": [
+     "A. tidak takut karena berlindung kepada Allah",
+     "B. lalai dan lupa berdoa kepada siapa pun",
+     "C. takut sekali lalu berteriak memanggil orang",
+     "D. mengganggu orang tuanya yang sedang tidur"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FL-0110": {
+   "perubahan": {
+    "options": [
+     "A. menjelek-jelekkan temannya di depan teman lain",
+     "B. mengambil hadiah itu diam-diam saat temannya pergi",
+     "C. tidak mau berteman lagi dengan teman sebangkunya",
+     "D. ikut senang dan berlindung kepada Allah dari sifat dengki"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FL-0111": {
+   "perubahan": {
+    "options": [
+     "A. merusak sepeda itu agar temannya ikut sedih",
+     "B. memarahi orang tuanya karena tidak membelikan sepeda",
+     "C. meminta temannya menyerahkan sepeda itu kepadanya",
+     "D. bersyukur dengan yang dimiliki dan mendoakan temannya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FL-0112": {
+   "perubahan": {
+    "options": [
+     "A. bisa bangun siang pada hari berikutnya",
+     "B. berlindung kepada Allah dari berbagai kejahatan",
+     "C. tidak perlu belajar lagi di rumah maupun sekolah",
+     "D. mengurangi jumlah pekerjaan rumah dari guru"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FL-0114": {
+   "perubahan": {
+    "options": [
+     "A. berlari sekencang-kencangnya sambil berteriak ke arah jalan raya",
+     "B. melempari anjing itu dengan batu sampai anjing itu pergi menjauh",
+     "C. mengganggu anjing itu sambil mendekat dan menarik ekornya",
+     "D. tetap tenang, berdoa memohon perlindungan Allah, dan meminta bantuan orang dewasa"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-FL-0115": {
+   "perubahan": {
+    "options": [
+     "A. membaca doa dan Surah Al-Falaq untuk berlindung kepada Allah",
+     "B. menakut-nakuti adiknya dengan suara yang seram",
+     "C. berteriak sambil berlari tanpa arah di dalam rumah",
+     "D. menyalahkan adiknya karena lampu di rumah padam"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HK-0004": {
+   "perubahan": {
+    "options": [
+     "A. menjaga kebersihan adalah bagian dari iman",
+     "B. menghafal banyak surah sebagai satu-satunya kewajiban",
+     "C. bermain sepanjang hari tanpa pernah berhenti",
+     "D. bekerja keras mencari uang sebanyak-banyaknya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HK-0008": {
+   "perubahan": {
+    "options": [
+     "A. orang lain saja tanpa diri sendiri",
+     "B. diri sendiri dan hal-hal kecil",
+     "C. pemerintah dan petugas kebersihan saja",
+     "D. nanti ketika sudah dewasa dan bekerja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HK-0009": {
+   "perubahan": {
+    "options": [
+     "A. pakaian, sepatu, dan tas saja",
+     "B. hanya tempat salat dan ruang kelas",
+     "C. badan, tangan, dan kuku saja",
+     "D. badan, pakaian, tempat, dan lingkungan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HK-0011": {
+   "perubahan": {
+    "options": [
+     "A. teman dekat dan saudara kandung saja",
+     "B. Allah, diri sendiri, sesama, dan lingkungan",
+     "C. mainan dan barang-barang kesukaan saja",
+     "D. uang dan hadiah-hadiah yang dimiliki saja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HK-0065": {
+   "perubahan": {
+    "options": [
+     "A. percaya atau yakin kepada Allah",
+     "B. takut kepada hewan yang berbahaya",
+     "C. suka makan makanan yang enak",
+     "D. senang bermain bersama teman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HK-0110": {
+   "perubahan": {
+    "options": [
+     "A. ikut membuang sampah sembarangan di pinggir jalan",
+     "B. menertawakan temannya karena ketahuan membuang sampah",
+     "C. memarahi temannya dengan kasar di depan banyak orang",
+     "D. mengingatkan dengan sopan agar membuang di tempat sampah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HK-0114": {
+   "perubahan": {
+    "options": [
+     "A. membiarkan sampah berserakan sampai berhari-hari",
+     "B. memarahi adik dengan kasar sambil membentak-bentak",
+     "C. membantu membersihkan dan mengingatkan adik dengan lembut",
+     "D. ikut mengotori ruangan dengan menebar sisa makanan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HK-0116": {
+   "perubahan": {
+    "options": [
+     "A. bersin langsung ke arah wajah teman di dekatnya",
+     "B. menutup hidung dan mulut dengan siku atau tisu",
+     "C. bersin sambil tertawa tanpa menutup apa pun",
+     "D. menepuk punggung teman sambil bersin keras"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HK-0123": {
+   "perubahan": {
+    "options": [
+     "A. mengejek temannya di depan seluruh teman sekelas",
+     "B. mengingatkan dengan sopan dan membantu membuangnya ke tempat sampah",
+     "C. pura-pura tidak melihat lalu pergi ke tempat lain",
+     "D. ikut membuang sampah sembarangan di halaman sekolah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-IK-0006": {
+   "perubahan": {
+    "question": "Murid belajar surah Al-Ikhlas untuk mengetahui pesan pokoknya, yaitu ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem 'kita perlu' diikuti opsi tanpa kata kerja sehingga tidak gramatikal; stem diubah menjadi 'pesan pokoknya, yaitu ....' agar semua opsi (frasa verba maupun klausa) terbaca gramatikal.",
+   "verifikasi": "Opsi dan kunci tidak diubah (kunci D tetap Allah Maha Esa dan menjadi tempat meminta segala sesuatu); opsi lain tetap isi surah lain sehingga tidak menjadi benar.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-IK-0111": {
+   "perubahan": {
+    "question": "Sebelum tidur, Umar ingin membaca tiga surah pendek seperti yang dibaca Rasulullah. Tiga surah yang dibaca Rasulullah sebelum tidur adalah ....",
+    "options": [
+     "A. Al-Ikhlas, Al-Falaq, dan An-Nas",
+     "B. Al-Ma'un, Al-Lahab, dan Al-Fil",
+     "C. Al-Kautsar, Al-Ma'un, dan Al-Lahab",
+     "D. Al-Fil, Al-'Ashr, dan Al-Humazah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh memakai kata mutlak 'hanya/saja' sehingga kunci terbaca dari pola kata, dan stem 'yang termasuk dibaca' membuat surah lain pun tidak salah. Stem dipertegas menjadi tiga surah yang dibaca Rasulullah sebelum tidur; pengecoh diganti tiga surah lain dengan struktur dan panjang sejajar kunci.",
+   "verifikasi": "Teks kunci tidak berubah dan sesuai penjelasan (Al-Ikhlas, Al-Falaq, An-Nas). Pengecoh tidak memuat tiga surah tersebut dan sengaja tidak memuat Al-Kafirun agar tidak ambigu.",
+   "berkas": "revisions_p1.json"
+  },
+  "AQH-HT-0111": {
+   "perubahan": {
+    "answer": "Benar",
+    "explanation": "Benar. Kata رجل tersusun dari ر - ج - ل, sehingga huruf Jim (ج) berada di tengah kata."
+   },
+   "jenis": [
+    "AKURASI_SALAH_TEGAS"
+   ],
+   "alasan": "Kata رجل = ر + ج + ل; Jim berada di posisi kedua (tengah kata), sehingga pernyataan 'Jim ditulis di tengah kata' Benar. Kunci dan penjelasan dikoreksi.",
+   "verifikasi": "Diverifikasi sendiri: tiga huruf رجل adalah Ra, Jim, Lam; Jim di tengah. Pernyataan soal tidak diubah.",
+   "berkas": "revisions_p1.json"
+  }
+ },
  "ditolak_validasi": {},
  "tidak_direvisi": {},
- "belum_ditangani": [
-  "AQH-HJ-0081",
-  "AQH-HJ-0082",
-  "AQH-HJ-0086",
-  "AQH-HJ-0088",
-  "AQH-HJ-0090",
-  "AQH-HJ-0094",
-  "AQH-HJ-0126",
-  "AQH-FA-0005",
-  "AQH-FA-0021",
-  "AQH-FA-0044",
-  "AQH-FA-0049",
-  "AQH-FA-0081",
-  "AQH-FA-0088",
-  "AQH-FA-0110",
-  "AQH-IK-0006",
-  "AQH-IK-0086",
-  "AQH-IK-0091",
-  "AQH-IK-0107",
-  "AQH-IK-0111",
-  "AQH-IK-0114",
-  "AQH-HT-0111",
-  "AQH-HT-0117",
-  "AQH-HT-0118",
-  "AQH-HT-0119",
-  "AQH-HT-0124",
-  "AQH-HT-0128",
-  "AQH-HT-0129",
-  "AQH-HT-0131",
-  "AQH-NS-0112",
-  "AQH-NS-0113",
-  "AQH-NS-0114",
-  "AQH-FL-0016",
-  "AQH-FL-0040",
-  "AQH-FL-0109",
-  "AQH-FL-0110",
-  "AQH-FL-0111",
-  "AQH-FL-0112",
-  "AQH-FL-0114",
-  "AQH-FL-0115",
-  "AQH-HK-0004",
-  "AQH-HK-0008",
-  "AQH-HK-0009",
-  "AQH-HK-0011",
-  "AQH-HK-0065",
-  "AQH-HK-0110",
-  "AQH-HK-0114",
-  "AQH-HK-0116",
-  "AQH-HK-0123"
- ]
+ "belum_ditangani": []
 }

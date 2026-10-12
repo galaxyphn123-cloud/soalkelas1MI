@@ -1,0 +1,15 @@
+{
+ "revisi": {
+  "PJK-MH-0039": {
+   "perubahan": {
+    "question": "Benar atau salah: Untuk memilih snack kemasan yang baik, cukup memperhatikan tokoh kartun di kemasannya tanpa membaca label."
+   },
+   "jenis": [
+    "redaksi"
+   ],
+   "alasan": "Frasa 'melihat gambar' memicu deteksi rujukan gambar padahal soal tidak memakai ilustrasi; redaksi dibuat tidak merujuk gambar. Kunci Salah tidak berubah.",
+   "verifikasi": "Pernyataan tetap salah: label gizi dan tanggal kedaluwarsa perlu dibaca; tokoh kartun bukan penentu."
+  }
+ },
+ "tidak_direvisi": {}
+}

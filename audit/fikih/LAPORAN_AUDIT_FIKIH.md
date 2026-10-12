@@ -109,3 +109,7 @@ Catatan cakupan: TP berverba praktik (RI-04, KS-04, TH-04, WT-03) paling cocok d
 - Koreksi `sumber_atp` pada blueprint (lima mapel) dilakukan pada tahap revisi lintas mapel.
 
 Berkas keluaran (`audit/fikih/`): `QUESTION_AUDIT_DETAIL.csv/.json`, `ATP_COVERAGE_MATRIX.csv/.json`, `KBC_DEEP_LEARNING_PROFILE_MATRIX.json`, `DUPLICATION_REPORT.csv`, `ANTRIAN_VERIFIKASI_AHLI.csv`, `manual_review.json`, `AUDIT_SUMMARY.json`, `CONSISTENCY_CHECK.json`, `progress.json`.
+
+
+## 8. Pembaruan pasca-revisi (2026-10-12)
+Revisi diterima 265 soal, ditunda 1 (FIK-RI-0265, stem negatif; menghilangkannya membalik kunci). Status akhir: {'PASS': 830, 'NEEDS_REVIEW': 170}. Isu struktur tersisa (hanya pada soal NEEDS_REVIEW yang ditahan): {'petunjuk_kunci_terpanjang': 36, 'isian_jawaban_terbuka': 8}. Kunci kelompok FIK-RI-0026 diperbaiki (daftar). Soal FIK-WT-0034, FIK-WT-0147, FIK-WT-0191 hanya direvisi pengecohnya dan dikonfirmasi ke ahli. Versi hasil: `audit/FINAL/fikih_final.json`.

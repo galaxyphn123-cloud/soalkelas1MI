@@ -3,7 +3,7 @@
  "grade": 1,
  "phase": "A",
  "jenjang": "MI",
- "sumber_atp": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "sumber_atp": "ATP Bahasa Arab MI Kelas 1 (berkas KBC: BAHASA_ARAB_UNTUK_MI_KLS.1_KM_REVISI-ATP...docx)",
  "total_soal": 1000,
  "catatan": "Jumlah soal dibagi rata per materi (250) karena alokasi waktu seluruh materi sama (14 JP); 4 materi x 4 TP = 16 TP.",
  "materi": [
@@ -529,5 +529,7 @@
    "menganalisis": 195,
    "mengelompokkan": 12
   }
- }
+ },
+ "sumber_atp_sebelumnya_salah": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "catatan_koreksi": "sumber_atp dikoreksi pada audit 2026-10-12 (sebelumnya tertulis rujukan Al-Qur'an Hadis akibat salinan templat)."
 }

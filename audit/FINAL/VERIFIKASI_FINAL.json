@@ -1,0 +1,98 @@
+{
+ "Fikih": {
+  "soal_berubah": 265,
+  "field_options": 224,
+  "field_question_type": 38,
+  "field_explanation": 39,
+  "field_answer": 1,
+  "field_question": 2,
+  "kunci_diubah_ID": [
+   "FIK-RI-0026"
+  ]
+ },
+ "Al-Quran Hadis": {
+  "soal_berubah": 48,
+  "field_options": 46,
+  "field_question": 2,
+  "field_answer": 1,
+  "field_explanation": 1,
+  "kunci_diubah_ID": [
+   "AQH-HT-0111"
+  ]
+ },
+ "Bahasa Arab": {
+  "soal_berubah": 51,
+  "field_options": 39,
+  "field_question": 14,
+  "field_explanation": 8,
+  "field_visual_prompt": 4,
+  "kunci_diubah_ID": []
+ },
+ "Akidah Akhlak": {
+  "soal_berubah": 122,
+  "field_options": 110,
+  "field_question": 13,
+  "field_explanation": 3,
+  "field_answer": 1,
+  "kunci_diubah_ID": [
+   "AKA-KN-0110"
+  ]
+ },
+ "Bahasa Indonesia": {
+  "soal_berubah": 239,
+  "field_options": 48,
+  "field_question": 200,
+  "field_explanation": 2,
+  "kunci_diubah_ID": []
+ },
+ "Matematika": {
+  "soal_berubah": 75,
+  "field_options": 27,
+  "field_question": 50,
+  "field_explanation": 7,
+  "field_visual_prompt": 2,
+  "kunci_diubah_ID": []
+ },
+ "Pancasila": {
+  "soal_berubah": 179,
+  "field_options": 110,
+  "field_question": 96,
+  "field_visual_prompt": 1,
+  "field_explanation": 15,
+  "field_answer": 2,
+  "kunci_diubah_ID": [
+   "PPN-B4-0115",
+   "PPN-B4-0213"
+  ]
+ },
+ "PJOK": {
+  "soal_berubah": 261,
+  "field_options": 112,
+  "field_question": 162,
+  "field_explanation": 160,
+  "field_visual_prompt": 3,
+  "field_answer": 3,
+  "kunci_diubah_ID": [
+   "PJK-HA-0037",
+   "PJK-MH-0038",
+   "PJK-MH-0102"
+  ]
+ },
+ "Bahasa Inggris": {
+  "soal_berubah": 183,
+  "field_options": 100,
+  "field_question": 113,
+  "field_explanation": 9,
+  "field_answer": 3,
+  "huruf_kunci_berubah": 1,
+  "field_visual_prompt": 3,
+  "kunci_diubah_ID": [
+   "ENG-B3-0019",
+   "ENG-B3-0076",
+   "ENG-B5-0106"
+  ]
+ },
+ "duplikat_identik_setelah_revisi": 3,
+ "masalah": [],
+ "jumlah_masalah": 0
+}

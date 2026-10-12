@@ -5240,9 +5240,9 @@
   "question": "Perbedaan huruf ت dan ق adalah ....",
   "options": [
    "A. Ta (ت) dan Qaf (ق) sama-sama bertitik dua di atas, tetapi bentuk dasarnya berbeda",
-   "B. keduanya bertitik tiga di bawah",
-   "C. keduanya sama persis",
-   "D. keduanya tidak bertitik"
+   "B. Ta (ت) dan Qaf (ق) sama-sama bertitik tiga di bawah, bentuk dasarnya sama",
+   "C. Ta (ت) dan Qaf (ق) sama persis, baik bentuk dasar maupun titiknya",
+   "D. Ta (ت) dan Qaf (ق) sama-sama tidak bertitik, tetapi bentuk dasarnya berbeda"
   ],
   "answer": "A",
   "explanation": "Ta (ت) dan Qaf (ق) sama-sama bertitik dua di atas, tetapi bentuk dasarnya berbeda.",
@@ -5255,17 +5255,15 @@
   "audit": {
    "question_id": "AQH-HJ-0081",
    "tp_text": "Murid mampu membandingkan huruf hijaiah dan tanda bacanya dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -5303,7 +5301,25 @@
     "id_asli": "AQH-HJ-0081"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. Ta (ت) dan Qaf (ق) sama-sama bertitik dua di atas, tetapi bentuk dasarnya berbeda",
+      "B. keduanya bertitik tiga di bawah",
+      "C. keduanya sama persis",
+      "D. keduanya tidak bertitik"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HJ-0082",
@@ -5319,10 +5335,10 @@
   "cognitive_level": "membandingkan",
   "question": "Perbedaan huruf ج dan خ adalah ....",
   "options": [
-   "A. keduanya tidak bertitik",
+   "A. Jim (ج) dan Kha (خ) sama-sama tidak bertitik sama sekali",
    "B. Jim (ج) bertitik satu di bawah, Kha (خ) bertitik satu di atas",
-   "C. keduanya bertitik tiga di bawah",
-   "D. keduanya sama persis"
+   "C. Jim (ج) dan Kha (خ) sama-sama bertitik tiga di bawah",
+   "D. Jim (ج) dan Kha (خ) sama persis bentuk dan titiknya"
   ],
   "answer": "B",
   "explanation": "Jim (ج) bertitik satu di bawah, Kha (خ) bertitik satu di atas.",
@@ -5335,17 +5351,15 @@
   "audit": {
    "question_id": "AQH-HJ-0082",
    "tp_text": "Murid mampu membandingkan huruf hijaiah dan tanda bacanya dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -5383,7 +5397,25 @@
     "id_asli": "AQH-HJ-0082"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. keduanya tidak bertitik",
+      "B. Jim (ج) bertitik satu di bawah, Kha (خ) bertitik satu di atas",
+      "C. keduanya bertitik tiga di bawah",
+      "D. keduanya sama persis"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HJ-0083",
@@ -5628,9 +5660,9 @@
   "question": "Perbedaan fathah dan kasrah adalah ....",
   "options": [
    "A. fathah di atas huruf berbunyi a, kasrah di bawah huruf berbunyi i",
-   "B. keduanya sama persis",
-   "C. keduanya terletak di bawah huruf",
-   "D. keduanya berbunyi a"
+   "B. fathah dan kasrah sama persis, keduanya berbunyi a",
+   "C. fathah di bawah huruf berbunyi i, kasrah di atas huruf berbunyi a",
+   "D. fathah dan kasrah sama-sama berbunyi a dan terletak di atas huruf"
   ],
   "answer": "A",
   "explanation": "Fathah di atas huruf berbunyi a, kasrah di bawah huruf berbunyi i.",
@@ -5643,17 +5675,15 @@
   "audit": {
    "question_id": "AQH-HJ-0086",
    "tp_text": "Murid mampu membandingkan huruf hijaiah dan tanda bacanya dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -5691,7 +5721,25 @@
     "id_asli": "AQH-HJ-0086"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. fathah di atas huruf berbunyi a, kasrah di bawah huruf berbunyi i",
+      "B. keduanya sama persis",
+      "C. keduanya terletak di bawah huruf",
+      "D. keduanya berbunyi a"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HJ-0087",
@@ -5789,9 +5837,9 @@
   "question": "Perbedaan huruf ب dan ث adalah ....",
   "options": [
    "A. Ba (ب) bertitik satu di bawah, Tsa (ث) bertitik tiga di atas",
-   "B. keduanya tidak bertitik",
-   "C. keduanya sama persis",
-   "D. keduanya bertitik tiga di bawah"
+   "B. Ba (ب) dan Tsa (ث) sama-sama tidak bertitik sama sekali",
+   "C. Ba (ب) dan Tsa (ث) sama persis bentuk dan titiknya",
+   "D. Ba (ب) dan Tsa (ث) sama-sama bertitik tiga di bawah"
   ],
   "answer": "A",
   "explanation": "Ba (ب) bertitik satu di bawah, Tsa (ث) bertitik tiga di atas.",
@@ -5804,17 +5852,15 @@
   "audit": {
    "question_id": "AQH-HJ-0088",
    "tp_text": "Murid mampu membandingkan huruf hijaiah dan tanda bacanya dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -5852,7 +5898,25 @@
     "id_asli": "AQH-HJ-0088"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. Ba (ب) bertitik satu di bawah, Tsa (ث) bertitik tiga di atas",
+      "B. keduanya tidak bertitik",
+      "C. keduanya sama persis",
+      "D. keduanya bertitik tiga di bawah"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HJ-0089",
@@ -5944,9 +6008,9 @@
   "cognitive_level": "membandingkan",
   "question": "Perbedaan huruf ت dan ث adalah ....",
   "options": [
-   "A. keduanya bertitik tiga di bawah",
-   "B. keduanya sama persis",
-   "C. keduanya tidak bertitik",
+   "A. Ta (ت) dan Tsa (ث) sama-sama bertitik tiga di bawah",
+   "B. Ta (ت) dan Tsa (ث) sama persis bentuk dan titiknya",
+   "C. Ta (ت) dan Tsa (ث) sama-sama tidak bertitik sama sekali",
    "D. Ta (ت) bertitik dua di atas, Tsa (ث) bertitik tiga di atas"
   ],
   "answer": "D",
@@ -5960,17 +6024,15 @@
   "audit": {
    "question_id": "AQH-HJ-0090",
    "tp_text": "Murid mampu membandingkan huruf hijaiah dan tanda bacanya dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -6008,7 +6070,25 @@
     "id_asli": "AQH-HJ-0090"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. keduanya bertitik tiga di bawah",
+      "B. keduanya sama persis",
+      "C. keduanya tidak bertitik",
+      "D. Ta (ت) bertitik dua di atas, Tsa (ث) bertitik tiga di atas"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HJ-0091",
@@ -6257,9 +6337,9 @@
   "cognitive_level": "membandingkan",
   "question": "Perbedaan huruf ج dan ح adalah ....",
   "options": [
-   "A. keduanya tidak bertitik",
-   "B. keduanya sama persis",
-   "C. keduanya bertitik tiga di bawah",
+   "A. Jim (ج) dan Ha (ح) sama-sama tidak bertitik sama sekali",
+   "B. Jim (ج) dan Ha (ح) sama persis bentuk dan titiknya",
+   "C. Jim (ج) dan Ha (ح) sama-sama bertitik tiga di bawah",
    "D. Jim (ج) bertitik satu di bawah, Ha (ح) tidak bertitik"
   ],
   "answer": "D",
@@ -6273,17 +6353,15 @@
   "audit": {
    "question_id": "AQH-HJ-0094",
    "tp_text": "Murid mampu membandingkan huruf hijaiah dan tanda bacanya dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -6321,7 +6399,25 @@
     "id_asli": "AQH-HJ-0094"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. keduanya tidak bertitik",
+      "B. keduanya sama persis",
+      "C. keduanya bertitik tiga di bawah",
+      "D. Jim (ج) bertitik satu di bawah, Ha (ح) tidak bertitik"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HJ-0095",
@@ -9043,9 +9139,9 @@
   "question": "Salim membaca Al-Qur'an dengan tenang dan mengikuti tanda bacanya, karena ia ingin mencintai Al-Qur'an dan ilmu. Sikap Salim menunjukkan cinta ....",
   "options": [
    "A. Allah dan Rasul-Nya serta cinta ilmu",
-   "B. permainan saja",
-   "C. kendaraan baru",
-   "D. uang jajan"
+   "B. permainan dan hiburan semata",
+   "C. kendaraan baru dan barang mewah",
+   "D. uang jajan dan hadiah dari teman"
   ],
   "answer": "A",
   "explanation": "Belajar membaca Al-Qur'an adalah wujud cinta Allah dan Rasul-Nya serta cinta ilmu.",
@@ -9058,17 +9154,15 @@
   "audit": {
    "question_id": "AQH-HJ-0126",
    "tp_text": "Murid mampu merangkaikan huruf hijaiah bertanda baca dengan baik dan benar sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -9100,6 +9194,16 @@
        "(TP menyebut: Cinta Ilmu)"
       ]
      }
+    },
+    {
+     "nilai": "Cinta Diri dan Sesama",
+     "relevansi": "konteks",
+     "bukti": {
+      "dalam_soal": [
+       "teman"
+      ]
+     },
+     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
     }
    ],
    "deep_learning_mapping": {
@@ -9110,6 +9214,10 @@
      }
     ],
     "prinsip": [
+     {
+      "jenis": "Bermakna",
+      "bukti": "konteks kehidupan sehari-hari anak pada soal"
+     },
      {
       "jenis": "Menggembirakan",
       "bukti": "aktivitas bermain/praktik pada soal"
@@ -9143,7 +9251,25 @@
     "id_asli": "AQH-HJ-0126"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. Allah dan Rasul-Nya serta cinta ilmu",
+      "B. permainan saja",
+      "C. kendaraan baru",
+      "D. uang jajan"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HJ-0127",
@@ -11140,9 +11266,9 @@
   "question": "Ayat yang mengajarkan kita untuk mengikuti jalan orang yang diberi nikmat oleh Allah adalah ayat ....",
   "options": [
    "A. Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin",
-   "B. Ar-rahmanir-rahim",
-   "C. Bismillahirrahmanirrahim",
-   "D. Alhamdu lillahi rabbil 'alamin"
+   "B. Bismillahirrahmanirrahim, alhamdu lillahi rabbil 'alamin",
+   "C. Ar-rahmanir-rahim, maliki yaumiddin, iyyaka na'budu wa iyyaka nasta'in",
+   "D. Alhamdu lillahi rabbil 'alamin, ar-rahmanir-rahim, maliki yaumiddin"
   ],
   "answer": "A",
   "explanation": "Ayat ke-7 surah Al-Fatihah (\"Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin\") mengajarkan kita untuk mengikuti jalan orang yang diberi nikmat oleh Allah.",
@@ -11155,17 +11281,15 @@
   "audit": {
    "question_id": "AQH-FA-0005",
    "tp_text": "Murid mampu menjelaskan pesan pokok surah Al-Fatihah dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -11228,7 +11352,25 @@
     "id_asli": "AQH-FA-0005"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin",
+      "B. Ar-rahmanir-rahim",
+      "C. Bismillahirrahmanirrahim",
+      "D. Alhamdu lillahi rabbil 'alamin"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FA-0006",
@@ -12677,10 +12819,10 @@
   "cognitive_level": "menerapkan",
   "question": "Dalam Al-Fatihah, Allah disebut Rabbil 'alamin. Artinya Allah adalah ....",
   "options": [
-   "A. pemilik satu kampung saja",
+   "A. Tuhan yang hanya mengatur satu kampung kecil saja",
    "B. Tuhan yang mengatur dan memelihara seluruh alam",
-   "C. Tuhan khusus bagi orang dewasa",
-   "D. pencipta bagi manusia saja"
+   "C. Tuhan yang hanya memelihara orang dewasa saja",
+   "D. Tuhan yang hanya menciptakan manusia saja"
   ],
   "answer": "B",
   "explanation": "Rabbil 'alamin berarti Tuhan seluruh alam.",
@@ -12693,17 +12835,15 @@
   "audit": {
    "question_id": "AQH-FA-0021",
    "tp_text": "Murid mampu menjelaskan pesan pokok surah Al-Fatihah dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -12770,7 +12910,25 @@
     "id_asli": "AQH-FA-0021"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. pemilik satu kampung saja",
+      "B. Tuhan yang mengatur dan memelihara seluruh alam",
+      "C. Tuhan khusus bagi orang dewasa",
+      "D. pencipta bagi manusia saja"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FA-0022",
@@ -14792,9 +14950,9 @@
   "question": "Ayat terakhir surah Al-Fatihah dibaca ....",
   "options": [
    "A. Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin",
-   "B. Bismillahirrahmanirrahim",
-   "C. Ar-rahmanir-rahim",
-   "D. Alhamdu lillahi rabbil 'alamin"
+   "B. Bismillahirrahmanirrahim, alhamdu lillahi rabbil 'alamin",
+   "C. Alhamdu lillahi rabbil 'alamin, ar-rahmanir-rahim, maliki yaumiddin",
+   "D. Ar-rahmanir-rahim, maliki yaumiddin, iyyaka na'budu wa iyyaka nasta'in"
   ],
   "answer": "A",
   "explanation": "Ayat terakhir (ke-7) surah Al-Fatihah: \"Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin\".",
@@ -14807,17 +14965,15 @@
   "audit": {
    "question_id": "AQH-FA-0044",
    "tp_text": "Murid mampu menyesuaikan pelafalan dan menghafal surah Al-Fatihah dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -14867,7 +15023,25 @@
     "id_asli": "AQH-FA-0044"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin",
+      "B. Bismillahirrahmanirrahim",
+      "C. Ar-rahmanir-rahim",
+      "D. Alhamdu lillahi rabbil 'alamin"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FA-0045",
@@ -15243,10 +15417,10 @@
   "cognitive_level": "mengingat",
   "question": "Setelah ayat \"Ihdinash-shiratal-mustaqim\", ayat selanjutnya dibaca ....",
   "options": [
-   "A. Alhamdu lillahi rabbil 'alamin",
-   "B. Bismillahirrahmanirrahim",
+   "A. Alhamdu lillahi rabbil 'alamin, ar-rahmanir-rahim, maliki yaumiddin",
+   "B. Bismillahirrahmanirrahim, alhamdu lillahi rabbil 'alamin",
    "C. Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin",
-   "D. Ar-rahmanir-rahim"
+   "D. Ar-rahmanir-rahim, maliki yaumiddin, iyyaka na'budu wa iyyaka nasta'in"
   ],
   "answer": "C",
   "explanation": "Setelah ayat ke-6 (\"Ihdinash-shiratal-mustaqim\") adalah ayat ke-7: \"Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin\".",
@@ -15259,17 +15433,15 @@
   "audit": {
    "question_id": "AQH-FA-0049",
    "tp_text": "Murid mampu menyesuaikan pelafalan dan menghafal surah Al-Fatihah dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -15316,7 +15488,25 @@
     "id_asli": "AQH-FA-0049"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. Alhamdu lillahi rabbil 'alamin",
+      "B. Bismillahirrahmanirrahim",
+      "C. Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin",
+      "D. Ar-rahmanir-rahim"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FA-0050",
@@ -18094,9 +18284,9 @@
   "question": "Ayat yang artinya \"Jalan orang-orang yang Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan jalan mereka yang sesat\" dibaca ....",
   "options": [
    "A. Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin",
-   "B. Bismillahirrahmanirrahim",
-   "C. Ar-rahmanir-rahim",
-   "D. Alhamdu lillahi rabbil 'alamin"
+   "B. Bismillahirrahmanirrahim, alhamdu lillahi rabbil 'alamin",
+   "C. Alhamdu lillahi rabbil 'alamin, ar-rahmanir-rahim, maliki yaumiddin",
+   "D. Ar-rahmanir-rahim, maliki yaumiddin, iyyaka na'budu wa iyyaka nasta'in"
   ],
   "answer": "A",
   "explanation": "Arti tersebut adalah arti ayat ke-7: \"Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin\".",
@@ -18109,17 +18299,15 @@
   "audit": {
    "question_id": "AQH-FA-0081",
    "tp_text": "Murid mampu menyebutkan arti surah Al-Fatihah dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -18166,7 +18354,25 @@
     "id_asli": "AQH-FA-0081"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. Shiratal-ladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin",
+      "B. Bismillahirrahmanirrahim",
+      "C. Ar-rahmanir-rahim",
+      "D. Alhamdu lillahi rabbil 'alamin"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FA-0082",
@@ -18706,10 +18912,10 @@
   "cognitive_level": "memahami",
   "question": "Kata \"nasta'in\" dalam surah Al-Fatihah berarti ....",
   "options": [
-   "A. seluruh alam",
+   "A. Tuhan pemelihara seluruh alam",
    "B. kami memohon pertolongan",
-   "C. Tuhan",
-   "D. segala puji"
+   "C. pemilik hari pembalasan",
+   "D. segala puji bagi Allah"
   ],
   "answer": "B",
   "explanation": "Kata نَسْتَعِينُ (\"nasta'in\") berarti kami memohon pertolongan.",
@@ -18722,23 +18928,22 @@
   "audit": {
    "question_id": "AQH-FA-0088",
    "tp_text": "Murid mampu menyebutkan arti surah Al-Fatihah dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
      "relevansi": "konteks",
      "bukti": {
       "dalam_soal": [
+       "allah",
        "surah"
       ],
       "dalam_TP_materi": [
@@ -18789,7 +18994,25 @@
     "id_asli": "AQH-FA-0088"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. seluruh alam",
+      "B. kami memohon pertolongan",
+      "C. Tuhan",
+      "D. segala puji"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FA-0089",
@@ -20686,9 +20909,9 @@
   "question": "Ahmad bingung memilih jalan yang benar dalam sebuah masalah. Sesuai ayat \"Ihdinash-shiratal-mustaqim\", Ahmad sebaiknya ....",
   "options": [
    "A. berdoa memohon petunjuk Allah dan meminta nasihat orang tua",
-   "B. menyerah dan tidak berbuat apa pun",
-   "C. memilih secara asal-asalan",
-   "D. ikut-ikutan memilih seperti temannya"
+   "B. menyerah dan tidak berbuat apa pun karena merasa bingung",
+   "C. memilih secara asal-asalan tanpa berpikir dan bertanya",
+   "D. ikut-ikutan memilih seperti pilihan temannya tanpa berpikir"
   ],
   "answer": "A",
   "explanation": "Ayat keenam adalah doa memohon petunjuk jalan yang lurus.",
@@ -20701,17 +20924,15 @@
   "audit": {
    "question_id": "AQH-FA-0110",
    "tp_text": "Murid mampu menerapkan pesan pokok surah Al-Fatihah dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -20731,14 +20952,17 @@
     },
     {
      "nilai": "Cinta Ilmu",
-     "relevansi": "melalui_TP",
+     "relevansi": "konteks",
      "bukti": {
+      "dalam_soal": [
+       "bertanya"
+      ],
       "dalam_TP_materi": [
        "ilmu",
        "(TP menyebut: Cinta Ilmu)"
       ]
      },
-     "catatan": "hanya terkait lewat teks TP/materi"
+     "catatan": "nilai muncul pada TP/latar soal, tetapi kunci tidak mengukurnya"
     },
     {
      "nilai": "Cinta Diri dan Sesama",
@@ -20790,7 +21014,25 @@
     "id_asli": "AQH-FA-0110"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. berdoa memohon petunjuk Allah dan meminta nasihat orang tua",
+      "B. menyerah dan tidak berbuat apa pun",
+      "C. memilih secara asal-asalan",
+      "D. ikut-ikutan memilih seperti temannya"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FA-0111",
@@ -24916,7 +25158,7 @@
   "question_type": "multiple_choice",
   "difficulty": "medium",
   "cognitive_level": "memahami",
-  "question": "Murid belajar surah Al-Ikhlas untuk mengetahui bahwa kita perlu ....",
+  "question": "Murid belajar surah Al-Ikhlas untuk mengetahui pesan pokoknya, yaitu ....",
   "options": [
    "A. berlindung kepada Allah dari bisikan jahat setan",
    "B. memuji Allah, hanya menyembah Allah, dan memohon petunjuk jalan yang lurus",
@@ -24934,15 +25176,15 @@
   "audit": {
    "question_id": "AQH-IK-0006",
    "tp_text": "Murid mampu menjelaskan pesan pokok surah Al-Ikhlas dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "tinjau_baca_BAHASA"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Stem 'kita perlu' diikuti opsi tanpa kata kerja sehingga tidak gramatikal; stem diubah menjadi 'pesan pokoknya, yaitu ....' agar semua opsi (frasa verba maupun klausa) terbaca gramatikal.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -25010,7 +25252,20 @@
     "id_asli": "AQH-IK-0006"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "BAHASA"
+    ],
+    "alasan": "Stem 'kita perlu' diikuti opsi tanpa kata kerja sehingga tidak gramatikal; stem diubah menjadi 'pesan pokoknya, yaitu ....' agar semua opsi (frasa verba maupun klausa) terbaca gramatikal.",
+    "verifikasi": "Opsi dan kunci tidak diubah (kunci D tetap Allah Maha Esa dan menjadi tempat meminta segala sesuatu); opsi lain tetap isi surah lain sehingga tidak menjadi benar.",
+    "sebelum": {
+     "question": "Murid belajar surah Al-Ikhlas untuk mengetahui bahwa kita perlu ...."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-IK-0007",
@@ -32172,9 +32427,9 @@
   "cognitive_level": "memahami",
   "question": "Kata \"kufuwan\" dalam surah Al-Ikhlas berarti ....",
   "options": [
-   "A. katakanlah",
-   "B. Dia",
-   "C. Maha Esa",
+   "A. katakanlah kepada mereka",
+   "B. Dia, yaitu Allah",
+   "C. Allah Yang Maha Esa",
    "D. setara/sebanding"
   ],
   "answer": "D",
@@ -32188,23 +32443,22 @@
   "audit": {
    "question_id": "AQH-IK-0086",
    "tp_text": "Murid mampu menyebutkan arti surah Al-Ikhlas dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
      "relevansi": "konteks",
      "bukti": {
       "dalam_soal": [
+       "allah",
        "ikhlas",
        "surah"
       ],
@@ -32247,7 +32501,25 @@
     "id_asli": "AQH-IK-0086"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. katakanlah",
+      "B. Dia",
+      "C. Maha Esa",
+      "D. setara/sebanding"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-IK-0087",
@@ -32613,9 +32885,9 @@
   "question": "Kata \"ash-shamad\" dalam surah Al-Ikhlas berarti ....",
   "options": [
    "A. tempat meminta segala sesuatu",
-   "B. Maha Esa",
-   "C. katakanlah",
-   "D. Dia"
+   "B. Allah satu-satunya Tuhan",
+   "C. katakanlah kepada mereka",
+   "D. Dia yang disebut Allah"
   ],
   "answer": "A",
   "explanation": "Kata الصَّمَدُ (\"ash-shamad\") berarti tempat meminta segala sesuatu.",
@@ -32628,23 +32900,22 @@
   "audit": {
    "question_id": "AQH-IK-0091",
    "tp_text": "Murid mampu menyebutkan arti surah Al-Ikhlas dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
      "relevansi": "konteks",
      "bukti": {
       "dalam_soal": [
+       "allah",
        "ikhlas",
        "surah"
       ],
@@ -32687,7 +32958,25 @@
     "id_asli": "AQH-IK-0091"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. tempat meminta segala sesuatu",
+      "B. Maha Esa",
+      "C. katakanlah",
+      "D. Dia"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-IK-0092",
@@ -34008,10 +34297,10 @@
   "cognitive_level": "menerapkan",
   "question": "Perhatikan gambar! Dua anak sedang membaca Al-Qur'an bersama ibu di ruang tamu sebelum tidur. Hal ini menunjukkan sikap ....",
   "options": [
-   "A. bermain di malam hari",
-   "B. malas belajar di sekolah",
+   "A. sibuk bermain di malam hari dan tidak mau membaca apa pun",
+   "B. malas belajar di sekolah dan tidak mau mengerjakan tugas",
    "C. membiasakan membaca surah pendek sebagai bentuk cinta kepada Al-Qur'an",
-   "D. menunda-nunda waktu tidur"
+   "D. menunda-nunda waktu tidur sampai larut malam tanpa tujuan"
   ],
   "answer": "C",
   "explanation": "Membaca surah pendek secara rutin termasuk mencintai Al-Qur'an.",
@@ -34024,17 +34313,15 @@
   "audit": {
    "question_id": "AQH-IK-0107",
    "tp_text": "Murid mampu menerapkan pesan pokok surah Al-Ikhlas dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -34122,7 +34409,25 @@
     "id_asli": "AQH-IK-0107"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. bermain di malam hari",
+      "B. malas belajar di sekolah",
+      "C. membiasakan membaca surah pendek sebagai bentuk cinta kepada Al-Qur'an",
+      "D. menunda-nunda waktu tidur"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-IK-0108",
@@ -34477,12 +34782,12 @@
   "question_type": "contextual",
   "difficulty": "hard",
   "cognitive_level": "menerapkan",
-  "question": "Sebelum tidur, Umar ingin membaca surah pendek bersama ayah. Surah yang termasuk dibaca adalah ....",
+  "question": "Sebelum tidur, Umar ingin membaca tiga surah pendek seperti yang dibaca Rasulullah. Tiga surah yang dibaca Rasulullah sebelum tidur adalah ....",
   "options": [
    "A. Al-Ikhlas, Al-Falaq, dan An-Nas",
-   "B. hanya Al-Kafirun",
-   "C. Al-Ma'un saja",
-   "D. hanya Al-Lahab"
+   "B. Al-Ma'un, Al-Lahab, dan Al-Fil",
+   "C. Al-Kautsar, Al-Ma'un, dan Al-Lahab",
+   "D. Al-Fil, Al-'Ashr, dan Al-Humazah"
   ],
   "answer": "A",
   "explanation": "Rasulullah membaca Al-Ikhlas, Al-Falaq, dan An-Nas sebelum tidur.",
@@ -34495,18 +34800,17 @@
   "audit": {
    "question_id": "AQH-IK-0111",
    "tp_text": "Murid mampu menerapkan pesan pokok surah Al-Ikhlas dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang",
-    "tinjau_baca_KONSTRUKSI"
+    "tinjau_baca_KONSTRUKSI",
+    "konfirmasi_pasca_revisi"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "TAHAN: Pengecoh diganti nama surah lain; konfirmasi bahwa Al-Kafirun tidak lebih tepat sebagai pengecoh.",
+   "revision_notes": "Pengecoh memakai kata mutlak 'hanya/saja' sehingga kunci terbaca dari pola kata, dan stem 'yang termasuk dibaca' membuat surah lain pun tidak salah. Stem dipertegas menjadi tiga surah yang dibaca Rasulullah sebelum tidur; pengecoh diganti tiga surah lain dengan struktur dan panjang sejajar kunci.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -34537,16 +34841,6 @@
        "(TP menyebut: Cinta Ilmu)"
       ]
      }
-    },
-    {
-     "nilai": "Cinta Diri dan Sesama",
-     "relevansi": "konteks",
-     "bukti": {
-      "dalam_soal": [
-       "ayah"
-      ]
-     },
-     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
     }
    ],
    "deep_learning_mapping": {
@@ -34587,7 +34881,27 @@
     "id_asli": "AQH-IK-0111"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang",
+     "KONSTRUKSI"
+    ],
+    "alasan": "Pengecoh memakai kata mutlak 'hanya/saja' sehingga kunci terbaca dari pola kata, dan stem 'yang termasuk dibaca' membuat surah lain pun tidak salah. Stem dipertegas menjadi tiga surah yang dibaca Rasulullah sebelum tidur; pengecoh diganti tiga surah lain dengan struktur dan panjang sejajar kunci.",
+    "verifikasi": "Teks kunci tidak berubah dan sesuai penjelasan (Al-Ikhlas, Al-Falaq, An-Nas). Pengecoh tidak memuat tiga surah tersebut dan sengaja tidak memuat Al-Kafirun agar tidak ambigu.",
+    "sebelum": {
+     "question": "Sebelum tidur, Umar ingin membaca surah pendek bersama ayah. Surah yang termasuk dibaca adalah ....",
+     "options": [
+      "A. Al-Ikhlas, Al-Falaq, dan An-Nas",
+      "B. hanya Al-Kafirun",
+      "C. Al-Ma'un saja",
+      "D. hanya Al-Lahab"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-IK-0112",
@@ -34851,10 +35165,10 @@
   "cognitive_level": "menerapkan",
   "question": "Saat melihat langit yang luas, Naila kagum. Sesuai Al-Ikhlas, Naila sebaiknya ....",
   "options": [
-   "A. menyembah langit",
-   "B. tidak peduli pada ciptaan Allah",
+   "A. menyembah langit karena langit itu besar dan sangat indah",
+   "B. tidak peduli pada ciptaan Allah dan tidak mau memikirkannya",
    "C. mengingat bahwa Allah Maha Esa yang menciptakan semuanya",
-   "D. menganggap langit tercipta sendiri"
+   "D. menganggap langit tercipta sendiri tanpa ada yang menciptakan"
   ],
   "answer": "C",
   "explanation": "Seluruh alam diciptakan oleh Allah Yang Maha Esa.",
@@ -34867,17 +35181,15 @@
   "audit": {
    "question_id": "AQH-IK-0114",
    "tp_text": "Murid mampu menerapkan pesan pokok surah Al-Ikhlas dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -34953,7 +35265,25 @@
     "id_asli": "AQH-IK-0114"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. menyembah langit",
+      "B. tidak peduli pada ciptaan Allah",
+      "C. mengingat bahwa Allah Maha Esa yang menciptakan semuanya",
+      "D. menganggap langit tercipta sendiri"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-IK-0115",
@@ -45735,8 +46065,8 @@
    "Benar",
    "Salah"
   ],
-  "answer": "Salah",
-  "explanation": "Salah. ج berada di awal kata.",
+  "answer": "Benar",
+  "explanation": "Benar. Kata رجل tersusun dari ر - ج - ل, sehingga huruf Jim (ج) berada di tengah kata.",
   "visual_required": false,
   "visual_prompt": null,
   "tags": [
@@ -45746,15 +46076,16 @@
   "audit": {
    "question_id": "AQH-HT-0111",
    "tp_text": "Murid mampu menyesuaikan penulisan huruf hijaiah dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "NEEDS_REVIEW",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
-    "tinjau_baca_AKURASI_SALAH_TEGAS"
+    "tinjau_baca_AKURASI_SALAH_TEGAS",
+    "konfirmasi_pasca_revisi"
    ],
    "isu_struktur_tersisa": [],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "recommended_action": "TAHAN: KUNCI DIUBAH oleh revisi (AKURASI_SALAH_TEGAS/kunci kelompok rusak); konfirmasi perubahan kunci oleh guru/ahli.",
+   "revision_notes": "Kata رجل = ر + ج + ل; Jim berada di posisi kedua (tengah kata), sehingga pernyataan 'Jim ditulis di tengah kata' Benar. Kunci dan penjelasan dikoreksi.",
    "kbc_mapping": [
     {
      "nilai": null,
@@ -45797,7 +46128,21 @@
     "id_asli": "AQH-HT-0111"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "AKURASI_SALAH_TEGAS"
+    ],
+    "alasan": "Kata رجل = ر + ج + ل; Jim berada di posisi kedua (tengah kata), sehingga pernyataan 'Jim ditulis di tengah kata' Benar. Kunci dan penjelasan dikoreksi.",
+    "verifikasi": "Diverifikasi sendiri: tiga huruf رجل adalah Ra, Jim, Lam; Jim di tengah. Pernyataan soal tidak diubah.",
+    "sebelum": {
+     "answer": "Salah",
+     "explanation": "Salah. ج berada di awal kata."
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HT-0112",
@@ -46191,9 +46536,9 @@
   "cognitive_level": "memahami",
   "question": "Titik huruf hijaiah sebaiknya ditulis ....",
   "options": [
-   "A. sebelum menulis huruf",
-   "B. di tempat mana saja",
-   "C. tidak perlu ditulis",
+   "A. sebelum badan huruf mulai ditulis",
+   "B. di tempat mana saja sesuka hati",
+   "C. tidak perlu ditulis karena tidak penting",
    "D. setelah badan huruf selesai ditulis"
   ],
   "answer": "D",
@@ -46207,17 +46552,15 @@
   "audit": {
    "question_id": "AQH-HT-0117",
    "tp_text": "Murid mampu mempraktikkan penulisan huruf hijaiah secara terpisah dan tersambung dengan benar sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -46275,7 +46618,25 @@
     "id_asli": "AQH-HT-0117"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. sebelum menulis huruf",
+      "B. di tempat mana saja",
+      "C. tidak perlu ditulis",
+      "D. setelah badan huruf selesai ditulis"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HT-0118",
@@ -46292,9 +46653,9 @@
   "question": "Untuk menulis kata \"rumah\" dengan benar, kita menyambung huruf-huruf ....",
   "options": [
    "A. yang dapat disambung dan memutus setelah huruf yang tidak dapat disambung",
-   "B. tidak ada yang disambung",
-   "C. semuanya tanpa kecuali",
-   "D. hanya huruf pertama"
+   "B. tidak ada huruf yang disambung, semuanya ditulis terpisah",
+   "C. semua huruf tanpa kecuali, termasuk huruf yang tidak dapat disambung",
+   "D. hanya huruf pertama dan terakhir, huruf lainnya terpisah"
   ],
   "answer": "A",
   "explanation": "بيت ditulis dengan menyambung huruf yang dapat disambung.",
@@ -46307,17 +46668,15 @@
   "audit": {
    "question_id": "AQH-HT-0118",
    "tp_text": "Murid mampu mempraktikkan penulisan huruf hijaiah secara terpisah dan tersambung dengan benar sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -46375,7 +46734,25 @@
     "id_asli": "AQH-HT-0118"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. yang dapat disambung dan memutus setelah huruf yang tidak dapat disambung",
+      "B. tidak ada yang disambung",
+      "C. semuanya tanpa kecuali",
+      "D. hanya huruf pertama"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HT-0119",
@@ -46391,9 +46768,9 @@
   "cognitive_level": "menerapkan",
   "question": "Untuk menulis kata \"unta\" dengan benar, kita menyambung huruf-huruf ....",
   "options": [
-   "A. semuanya tanpa kecuali",
-   "B. tidak ada yang disambung",
-   "C. hanya huruf pertama",
+   "A. semua huruf tanpa kecuali, termasuk huruf yang tidak dapat disambung",
+   "B. tidak ada huruf yang disambung, semuanya ditulis terpisah",
+   "C. hanya huruf pertama dan terakhir, huruf lainnya terpisah",
    "D. yang dapat disambung dan memutus setelah huruf yang tidak dapat disambung"
   ],
   "answer": "D",
@@ -46407,17 +46784,15 @@
   "audit": {
    "question_id": "AQH-HT-0119",
    "tp_text": "Murid mampu mempraktikkan penulisan huruf hijaiah secara terpisah dan tersambung dengan benar sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -46475,7 +46850,25 @@
     "id_asli": "AQH-HT-0119"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. semuanya tanpa kecuali",
+      "B. tidak ada yang disambung",
+      "C. hanya huruf pertama",
+      "D. yang dapat disambung dan memutus setelah huruf yang tidak dapat disambung"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HT-0120",
@@ -46901,9 +47294,9 @@
   "cognitive_level": "menerapkan",
   "question": "Perhatikan gambar! Dua anak sedang berlatih menulis huruf hijaiah di buku tulis. Hal yang perlu diperhatikan adalah ....",
   "options": [
-   "A. jumlah halaman buku",
-   "B. warna pensil saja",
-   "C. ukuran meja saja",
+   "A. jumlah halaman buku yang dipakai",
+   "B. warna pensil yang dipakai menulis",
+   "C. ukuran meja tempat mereka menulis",
    "D. bentuk huruf, titik, dan arah tulisan"
   ],
   "answer": "D",
@@ -46917,18 +47310,16 @@
   "audit": {
    "question_id": "AQH-HT-0124",
    "tp_text": "Murid mampu mempraktikkan penulisan huruf hijaiah secara terpisah dan tersambung dengan benar sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang",
     "tinjau_baca_KONSTRUKSI"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Kata pembatas 'saja' pada pengecoh dihapus dan pengecoh disejajarkan panjang/strukturnya dengan kunci sehingga kunci tidak terbaca dari pola kata.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -46994,7 +47385,26 @@
     "id_asli": "AQH-HT-0124"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang",
+     "KONSTRUKSI"
+    ],
+    "alasan": "Kata pembatas 'saja' pada pengecoh dihapus dan pengecoh disejajarkan panjang/strukturnya dengan kunci sehingga kunci tidak terbaca dari pola kata.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. jumlah halaman buku",
+      "B. warna pensil saja",
+      "C. ukuran meja saja",
+      "D. bentuk huruf, titik, dan arah tulisan"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HT-0125",
@@ -47316,10 +47726,10 @@
   "cognitive_level": "menerapkan",
   "question": "Farhan sering salah menyambung huruf. Cara belajar yang tepat adalah ....",
   "options": [
-   "A. berhenti berlatih",
-   "B. menyalin tulisan teman tanpa belajar",
+   "A. berhenti berlatih dan tidak mau belajar lagi",
+   "B. menyalin tulisan teman tanpa mau belajar sendiri",
    "C. berlatih menulis berulang-ulang dan meminta contoh guru",
-   "D. menulis asal-asalan"
+   "D. menulis asal-asalan tanpa memperhatikan bentuk huruf"
   ],
   "answer": "C",
   "explanation": "Latihan berulang membuat tulisan makin benar.",
@@ -47332,17 +47742,15 @@
   "audit": {
    "question_id": "AQH-HT-0128",
    "tp_text": "Murid mampu mempraktikkan penulisan huruf hijaiah secara terpisah dan tersambung dengan benar sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -47417,7 +47825,25 @@
     "id_asli": "AQH-HT-0128"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. berhenti berlatih",
+      "B. menyalin tulisan teman tanpa belajar",
+      "C. berlatih menulis berulang-ulang dan meminta contoh guru",
+      "D. menulis asal-asalan"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HT-0129",
@@ -47434,9 +47860,9 @@
   "question": "Ustazah memberi tugas menulis nama Allah ( الله ) dengan rapi. Sikap yang tepat adalah ....",
   "options": [
    "A. menulis perlahan dan rapi karena cinta kepada Allah",
-   "B. menulis cepat tanpa melihat",
-   "C. menyuruh teman menulisnya",
-   "D. mencoret-coret buku"
+   "B. menulis dengan cepat tanpa melihat bentuk hurufnya",
+   "C. menyuruh teman menulisnya agar dirinya bisa bermain",
+   "D. mencoret-coret buku tulis dan tidak menulis tugas"
   ],
   "answer": "A",
   "explanation": "Menulis dengan rapi menunjukkan cinta Allah dan ilmu.",
@@ -47449,17 +47875,15 @@
   "audit": {
    "question_id": "AQH-HT-0129",
    "tp_text": "Murid mampu mempraktikkan penulisan huruf hijaiah secara terpisah dan tersambung dengan benar sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -47510,6 +47934,10 @@
      {
       "jenis": "Bermakna",
       "bukti": "konteks kehidupan sehari-hari anak pada soal"
+     },
+     {
+      "jenis": "Menggembirakan",
+      "bukti": "aktivitas bermain/praktik pada soal"
      }
     ],
     "catatan": "Soal tertulis tidak membuktikan praktik pedagogis, kemitraan, lingkungan, atau pemanfaatan digital; itu dilengkapi aktivitas pendamping guru."
@@ -47539,7 +47967,25 @@
     "id_asli": "AQH-HT-0129"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. menulis perlahan dan rapi karena cinta kepada Allah",
+      "B. menulis cepat tanpa melihat",
+      "C. menyuruh teman menulisnya",
+      "D. mencoret-coret buku"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HT-0130",
@@ -47651,10 +48097,10 @@
   "cognitive_level": "menerapkan",
   "question": "Hanif menulis kata باب. Setelah menulis alif, ia mengangkat pensil lalu menulis ب terakhir secara terpisah. Hal itu karena ....",
   "options": [
-   "A. Hanif lelah",
+   "A. Hanif sudah lelah dan ingin segera beristirahat",
    "B. alif tidak dapat disambung dengan huruf sesudahnya",
-   "C. ب tidak punya bentuk akhir",
-   "D. pensilnya tumpul"
+   "C. ب tidak punya bentuk akhir sehingga harus terpisah",
+   "D. pensilnya tumpul sehingga harus diangkat dulu"
   ],
   "answer": "B",
   "explanation": "Alif tidak menyambung ke huruf sesudahnya.",
@@ -47667,17 +48113,15 @@
   "audit": {
    "question_id": "AQH-HT-0131",
    "tp_text": "Murid mampu mempraktikkan penulisan huruf hijaiah secara terpisah dan tersambung dengan benar sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -47735,7 +48179,25 @@
     "id_asli": "AQH-HT-0131"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. Hanif lelah",
+      "B. alif tidak dapat disambung dengan huruf sesudahnya",
+      "C. ب tidak punya bentuk akhir",
+      "D. pensilnya tumpul"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HT-0132",
@@ -59141,9 +59603,9 @@
   "cognitive_level": "menerapkan",
   "question": "Seorang teman membisikkan ajakan untuk berbohong kepada guru. Sesuai pesan An-Nas, Fadil sebaiknya ....",
   "options": [
-   "A. ikut berbohong agar tidak dimusuhi",
-   "B. menuruti ajakan itu",
-   "C. diam saja lalu melupakan",
+   "A. ikut berbohong kepada guru agar tidak dimusuhi teman",
+   "B. menuruti ajakan itu karena takut kepada temannya",
+   "C. diam saja lalu melupakan ajakan itu tanpa berbuat apa pun",
    "D. menolak dan berlindung kepada Allah dari bisikan jahat"
   ],
   "answer": "D",
@@ -59157,17 +59619,15 @@
   "audit": {
    "question_id": "AQH-NS-0112",
    "tp_text": "Murid mampu menerapkan pesan pokok surah An-Nas dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -59250,7 +59710,25 @@
     "id_asli": "AQH-NS-0112"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. ikut berbohong agar tidak dimusuhi",
+      "B. menuruti ajakan itu",
+      "C. diam saja lalu melupakan",
+      "D. menolak dan berlindung kepada Allah dari bisikan jahat"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-NS-0113",
@@ -59266,9 +59744,9 @@
   "cognitive_level": "menerapkan",
   "question": "Zaki takut gelap dan mimpi buruk. Sesuai Surah An-Nas, Zaki sebaiknya ....",
   "options": [
-   "A. menjerit sambil berlari ke luar rumah",
-   "B. tidak tidur sama sekali",
-   "C. memanggil teman untuk menakut-nakuti",
+   "A. menjerit sambil berlari ke luar rumah di tengah malam",
+   "B. tidak tidur sama sekali dan menyalakan semua lampu rumah",
+   "C. memanggil teman untuk menakut-nakuti adik di kamar",
    "D. membaca doa dan surah An-Nas untuk berlindung kepada Allah"
   ],
   "answer": "D",
@@ -59282,17 +59760,15 @@
   "audit": {
    "question_id": "AQH-NS-0113",
    "tp_text": "Murid mampu menerapkan pesan pokok surah An-Nas dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -59329,6 +59805,7 @@
      "relevansi": "konteks",
      "bukti": {
       "dalam_soal": [
+       "adik",
        "teman"
       ]
      },
@@ -59378,7 +59855,25 @@
     "id_asli": "AQH-NS-0113"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. menjerit sambil berlari ke luar rumah",
+      "B. tidak tidur sama sekali",
+      "C. memanggil teman untuk menakut-nakuti",
+      "D. membaca doa dan surah An-Nas untuk berlindung kepada Allah"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-NS-0114",
@@ -59395,9 +59890,9 @@
   "question": "Ayat terakhir An-Nas menyebut bisikan jahat bisa datang dari jin dan manusia. Karena itu Dewi harus ....",
   "options": [
    "A. berhati-hati memilih teman dan tidak mudah terpengaruh",
-   "B. meniru teman yang berbuat buruk",
-   "C. menuruti setiap ajakan",
-   "D. percaya semua ajakan teman"
+   "B. meniru teman yang berbuat buruk agar disukai mereka",
+   "C. menuruti setiap ajakan teman tanpa memikirkannya",
+   "D. percaya begitu saja pada semua ajakan teman"
   ],
   "answer": "A",
   "explanation": "Waspada terhadap bisikan jahat dari siapa pun.",
@@ -59410,17 +59905,15 @@
   "audit": {
    "question_id": "AQH-NS-0114",
    "tp_text": "Murid mampu menerapkan pesan pokok surah An-Nas dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -59496,7 +59989,25 @@
     "id_asli": "AQH-NS-0114"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. berhati-hati memilih teman dan tidak mudah terpengaruh",
+      "B. meniru teman yang berbuat buruk",
+      "C. menuruti setiap ajakan",
+      "D. percaya semua ajakan teman"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-NS-0115",
@@ -64110,9 +64621,9 @@
   "cognitive_level": "menerapkan",
   "question": "Ayat kedua Al-Falaq berbunyi \"Min syarri ma khalaq\". Artinya kita berlindung dari ....",
   "options": [
-   "A. kejahatan sendiri saja",
-   "B. kejahatan setan saja",
-   "C. kejahatan malam saja",
+   "A. kejahatan diri sendiri saja tanpa yang lain",
+   "B. kejahatan setan saja tanpa makhluk yang lain",
+   "C. kejahatan malam hari saja tanpa yang lain",
    "D. kejahatan makhluk yang Allah ciptakan"
   ],
   "answer": "D",
@@ -64126,17 +64637,15 @@
   "audit": {
    "question_id": "AQH-FL-0016",
    "tp_text": "Murid mampu menjelaskan pesan pokok surah Al-Falaq dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -64149,6 +64658,16 @@
        "surah"
       ]
      }
+    },
+    {
+     "nilai": "Cinta Diri dan Sesama",
+     "relevansi": "konteks",
+     "bukti": {
+      "dalam_soal": [
+       "diri sendiri"
+      ]
+     },
+     "catatan": "hanya latar cerita/kosakata; tidak dihitung sebagai bukti nilai"
     }
    ],
    "deep_learning_mapping": {
@@ -64185,7 +64704,25 @@
     "id_asli": "AQH-FL-0016"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. kejahatan sendiri saja",
+      "B. kejahatan setan saja",
+      "C. kejahatan malam saja",
+      "D. kejahatan makhluk yang Allah ciptakan"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FL-0017",
@@ -66260,10 +66797,10 @@
   "cognitive_level": "mengingat",
   "question": "Kata yang tepat untuk melengkapi bacaan surah Al-Falaq \"Qul a'udzu ....\" adalah ....",
   "options": [
-   "A. waqab",
+   "A. ghasiqin idza waqab",
    "B. birabbil-falaq",
-   "C. ghasiqin",
-   "D. hasad"
+   "C. syarri ma khalaq",
+   "D. hasidin idza hasad"
   ],
   "answer": "B",
   "explanation": "Bacaan yang benar: \"Qul a'udzu birabbil-falaq\".",
@@ -66276,17 +66813,15 @@
   "audit": {
    "question_id": "AQH-FL-0040",
    "tp_text": "Murid mampu menyesuaikan pelafalan dan menghafal surah Al-Falaq dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -66333,7 +66868,25 @@
     "id_asli": "AQH-FL-0040"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. waqab",
+      "B. birabbil-falaq",
+      "C. ghasiqin",
+      "D. hasad"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FL-0041",
@@ -72228,9 +72781,9 @@
   "question": "Perhatikan gambar! Seorang anak menyalakan lampu kecil dan membaca Al-Qur'an di kamar saat malam gelap. Sikap anak ini menunjukkan ....",
   "options": [
    "A. tidak takut karena berlindung kepada Allah",
-   "B. lalai dan lupa berdoa",
-   "C. takut dan berteriak",
-   "D. mengganggu orang tuanya"
+   "B. lalai dan lupa berdoa kepada siapa pun",
+   "C. takut sekali lalu berteriak memanggil orang",
+   "D. mengganggu orang tuanya yang sedang tidur"
   ],
   "answer": "A",
   "explanation": "Berlindung kepada Allah memberi ketenangan.",
@@ -72243,17 +72796,15 @@
   "audit": {
    "question_id": "AQH-FL-0109",
    "tp_text": "Murid mampu menerapkan pesan pokok surah Al-Falaq dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -72321,7 +72872,25 @@
     "id_asli": "AQH-FL-0109"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. tidak takut karena berlindung kepada Allah",
+      "B. lalai dan lupa berdoa",
+      "C. takut dan berteriak",
+      "D. mengganggu orang tuanya"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FL-0110",
@@ -72337,9 +72906,9 @@
   "cognitive_level": "menerapkan",
   "question": "Teman sebangku Dika mendapat hadiah, dan Dika merasa iri. Sesuai ayat kelima Al-Falaq, Dika sebaiknya ....",
   "options": [
-   "A. menjelek-jelekkan temannya",
-   "B. mengambil hadiah itu diam-diam",
-   "C. tidak mau berteman lagi",
+   "A. menjelek-jelekkan temannya di depan teman lain",
+   "B. mengambil hadiah itu diam-diam saat temannya pergi",
+   "C. tidak mau berteman lagi dengan teman sebangkunya",
    "D. ikut senang dan berlindung kepada Allah dari sifat dengki"
   ],
   "answer": "D",
@@ -72353,17 +72922,15 @@
   "audit": {
    "question_id": "AQH-FL-0110",
    "tp_text": "Murid mampu menerapkan pesan pokok surah Al-Falaq dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -72444,7 +73011,25 @@
     "id_asli": "AQH-FL-0110"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. menjelek-jelekkan temannya",
+      "B. mengambil hadiah itu diam-diam",
+      "C. tidak mau berteman lagi",
+      "D. ikut senang dan berlindung kepada Allah dari sifat dengki"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FL-0111",
@@ -72460,9 +73045,9 @@
   "cognitive_level": "menerapkan",
   "question": "Teman Nisa mendapat sepeda baru, dan Nisa ingin memilikinya juga. Sikap yang benar adalah ....",
   "options": [
-   "A. merusak sepeda itu",
-   "B. memarahi orang tuanya",
-   "C. meminta temannya menyerahkan sepeda",
+   "A. merusak sepeda itu agar temannya ikut sedih",
+   "B. memarahi orang tuanya karena tidak membelikan sepeda",
+   "C. meminta temannya menyerahkan sepeda itu kepadanya",
    "D. bersyukur dengan yang dimiliki dan mendoakan temannya"
   ],
   "answer": "D",
@@ -72476,17 +73061,15 @@
   "audit": {
    "question_id": "AQH-FL-0111",
    "tp_text": "Murid mampu menerapkan pesan pokok surah Al-Falaq dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -72561,7 +73144,25 @@
     "id_asli": "AQH-FL-0111"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. merusak sepeda itu",
+      "B. memarahi orang tuanya",
+      "C. meminta temannya menyerahkan sepeda",
+      "D. bersyukur dengan yang dimiliki dan mendoakan temannya"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FL-0112",
@@ -72577,10 +73178,10 @@
   "cognitive_level": "menerapkan",
   "question": "Sebelum tidur, Keisha membaca Al-Falaq bersama ayah. Tujuannya adalah ....",
   "options": [
-   "A. bisa bangun siang",
+   "A. bisa bangun siang pada hari berikutnya",
    "B. berlindung kepada Allah dari berbagai kejahatan",
-   "C. tidak perlu belajar",
-   "D. mengurangi pekerjaan rumah"
+   "C. tidak perlu belajar lagi di rumah maupun sekolah",
+   "D. mengurangi jumlah pekerjaan rumah dari guru"
   ],
   "answer": "B",
   "explanation": "Surah Al-Falaq adalah doa perlindungan.",
@@ -72593,17 +73194,15 @@
   "audit": {
    "question_id": "AQH-FL-0112",
    "tp_text": "Murid mampu menerapkan pesan pokok surah Al-Falaq dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -72628,7 +73227,9 @@
      "bukti": {
       "dalam_soal": [
        "belajar",
-       "membaca"
+       "guru",
+       "membaca",
+       "sekolah"
       ],
       "dalam_TP_materi": [
        "ilmu",
@@ -72691,7 +73292,25 @@
     "id_asli": "AQH-FL-0112"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. bisa bangun siang",
+      "B. berlindung kepada Allah dari berbagai kejahatan",
+      "C. tidak perlu belajar",
+      "D. mengurangi pekerjaan rumah"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FL-0113",
@@ -72824,9 +73443,9 @@
   "cognitive_level": "menerapkan",
   "question": "Saat bertemu anjing yang menggonggong keras, Bayu takut. Tindakan yang tepat adalah ....",
   "options": [
-   "A. berlari sambil berteriak",
-   "B. melempari anjing dengan batu",
-   "C. mengganggu anjing itu",
+   "A. berlari sekencang-kencangnya sambil berteriak ke arah jalan raya",
+   "B. melempari anjing itu dengan batu sampai anjing itu pergi menjauh",
+   "C. mengganggu anjing itu sambil mendekat dan menarik ekornya",
    "D. tetap tenang, berdoa memohon perlindungan Allah, dan meminta bantuan orang dewasa"
   ],
   "answer": "D",
@@ -72840,17 +73459,15 @@
   "audit": {
    "question_id": "AQH-FL-0114",
    "tp_text": "Murid mampu menerapkan pesan pokok surah Al-Falaq dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -72916,7 +73533,25 @@
     "id_asli": "AQH-FL-0114"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. berlari sambil berteriak",
+      "B. melempari anjing dengan batu",
+      "C. mengganggu anjing itu",
+      "D. tetap tenang, berdoa memohon perlindungan Allah, dan meminta bantuan orang dewasa"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FL-0115",
@@ -72933,9 +73568,9 @@
   "question": "Malam hari lampu padam. Rafi merasa takut. Sesuai Surah Al-Falaq, Rafi sebaiknya ....",
   "options": [
    "A. membaca doa dan Surah Al-Falaq untuk berlindung kepada Allah",
-   "B. menakut-nakuti adiknya",
-   "C. berteriak sambil berlari tanpa arah",
-   "D. menyalahkan adiknya"
+   "B. menakut-nakuti adiknya dengan suara yang seram",
+   "C. berteriak sambil berlari tanpa arah di dalam rumah",
+   "D. menyalahkan adiknya karena lampu di rumah padam"
   ],
   "answer": "A",
   "explanation": "Al-Falaq adalah doa berlindung dari kejahatan, termasuk gelapnya malam.",
@@ -72948,17 +73583,15 @@
   "audit": {
    "question_id": "AQH-FL-0115",
    "tp_text": "Murid mampu menerapkan pesan pokok surah Al-Falaq dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, serta cinta Ilmu.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -72998,7 +73631,12 @@
       "bukti": "tipe contextual meminta penerapan pada situasi/praktik"
      }
     ],
-    "prinsip": [],
+    "prinsip": [
+     {
+      "jenis": "Bermakna",
+      "bukti": "konteks kehidupan sehari-hari anak pada soal"
+     }
+    ],
     "catatan": "Soal tertulis tidak membuktikan praktik pedagogis, kemitraan, lingkungan, atau pemanfaatan digital; itu dilengkapi aktivitas pendamping guru."
    },
    "graduate_profile_mapping": [
@@ -73029,7 +73667,25 @@
     "id_asli": "AQH-FL-0115"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. membaca doa dan Surah Al-Falaq untuk berlindung kepada Allah",
+      "B. menakut-nakuti adiknya",
+      "C. berteriak sambil berlari tanpa arah",
+      "D. menyalahkan adiknya"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-FL-0116",
@@ -76343,9 +76999,9 @@
   "question": "Pesan pokok hadis tentang kebersihan adalah ....",
   "options": [
    "A. menjaga kebersihan adalah bagian dari iman",
-   "B. menghafal banyak surah saja",
-   "C. bermain sepanjang hari",
-   "D. bekerja keras mencari uang"
+   "B. menghafal banyak surah sebagai satu-satunya kewajiban",
+   "C. bermain sepanjang hari tanpa pernah berhenti",
+   "D. bekerja keras mencari uang sebanyak-banyaknya"
   ],
   "answer": "A",
   "explanation": "Pesan pokok hadis: kebersihan sebagian dari iman.",
@@ -76358,17 +77014,15 @@
   "audit": {
    "question_id": "AQH-HK-0004",
    "tp_text": "Murid mampu menjelaskan pesan pokok hadis tentang kebersihan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -76436,7 +77090,25 @@
     "id_asli": "AQH-HK-0004"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. menjaga kebersihan adalah bagian dari iman",
+      "B. menghafal banyak surah saja",
+      "C. bermain sepanjang hari",
+      "D. bekerja keras mencari uang"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HK-0005",
@@ -76769,10 +77441,10 @@
   "cognitive_level": "memahami",
   "question": "Kebersihan lingkungan dapat dimulai dari ....",
   "options": [
-   "A. orang lain saja",
+   "A. orang lain saja tanpa diri sendiri",
    "B. diri sendiri dan hal-hal kecil",
-   "C. pemerintah saja",
-   "D. ketika sudah dewasa"
+   "C. pemerintah dan petugas kebersihan saja",
+   "D. nanti ketika sudah dewasa dan bekerja"
   ],
   "answer": "B",
   "explanation": "Kebersihan dimulai dari diri sendiri.",
@@ -76785,17 +77457,15 @@
   "audit": {
    "question_id": "AQH-HK-0008",
    "tp_text": "Murid mampu menjelaskan pesan pokok hadis tentang kebersihan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -76862,7 +77532,25 @@
     "id_asli": "AQH-HK-0008"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. orang lain saja",
+      "B. diri sendiri dan hal-hal kecil",
+      "C. pemerintah saja",
+      "D. ketika sudah dewasa"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HK-0009",
@@ -76878,9 +77566,9 @@
   "cognitive_level": "memahami",
   "question": "Kebersihan yang diajarkan hadis mencakup kebersihan ....",
   "options": [
-   "A. pakaian saja",
-   "B. hanya tempat salat",
-   "C. badan saja",
+   "A. pakaian, sepatu, dan tas saja",
+   "B. hanya tempat salat dan ruang kelas",
+   "C. badan, tangan, dan kuku saja",
    "D. badan, pakaian, tempat, dan lingkungan"
   ],
   "answer": "D",
@@ -76894,17 +77582,15 @@
   "audit": {
    "question_id": "AQH-HK-0009",
    "tp_text": "Murid mampu menjelaskan pesan pokok hadis tentang kebersihan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -76974,7 +77660,25 @@
     "id_asli": "AQH-HK-0009"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. pakaian saja",
+      "B. hanya tempat salat",
+      "C. badan saja",
+      "D. badan, pakaian, tempat, dan lingkungan"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HK-0010",
@@ -77102,10 +77806,10 @@
   "cognitive_level": "menerapkan",
   "question": "Ibu berkata, \"Kebersihan juga bentuk cinta kita kepada ....\" Jawaban yang tepat adalah ....",
   "options": [
-   "A. teman saja",
+   "A. teman dekat dan saudara kandung saja",
    "B. Allah, diri sendiri, sesama, dan lingkungan",
-   "C. mainan saja",
-   "D. uang saja"
+   "C. mainan dan barang-barang kesukaan saja",
+   "D. uang dan hadiah-hadiah yang dimiliki saja"
   ],
   "answer": "B",
   "explanation": "Menjaga kebersihan adalah wujud berbagai cinta (Panca Cinta).",
@@ -77118,17 +77822,15 @@
   "audit": {
    "question_id": "AQH-HK-0011",
    "tp_text": "Murid mampu menjelaskan pesan pokok hadis tentang kebersihan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -77206,7 +77908,25 @@
     "id_asli": "AQH-HK-0011"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. teman saja",
+      "B. Allah, diri sendiri, sesama, dan lingkungan",
+      "C. mainan saja",
+      "D. uang saja"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HK-0012",
@@ -82625,9 +83345,9 @@
   "question": "Iman artinya ....",
   "options": [
    "A. percaya atau yakin kepada Allah",
-   "B. takut kepada hewan",
-   "C. suka makan",
-   "D. senang bermain"
+   "B. takut kepada hewan yang berbahaya",
+   "C. suka makan makanan yang enak",
+   "D. senang bermain bersama teman"
   ],
   "answer": "A",
   "explanation": "Iman adalah percaya kepada Allah.",
@@ -82640,17 +83360,15 @@
   "audit": {
    "question_id": "AQH-HK-0065",
    "tp_text": "Murid mampu menyebutkan arti hadis tentang kebersihan dengan benar.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -82667,13 +83385,16 @@
     },
     {
      "nilai": "Cinta Diri dan Sesama",
-     "relevansi": "melalui_TP",
+     "relevansi": "konteks",
      "bukti": {
+      "dalam_soal": [
+       "teman"
+      ],
       "dalam_TP_materi": [
        "kebersihan"
       ]
      },
-     "catatan": "hanya terkait lewat teks TP/materi"
+     "catatan": "nilai muncul pada TP/latar soal, tetapi kunci tidak mengukurnya"
     }
    ],
    "deep_learning_mapping": {
@@ -82716,7 +83437,25 @@
     "id_asli": "AQH-HK-0065"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. percaya atau yakin kepada Allah",
+      "B. takut kepada hewan",
+      "C. suka makan",
+      "D. senang bermain"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HK-0066",
@@ -88153,9 +88892,9 @@
   "cognitive_level": "menerapkan",
   "question": "Perhatikan gambar! Seorang anak membuang bungkus permen ke tanah di pinggir jalan padahal tempat sampah ada di dekatnya. Sikap yang tepat bagi temannya adalah ....",
   "options": [
-   "A. ikut membuang sampah sembarangan",
-   "B. menertawakan temannya",
-   "C. memarahi dengan kasar",
+   "A. ikut membuang sampah sembarangan di pinggir jalan",
+   "B. menertawakan temannya karena ketahuan membuang sampah",
+   "C. memarahi temannya dengan kasar di depan banyak orang",
    "D. mengingatkan dengan sopan agar membuang di tempat sampah"
   ],
   "answer": "D",
@@ -88169,17 +88908,15 @@
   "audit": {
    "question_id": "AQH-HK-0110",
    "tp_text": "Murid mampu menerapkan pola perilaku hidup bersih dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, cinta diri dan sesama manusia, serta cinta lingkungan.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -88269,7 +89006,25 @@
     "id_asli": "AQH-HK-0110"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. ikut membuang sampah sembarangan",
+      "B. menertawakan temannya",
+      "C. memarahi dengan kasar",
+      "D. mengingatkan dengan sopan agar membuang di tempat sampah"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HK-0111",
@@ -88693,10 +89448,10 @@
   "cognitive_level": "menerapkan",
   "question": "Adik makan sambil berserakan di ruang tamu. Kakak yang sesuai hadis kebersihan akan ....",
   "options": [
-   "A. membiarkan sampai berhari-hari",
-   "B. memarahi adik dengan kasar",
+   "A. membiarkan sampah berserakan sampai berhari-hari",
+   "B. memarahi adik dengan kasar sambil membentak-bentak",
    "C. membantu membersihkan dan mengingatkan adik dengan lembut",
-   "D. ikut mengotori ruangan"
+   "D. ikut mengotori ruangan dengan menebar sisa makanan"
   ],
   "answer": "C",
   "explanation": "Mengingatkan dengan lembut dan membantu membersihkan.",
@@ -88709,17 +89464,15 @@
   "audit": {
    "question_id": "AQH-HK-0114",
    "tp_text": "Murid mampu menerapkan pola perilaku hidup bersih dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, cinta diri dan sesama manusia, serta cinta lingkungan.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -88756,14 +89509,17 @@
     },
     {
      "nilai": "Cinta Lingkungan",
-     "relevansi": "melalui_TP",
+     "relevansi": "konteks",
      "bukti": {
+      "dalam_soal": [
+       "sampah"
+      ],
       "dalam_TP_materi": [
        "lingkungan",
        "(TP menyebut: Cinta Lingkungan)"
       ]
      },
-     "catatan": "hanya terkait lewat teks TP/materi"
+     "catatan": "nilai muncul pada TP/latar soal, tetapi kunci tidak mengukurnya"
     }
    ],
    "deep_learning_mapping": {
@@ -88811,7 +89567,25 @@
     "id_asli": "AQH-HK-0114"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. membiarkan sampai berhari-hari",
+      "B. memarahi adik dengan kasar",
+      "C. membantu membersihkan dan mengingatkan adik dengan lembut",
+      "D. ikut mengotori ruangan"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HK-0115",
@@ -88956,10 +89730,10 @@
   "cognitive_level": "menerapkan",
   "question": "Bayu bersin saat berada di dekat teman-temannya. Tindakan yang tepat adalah ....",
   "options": [
-   "A. bersin langsung ke arah teman",
+   "A. bersin langsung ke arah wajah teman di dekatnya",
    "B. menutup hidung dan mulut dengan siku atau tisu",
-   "C. bersin sambil tertawa",
-   "D. menepuk punggung teman"
+   "C. bersin sambil tertawa tanpa menutup apa pun",
+   "D. menepuk punggung teman sambil bersin keras"
   ],
   "answer": "B",
   "explanation": "Menutup mulut mencegah penularan kuman.",
@@ -88972,17 +89746,15 @@
   "audit": {
    "question_id": "AQH-HK-0116",
    "tp_text": "Murid mampu menerapkan pola perilaku hidup bersih dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, cinta diri dan sesama manusia, serta cinta lingkungan.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_TINJAU_BACA",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -89076,7 +89848,25 @@
     "id_asli": "AQH-HK-0116"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. bersin langsung ke arah teman",
+      "B. menutup hidung dan mulut dengan siku atau tisu",
+      "C. bersin sambil tertawa",
+      "D. menepuk punggung teman"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HK-0117",
@@ -89905,10 +90695,10 @@
   "cognitive_level": "menerapkan",
   "question": "Zaki melihat temannya membuang sampah sembarangan di halaman sekolah. Zaki sebaiknya ....",
   "options": [
-   "A. mengejek temannya",
+   "A. mengejek temannya di depan seluruh teman sekelas",
    "B. mengingatkan dengan sopan dan membantu membuangnya ke tempat sampah",
-   "C. pura-pura tidak melihat",
-   "D. ikut membuang sampah sembarangan"
+   "C. pura-pura tidak melihat lalu pergi ke tempat lain",
+   "D. ikut membuang sampah sembarangan di halaman sekolah"
   ],
   "answer": "B",
   "explanation": "Saling mengingatkan dalam kebaikan menunjukkan cinta sesama dan lingkungan.",
@@ -89921,17 +90711,15 @@
   "audit": {
    "question_id": "AQH-HK-0123",
    "tp_text": "Murid mampu menerapkan pola perilaku hidup bersih dengan benar dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya, cinta diri dan sesama manusia, serta cinta lingkungan.",
-   "quality_status": "REVISE",
+   "quality_status": "PASS",
    "quality_status_awal": "REVISE",
    "atp_keselarasan": "SELARAS_MESIN",
    "issues": [
     "petunjuk_kunci_terpanjang"
    ],
-   "isu_struktur_tersisa": [
-    "petunjuk_kunci_terpanjang"
-   ],
-   "recommended_action": "revisi belum dikerjakan",
-   "revision_notes": "",
+   "isu_struktur_tersisa": [],
+   "recommended_action": "sudah direvisi; tinjau ulang oleh guru bila diinginkan",
+   "revision_notes": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
    "kbc_mapping": [
     {
      "nilai": "Cinta Allah dan Rasul-Nya",
@@ -90043,7 +90831,25 @@
     "id_asli": "AQH-HK-0123"
    }
   },
-  "revision_history": []
+  "revision_history": [
+   {
+    "tanggal": "2026-10-12",
+    "jenis": [
+     "petunjuk_kunci_terpanjang"
+    ],
+    "alasan": "Pengecoh dipanjangkan dan disejajarkan strukturnya dengan kunci agar panjang opsi tidak menunjukkan kunci; teks kunci tidak diubah.",
+    "verifikasi": "Teks kunci dan hurufnya tidak berubah; pengecoh baru tetap salah secara jelas (menyalahi isi materi/hadis/surah) dan tidak ada yang benar sebagian.",
+    "sebelum": {
+     "options": [
+      "A. mengejek temannya",
+      "B. mengingatkan dengan sopan dan membantu membuangnya ke tempat sampah",
+      "C. pura-pura tidak melihat",
+      "D. ikut membuang sampah sembarangan"
+     ]
+    },
+    "berkas_usulan": "revisions_p1.json"
+   }
+  ]
  },
  {
   "id": "AQH-HK-0124",

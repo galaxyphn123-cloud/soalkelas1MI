@@ -3,7 +3,7 @@
  "grade": 1,
  "phase": "A",
  "jenjang": "MI",
- "sumber_atp": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "sumber_atp": "ATP Pendidikan Pancasila Kelas 1 SD/MI (ILMA: P_PANCASILA_INTEGRASI_NILAI2_KEISLAMAN_SD_MI_KLS.1_KM_REVISI-ATP...docx)",
  "total_soal": 1000,
  "catatan": "ATP tidak merinci JP per bab; soal dibagi sebanding jumlah TP (bab 4 TP = 286 soal, bab 3 TP = 214 soal; 4 bab, 14 TP).",
  "materi": [
@@ -487,5 +487,7 @@
    "menganalisis": 81,
    "mengurutkan": 3
   }
- }
+ },
+ "sumber_atp_sebelumnya_salah": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "catatan_koreksi": "sumber_atp dikoreksi pada audit 2026-10-12 (sebelumnya tertulis rujukan Al-Qur'an Hadis akibat salinan templat)."
 }

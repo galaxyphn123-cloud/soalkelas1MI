@@ -3,7 +3,7 @@
  "grade": 1,
  "phase": "A",
  "jenjang": "MI",
- "sumber_atp": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "sumber_atp": "ATP Bahasa Indonesia Kelas 1 SD/MI (ILMA: B._INDONESIA_INTEGRASI_NILAI2_KEISLAMAN_SD_MI_KLS.1_KM-ATP...docx)",
  "total_soal": 1000,
  "catatan": "ATP tidak merinci JP per bab; soal dibagi sebanding jumlah TP (bab 4 TP = 111 soal, bab 5 TP = 139 soal; 8 bab, 36 TP).",
  "materi": [
@@ -976,5 +976,7 @@
    "mencocokkan": 23,
    "menyimpulkan": 9
   }
- }
+ },
+ "sumber_atp_sebelumnya_salah": "KBC (ATP Al-Qur'an Hadis MI Kelas I)",
+ "catatan_koreksi": "sumber_atp dikoreksi pada audit 2026-10-12 (sebelumnya tertulis rujukan Al-Qur'an Hadis akibat salinan templat)."
 }

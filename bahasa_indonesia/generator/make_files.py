@@ -15,7 +15,7 @@ mats = collections.OrderedDict()
 for c in ORDER:
     mq = [x for x in q if code(x) == c]
     mats[c] = mq
-bp = {'subject': "Bahasa Indonesia", 'grade': 1, 'phase': 'A', 'jenjang': 'MI', 'sumber_atp': 'KBC (ATP Al-Qur\'an Hadis MI Kelas I)',
+bp = {'subject': "Bahasa Indonesia", 'grade': 1, 'phase': 'A', 'jenjang': 'MI', 'sumber_atp': 'ATP Bahasa Indonesia Kelas 1 SD/MI (ILMA: B._INDONESIA_INTEGRASI_NILAI2_KEISLAMAN_SD_MI_KLS.1_KM-ATP...docx)',
       'total_soal': len(q), 'catatan': 'ATP tidak merinci JP per bab; soal dibagi sebanding jumlah TP (bab 4 TP = 111 soal, bab 5 TP = 139 soal; 8 bab, 36 TP).', 'materi': []}
 for c, mq in mats.items():
     e = {'material': mq[0]['material'], 'prefix': 'BIN-' + c, 'alokasi_jp': None, 'jumlah_soal': len(mq), 'tp': []}
