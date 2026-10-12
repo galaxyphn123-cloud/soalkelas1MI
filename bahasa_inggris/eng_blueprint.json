@@ -1,0 +1,1883 @@
+{
+ "subject": "Bahasa Inggris",
+ "grade": 1,
+ "phase": "A",
+ "jenjang": "MI",
+ "sumber_atp": "ATP Grow with English Kelas 1 (9 bab)",
+ "total_soal": 1000,
+ "catatan": "Setiap bab 8 JP sehingga soal dibagi rata: Bab 1 = 112 soal, Bab 2-9 = 111 soal (9 bab, 72 TP). Mengikuti CP Fase A, soal menekankan menyimak-berbicara dan membaca-memirsa; keterampilan menulis hanya sampai frasa/kalimat sederhana (TP menulis frase).",
+ "materi": [
+  {
+   "material": "Bab 1. Hello, How Are You? (Salam Sapaan dan Ucapan Berpisah)",
+   "prefix": "ENG-B1",
+   "alokasi_jp": null,
+   "jumlah_soal": 112,
+   "tp": [
+    {
+     "tp_id": "TP-ENG-B1-01",
+     "tp": "Murid mampu mengidentifikasi diri sendiri.",
+     "jumlah_soal": 13,
+     "distribusi_difficulty": {
+      "medium": 11,
+      "easy": 2
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "true_false": 2,
+      "fill_in_short": 1,
+      "completion": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 7,
+      "mengingat": 3,
+      "menerapkan": 3
+     },
+     "kompetensi": [
+      "Menggunakan bahasa dalam situasi nyata",
+      "Menyapa dan memperkenalkan diri",
+      "Praktik berbicara"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B1-02",
+     "tp": "Murid mampu menggunakan gerakan tubuh untuk menyapa orang lain secara tepat.",
+     "jumlah_soal": 12,
+     "distribusi_difficulty": {
+      "easy": 5,
+      "medium": 7
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 1,
+      "contextual": 3,
+      "true_false": 4,
+      "completion": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 8,
+      "memahami": 4
+     },
+     "kompetensi": [
+      "Menggunakan bahasa dalam situasi nyata",
+      "Praktik berbicara dan bergerak"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B1-03",
+     "tp": "Murid mampu menggunakan gerakan tubuh untuk merespon salam sapaan orang lain secara tepat.",
+     "jumlah_soal": 12,
+     "distribusi_difficulty": {
+      "easy": 9,
+      "medium": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 1,
+      "contextual": 2,
+      "true_false": 5,
+      "completion": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 7,
+      "memahami": 5
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menggunakan bahasa dalam situasi nyata",
+      "Praktik berbicara dan bergerak"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B1-04",
+     "tp": "Murid mampu memahami kosakata sederhana dalam instruksi dan meresponnya dengan gerakan tubuh secara tepat.",
+     "jumlah_soal": 13,
+     "distribusi_difficulty": {
+      "medium": 9,
+      "easy": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "multiple_choice_visual": 1,
+      "true_false": 1,
+      "fill_in_short": 1,
+      "matching": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 5,
+      "mengingat": 4,
+      "menerapkan": 3,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Memahami instruksi sederhana",
+      "Menggunakan bahasa dalam situasi nyata",
+      "Praktik berbicara dan bergerak"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B1-05",
+     "tp": "Murid mampu menggunakan ungkapan-ungkapan untuk menyapa orang lain dalam Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+     "jumlah_soal": 13,
+     "distribusi_difficulty": {
+      "easy": 8,
+      "medium": 5
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "multiple_choice_visual": 4,
+      "matching": 1,
+      "ordering": 1,
+      "grouping": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 4,
+      "mengenali": 6,
+      "mencocokkan": 1,
+      "mengurutkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Menyapa dan memperkenalkan diri"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B1-06",
+     "tp": "Murid mampu menggunakan ungkapan-ungkapan untuk merespon salam sapaan dari orang lain dalam Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+     "jumlah_soal": 13,
+     "distribusi_difficulty": {
+      "medium": 12,
+      "easy": 1
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "true_false": 2,
+      "fill_in_short": 2,
+      "ordering": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 7,
+      "mengingat": 4,
+      "mengurutkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Menyapa dan memperkenalkan diri",
+      "Praktik berbicara dan bergerak"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B1-07",
+     "tp": "Murid mampu menggunakan ungkapan-ungkapan untuk mengucapkan selamat tinggal kepada orang lain dalam Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+     "jumlah_soal": 12,
+     "distribusi_difficulty": {
+      "easy": 3,
+      "medium": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "true_false": 1,
+      "fill_in_short": 2,
+      "matching": 1,
+      "grouping": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 5,
+      "mengenali": 5,
+      "mencocokkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Menyapa dan memperkenalkan diri"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B1-08",
+     "tp": "Murid mampu menangkap makna dari suatu bacaan yang memuat informasi mengenai salam sapaan dalam konteks kelas.",
+     "jumlah_soal": 10,
+     "distribusi_difficulty": {
+      "medium": 4,
+      "easy": 6
+     },
+     "distribusi_question_type": {
+      "contextual": 3,
+      "true_false": 5,
+      "completion": 2
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 5,
+      "memahami": 5
+     },
+     "kompetensi": [
+      "Menggunakan bahasa dalam situasi nyata"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B1-09",
+     "tp": "Murid mampu menuliskan kosakata sederhana mengenai salam sapaan dan respon salam sapaan dalam Bahasa Inggris secara tepat.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "medium": 14
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "fill_in_short": 4,
+      "ordering": 4
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 14
+     },
+     "kompetensi": [
+      "Menulis kalimat sapaan sederhana",
+      "Menulis kosakata sapaan"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 2. It's a Red Book (Benda di Dalam Kelas)",
+   "prefix": "ENG-B2",
+   "alokasi_jp": null,
+   "jumlah_soal": 111,
+   "tp": [
+    {
+     "tp_id": "TP-ENG-B2-01",
+     "tp": "Murid mampu menggunakan gerakan tubuh untuk bertanya dan merespon jawaban mengenai benda-benda di dalam kelas secara tepat.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "easy": 6,
+      "medium": 8
+     },
+     "distribusi_question_type": {
+      "contextual": 3,
+      "true_false": 6,
+      "completion": 2,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 8,
+      "memahami": 6
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Menggunakan bahasa dalam situasi nyata",
+      "Praktik bertanya dan menjawab"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B2-02",
+     "tp": "Murid mampu mengucapkan nama-nama benda yang ada di dalam kelas dalam Bahasa Inggris dengan benar.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "easy": 10,
+      "medium": 4
+     },
+     "distribusi_question_type": {
+      "contextual": 5,
+      "true_false": 5,
+      "completion": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 9,
+      "memahami": 5
+     },
+     "kompetensi": [
+      "Menggunakan bahasa dalam situasi nyata",
+      "Praktik berbicara"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B2-03",
+     "tp": "Murid mampu mengidentifikasikan nama-nama benda yang ada di dalam kelas dalam Bahasa Inggris dengan tepat.",
+     "jumlah_soal": 13,
+     "distribusi_difficulty": {
+      "easy": 6,
+      "medium": 7
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "multiple_choice_visual": 2,
+      "true_false": 1,
+      "fill_in_short": 1,
+      "matching": 1,
+      "grouping": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 6,
+      "mengenali": 5,
+      "mencocokkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Mengenal benda di dalam kelas"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B2-04",
+     "tp": "Murid mampu merespon instruksi mengenai permintaan ditunjukkannya sebuah objek benda yang ada di dalam kelas.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "medium": 10,
+      "easy": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "true_false": 3,
+      "fill_in_short": 2,
+      "matching": 1,
+      "ordering": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 5,
+      "mengingat": 6,
+      "mencocokkan": 1,
+      "mengurutkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Merespon instruksi"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B2-05",
+     "tp": "Murid mampu mengidentifikasikan warna benda-benda yang ada di dalam kelas menggunakan Bahasa Inggris yang tepat.",
+     "jumlah_soal": 12,
+     "distribusi_difficulty": {
+      "medium": 7,
+      "easy": 5
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "multiple_choice_visual": 3,
+      "true_false": 1,
+      "fill_in_short": 1,
+      "matching": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 8,
+      "mengingat": 3,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Mengenal warna"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B2-06",
+     "tp": "Murid mampu mengidentifikasikan nama dan warna benda-benda yang ada di dalam kelas menggunakan Bahasa Inggris yang tepat.",
+     "jumlah_soal": 12,
+     "distribusi_difficulty": {
+      "easy": 4,
+      "medium": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "multiple_choice_visual": 2,
+      "true_false": 1,
+      "fill_in_short": 1,
+      "grouping": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 3,
+      "mengenali": 8,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Menyebut nama dan warna benda"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B2-07",
+     "tp": "Murid mampu mengungkapkan nama dan warna benda-benda yang ada di dalam kelas menggunakan Bahasa Inggris yang tepat.",
+     "jumlah_soal": 15,
+     "distribusi_difficulty": {
+      "easy": 6,
+      "medium": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "true_false": 3,
+      "fill_in_short": 1,
+      "completion": 1,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 6,
+      "mengenali": 3,
+      "memahami": 2,
+      "menerapkan": 4
+     },
+     "kompetensi": [
+      "Mengungkapkan nama dan warna",
+      "Mengungkapkan warna benda",
+      "Praktik berbicara"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B2-08",
+     "tp": "Murid mampu menuliskan frase sederhana mengenai benda-benda di kelas dalam Bahasa Inggris.",
+     "jumlah_soal": 17,
+     "distribusi_difficulty": {
+      "medium": 17
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "fill_in_short": 4,
+      "completion": 2,
+      "ordering": 5
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 17
+     },
+     "kompetensi": [
+      "Menulis frase benda",
+      "Menulis kalimat sederhana",
+      "Menulis kosakata kelas"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 3. I Have Two Eyes (Bagian-bagian Wajah)",
+   "prefix": "ENG-B3",
+   "alokasi_jp": null,
+   "jumlah_soal": 111,
+   "tp": [
+    {
+     "tp_id": "TP-ENG-B3-01",
+     "tp": "Murid mampu mengidentifikasi bagian-bagian wajah dalam Bahasa Inggris dengan tepat.",
+     "jumlah_soal": 22,
+     "distribusi_difficulty": {
+      "medium": 11,
+      "easy": 11
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 8,
+      "multiple_choice_visual": 6,
+      "true_false": 3,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 11,
+      "mengingat": 5,
+      "memahami": 1,
+      "mencocokkan": 1,
+      "mengelompokkan": 1,
+      "menerapkan": 3
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Mengenal bagian wajah",
+      "Praktik berbicara"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B3-02",
+     "tp": "Murid mampu mengetahui letak bagian wajah tertentu dan meresponnya secara fisik.",
+     "jumlah_soal": 22,
+     "distribusi_difficulty": {
+      "easy": 13,
+      "medium": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 8,
+      "contextual": 3,
+      "true_false": 6,
+      "completion": 2,
+      "ordering": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 9,
+      "mengenali": 3,
+      "menerapkan": 7,
+      "memahami": 2,
+      "mengurutkan": 1
+     },
+     "kompetensi": [
+      "Mengetahui letak bagian wajah",
+      "Merespon instruksi",
+      "Merespon instruksi secara fisik"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B3-03",
+     "tp": "Murid mampu mendeskripsikan bagian-bagian wajah dengan Bahasa Inggris yang tepat.",
+     "jumlah_soal": 22,
+     "distribusi_difficulty": {
+      "easy": 9,
+      "medium": 13
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 8,
+      "multiple_choice_visual": 1,
+      "contextual": 1,
+      "true_false": 7,
+      "completion": 1,
+      "matching": 1,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 9,
+      "mengenali": 4,
+      "menerapkan": 6,
+      "memahami": 2,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Memahami konsep",
+      "Mendeskripsikan wajah",
+      "Menggunakan bahasa dalam situasi nyata",
+      "Praktik berbicara"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B3-04",
+     "tp": "Murid mampu mengucapkan nama bagian wajah dan jumlahnya dalam Bahasa Inggris dengan tepat.",
+     "jumlah_soal": 21,
+     "distribusi_difficulty": {
+      "easy": 8,
+      "medium": 13
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 8,
+      "contextual": 4,
+      "true_false": 4,
+      "fill_in_short": 1,
+      "completion": 1,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 10,
+      "mengenali": 3,
+      "menerapkan": 6,
+      "mencocokkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Menyebut nama dan jumlah",
+      "Praktik berbicara"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B3-05",
+     "tp": "Murid mampu menuliskan frase sederhana mengenai bagian-bagian wajah dalam Bahasa Inggris.",
+     "jumlah_soal": 24,
+     "distribusi_difficulty": {
+      "medium": 24
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "fill_in_short": 9,
+      "completion": 3,
+      "ordering": 5
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 24
+     },
+     "kompetensi": [
+      "Menulis frase wajah",
+      "Menulis kosakata wajah"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 4. My Family (Anggota Keluarga)",
+   "prefix": "ENG-B4",
+   "alokasi_jp": null,
+   "jumlah_soal": 111,
+   "tp": [
+    {
+     "tp_id": "TP-ENG-B4-01",
+     "tp": "Murid mampu mengidentifikasikan anggota keluarga dalam Bahasa Inggris yang tepat.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "medium": 9,
+      "easy": 5
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "multiple_choice_visual": 2,
+      "true_false": 3,
+      "fill_in_short": 1,
+      "matching": 1,
+      "grouping": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 6,
+      "mengingat": 6,
+      "mencocokkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Mengenal anggota keluarga"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B4-02",
+     "tp": "Murid mampu mengucapkan nama-nama anggota keluarga dalam Bahasa Inggris yang tepat.",
+     "jumlah_soal": 16,
+     "distribusi_difficulty": {
+      "easy": 12,
+      "medium": 4
+     },
+     "distribusi_question_type": {
+      "contextual": 8,
+      "true_false": 4,
+      "completion": 2,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 12,
+      "memahami": 4
+     },
+     "kompetensi": [
+      "Menyebut anggota keluarga",
+      "Praktik berbicara"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B4-03",
+     "tp": "Murid mampu menceritakan tentang anggota keluarganya dengan Bahasa Inggris yang tepat.",
+     "jumlah_soal": 17,
+     "distribusi_difficulty": {
+      "easy": 6,
+      "medium": 11
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "true_false": 4,
+      "fill_in_short": 1,
+      "completion": 2,
+      "ordering": 2,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 8,
+      "mengenali": 3,
+      "menerapkan": 6
+     },
+     "kompetensi": [
+      "Menceritakan keluarga",
+      "Praktik berbicara"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B4-04",
+     "tp": "Murid mampu mengidentifikasi bentuk lingkaran dan persegi dalam Bahasa Inggris dengan benar.",
+     "jumlah_soal": 15,
+     "distribusi_difficulty": {
+      "easy": 8,
+      "medium": 7
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "multiple_choice_visual": 1,
+      "true_false": 4,
+      "grouping": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 9,
+      "mengenali": 3,
+      "mengelompokkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Mengenal bentuk",
+      "Praktik mengenal bentuk"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B4-05",
+     "tp": "Murid mampu menentukan warna pada bentuk lingkaran dan persegi dalam Bahasa Inggris dengan benar.",
+     "jumlah_soal": 16,
+     "distribusi_difficulty": {
+      "medium": 10,
+      "easy": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "multiple_choice_visual": 1,
+      "true_false": 3,
+      "fill_in_short": 1,
+      "matching": 1,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 4,
+      "mengingat": 8,
+      "mencocokkan": 1,
+      "menerapkan": 3
+     },
+     "kompetensi": [
+      "Praktik mewarnai bentuk",
+      "Warna pada bentuk"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B4-06",
+     "tp": "Murid mampu mengetahui kosakata angka dalam Bahasa Inggris dengan benar.",
+     "jumlah_soal": 17,
+     "distribusi_difficulty": {
+      "medium": 8,
+      "easy": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "multiple_choice_visual": 3,
+      "true_false": 2,
+      "fill_in_short": 1,
+      "matching": 1,
+      "ordering": 3,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 5,
+      "mengingat": 7,
+      "mencocokkan": 1,
+      "mengurutkan": 3,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mengenal angka",
+      "Menghitung",
+      "Praktik menghitung"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B4-07",
+     "tp": "Murid mampu menuliskan frase sederhana mengenai jumlah anggota keluarga dan warna bangun datar dalam Bahasa Inggris.",
+     "jumlah_soal": 16,
+     "distribusi_difficulty": {
+      "medium": 16
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "fill_in_short": 6,
+      "completion": 3,
+      "ordering": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 16
+     },
+     "kompetensi": [
+      "Menulis frase keluarga dan bentuk",
+      "Menulis kosakata"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 5. This is My House (Ruangan dalam Rumah)",
+   "prefix": "ENG-B5",
+   "alokasi_jp": null,
+   "jumlah_soal": 111,
+   "tp": [
+    {
+     "tp_id": "TP-ENG-B5-01",
+     "tp": "Murid mampu mengetahui kosakata mengenai ruangan dalam rumah dengan Bahasa Inggris yang tepat.",
+     "jumlah_soal": 13,
+     "distribusi_difficulty": {
+      "easy": 10,
+      "medium": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "contextual": 6,
+      "completion": 1,
+      "matching": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 3,
+      "mengenali": 2,
+      "menerapkan": 7,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Mengenal ruangan di dalam rumah"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B5-02",
+     "tp": "Murid mampu mengidentifikasikan nama-nama ruangan dalam rumah dalam Bahasa Inggris dengan tepat.",
+     "jumlah_soal": 15,
+     "distribusi_difficulty": {
+      "medium": 9,
+      "easy": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "multiple_choice_visual": 1,
+      "true_false": 4,
+      "fill_in_short": 1,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 3,
+      "mengingat": 8,
+      "mencocokkan": 1,
+      "mengelompokkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Mengenal ruangan di dalam rumah",
+      "Praktik berbicara"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B5-03",
+     "tp": "Murid mampu mengidentifikasikan warna dalam Bahasa Inggris dengan tepat.",
+     "jumlah_soal": 10,
+     "distribusi_difficulty": {
+      "medium": 6,
+      "easy": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "multiple_choice_visual": 2,
+      "true_false": 2,
+      "fill_in_short": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 7,
+      "mengingat": 3
+     },
+     "kompetensi": [
+      "Mengenal warna"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B5-04",
+     "tp": "Murid mampu mengidentifikasi beberapa bentuk bangun datar dan warnanya dalam Bahasa Inggris dengan tepat.",
+     "jumlah_soal": 15,
+     "distribusi_difficulty": {
+      "easy": 5,
+      "medium": 10
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "multiple_choice_visual": 2,
+      "true_false": 3,
+      "fill_in_short": 1,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 6,
+      "mengenali": 5,
+      "mencocokkan": 1,
+      "mengelompokkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Bangun datar dan warnanya",
+      "Mengenal bangun datar",
+      "Praktik bangun datar"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B5-05",
+     "tp": "Murid mampu mewarnai dengan tepat sesuai dengan instruksi yang diberikan.",
+     "jumlah_soal": 15,
+     "distribusi_difficulty": {
+      "easy": 7,
+      "medium": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "true_false": 5,
+      "ordering": 1,
+      "performance_task": 4
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 9,
+      "mengenali": 1,
+      "mengurutkan": 1,
+      "menerapkan": 4
+     },
+     "kompetensi": [
+      "Mewarnai sesuai instruksi"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B5-06",
+     "tp": "Murid mampu mengelaborasikan anggota keluarga dengan posisinya di ruangan rumah dalam Bahasa Inggris secara tepat.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "medium": 11,
+      "easy": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "multiple_choice_visual": 2,
+      "true_false": 2,
+      "fill_in_short": 2,
+      "completion": 2,
+      "ordering": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 4,
+      "mengingat": 5,
+      "menerapkan": 5
+     },
+     "kompetensi": [
+      "Posisi anggota keluarga di rumah",
+      "Posisi di rumah"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B5-07",
+     "tp": "Murid mampu menuliskan frase sederhana mengenai warna ruangan rumah dan warna bentuk bangun datar dalam Bahasa Inggris.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "medium": 14
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "fill_in_short": 6,
+      "completion": 2,
+      "ordering": 2
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 14
+     },
+     "kompetensi": [
+      "Menulis frase warna dan bentuk",
+      "Menulis kosakata"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B5-08",
+     "tp": "Murid mampu mendeskripsikan ruangan-ruangan yang ada di rumahnya dengan Bahasa Inggris secara tepat.",
+     "jumlah_soal": 15,
+     "distribusi_difficulty": {
+      "medium": 12,
+      "easy": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "true_false": 4,
+      "fill_in_short": 1,
+      "completion": 2,
+      "ordering": 2,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 6,
+      "mengingat": 5,
+      "mengenali": 4
+     },
+     "kompetensi": [
+      "Mendeskripsikan ruangan",
+      "Mendeskripsikan rumah",
+      "Praktik berbicara"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 6. I Have Two Cats (Hewan Peliharaan)",
+   "prefix": "ENG-B6",
+   "alokasi_jp": null,
+   "jumlah_soal": 111,
+   "tp": [
+    {
+     "tp_id": "TP-ENG-B6-01",
+     "tp": "Murid mampu mengetahui kosakata mengenai hewan peliharaan dalam Bahasa Inggris yang tepat.",
+     "jumlah_soal": 10,
+     "distribusi_difficulty": {
+      "easy": 5,
+      "medium": 5
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "contextual": 4,
+      "grouping": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 1,
+      "mengenali": 4,
+      "menerapkan": 4,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Mengenal hewan peliharaan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B6-02",
+     "tp": "Murid mampu mengidentifikasikan nama hewan peliharaan dalam Bahasa Inggris dengan tepat.",
+     "jumlah_soal": 9,
+     "distribusi_difficulty": {
+      "easy": 4,
+      "medium": 5
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "multiple_choice_visual": 1,
+      "true_false": 3,
+      "matching": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 5,
+      "mengenali": 3,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Mengenal hewan peliharaan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B6-03",
+     "tp": "Murid mampu bermain peran mengenai hewan peliharaan.",
+     "jumlah_soal": 10,
+     "distribusi_difficulty": {
+      "medium": 4,
+      "easy": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 1,
+      "contextual": 4,
+      "true_false": 2,
+      "completion": 2,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 8,
+      "memahami": 2
+     },
+     "kompetensi": [
+      "Bermain peran"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B6-04",
+     "tp": "Murid mampu mengetahui tindakan yang biasanya dilakukan terhadap hewan peliharaan dalam Bahasa Inggris secara tepat.",
+     "jumlah_soal": 11,
+     "distribusi_difficulty": {
+      "easy": 3,
+      "medium": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "true_false": 3,
+      "fill_in_short": 2,
+      "ordering": 1,
+      "grouping": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 5,
+      "mengenali": 4,
+      "mengurutkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Tindakan terhadap hewan peliharaan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B6-05",
+     "tp": "Murid mampu menggambar dan mewarnai hewan peliharaan.",
+     "jumlah_soal": 10,
+     "distribusi_difficulty": {
+      "easy": 4,
+      "medium": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "true_false": 2,
+      "fill_in_short": 1,
+      "matching": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 6,
+      "mengenali": 2,
+      "mencocokkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Menggambar dan mewarnai"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B6-06",
+     "tp": "Murid mampu mengetahui warna hewan peliharaan yang ada dalam Bahasa Inggris secara tepat.",
+     "jumlah_soal": 10,
+     "distribusi_difficulty": {
+      "easy": 6,
+      "medium": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "multiple_choice_visual": 1,
+      "true_false": 3,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 7,
+      "mengenali": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Warna hewan peliharaan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B6-07",
+     "tp": "Murid mampu menghitung jumlah hewan peliharaan yang ada dalam Bahasa Inggris secara tepat.",
+     "jumlah_soal": 8,
+     "distribusi_difficulty": {
+      "easy": 4,
+      "medium": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 4,
+      "performance_task": 4
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 4,
+      "menerapkan": 4
+     },
+     "kompetensi": [
+      "Menghitung hewan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B6-08",
+     "tp": "Murid mampu mendeskripsikan hewan peliharaannya secara singkat menggunakan Bahasa Inggris yang tepat.",
+     "jumlah_soal": 10,
+     "distribusi_difficulty": {
+      "easy": 5,
+      "medium": 5
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "true_false": 4,
+      "fill_in_short": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 7,
+      "mengenali": 2,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mendeskripsikan hewan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B6-09",
+     "tp": "Murid mampu menuliskan frase sederhana mengenai hewan peliharaan dan warnanya dalam Bahasa Inggris.",
+     "jumlah_soal": 12,
+     "distribusi_difficulty": {
+      "medium": 12
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "fill_in_short": 5,
+      "ordering": 3
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 12
+     },
+     "kompetensi": [
+      "Menulis frase hewan dan warna",
+      "Menulis kosakata"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B6-10",
+     "tp": "Murid mampu menyusun gambar sebuah toko hewan peliharaan dengan benar.",
+     "jumlah_soal": 10,
+     "distribusi_difficulty": {
+      "medium": 7,
+      "easy": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "true_false": 3,
+      "fill_in_short": 1,
+      "matching": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 3,
+      "mengingat": 6,
+      "mencocokkan": 1
+     },
+     "kompetensi": [
+      "Menyusun toko hewan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B6-11",
+     "tp": "Murid mampu mendeskripsikan gambar toko hewan peliharaan dalam Bahasa Inggris yang tepat.",
+     "jumlah_soal": 11,
+     "distribusi_difficulty": {
+      "medium": 11
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "completion": 5,
+      "ordering": 2
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 11
+     },
+     "kompetensi": [
+      "Mendeskripsikan toko hewan"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 7. May I Play With Your Doll (Mainan)",
+   "prefix": "ENG-B7",
+   "alokasi_jp": null,
+   "jumlah_soal": 111,
+   "tp": [
+    {
+     "tp_id": "TP-ENG-B7-01",
+     "tp": "Murid mampu mengetahui kosakata mengenai mainan dalam Bahasa Inggris yang tepat.",
+     "jumlah_soal": 11,
+     "distribusi_difficulty": {
+      "medium": 7,
+      "easy": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "true_false": 3,
+      "fill_in_short": 1,
+      "matching": 1,
+      "grouping": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 3,
+      "mengingat": 6,
+      "mencocokkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Mengenal mainan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B7-02",
+     "tp": "Murid mampu mengidentifikasikan nama-nama mainan dalam Bahasa Inggris dengan tepat.",
+     "jumlah_soal": 7,
+     "distribusi_difficulty": {
+      "easy": 3,
+      "medium": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 3,
+      "performance_task": 4
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 3,
+      "menerapkan": 4
+     },
+     "kompetensi": [
+      "Mengenal mainan",
+      "Praktik berbicara"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B7-03",
+     "tp": "Murid mampu mewarnai gambar mainan dan mendeskripsikannya secara singkat menggunakan Bahasa Inggris yang tepat.",
+     "jumlah_soal": 11,
+     "distribusi_difficulty": {
+      "medium": 5,
+      "easy": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "true_false": 3,
+      "fill_in_short": 1,
+      "matching": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 2,
+      "mengingat": 7,
+      "mencocokkan": 2
+     },
+     "kompetensi": [
+      "Mewarnai dan mendeskripsikan mainan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B7-04",
+     "tp": "Murid mampu mengetahui tindakan yang dilakukan terhadap mainan dalam Bahasa Inggris secara tepat.",
+     "jumlah_soal": 12,
+     "distribusi_difficulty": {
+      "easy": 6,
+      "medium": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "contextual": 1,
+      "true_false": 3,
+      "fill_in_short": 1,
+      "completion": 1,
+      "ordering": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 8,
+      "menerapkan": 2,
+      "mengenali": 1,
+      "mengurutkan": 1
+     },
+     "kompetensi": [
+      "Tindakan terhadap mainan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B7-05",
+     "tp": "Murid mampu bermain peran mengenai meminta izin meminjam mainan dengan Bahasa Inggris yang tepat.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "medium": 6,
+      "easy": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "contextual": 7,
+      "ordering": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 2,
+      "menerapkan": 11,
+      "mengingat": 1
+     },
+     "kompetensi": [
+      "Meminta izin",
+      "Meminta izin meminjam mainan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B7-06",
+     "tp": "Murid mampu mengidentifikasikan warna mainan dalam Bahasa Inggris dengan tepat.",
+     "jumlah_soal": 11,
+     "distribusi_difficulty": {
+      "easy": 7,
+      "medium": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 4,
+      "true_false": 5,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 9,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Warna mainan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B7-07",
+     "tp": "Murid mampu menghitung jumlah mainan dalam Bahasa Inggris dengan benar.",
+     "jumlah_soal": 7,
+     "distribusi_difficulty": {
+      "easy": 4,
+      "medium": 3
+     },
+     "distribusi_question_type": {
+      "multiple_choice_visual": 4,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 4,
+      "menerapkan": 3
+     },
+     "kompetensi": [
+      "Menghitung mainan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B7-08",
+     "tp": "Murid mampu mengetahui ukuran mainan dalam Bahasa Inggris dengan benar.",
+     "jumlah_soal": 11,
+     "distribusi_difficulty": {
+      "medium": 7,
+      "easy": 4
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "true_false": 3,
+      "fill_in_short": 2,
+      "grouping": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 4,
+      "mengingat": 6,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Ukuran mainan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B7-09",
+     "tp": "Murid mampu menuliskan frase sederhana mengenai mainan dan ukurannya dalam Bahasa Inggris.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "medium": 14
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "fill_in_short": 4,
+      "completion": 3,
+      "ordering": 2
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 14
+     },
+     "kompetensi": [
+      "Menulis frase mainan dan ukuran",
+      "Menulis kosakata"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B7-10",
+     "tp": "Murid mampu menceritakan secara singkat mengenai mainan kesukaannya dengan Bahasa Inggris secara tepat.",
+     "jumlah_soal": 13,
+     "distribusi_difficulty": {
+      "easy": 2,
+      "medium": 11
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "true_false": 3,
+      "fill_in_short": 1,
+      "completion": 3,
+      "ordering": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 4,
+      "mengenali": 3,
+      "menerapkan": 6
+     },
+     "kompetensi": [
+      "Menceritakan mainan",
+      "Menceritakan mainan kesukaan"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 8. I Like Mangoes (Buah-buahan)",
+   "prefix": "ENG-B8",
+   "alokasi_jp": null,
+   "jumlah_soal": 111,
+   "tp": [
+    {
+     "tp_id": "TP-ENG-B8-01",
+     "tp": "Murid mampu mengidentifikasikan nama buah-buahan dalam Bahasa Inggris yang benar.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "easy": 8,
+      "medium": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "multiple_choice_visual": 5,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 3,
+      "mengenali": 8,
+      "mencocokkan": 1,
+      "mengelompokkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Mengenal buah-buahan",
+      "Praktik berbicara"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B8-02",
+     "tp": "Murid mampu mengetahui tindakan yang dapat dilakukan terhadap buah-buahan menggunakan kata kerja Bahasa Inggris secara tepat.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "easy": 6,
+      "medium": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "true_false": 4,
+      "fill_in_short": 1,
+      "matching": 1,
+      "ordering": 1,
+      "performance_task": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 9,
+      "mengenali": 2,
+      "mencocokkan": 1,
+      "mengurutkan": 1,
+      "menerapkan": 1
+     },
+     "kompetensi": [
+      "Tindakan terhadap buah"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B8-03",
+     "tp": "Murid mampu bertanya mengenai kesukaan orang lain dengan menggunakan Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "easy": 6,
+      "medium": 8
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "true_false": 3,
+      "fill_in_short": 2,
+      "completion": 1,
+      "ordering": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 8,
+      "menerapkan": 4,
+      "mengenali": 2
+     },
+     "kompetensi": [
+      "Bertanya kesukaan",
+      "Bertanya tentang kesukaan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B8-04",
+     "tp": "Murid mampu menggunakan ungkapan suka untuk mengekspresikan kesukaannya terhadap buah-buahan dalam Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+     "jumlah_soal": 13,
+     "distribusi_difficulty": {
+      "medium": 7,
+      "easy": 6
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "contextual": 3,
+      "true_false": 2,
+      "completion": 1,
+      "matching": 1,
+      "grouping": 1
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 3,
+      "mengingat": 3,
+      "menerapkan": 4,
+      "memahami": 1,
+      "mencocokkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Menyatakan suka"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B8-05",
+     "tp": "Murid mampu menggunakan ungkapan tidak suka untuk mengekspresikan ketidaksukaannya terhadap buah-buahan dalam Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "easy": 7,
+      "medium": 7
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "contextual": 1,
+      "true_false": 3,
+      "fill_in_short": 1,
+      "completion": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 5,
+      "mengenali": 2,
+      "menerapkan": 4,
+      "memahami": 3
+     },
+     "kompetensi": [
+      "Menyatakan tidak suka"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B8-06",
+     "tp": "Murid mampu menggunakan gerakan tubuh untuk mengekspresikan rasa suka dan tidak suka secara tepat.",
+     "jumlah_soal": 13,
+     "distribusi_difficulty": {
+      "easy": 8,
+      "medium": 5
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "multiple_choice_visual": 2,
+      "true_false": 2,
+      "fill_in_short": 1,
+      "completion": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 8,
+      "menerapkan": 5
+     },
+     "kompetensi": [
+      "Gerakan suka dan tidak suka"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B8-07",
+     "tp": "Murid mampu menuliskan frase sederhana mengenai buah-buahan dalam Bahasa Inggris secara tepat.",
+     "jumlah_soal": 15,
+     "distribusi_difficulty": {
+      "medium": 15
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 5,
+      "fill_in_short": 5,
+      "completion": 2,
+      "ordering": 3
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 15
+     },
+     "kompetensi": [
+      "Menulis frase buah",
+      "Menulis kosakata"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B8-08",
+     "tp": "Murid mampu menggambar gambar buah kesukaannya.",
+     "jumlah_soal": 14,
+     "distribusi_difficulty": {
+      "medium": 6,
+      "easy": 8
+     },
+     "distribusi_question_type": {
+      "contextual": 4,
+      "true_false": 6,
+      "completion": 1,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 8,
+      "memahami": 6
+     },
+     "kompetensi": [
+      "Menggambar buah kesukaan"
+     ]
+    }
+   ]
+  },
+  {
+   "material": "Bab 9. We Are Having Fun (Kegiatan di Taman Bermain)",
+   "prefix": "ENG-B9",
+   "alokasi_jp": null,
+   "jumlah_soal": 111,
+   "tp": [
+    {
+     "tp_id": "TP-ENG-B9-01",
+     "tp": "Murid mampu mengidentifikasikan nama-nama permainan yang ada di taman bermain dalam Bahasa Inggris yang benar.",
+     "jumlah_soal": 18,
+     "distribusi_difficulty": {
+      "medium": 11,
+      "easy": 7
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "multiple_choice_visual": 4,
+      "true_false": 3,
+      "fill_in_short": 1,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 9,
+      "mengingat": 5,
+      "mencocokkan": 1,
+      "mengelompokkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Mengenal permainan di taman bermain",
+      "Praktik berbicara"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B9-02",
+     "tp": "Murid mampu mengetahui tindakan yang dapat dilakukan terhadap permainan di taman bermain menggunakan kata kerja Bahasa Inggris secara tepat.",
+     "jumlah_soal": 18,
+     "distribusi_difficulty": {
+      "easy": 9,
+      "medium": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "true_false": 7,
+      "fill_in_short": 1,
+      "matching": 1,
+      "ordering": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 12,
+      "mengenali": 2,
+      "mencocokkan": 1,
+      "mengurutkan": 1,
+      "menerapkan": 2
+     },
+     "kompetensi": [
+      "Tindakan di taman bermain"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B9-03",
+     "tp": "Murid mampu mengidentifikasikan kata kerja yang tepat untuk permainan tertentu dalam Bahasa Inggris dengan tepat.",
+     "jumlah_soal": 16,
+     "distribusi_difficulty": {
+      "easy": 7,
+      "medium": 9
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "contextual": 3,
+      "true_false": 4,
+      "completion": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 3,
+      "mengenali": 6,
+      "menerapkan": 5,
+      "memahami": 2
+     },
+     "kompetensi": [
+      "Kata kerja dan permainan"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B9-04",
+     "tp": "Murid mampu menggunakan ungkapan permintaan untuk bermain dengan memperhatikan penggunaan kata kerja dalam Bahasa Inggris yang tepat dalam konteks kelas dan kehidupan sehari-hari.",
+     "jumlah_soal": 19,
+     "distribusi_difficulty": {
+      "easy": 9,
+      "medium": 10
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "contextual": 5,
+      "true_false": 2,
+      "completion": 2,
+      "ordering": 1,
+      "performance_task": 2
+     },
+     "distribusi_cognitive_level": {
+      "mengingat": 3,
+      "mengenali": 4,
+      "menerapkan": 9,
+      "memahami": 2,
+      "mengurutkan": 1
+     },
+     "kompetensi": [
+      "Meminta untuk bermain"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B9-05",
+     "tp": "Murid mampu menggunakan kalimat present continuous untuk menunjukkan kegiatan yang sedang dilakukannya di taman bermain dalam Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+     "jumlah_soal": 19,
+     "distribusi_difficulty": {
+      "medium": 10,
+      "easy": 8,
+      "hard": 1
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 7,
+      "multiple_choice_visual": 3,
+      "true_false": 4,
+      "matching": 1,
+      "grouping": 1,
+      "performance_task": 3
+     },
+     "distribusi_cognitive_level": {
+      "mengenali": 5,
+      "mengingat": 8,
+      "menerapkan": 4,
+      "mencocokkan": 1,
+      "mengelompokkan": 1
+     },
+     "kompetensi": [
+      "Present continuous di taman bermain"
+     ]
+    },
+    {
+     "tp_id": "TP-ENG-B9-06",
+     "tp": "Murid mampu menuliskan frase sederhana mengenai kegiatan di taman bermain terhadap permainannya dalam Bahasa Inggris secara tepat.",
+     "jumlah_soal": 21,
+     "distribusi_difficulty": {
+      "medium": 21
+     },
+     "distribusi_question_type": {
+      "multiple_choice": 6,
+      "fill_in_short": 8,
+      "completion": 3,
+      "ordering": 4
+     },
+     "distribusi_cognitive_level": {
+      "menerapkan": 21
+     },
+     "kompetensi": [
+      "Menulis kalimat di taman bermain",
+      "Menulis kosakata"
+     ]
+    }
+   ]
+  }
+ ],
+ "distribusi_total": {
+  "difficulty": {
+   "medium": 622,
+   "easy": 377,
+   "hard": 1
+  },
+  "question_type": {
+   "multiple_choice": 352,
+   "true_false": 180,
+   "fill_in_short": 92,
+   "completion": 63,
+   "performance_task": 81,
+   "multiple_choice_visual": 63,
+   "contextual": 70,
+   "matching": 27,
+   "ordering": 54,
+   "grouping": 18
+  },
+  "cognitive_level": {
+   "mengenali": 215,
+   "mengingat": 299,
+   "menerapkan": 376,
+   "memahami": 52,
+   "mencocokkan": 27,
+   "mengurutkan": 13,
+   "mengelompokkan": 18
+  }
+ }
+}

@@ -1,0 +1,501 @@
+{
+ "subject": "Bahasa Inggris",
+ "grade": 1,
+ "phase": "A",
+ "sumber": "eng_bank_1000.json",
+ "tanggal_audit": "2026-10-12",
+ "total_soal": 1000,
+ "id_unik": 1000,
+ "semua_punya_jawaban": true,
+ "semua_punya_penjelasan": true,
+ "teks_soal_unik_non_matching_ordering_grouping": 901,
+ "jumlah_soal_non_matching_ordering_grouping": 901,
+ "teks_soal_sama_tetapi_isi_di_opsi": {
+  "jumlah_teks": 3,
+  "per_tipe": {
+   "matching": 6
+  },
+  "catatan": "Hanya tipe matching/ordering/grouping; isi soal ada pada opsi dan jawaban sehingga tidak kembar."
+ },
+ "per_materi": {
+  "Bab 1. Hello, How Are You? (Salam Sapaan dan Ucapan Berpisah)": 112,
+  "Bab 2. It's a Red Book (Benda di Dalam Kelas)": 111,
+  "Bab 3. I Have Two Eyes (Bagian-bagian Wajah)": 111,
+  "Bab 4. My Family (Anggota Keluarga)": 111,
+  "Bab 5. This is My House (Ruangan dalam Rumah)": 111,
+  "Bab 6. I Have Two Cats (Hewan Peliharaan)": 111,
+  "Bab 7. May I Play With Your Doll (Mainan)": 111,
+  "Bab 8. I Like Mangoes (Buah-buahan)": 111,
+  "Bab 9. We Are Having Fun (Kegiatan di Taman Bermain)": 111
+ },
+ "per_tp": {
+  "TP-ENG-B1-01": 13,
+  "TP-ENG-B1-02": 12,
+  "TP-ENG-B1-03": 12,
+  "TP-ENG-B1-04": 13,
+  "TP-ENG-B1-05": 13,
+  "TP-ENG-B1-06": 13,
+  "TP-ENG-B1-07": 12,
+  "TP-ENG-B1-08": 10,
+  "TP-ENG-B1-09": 14,
+  "TP-ENG-B2-01": 14,
+  "TP-ENG-B2-02": 14,
+  "TP-ENG-B2-03": 13,
+  "TP-ENG-B2-04": 14,
+  "TP-ENG-B2-05": 12,
+  "TP-ENG-B2-06": 12,
+  "TP-ENG-B2-07": 15,
+  "TP-ENG-B2-08": 17,
+  "TP-ENG-B3-01": 22,
+  "TP-ENG-B3-02": 22,
+  "TP-ENG-B3-03": 22,
+  "TP-ENG-B3-04": 21,
+  "TP-ENG-B3-05": 24,
+  "TP-ENG-B4-01": 14,
+  "TP-ENG-B4-02": 16,
+  "TP-ENG-B4-03": 17,
+  "TP-ENG-B4-04": 15,
+  "TP-ENG-B4-05": 16,
+  "TP-ENG-B4-06": 17,
+  "TP-ENG-B4-07": 16,
+  "TP-ENG-B5-01": 13,
+  "TP-ENG-B5-02": 15,
+  "TP-ENG-B5-03": 10,
+  "TP-ENG-B5-04": 15,
+  "TP-ENG-B5-05": 15,
+  "TP-ENG-B5-06": 14,
+  "TP-ENG-B5-07": 14,
+  "TP-ENG-B5-08": 15,
+  "TP-ENG-B6-01": 10,
+  "TP-ENG-B6-02": 9,
+  "TP-ENG-B6-03": 10,
+  "TP-ENG-B6-04": 11,
+  "TP-ENG-B6-05": 10,
+  "TP-ENG-B6-06": 10,
+  "TP-ENG-B6-07": 8,
+  "TP-ENG-B6-08": 10,
+  "TP-ENG-B6-09": 12,
+  "TP-ENG-B6-10": 10,
+  "TP-ENG-B6-11": 11,
+  "TP-ENG-B7-01": 11,
+  "TP-ENG-B7-02": 7,
+  "TP-ENG-B7-03": 11,
+  "TP-ENG-B7-04": 12,
+  "TP-ENG-B7-05": 14,
+  "TP-ENG-B7-06": 11,
+  "TP-ENG-B7-07": 7,
+  "TP-ENG-B7-08": 11,
+  "TP-ENG-B7-09": 14,
+  "TP-ENG-B7-10": 13,
+  "TP-ENG-B8-01": 14,
+  "TP-ENG-B8-02": 14,
+  "TP-ENG-B8-03": 14,
+  "TP-ENG-B8-04": 13,
+  "TP-ENG-B8-05": 14,
+  "TP-ENG-B8-06": 13,
+  "TP-ENG-B8-07": 15,
+  "TP-ENG-B8-08": 14,
+  "TP-ENG-B9-01": 18,
+  "TP-ENG-B9-02": 18,
+  "TP-ENG-B9-03": 16,
+  "TP-ENG-B9-04": 19,
+  "TP-ENG-B9-05": 19,
+  "TP-ENG-B9-06": 21
+ },
+ "per_difficulty": {
+  "medium": 622,
+  "easy": 377,
+  "hard": 1
+ },
+ "per_question_type": {
+  "multiple_choice": 352,
+  "true_false": 180,
+  "fill_in_short": 92,
+  "completion": 63,
+  "performance_task": 81,
+  "multiple_choice_visual": 63,
+  "contextual": 70,
+  "matching": 27,
+  "ordering": 54,
+  "grouping": 18
+ },
+ "jumlah_soal_pilihan_ganda_format_ABCD": 485,
+ "posisi_kunci_pilihan_ganda": {
+  "A": 122,
+  "B": 121,
+  "C": 121,
+  "D": 121
+ },
+ "pilihan_ganda_kunci_opsi_terpanjang": 166,
+ "true_false_distribusi_jawaban": {
+  "Salah": 90,
+  "Benar": 90
+ },
+ "soal_visual": 63,
+ "jumlah_temuan_validasi": 0,
+ "temuan_validasi": [],
+ "pasangan_hampir_duplikat_(kemiripan>=0.9)": {
+  "jumlah": 88,
+  "lintas_materi": 21,
+  "dengan_jawaban_sama": 27,
+  "daftar": [
+   [
+    "ENG-B1-0002",
+    "ENG-B1-0010"
+   ],
+   [
+    "ENG-B1-0031",
+    "ENG-B1-0032"
+   ],
+   [
+    "ENG-B1-0042",
+    "ENG-B1-0047"
+   ],
+   [
+    "ENG-B1-0068",
+    "ENG-B1-0074"
+   ],
+   [
+    "ENG-B1-0079",
+    "ENG-B1-0086"
+   ],
+   [
+    "ENG-B1-0083",
+    "ENG-B1-0085"
+   ],
+   [
+    "ENG-B1-0105",
+    "ENG-B8-0091"
+   ],
+   [
+    "ENG-B1-0106",
+    "ENG-B4-0107"
+   ],
+   [
+    "ENG-B2-0015",
+    "ENG-B2-0016"
+   ],
+   [
+    "ENG-B2-0015",
+    "ENG-B2-0017"
+   ],
+   [
+    "ENG-B2-0016",
+    "ENG-B2-0017"
+   ],
+   [
+    "ENG-B2-0018",
+    "ENG-B2-0019"
+   ],
+   [
+    "ENG-B2-0023",
+    "ENG-B2-0024"
+   ],
+   [
+    "ENG-B2-0027",
+    "ENG-B2-0028"
+   ],
+   [
+    "ENG-B2-0062",
+    "ENG-B2-0063"
+   ],
+   [
+    "ENG-B2-0062",
+    "ENG-B2-0064"
+   ],
+   [
+    "ENG-B2-0063",
+    "ENG-B2-0064"
+   ],
+   [
+    "ENG-B2-0080",
+    "ENG-B2-0090"
+   ],
+   [
+    "ENG-B2-0095",
+    "ENG-B4-0034"
+   ],
+   [
+    "ENG-B2-0095",
+    "ENG-B5-0097"
+   ],
+   [
+    "ENG-B2-0103",
+    "ENG-B5-0088"
+   ],
+   [
+    "ENG-B3-0013",
+    "ENG-B3-0014"
+   ],
+   [
+    "ENG-B3-0024",
+    "ENG-B3-0028"
+   ],
+   [
+    "ENG-B3-0068",
+    "ENG-B3-0070"
+   ],
+   [
+    "ENG-B3-0079",
+    "ENG-B3-0081"
+   ],
+   [
+    "ENG-B3-0089",
+    "ENG-B3-0091"
+   ],
+   [
+    "ENG-B3-0090",
+    "ENG-B3-0094"
+   ],
+   [
+    "ENG-B3-0090",
+    "ENG-B7-0088"
+   ],
+   [
+    "ENG-B3-0093",
+    "ENG-B5-0085"
+   ],
+   [
+    "ENG-B3-0095",
+    "ENG-B5-0090"
+   ],
+   [
+    "ENG-B3-0097",
+    "ENG-B3-0103"
+   ],
+   [
+    "ENG-B3-0099",
+    "ENG-B9-0101"
+   ],
+   [
+    "ENG-B3-0100",
+    "ENG-B9-0103"
+   ],
+   [
+    "ENG-B3-0101",
+    "ENG-B4-0103"
+   ],
+   [
+    "ENG-B3-0101",
+    "ENG-B4-0106"
+   ],
+   [
+    "ENG-B4-0009",
+    "ENG-B4-0011"
+   ],
+   [
+    "ENG-B4-0029",
+    "ENG-B4-0030"
+   ],
+   [
+    "ENG-B4-0031",
+    "ENG-B4-0042"
+   ],
+   [
+    "ENG-B4-0034",
+    "ENG-B5-0097"
+   ],
+   [
+    "ENG-B4-0086",
+    "ENG-B4-0087"
+   ],
+   [
+    "ENG-B4-0086",
+    "ENG-B7-0070"
+   ],
+   [
+    "ENG-B4-0106",
+    "ENG-B4-0107"
+   ],
+   [
+    "ENG-B5-0028",
+    "ENG-B8-0014"
+   ],
+   [
+    "ENG-B5-0036",
+    "ENG-B5-0037"
+   ],
+   [
+    "ENG-B5-0041",
+    "ENG-B5-0049"
+   ],
+   [
+    "ENG-B5-0059",
+    "ENG-B5-0062"
+   ],
+   [
+    "ENG-B5-0060",
+    "ENG-B5-0062"
+   ],
+   [
+    "ENG-B5-0061",
+    "ENG-B5-0063"
+   ],
+   [
+    "ENG-B5-0090",
+    "ENG-B7-0090"
+   ],
+   [
+    "ENG-B6-0042",
+    "ENG-B6-0048"
+   ],
+   [
+    "ENG-B6-0056",
+    "ENG-B6-0058"
+   ],
+   [
+    "ENG-B6-0061",
+    "ENG-B6-0063"
+   ],
+   [
+    "ENG-B6-0062",
+    "ENG-B6-0064"
+   ],
+   [
+    "ENG-B6-0065",
+    "ENG-B6-0066"
+   ],
+   [
+    "ENG-B6-0065",
+    "ENG-B6-0067"
+   ],
+   [
+    "ENG-B6-0065",
+    "ENG-B6-0068"
+   ],
+   [
+    "ENG-B6-0066",
+    "ENG-B6-0067"
+   ],
+   [
+    "ENG-B6-0066",
+    "ENG-B6-0068"
+   ],
+   [
+    "ENG-B6-0067",
+    "ENG-B6-0068"
+   ],
+   [
+    "ENG-B6-0069",
+    "ENG-B6-0077"
+   ],
+   [
+    "ENG-B6-0085",
+    "ENG-B7-0092"
+   ],
+   [
+    "ENG-B6-0087",
+    "ENG-B8-0089"
+   ],
+   [
+    "ENG-B7-0016",
+    "ENG-B7-0017"
+   ],
+   [
+    "ENG-B7-0016",
+    "ENG-B7-0018"
+   ],
+   [
+    "ENG-B7-0017",
+    "ENG-B7-0018"
+   ],
+   [
+    "ENG-B7-0067",
+    "ENG-B7-0068"
+   ],
+   [
+    "ENG-B7-0067",
+    "ENG-B7-0069"
+   ],
+   [
+    "ENG-B7-0068",
+    "ENG-B7-0069"
+   ],
+   [
+    "ENG-B7-0071",
+    "ENG-B7-0072"
+   ],
+   [
+    "ENG-B7-0071",
+    "ENG-B7-0073"
+   ],
+   [
+    "ENG-B7-0072",
+    "ENG-B7-0073"
+   ],
+   [
+    "ENG-B7-0090",
+    "ENG-B8-0088"
+   ],
+   [
+    "ENG-B7-0093",
+    "ENG-B8-0090"
+   ],
+   [
+    "ENG-B7-0103",
+    "ENG-B8-0083"
+   ],
+   [
+    "ENG-B8-0019",
+    "ENG-B8-0025"
+   ],
+   [
+    "ENG-B8-0031",
+    "ENG-B8-0087"
+   ],
+   [
+    "ENG-B8-0032",
+    "ENG-B8-0039"
+   ],
+   [
+    "ENG-B8-0033",
+    "ENG-B8-0038"
+   ],
+   [
+    "ENG-B8-0064",
+    "ENG-B8-0065"
+   ],
+   [
+    "ENG-B8-0072",
+    "ENG-B8-0079"
+   ],
+   [
+    "ENG-B8-0105",
+    "ENG-B8-0107"
+   ],
+   [
+    "ENG-B9-0011",
+    "ENG-B9-0012"
+   ],
+   [
+    "ENG-B9-0017",
+    "ENG-B9-0018"
+   ],
+   [
+    "ENG-B9-0048",
+    "ENG-B9-0049"
+   ],
+   [
+    "ENG-B9-0061",
+    "ENG-B9-0064"
+   ],
+   [
+    "ENG-B9-0079",
+    "ENG-B9-0080"
+   ],
+   [
+    "ENG-B9-0082",
+    "ENG-B9-0084"
+   ],
+   [
+    "ENG-B9-0094",
+    "ENG-B9-0096"
+   ]
+  ]
+ },
+ "cek_duplikat_lintas_materi": "Dilakukan saat pemilihan soal (kunci teks + opsi + gambar) dan diverifikasi ulang pada audit ini.",
+ "catatan": [
+  "Soal dibangun dari tabel fakta (kosakata, ungkapan, instruksi, dan kalimat sederhana), skenario sikap, dan tugas kinerja sesuai TP pada ATP Grow with English.",
+  "Soal bergambar memuat deskripsi ilustrasi pada visual_prompt."
+ ]
+}

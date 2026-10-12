@@ -12,7 +12,7 @@ Bank soal digital 1.000 soal per mata pelajaran berdasarkan ATP (file ATP/KKTP a
 | 6 | Matematika | **Selesai** (1.000 soal) | `matematika/` |
 | 7 | Pendidikan Pancasila | **Selesai** (1.000 soal) | `pancasila/` |
 | 8 | PJOK | **Selesai** (1.000 soal) | `pjok/` |
-| 9 | Bahasa Inggris | Belum | - |
+| 9 | Bahasa Inggris | **Selesai** (1.000 soal) | `bahasa_inggris/` |
 
 Tiap mapel punya 4 berkas: bank soal, `*_blueprint.json`, `*_teacher_answer_key.json`, `*_qa_report.json`.
 
@@ -61,3 +61,8 @@ Prefix ID `PPN-B<n>-NNNN`. Pembangkit di `pancasila/generator/`
 4 elemen, 15 TP (ATP PJOK Fase A): Terampil Bergerak 7 TP = 467 soal, Belajar melalui Gerak 4 TP = 267, Bergaya Hidup Aktif 2 TP = 133, Memilih Hidup yang Menyehatkan 2 TP = 133.
 Prefix ID `PJK-<TB|BG|HA|MH>-NNNN`. Porsi tugas kinerja (praktik) 10%. Pembangkit di `pjok/generator/`
 (`python3 -I build_pjk.py ../pjk_bank_1000.json`, lalu `python3 -I make_files.py ../pjk_bank_1000.json ..`).
+
+## Bahasa Inggris
+9 bab Grow with English (72 TP; tiap bab 8 JP): Bab 1 = 112 soal, Bab 2-9 = 111 soal. Sesuai CP Fase A, soal menekankan menyimak-berbicara
+dan membaca-memirsa; menulis hanya sampai frasa/kalimat sederhana. Prefix ID `ENG-B<n>-NNNN`. Pembangkit di `bahasa_inggris/generator/`
+(`python3 -I build_eng.py ../eng_bank_1000.json`, lalu `python3 -I make_files.py ../eng_bank_1000.json ..`).
