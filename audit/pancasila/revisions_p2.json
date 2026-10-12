@@ -1,0 +1,1235 @@
+{
+ "revisi": {
+  "PPN-B3-0005": {
+   "perubahan": {
+    "options": [
+     "A. ujung ekornya",
+     "B. ujung paruhnya",
+     "C. kedua kakinya",
+     "D. ujung sayapnya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Garuda mencengkeram pita dengan kedua kaki; ekor, paruh, sayap bukan alat mencengkeram. Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B3-0035": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Lambang negara pada gambar itu disebut ...."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Deskripsi keliru (\"bermahkota\") dan membocorkan jawaban dihapus; stem menunjuk gambar saja.",
+   "verifikasi": "Opsi dan kunci (Garuda Pancasila) tidak berubah; gambar dengan perisai dan pita tetap hanya cocok untuk Garuda Pancasila."
+  },
+  "PPN-B3-0036": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Bendera pada gambar itu adalah bendera ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Deskripsi warna bendera di stem (membocorkan jawaban) dihapus; informasi ada pada gambar.",
+   "verifikasi": "Opsi dan kunci tidak berubah; hanya Merah Putih adalah bendera negara Indonesia."
+  },
+  "PPN-B3-0097": {
+   "perubahan": {
+    "options": [
+     "A. mementingkan diri sendiri",
+     "B. berbuat curang kepada teman",
+     "C. bersikap kasar kepada sesama",
+     "D. adil dan beradab kepada sesama"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh dibuat setara panjang dan struktur dengan kunci serta lebih masuk akal sebagai lawan sikap sila kedua.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar. Sila kedua = kemanusiaan yang adil dan beradab."
+  },
+  "PPN-B3-0098": {
+   "perubahan": {
+    "options": [
+     "A. musyawarah",
+     "B. pilihan satu orang saja",
+     "C. paksaan",
+     "D. kemauan sendiri"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh \"undian curang\" yang absurd diganti dengan cara pengambilan keputusan yang keliru namun masuk akal.",
+   "verifikasi": "Sila keempat menekankan musyawarah; tiga pengecoh bukan cara mufakat. Kunci dan posisinya tetap."
+  },
+  "PPN-B3-0100": {
+   "perubahan": {
+    "options": [
+     "A. bermain terus sampai lupa waktu belajar",
+     "B. beribadah sesuai agama dan menghormati pemeluk agama lain",
+     "C. berbuat curang kepada teman saat bermain",
+     "D. memilih teman yang seagama saja saat bermain"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd diganti perilaku yang masuk akal tetapi bertentangan dengan sila pertama, panjang disejajarkan.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B3-0102": {
+   "perubahan": {
+    "options": [
+     "A. serakah dan ingin menang sendiri",
+     "B. berbuat adil dan berbagi",
+     "C. iri kepada milik teman",
+     "D. pilih kasih kepada teman"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar. Sila kelima: keadilan sosial."
+  },
+  "PPN-B3-0103": {
+   "perubahan": {
+    "options": [
+     "A. bertengkar dan berpisah",
+     "B. saling bermusuhan",
+     "C. rukun dan bersatu",
+     "D. sendiri-sendiri"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh dibuat lebih wajar dan setara struktur dengan kunci.",
+   "verifikasi": "Kunci \"rukun dan bersatu\" tetap satu-satunya yang sesuai dengan tujuan dasar negara."
+  },
+  "PPN-B3-0106": {
+   "perubahan": {
+    "options": [
+     "A. persatuan",
+     "B. perpecahan",
+     "C. kepentingan sendiri",
+     "D. permusuhan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh \"kemalasan\" tidak relevan diganti pengecoh yang lebih masuk akal.",
+   "verifikasi": "Sila ketiga = persatuan; ketiga pengecoh bertentangan dengannya."
+  },
+  "PPN-B3-0122": {
+   "perubahan": {
+    "question": "Benar atau salah: Sikap menghormati pemeluk agama lain sesuai dengan sila ke-1"
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Penulisan \"ke- 1\" diperbaiki menjadi \"ke-1\".",
+   "verifikasi": "Hanya ejaan; pernyataan tetap Benar."
+  },
+  "PPN-B3-0162": {
+   "perubahan": {
+    "options": [
+     "A. beribadah dan berdoa bersama",
+     "B. berebut mainan dengan adik",
+     "C. membentak anggota keluarga",
+     "D. bertengkar dengan saudara"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B3-0222": {
+   "perubahan": {
+    "options": [
+     "A. kesenangan diri sendiri",
+     "B. kekayaan milik sendiri saja",
+     "C. keuntungan pribadi saja",
+     "D. kebersihan dan kerukunan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh dibuat gramatikal dengan \"menjaga\" dan sejajar panjang dengan kunci.",
+   "verifikasi": "Mencintai tanah air = menjaga kebersihan dan kerukunan; pengecoh mementingkan diri sendiri sehingga salah."
+  },
+  "PPN-B3-0224": {
+   "perubahan": {
+    "options": [
+     "A. merusak fasilitas umum dan mencoret dinding sekolah",
+     "B. menghormati bendera dan menyanyikan lagu kebangsaan dengan baik",
+     "C. mengejek bendera dan lagu kebangsaan saat upacara",
+     "D. membuang sampah sembarangan di jalan dan selokan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B3-0229": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Kegiatan yang dilakukan murid-murid pada gambar itu adalah ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Deskripsi gambar yang membocorkan kunci dihapus dari stem.",
+   "verifikasi": "Opsi dan kunci tidak berubah; gambar menampilkan upacara bendera."
+  },
+  "PPN-B3-0231": {
+   "perubahan": {
+    "options": [
+     "A. hormat kepada bendera dan cinta tanah air",
+     "B. sombong dan merasa paling hebat",
+     "C. tidak peduli pada kegiatan upacara",
+     "D. malas dan ingin segera pulang"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B3-0232": {
+   "perubahan": {
+    "options": [
+     "A. ikut menginjak bendera itu sambil bermain",
+     "B. mengingatkan dengan lembut bahwa bendera harus dihormati",
+     "C. membiarkannya saja karena adik masih kecil",
+     "D. menertawakannya dan membiarkan bendera diinjak"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B3-0234": {
+   "perubahan": {
+    "options": [
+     "A. membuang bungkus jajanan sembarangan",
+     "B. mencoret bangku taman bersama teman",
+     "C. mematahkan tanaman dan memetik bunga",
+     "D. menjaga kebersihan dan tidak mencoret fasilitas"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B3-0237": {
+   "perubahan": {
+    "options": [
+     "A. menginjaknya lalu pergi begitu saja",
+     "B. memungutnya dan merapikannya dengan hormat",
+     "C. membiarkannya tergeletak di tanah",
+     "D. membuangnya ke tempat sampah kelas"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B3-0238": {
+   "perubahan": {
+    "options": [
+     "A. ikut dengan semangat dan bersikap sportif",
+     "B. berbuat curang agar menang lomba",
+     "C. mengejek lawan yang kalah dalam lomba",
+     "D. tidak mau ikut lomba sama sekali"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B3-0259": {
+   "perubahan": {
+    "question": "Benar atau salah: Hasan memilih jajanan buatan pedagang sekitar. Hal ini menunjukkan Hasan tidak mencintai produk lokal."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pernyataan salah \"membenci pedagang\" yang absurd diganti pernyataan salah yang wajar.",
+   "verifikasi": "Memilih jajanan buatan pedagang sekitar justru mencintai produk lokal; pernyataan tetap Salah."
+  },
+  "PPN-B4-0006": {
+   "perubahan": {
+    "question": "Tempat tinggal kita termasuk wilayah Negara ....",
+    "options": [
+     "A. Persekutuan Malaysia",
+     "B. Kekaisaran Jepang",
+     "C. Republik Singapura",
+     "D. Kesatuan Republik Indonesia"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Penulisan \"Negara\" (nama resmi) diperbaiki dan pengecoh disejajarkan panjangnya.",
+   "verifikasi": "Dengan \"Negara\" di stem, kunci membentuk \"Negara Kesatuan Republik Indonesia\"; ketiga lain bukan negara kita."
+  },
+  "PPN-B4-0009": {
+   "perubahan": {
+    "options": [
+     "A. bising dan berdebu",
+     "B. kotor dan berbau",
+     "C. sehat dan asri",
+     "D. gersang dan panas"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0015": {
+   "perubahan": {
+    "options": [
+     "A. tempat tidur dan beristirahat",
+     "B. tempat membuang sampah",
+     "C. tempat memasak dan mandi",
+     "D. tempat bermain dan menanam"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya; opsi \"tempat salat\" yang berpotensi ambigu diganti.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0018": {
+   "perubahan": {
+    "options": [
+     "A. laut yang sangat dalam",
+     "B. matahari di langit",
+     "C. bulan di malam hari",
+     "D. jalan di sekitar rumah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0020": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Lingkungan pada gambar ini disebut ....",
+    "options": [
+     "A. berbahaya sekali",
+     "B. gersang dan panas",
+     "C. kotor dan bau",
+     "D. bersih dan asri"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem tidak lagi mendeskripsikan gambar (membocorkan kunci); pengecoh disejajarkan.",
+   "verifikasi": "Kunci \"bersih dan asri\" tetap; gambar gang bersih dengan pot bunga tidak cocok dengan pengecoh."
+  },
+  "PPN-B4-0031": {
+   "perubahan": {
+    "question": "Benar atau salah: Tempat tinggal kita termasuk wilayah Negara Kesatuan Republik Indonesia",
+    "explanation": "Benar. Tempat tinggal kita termasuk wilayah Negara Kesatuan Republik Indonesia."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Nama resmi \"Negara Kesatuan Republik Indonesia\" diperbaiki.",
+   "verifikasi": "Pernyataan tetap Benar."
+  },
+  "PPN-B4-0065": {
+   "perubahan": {
+    "question": "Isilah titik-titik berikut: Tempat tinggal kita termasuk wilayah Negara ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Nama resmi diperbaiki sehingga kunci melengkapi \"Negara Kesatuan Republik Indonesia\".",
+   "verifikasi": "Kunci tidak berubah."
+  },
+  "PPN-B4-0079": {
+   "perubahan": {
+    "question": "Kerja sama dalam keberagaman berarti kita bekerja sama dengan teman yang ....",
+    "options": [
+     "A. sama agamanya saja",
+     "B. sama sukunya saja",
+     "C. berbeda suku dan agama",
+     "D. sama kelasnya saja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem diubah agar gramatikal dengan semua opsi; pengecoh disejajarkan.",
+   "verifikasi": "Keberagaman = berbeda suku dan agama; pengecoh berbatas \"saja\" sehingga bukan keberagaman."
+  },
+  "PPN-B4-0086": {
+   "perubahan": {
+    "question": "Anak kecil dapat ikut kerja sama dengan mengerjakan ....",
+    "options": [
+     "A. tugas yang berbahaya",
+     "B. pekerjaan yang berat",
+     "C. tugas yang sangat sulit",
+     "D. tugas yang ringan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem disesuaikan agar semua opsi gramatikal; pengecoh absurd diganti.",
+   "verifikasi": "Anak kecil cocok mengerjakan tugas ringan; ketiga lain tidak sesuai usia."
+  },
+  "PPN-B4-0087": {
+   "perubahan": {
+    "options": [
+     "A. ringan dan cepat selesai",
+     "B. berat dan lama selesai",
+     "C. lambat dan tidak selesai",
+     "D. sulit dan memakan waktu"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0093": {
+   "perubahan": {
+    "options": [
+     "A. pembagian tugas",
+     "B. kekacauan kerja",
+     "C. persaingan warga",
+     "D. perpecahan warga"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0095": {
+   "perubahan": {
+    "options": [
+     "A. warga bersama-sama",
+     "B. ketua RT sendirian",
+     "C. satu orang saja",
+     "D. petugas kebersihan saja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh absurd (hewan, tamu) diganti pengecoh yang masuk akal.",
+   "verifikasi": "Kerja bakti dilakukan warga bersama; pengecoh menyebut satu pihak saja."
+  },
+  "PPN-B4-0156": {
+   "perubahan": {
+    "options": [
+     "A. menyapu halaman setiap pagi",
+     "B. membuang sampah ke sungai",
+     "C. membiarkan halaman kotor",
+     "D. mengotori halaman dengan sampah"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh D tanpa rujukan diganti pengecoh yang terkait menyapu halaman.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0158": {
+   "perubahan": {
+    "options": [
+     "A. membiarkan keran mengalir terus",
+     "B. menutup keran setelah dipakai",
+     "C. memakai air berlebihan saat mandi",
+     "D. membuang air bersih sia-sia"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh dari kebiasaan lain diganti perilaku salah pada kebiasaan menghemat air.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0159": {
+   "perubahan": {
+    "question": "Perilaku yang salah untuk kebiasaan menjaga lingkungan \"menanam pohon\" adalah ....",
+    "options": [
+     "A. menanam pohon di sekitar rumah",
+     "B. menyiram tanaman secara teratur",
+     "C. merawat bibit pohon sampai tumbuh",
+     "D. menebang pohon tanpa menanam kembali"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem negatif ditulis ulang (\"yang salah\"); pengecoh dari kebiasaan lain diganti perilaku baik yang terkait.",
+   "verifikasi": "Kunci tetap satu-satunya perilaku yang merusak; tiga lain perilaku baik."
+  },
+  "PPN-B4-0160": {
+   "perubahan": {
+    "question": "Kebiasaan menjaga lingkungan: \"menutup tempat sampah\". Perilaku yang salah terhadap tempat sampah adalah ....",
+    "options": [
+     "A. mencuci tempat sampah sampai bersih",
+     "B. memasukkan sampah ke tempat sampah",
+     "C. membiarkannya terbuka",
+     "D. menutup tempat sampah dengan rapat"
+    ],
+    "explanation": "Tempat sampah yang dibiarkan terbuka tidak sesuai dengan kebiasaan menutup tempat sampah."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem negatif ditulis ulang dengan rujukan jelas (tempat sampah); pengecoh relevan.",
+   "verifikasi": "Kunci tetap satu-satunya perilaku yang salah."
+  },
+  "PPN-B4-0162": {
+   "perubahan": {
+    "options": [
+     "A. menyumbat selokan dengan sampah",
+     "B. membiarkan selokan tersumbat",
+     "C. ikut membersihkan selokan dari sampah",
+     "D. membuang bungkus jajan ke selokan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti perilaku salah pada selokan.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0164": {
+   "perubahan": {
+    "options": [
+     "A. menjaga air bersih dari pencemaran",
+     "B. mengotori sumur dengan sampah",
+     "C. membiarkan air sungai tercemar",
+     "D. membuang sampah ke sungai"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti perilaku salah yang terkait air.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0165": {
+   "perubahan": {
+    "options": [
+     "A. membiarkan tutup tempat sampah terbuka",
+     "B. menutup tempat sampah dengan rapat",
+     "C. membiarkan sampah berserakan",
+     "D. membiarkan lalat hinggap di sampah"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti perilaku salah terkait tempat sampah; rujukan \"membiarkannya\" dihilangkan.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0166": {
+   "perubahan": {
+    "question": "Perilaku yang salah untuk kebiasaan menjaga lingkungan \"menghemat air\" adalah ....",
+    "options": [
+     "A. memakai air secukupnya saat mandi",
+     "B. menutup keran setelah dipakai",
+     "C. membiarkan keran mengalir terus",
+     "D. menutup keran saat menggosok gigi"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem negatif ditulis ulang; pengecoh diganti perilaku baik yang relevan.",
+   "verifikasi": "Kunci tetap satu-satunya perilaku boros air."
+  },
+  "PPN-B4-0169": {
+   "perubahan": {
+    "question": "Perilaku yang salah untuk kebiasaan menjaga lingkungan \"merawat tanaman\" adalah ....",
+    "options": [
+     "A. menanam pohon di sekitar rumah",
+     "B. menginjak dan mencabut tanaman",
+     "C. memberi pupuk pada tanaman",
+     "D. menyiram tanaman secara teratur"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem negatif ditulis ulang; pengecoh relevan.",
+   "verifikasi": "Kunci tetap satu-satunya perilaku merusak tanaman."
+  },
+  "PPN-B4-0170": {
+   "perubahan": {
+    "question": "Perilaku yang salah untuk kebiasaan menjaga lingkungan \"membuang sampah pada tempatnya\" adalah ....",
+    "options": [
+     "A. memasukkan sampah ke tempat sampah",
+     "B. memilah sampah organik dan anorganik",
+     "C. membersihkan sampah di sekitar kelas",
+     "D. membuang sampah sembarangan"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem negatif ditulis ulang; pengecoh relevan.",
+   "verifikasi": "Kunci tetap satu-satunya perilaku salah."
+  },
+  "PPN-B4-0171": {
+   "perubahan": {
+    "options": [
+     "A. memasukkan sampah ke tempat sampah",
+     "B. membuang sampah sembarangan",
+     "C. membuang sampah ke sungai",
+     "D. meninggalkan bungkus jajan di meja"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti perilaku salah terkait sampah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0172": {
+   "perubahan": {
+    "options": [
+     "A. membiarkan hewan kelaparan dan kehausan",
+     "B. menelantarkan hewan peliharaan",
+     "C. membiarkan kandang kotor dan bau",
+     "D. memberi makan dan menjaga kebersihan kandang"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti perilaku salah terkait hewan peliharaan.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0173": {
+   "perubahan": {
+    "question": "Perilaku yang salah untuk kebiasaan menjaga lingkungan \"merapikan halaman rumah\" adalah ....",
+    "options": [
+     "A. menyimpan sapu pada tempatnya",
+     "B. menyusun pot bunga dengan rapi",
+     "C. menata barang di halaman",
+     "D. meninggalkan barang berserakan"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem negatif ditulis ulang; pengecoh relevan.",
+   "verifikasi": "Kunci tetap satu-satunya perilaku salah."
+  },
+  "PPN-B4-0174": {
+   "perubahan": {
+    "options": [
+     "A. dibuang begitu saja ke sungai",
+     "B. ditimbun di kebun belakang",
+     "C. dibakar di halaman rumah",
+     "D. dikumpulkan dan didaur ulang"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0175": {
+   "perubahan": {
+    "options": [
+     "A. mematahkan ranting pohon dengan sengaja",
+     "B. menebang pohon tanpa menanam kembali",
+     "C. menanam pohon di sekitar rumah",
+     "D. merusak bibit yang baru ditanam"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti perilaku salah terkait pohon.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0176": {
+   "perubahan": {
+    "options": [
+     "A. menyiram tanaman secara teratur",
+     "B. membiarkan tanaman kekeringan",
+     "C. menginjak dan mencabut tanaman",
+     "D. memotong tangkai bunga sembarangan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti perilaku salah terkait tanaman.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0177": {
+   "perubahan": {
+    "question": "Perilaku yang salah untuk kebiasaan menjaga lingkungan \"menyapu halaman\" adalah ....",
+    "options": [
+     "A. menyapu halaman setiap pagi",
+     "B. memungut daun kering di halaman",
+     "C. membiarkan halaman kotor",
+     "D. mengumpulkan sampah di halaman"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem negatif ditulis ulang; pengecoh relevan.",
+   "verifikasi": "Kunci tetap satu-satunya perilaku salah."
+  },
+  "PPN-B4-0178": {
+   "perubahan": {
+    "options": [
+     "A. menumpuk barang bekas di halaman",
+     "B. meninggalkan barang berserakan",
+     "C. menata barang di halaman",
+     "D. membiarkan mainan tercecer"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti perilaku salah terkait halaman.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0179": {
+   "perubahan": {
+    "question": "Perilaku yang salah untuk kebiasaan menjaga lingkungan \"menjaga sumber air\" adalah ....",
+    "options": [
+     "A. menutup sumur agar tidak kotor",
+     "B. membuang sampah ke sungai",
+     "C. menjaga air bersih dari pencemaran",
+     "D. membersihkan sungai dari sampah"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem negatif ditulis ulang; pengecoh relevan.",
+   "verifikasi": "Kunci tetap satu-satunya perilaku salah."
+  },
+  "PPN-B4-0180": {
+   "perubahan": {
+    "question": "Kebiasaan menjaga lingkungan: \"tidak meludah sembarangan\". Perilaku yang salah adalah ....",
+    "options": [
+     "A. meludah di tempat yang semestinya",
+     "B. meludah sembarangan",
+     "C. menutup mulut saat batuk",
+     "D. membuang tisu ke tempat sampah"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Negatif ganda dihilangkan; pengecoh relevan.",
+   "verifikasi": "Kunci tetap satu-satunya perilaku salah."
+  },
+  "PPN-B4-0181": {
+   "perubahan": {
+    "options": [
+     "A. meludah ke lantai kelas",
+     "B. meludah sembarangan",
+     "C. meludah ke selokan",
+     "D. meludah di tempat yang semestinya"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti perilaku salah terkait meludah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0182": {
+   "perubahan": {
+    "question": "Perilaku yang salah untuk kebiasaan menjaga lingkungan \"membersihkan selokan\" adalah ....",
+    "options": [
+     "A. membiarkan selokan tersumbat",
+     "B. ikut membersihkan selokan dari sampah",
+     "C. mengangkat sampah dari selokan",
+     "D. mengalirkan air agar selokan lancar"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem negatif ditulis ulang; pengecoh relevan.",
+   "verifikasi": "Kunci tetap satu-satunya perilaku salah."
+  },
+  "PPN-B4-0183": {
+   "perubahan": {
+    "question": "Perilaku yang salah untuk kebiasaan menjaga lingkungan \"merawat hewan peliharaan\" adalah ....",
+    "options": [
+     "A. memberi makan hewan tepat waktu",
+     "B. memberi minum hewan setiap hari",
+     "C. membersihkan kandang setiap hari",
+     "D. menelantarkan hewan peliharaan"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem negatif ditulis ulang; pengecoh relevan.",
+   "verifikasi": "Kunci tetap satu-satunya perilaku salah."
+  },
+  "PPN-B4-0193": {
+   "perubahan": {
+    "question": "Benar atau salah: Daun kering sebaiknya dibuang ke sungai",
+    "explanation": "Salah. Daun kering sebaiknya dijadikan kompos."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Pernyataan tak bermakna (\"dijadikan asap\") diganti pernyataan wajar.",
+   "verifikasi": "Membuang daun ke sungai jelas salah; kunci tetap Salah."
+  },
+  "PPN-B4-0198": {
+   "perubahan": {
+    "question": "Benar atau salah: Menjaga lingkungan tidak ada hubungannya dengan iman",
+    "explanation": "Salah. Kebersihan sebagian dari iman."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat kontradiktif diperbaiki menjadi pernyataan salah yang jelas.",
+   "verifikasi": "Penjelasan asli menyatakan kebersihan sebagian dari iman, jadi pernyataan Salah."
+  },
+  "PPN-B4-0203": {
+   "perubahan": {
+    "question": "Benar atau salah: \"Membiarkan tempat sampah terbuka\" menaati kebiasaan menjaga lingkungan \"menutup tempat sampah\".",
+    "explanation": "Salah, membiarkan tempat sampah terbuka tidak menaati."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Rujukan \"membiarkannya\" diberi antecedent jelas.",
+   "verifikasi": "Kunci tetap Salah."
+  },
+  "PPN-B4-0213": {
+   "perubahan": {
+    "question": "Kelompokkan perilaku berikut menjadi menaati atau tidak menaati kebiasaan menjaga lingkungan: 'menata barang di halaman'; 'meninggalkan barang berserakan'; 'membiarkan tempat sampah terbuka'; 'menelantarkan hewan peliharaan'; 'menutup tempat sampah dengan rapat'; 'memberi makan dan menjaga kebersihan kandang'.",
+    "answer": {
+     "menaati": [
+      "menutup tempat sampah dengan rapat",
+      "menata barang di halaman",
+      "memberi makan dan menjaga kebersihan kandang"
+     ],
+     "tidak menaati": [
+      "membiarkan tempat sampah terbuka",
+      "meninggalkan barang berserakan",
+      "menelantarkan hewan peliharaan"
+     ]
+    }
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Rujukan \"membiarkannya terbuka\" diberi antecedent; butir pada kunci disamakan dengan stem.",
+   "verifikasi": "Pengelompokan tidak berubah; hanya redaksi satu butir (makna sama)."
+  },
+  "PPN-B4-0218": {
+   "perubahan": {
+    "options": [
+     "A. peduli dan bekerja sama",
+     "B. pelit kepada tetangga",
+     "C. acuh dan tidak peduli",
+     "D. sombong dan merasa hebat"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0219": {
+   "perubahan": {
+    "options": [
+     "A. mengabaikannya begitu saja",
+     "B. ikut menjaga dan merawatnya",
+     "C. merusaknya dengan sengaja",
+     "D. mengotorinya dengan sampah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0220": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Kegiatan warga pada gambar ini menunjukkan ....",
+    "options": [
+     "A. permusuhan antarwarga",
+     "B. kerja sama dalam keberagaman",
+     "C. kemalasan dalam bekerja",
+     "D. persaingan antarsuku"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem tidak lagi mendeskripsikan gambar; pengecoh disejajarkan.",
+   "verifikasi": "Gambar warga beragam bekerja bersama sesuai kunci; pengecoh bertentangan."
+  },
+  "PPN-B4-0221": {
+   "perubahan": {
+    "question": "Di lingkungan sekitar ada kegiatan \"membersihkan selokan bersama\". Nisa ingin ikut melaksanakannya dengan baik. Yang dilakukan Nisa adalah ....",
+    "options": [
+     "A. mengotori selokan dengan sampah",
+     "B. membawa sapu dan ikut membersihkan",
+     "C. menonton saja dari kejauhan",
+     "D. pulang sebelum kegiatan dimulai"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal (\"Di rumah ... wujud ketaatan\") ditulis ulang; pengecoh diganti.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0222": {
+   "perubahan": {
+    "options": [
+     "A. menonton dari pinggir jalan",
+     "B. bermain gawai di teras rumah",
+     "C. membawa sapu dan ikut membantu",
+     "D. pulang tanpa pamit kepada warga"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0223": {
+   "perubahan": {
+    "question": "Warga mengadakan kegiatan \"kerja bakti membersihkan lingkungan\". Dina ingin ikut melaksanakannya dengan baik. Yang dilakukan Dina adalah ....",
+    "options": [
+     "A. ikut menyapu dan memungut sampah dengan semangat",
+     "B. mengganggu teman yang sedang bekerja",
+     "C. menertawakan teman yang sedang menyapu",
+     "D. bermain sendiri dan tidak mau membantu"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal ditulis ulang; pengecoh disejajarkan.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0225": {
+   "perubahan": {
+    "options": [
+     "A. mengingatkan dengan lembut dan memberi contoh membuang sampah di tempatnya",
+     "B. ikut membuang sampah sembarangan di tempat yang sama",
+     "C. memarahinya dengan kasar dan menyuruhnya pergi dari taman",
+     "D. diam saja dan membiarkan anak itu membuang sampah lagi"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0226": {
+   "perubahan": {
+    "question": "Di lingkungan sekitar ada kegiatan \"membersihkan musala bersama\". Rafi ingin ikut melaksanakannya dengan baik. Yang dilakukan Rafi adalah ....",
+    "options": [
+     "A. langsung pulang tanpa membantu",
+     "B. menertawakan teman yang bekerja",
+     "C. mengacak-acak sajadah yang rapi",
+     "D. ikut mengelap dan merapikan sajadah"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal ditulis ulang; pengecoh relevan dengan musala.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0227": {
+   "perubahan": {
+    "question": "Di lingkungan sekitar ada kegiatan \"menanam bunga bersama tetangga\". Salma ingin ikut melaksanakannya dengan baik. Yang dilakukan Salma adalah ....",
+    "options": [
+     "A. membantu menyiram dan merawat bunga",
+     "B. menginjak bunga yang baru ditanam",
+     "C. duduk dan menonton tetangga bekerja",
+     "D. mencabut bunga yang sedang tumbuh"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal ditulis ulang; pengecoh relevan dengan bunga.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0228": {
+   "perubahan": {
+    "question": "Di lingkungan sekitar ada kegiatan \"mengumpulkan sampah plastik bersama\". Lani ingin ikut melaksanakannya dengan baik. Yang dilakukan Lani adalah ....",
+    "options": [
+     "A. pulang sebelum kegiatan selesai",
+     "B. menyebarkan sampah plastik ke jalan",
+     "C. ikut memilah dan mengumpulkan sampah",
+     "D. duduk dan menonton teman bekerja"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal ditulis ulang; pengecoh relevan.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0229": {
+   "perubahan": {
+    "options": [
+     "A. memberi tahu orang dewasa dan mengajak teman membersihkannya bersama",
+     "B. membiarkan selokan tersumbat dan pergi bermain sendiri",
+     "C. memarahi tetangga karena selokan menjadi tersumbat",
+     "D. menambah sampah ke dalam selokan lalu pergi dari sana"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0230": {
+   "perubahan": {
+    "question": "Di lingkungan sekitar ada kegiatan \"menyiapkan acara di lingkungan\". Hasan ingin ikut melaksanakannya dengan baik. Yang dilakukan Hasan adalah ....",
+    "options": [
+     "A. bermain sendiri saja",
+     "B. membantu menata kursi",
+     "C. mengganggu persiapan acara",
+     "D. menertawakan temannya"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal ditulis ulang; pengecoh disejajarkan.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0231": {
+   "perubahan": {
+    "options": [
+     "A. melaksanakan tugasnya dengan penuh tanggung jawab",
+     "B. memilih tugas termudah dan menyuruh teman",
+     "C. pergi bermain saat teman sedang bekerja",
+     "D. mengganggu teman yang sedang bekerja"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0232": {
+   "perubahan": {
+    "question": "Di lingkungan sekitar ada kegiatan \"menolong tetangga yang sakit\". Fikri ingin ikut melaksanakannya dengan baik. Yang dilakukan Fikri adalah ....",
+    "options": [
+     "A. mengantar makanan dan mendoakan",
+     "B. pergi bermain tanpa menengok",
+     "C. berpura-pura tidak tahu",
+     "D. menertawakan tetangga yang sakit"
+    ]
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Templat janggal ditulis ulang; pengecoh relevan.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0233": {
+   "perubahan": {
+    "options": [
+     "A. membantu membawa bibit dan menyiram",
+     "B. menolak ikut dan pulang ke rumah",
+     "C. mencabut bibit yang sudah ditanam",
+     "D. bermain di tempat lain sendirian"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjang/strukturnya dengan kunci; teks kunci tidak diubah.",
+   "verifikasi": "Kunci tetap benar; pengecoh tetap jelas salah dan tidak ada yang menjadi benar."
+  },
+  "PPN-B4-0271": {
+   "perubahan": {
+    "question": "Lengkapi: Dalam kegiatan \"menolong tetangga yang sakit\", Fikri ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "\"Agar menaati kegiatan\" tidak tepat; diganti \"Dalam kegiatan\".",
+   "verifikasi": "Kunci tidak berubah; hanya templat stem."
+  },
+  "PPN-B4-0272": {
+   "perubahan": {
+    "question": "Lengkapi: Dalam kegiatan \"menanam bunga bersama tetangga\", Salma ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "\"Agar menaati kegiatan\" tidak tepat; diganti \"Dalam kegiatan\".",
+   "verifikasi": "Kunci tidak berubah; hanya templat stem."
+  },
+  "PPN-B4-0273": {
+   "perubahan": {
+    "question": "Lengkapi: Dalam kegiatan \"membersihkan selokan bersama\", Nisa ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "\"Agar menaati kegiatan\" tidak tepat; diganti \"Dalam kegiatan\".",
+   "verifikasi": "Kunci tidak berubah; hanya templat stem."
+  },
+  "PPN-B4-0275": {
+   "perubahan": {
+    "question": "Lengkapi: Dalam kegiatan \"mengumpulkan sampah plastik bersama\", Lani ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "\"Agar menaati kegiatan\" tidak tepat; diganti \"Dalam kegiatan\".",
+   "verifikasi": "Kunci tidak berubah; hanya templat stem."
+  },
+  "PPN-B4-0276": {
+   "perubahan": {
+    "question": "Lengkapi: Dalam kegiatan \"kerja bakti membersihkan lingkungan\", Dina ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "\"Agar menaati kegiatan\" tidak tepat; diganti \"Dalam kegiatan\".",
+   "verifikasi": "Kunci tidak berubah; hanya templat stem."
+  },
+  "PPN-B4-0277": {
+   "perubahan": {
+    "question": "Lengkapi: Dalam kegiatan \"menyiapkan acara di lingkungan\", Hasan ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "\"Agar menaati kegiatan\" tidak tepat; diganti \"Dalam kegiatan\".",
+   "verifikasi": "Kunci tidak berubah; hanya templat stem."
+  },
+  "PPN-B4-0278": {
+   "perubahan": {
+    "question": "Lengkapi: Dalam kegiatan \"membersihkan musala bersama\", Rafi ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "\"Agar menaati kegiatan\" tidak tepat; diganti \"Dalam kegiatan\".",
+   "verifikasi": "Kunci tidak berubah; hanya templat stem."
+  }
+ },
+ "tidak_direvisi": {
+  "PPN-B4-0274": "Stem sudah tidak memuat templat \"Agar menaati kegiatan\"; temuan tidak berlaku. Bentuk isian terbuka butuh keputusan ahli.",
+  "PPN-B2-0206": "Isian lengkapi terbuka berkunci frasa persis; perbaikan memerlukan perubahan tipe/penyusunan ulang (rubrik atau pilihan ganda), keputusan ahli.",
+  "PPN-B2-0207": "Isian lengkapi terbuka berkunci frasa persis; perbaikan memerlukan perubahan tipe/penyusunan ulang (rubrik atau pilihan ganda), keputusan ahli.",
+  "PPN-B2-0208": "Isian lengkapi terbuka berkunci frasa persis; perbaikan memerlukan perubahan tipe/penyusunan ulang (rubrik atau pilihan ganda), keputusan ahli.",
+  "PPN-B2-0209": "Isian lengkapi terbuka berkunci frasa persis; perbaikan memerlukan perubahan tipe/penyusunan ulang (rubrik atau pilihan ganda), keputusan ahli.",
+  "PPN-B2-0210": "Isian lengkapi terbuka berkunci frasa persis; perbaikan memerlukan perubahan tipe/penyusunan ulang (rubrik atau pilihan ganda), keputusan ahli.",
+  "PPN-B2-0211": "Isian lengkapi terbuka berkunci frasa persis; perbaikan memerlukan perubahan tipe/penyusunan ulang (rubrik atau pilihan ganda), keputusan ahli.",
+  "PPN-B3-0049": "Isian bunyi sila menuntut kutipan persis; solusi (pilihan ganda/rubrik) mengubah tipe soal, keputusan ahli.",
+  "PPN-B3-0053": "Isian bunyi sila menuntut kutipan persis; solusi (pilihan ganda/rubrik) mengubah tipe soal, keputusan ahli.",
+  "PPN-B3-0054": "Isian bunyi sila menuntut kutipan persis; solusi (pilihan ganda/rubrik) mengubah tipe soal, keputusan ahli.",
+  "PPN-B3-0029": "Kunci kutipan baku sila ke-4 jauh lebih panjang dari sila lain; pengecoh tidak dapat disejajarkan tanpa mengubah kutipan baku atau membuat pengecoh tidak wajar.",
+  "PPN-B3-0037": "Perbaikan pola kunci (semua Salah) menuntut mengubah kunci Benar/Salah atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B3-0038": "Perbaikan pola kunci (semua Salah) menuntut mengubah kunci Benar/Salah atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B3-0040": "Perbaikan pola kunci (semua Salah) menuntut mengubah kunci Benar/Salah atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B3-0041": "Perbaikan pola kunci (semua Salah) menuntut mengubah kunci Benar/Salah atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B3-0042": "Perbaikan pola kunci (semua Salah) menuntut mengubah kunci Benar/Salah atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B3-0043": "Perbaikan pola kunci (semua Salah) menuntut mengubah kunci Benar/Salah atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B3-0044": "Perbaikan pola kunci (semua Salah) menuntut mengubah kunci Benar/Salah atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B3-0045": "Perbaikan pola kunci (semua Salah) menuntut mengubah kunci Benar/Salah atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B3-0046": "Perbaikan pola kunci (semua Salah) menuntut mengubah kunci Benar/Salah atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B3-0047": "Perbaikan pola kunci (semua Salah) menuntut mengubah kunci Benar/Salah atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0235": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0236": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0237": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0238": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0239": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0240": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0241": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0243": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0244": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0245": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0246": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0247": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0248": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0249": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS.",
+  "PPN-B4-0252": "Perbaikan pola kunci (Benar berurutan) menuntut mengubah kunci atau menambah butir; tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS."
+ }
+}

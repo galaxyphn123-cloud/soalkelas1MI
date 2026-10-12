@@ -1,0 +1,1194 @@
+{
+ "revisi": {
+  "PJK-TB-0344": {
+   "perubahan": {
+    "question": "Guru ingin semua murid tidak bergerak sama sekali. Aba-aba yang diucapkan guru adalah ....",
+    "options": [
+     "A. \"lambat\"",
+     "B. \"mulai\"",
+     "C. \"berhenti\"",
+     "D. \"cepat\""
+    ],
+    "explanation": "Aba-aba \"berhenti\" berarti murid diam di tempat dan tidak bergerak."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem tidak lagi mengulang kata kunci; aba-aba dicari dari maksud guru.",
+   "verifikasi": "Opsi tidak berubah; hanya \"berhenti\" yang menyuruh murid tidak bergerak sama sekali."
+  },
+  "PJK-TB-0387": {
+   "perubahan": {
+    "question": "Isilah: Guru ingin semua murid tidak bergerak sama sekali. Aba-aba yang diucapkan guru adalah ....",
+    "explanation": "Aba-aba \"berhenti\" berarti murid diam di tempat dan tidak bergerak."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem tidak lagi mengulang kata kunci.",
+   "verifikasi": "Kunci \"berhenti\" tetap; maksud soal tidak berubah."
+  },
+  "PJK-TB-0388": {
+   "perubahan": {
+    "question": "Isilah: Guru ingin murid menghadap ke arah yang berlawanan. Aba-aba yang diucapkan guru adalah ....",
+    "explanation": "Aba-aba \"balik\" berarti murid berbalik arah."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem tidak lagi mengulang kata kunci.",
+   "verifikasi": "Kunci \"balik\" tetap; maksud soal tidak berubah."
+  },
+  "PJK-TB-0348": {
+   "perubahan": {
+    "options": [
+     "A. segera berhenti dan diam",
+     "B. berjalan menjauh dari guru",
+     "C. terus berlari sampai garis akhir",
+     "D. melanjutkan gerakan seperti biasa"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks kunci A tetap; pengecoh bertentangan dengan perintah berhenti."
+  },
+  "PJK-TB-0352": {
+   "perubahan": {
+    "options": [
+     "A. ketinggian lompatan",
+     "B. kontrol dan ritme gerak",
+     "C. kekuatan pukulan",
+     "D. kecepatan berlari saja"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-TB-0358": {
+   "perubahan": {
+    "options": [
+     "A. kecepatan",
+     "B. kontrol gerakan",
+     "C. kekuatan lemparan",
+     "D. ketinggian lompatan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-TB-0359": {
+   "perubahan": {
+    "options": [
+     "A. berhenti dan diam tanpa bergerak",
+     "B. berputar pelan di tempat",
+     "C. terus bergerak mengikuti irama",
+     "D. berjalan ke tengah lapangan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-TB-0395": {
+   "perubahan": {
+    "question": "Berdirilah dengan satu kaki selama lima hitungan! Guru mengamati: (1) satu kaki terangkat dari lantai, (2) badan tegak dan tidak berpindah tempat, (3) kaki tidak turun sebelum hitungan kelima.",
+    "explanation": "Guru mengamati satu kaki terangkat, badan tegak tidak berpindah tempat, dan posisi bertahan sampai lima hitungan. Murid yang memenuhi ketiganya mendapat skor tertinggi."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-TB-0397": {
+   "perubahan": {
+    "question": "Putar badanmu perlahan ke kanan lalu ke kiri dengan kedua lengan terbuka ke samping! Guru mengamati: (1) gerakan perlahan, (2) kedua kaki tetap di tempat, (3) badan tidak goyah.",
+    "explanation": "Guru mengamati putaran badan ke kanan lalu ke kiri dengan perlahan, kaki tetap di tempat, dan badan tidak goyah."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kalimat diperbaiki (objek gerak jelas) dan indikator teramati ditambahkan; rubrik inti tetap.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-TB-0398": {
+   "perubahan": {
+    "question": "Berdirilah tegak, rentangkan kedua lengan ke atas, lalu tahan tiga hitungan! Guru mengamati: (1) kedua lengan lurus ke atas, (2) badan tidak goyah, (3) lengan turun perlahan setelah tiga hitungan.",
+    "explanation": "Guru mengamati lengan terangkat lurus, badan tetap seimbang selama tiga hitungan, dan lengan diturunkan perlahan."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kalimat diperbaiki (objek gerak jelas) dan indikator teramati ditambahkan; rubrik inti tetap.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-TB-0399": {
+   "perubahan": {
+    "question": "Berjalan lambat lalu cepat sesuai aba-aba guru! Guru mengamati: (1) berjalan lambat saat guru berkata \"lambat\", (2) berjalan cepat saat guru berkata \"cepat\", (3) tidak menabrak teman saat berubah kecepatan.",
+    "explanation": "Guru mengamati perubahan kecepatan sesuai aba-aba \"lambat\" dan \"cepat\" serta murid tidak menabrak teman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-TB-0400": {
+   "perubahan": {
+    "question": "Letakkan kedua telapak tangan di dinding, lalu dorong dinding perlahan dengan lengan lurus! Guru mengamati: (1) kedua tangan menempel di dinding, (2) lengan lurus saat mendorong, (3) badan tetap seimbang.",
+    "explanation": "Guru mengamati tangan menempel di dinding, lengan lurus saat mendorong, dan badan tetap seimbang."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Objek dorongan didefinisikan (dinding) dan indikator teramati ditambahkan; rubrik inti tetap.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-TB-0406": {
+   "perubahan": {
+    "options": [
+     "A. semakin tepat",
+     "B. semakin berbeda-beda",
+     "C. semakin sulit diulang",
+     "D. semakin lambat"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-TB-0410": {
+   "perubahan": {
+    "options": [
+     "A. dilempar sekuat tenaga tanpa mengira jarak",
+     "B. dilempar tanpa melihat sasaran sama sekali",
+     "C. dihentikan lalu tidak dicoba lagi",
+     "D. dikurangi atau ditambah tenaganya dengan tepat"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang agar sejajar dengan kunci.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-TB-0415": {
+   "perubahan": {
+    "question": "Agar bola sampai ke teman dengan tepat, kita perlu ....",
+    "options": [
+     "A. mengarahkan operan ke teman",
+     "B. melihat ember dan mengatur tenaga",
+     "C. mengarahkan kaki ke gawang",
+     "D. melihat titik sasaran di dinding"
+    ],
+    "explanation": "Agar bola sampai ke teman, operan diarahkan ke teman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem tidak lagi mengulang frasa kunci; opsi tidak berubah.",
+   "verifikasi": "Opsi tidak berubah; B-D adalah teknik untuk sasaran lain (ember, gawang, dinding) sehingga salah untuk mengoper ke teman."
+  },
+  "PJK-TB-0440": {
+   "perubahan": {
+    "question": "Isilah: Agar bola sampai ke teman dengan tepat, kita perlu ....",
+    "explanation": "Agar bola sampai ke teman, operan diarahkan ke teman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem tidak lagi mengulang frasa kunci.",
+   "verifikasi": "Kunci tetap."
+  },
+  "PJK-TB-0416": {
+   "perubahan": {
+    "options": [
+     "A. kecepatan berlari ke sasaran",
+     "B. ketepatan arah dan tenaga",
+     "C. bola berukuran paling besar",
+     "D. tenaga sangat besar"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-TB-0417": {
+   "perubahan": {
+    "options": [
+     "A. berlari secepat mungkin ke gawang",
+     "B. bola yang selalu dipantulkan dulu",
+     "C. tenaga yang besar saja",
+     "D. ketepatan arah tendangan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-TB-0421": {
+   "perubahan": {
+    "question": "Dari 10 lemparan ke ember, 5 lemparan masuk. Lemparan yang tidak masuk ada ....",
+    "options": [
+     "A. 0",
+     "B. 15",
+     "C. 5",
+     "D. 10"
+    ],
+    "explanation": "10 - 5 = 5."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem dijelaskan (yang dihitung lemparan tidak masuk); kunci tidak lagi sekadar mengulang angka stem. Nilai kunci tetap 5.",
+   "verifikasi": "10 - 5 = 5; opsi 0, 15, 10 salah."
+  },
+  "PJK-TB-0450": {
+   "perubahan": {
+    "question": "Isilah: Dari 10 lemparan ke ember, 5 lemparan masuk. Lemparan yang tidak masuk ada ....",
+    "explanation": "10 - 5 = 5."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Stem dijelaskan; nilai kunci tetap 5.",
+   "verifikasi": "10 - 5 = 5."
+  },
+  "PJK-TB-0423": {
+   "perubahan": {
+    "options": [
+     "A. mengganti gerakan dengan permainan lain",
+     "B. menilai apakah gerakan sudah tepat",
+     "C. menghafal nama gerakan saja",
+     "D. meniru gerakan teman tanpa menilai"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-TB-0426": {
+   "perubahan": {
+    "options": [
+     "A. kekuatan otot kaki dan lengan",
+     "B. kecepatan berlari dan melompat",
+     "C. ketepatan lemparan dan evaluasi",
+     "D. keseimbangan berdiri satu kaki"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-TB-0427": {
+   "perubahan": {
+    "options": [
+     "A. melempar lebih cepat tanpa memperhatikan arah",
+     "B. menambah jarak lemparan sejauh mungkin",
+     "C. mengganti ember dengan yang lebih besar",
+     "D. berlatih lagi dan memperbaiki arah lemparan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-TB-0428": {
+   "perubahan": {
+    "options": [
+     "A. mengganti ember dengan yang lebih besar",
+     "B. melempar lebih cepat tanpa memperhatikan arah",
+     "C. menjauh dari ember supaya lebih sulit",
+     "D. mencoba lagi dan memperbaiki arah lemparan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-TB-0429": {
+   "perubahan": {
+    "options": [
+     "A. melempar lebih cepat tanpa memperhatikan arah",
+     "B. menambah jarak lemparan sejauh mungkin",
+     "C. berlatih lagi dan memperbaiki arah lemparan",
+     "D. mengganti ember dengan yang lebih besar"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-TB-0462": {
+   "perubahan": {
+    "question": "Pantulkan bola ke lantai sebanyak lima kali ke dalam lingkaran kapur di depanmu, lalu sebutkan berapa kali bola masuk lingkaran! Guru mengamati: (1) bola dipantulkan dengan satu atau dua tangan, (2) bola jatuh di dalam lingkaran, (3) jumlah yang masuk disebutkan dengan benar.",
+    "explanation": "Guru mengamati lima pantulan ke lingkaran kapur, jumlah yang masuk lingkaran, dan ketepatan murid menyebutkan hasilnya."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Sasaran (lingkaran kapur) dan indikator teramati didefinisikan; rubrik inti tetap.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-TB-0463": {
+   "perubahan": {
+    "question": "Tangkaplah bola yang dilempar pelan oleh temanmu dari jarak dua langkah sebanyak lima kali, lalu sebutkan berapa kali bola tertangkap! Guru mengamati: (1) kedua tangan siap di depan dada, (2) bola ditangkap dan tidak jatuh, (3) jumlah tangkapan disebutkan dengan benar.",
+    "explanation": "Guru mengamati kesiapan kedua tangan, jumlah bola yang tertangkap dari lima lemparan, dan ketepatan murid menyebutkan hasilnya."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Sasaran dan indikator teramati didefinisikan; rubrik inti tetap.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-TB-0464": {
+   "perubahan": {
+    "question": "Giring bola dengan kaki dari garis awal ke kerucut yang berjarak lima langkah, lalu sebutkan apakah bola berhenti di dekat kerucut! Guru mengamati: (1) bola disentuh pelan dengan bagian dalam kaki, (2) bola tetap dekat kaki, (3) bola berhenti di dekat kerucut.",
+    "explanation": "Guru mengamati sentuhan pelan pada bola, bola tetap dekat kaki, dan bola berhenti di dekat kerucut."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Sasaran (kerucut) dan indikator teramati didefinisikan; rubrik inti tetap.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-TB-0465": {
+   "perubahan": {
+    "question": "Lempar bola ke dalam ember sebanyak lima kali lalu catat berapa yang masuk! Guru mengamati: (1) melempar dari garis yang sudah ditentukan, (2) melempar tepat lima kali, (3) jumlah bola yang masuk dicatat dengan benar.",
+    "explanation": "Guru mengamati lima kali lemparan dari garis yang ditentukan dan ketepatan pencatatan jumlah bola yang masuk ember."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-TB-0467": {
+   "perubahan": {
+    "question": "Pantulkan bola ke lantai lalu tangkap, ulangi sampai lima kali tanpa bola jatuh! Guru mengamati: (1) bola dipantulkan ke lantai di depan badan, (2) bola ditangkap dengan dua tangan, (3) jumlah pantulan berturut-turut tanpa gagal.",
+    "explanation": "Guru mengamati pantulan di depan badan, tangkapan dengan dua tangan, dan jumlah pantulan berturut-turut tanpa bola jatuh (sampai lima kali)."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0009": {
+   "perubahan": {
+    "options": [
+     "A. selalu ingin menang",
+     "B. mudah marah saat tim kalah",
+     "C. memakai cara apa saja agar menang",
+     "D. jujur dan menerima kalah menang"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0014": {
+   "perubahan": {
+    "options": [
+     "A. menjauhi teman itu",
+     "B. diam dan cemberut",
+     "C. memaafkan",
+     "D. membalas"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0021": {
+   "perubahan": {
+    "options": [
+     "A. cepat selesai",
+     "B. dimenangkan tim besar",
+     "C. adil dan aman",
+     "D. memakai banyak alat"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0022": {
+   "perubahan": {
+    "options": [
+     "A. tidak menyapa lawan sama sekali",
+     "B. meninggalkan lapangan tanpa pamit",
+     "C. bersalaman dengan lawan",
+     "D. mengabaikan keputusan wasit"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0024": {
+   "perubahan": {
+    "options": [
+     "A. membagikan hadiah kepada semua murid",
+     "B. memilih pemenang lebih dulu",
+     "C. menjelaskan aturan permainan",
+     "D. meminta murid menggambar"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0027": {
+   "perubahan": {
+    "options": [
+     "A. sportif dan fair play",
+     "B. marah karena tim kalah",
+     "C. sombong karena menang",
+     "D. curang saat bermain"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang agar sejajar dengan kunci.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0064": {
+   "perubahan": {
+    "question": "Setelah menang dalam permainan kecil, peragakan sikap rendah hati! Guru mengamati: (1) bersalaman dengan lawan, (2) mengucapkan \"terima kasih sudah bermain\", (3) tidak bersorak mengejek lawan.",
+    "explanation": "Guru mengamati murid bersalaman dengan lawan, mengucapkan terima kasih, dan tidak bersorak mengejek."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0201": {
+   "perubahan": {
+    "question": "Setelah timmu menang, tunjukkan cara menerima kemenangan dengan rendah hati sampai permainan selesai! Guru mengamati: (1) bersalaman dengan lawan, (2) mengucapkan terima kasih kepada lawan, (3) tidak bersorak sambil mengejek.",
+    "explanation": "Guru mengamati murid bersalaman dengan lawan, mengucapkan terima kasih, dan tidak bersorak mengejek."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0065": {
+   "perubahan": {
+    "question": "Peragakan cara mengajak semua teman bermain! Guru mengamati: (1) menyapa teman yang belum ikut dengan menyebut namanya, (2) mengucapkan ajakan, misalnya \"Ayo main bersama\", (3) memberi tempat dalam permainan.",
+    "explanation": "Guru mengamati murid menyebut nama teman, mengucapkan ajakan, dan memberi tempat dalam permainan."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0066": {
+   "perubahan": {
+    "question": "Setelah permainan kecil selesai, peragakan cara menerima kemenangan dan kekalahan dengan sportif! Guru mengamati: (1) bersalaman dengan lawan, (2) mengucapkan selamat atau terima kasih, (3) tidak membanting alat atau mengejek.",
+    "explanation": "Guru mengamati murid bersalaman dengan lawan, mengucapkan selamat atau terima kasih, dan tidak membanting alat atau mengejek."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0067": {
+   "perubahan": {
+    "question": "Saat bermain, bola menyentuh tubuhmu tanpa dilihat teman. Peragakan sikap jujur! Guru mengamati: (1) mengatakan sendiri bahwa bola menyentuh tubuh, (2) menyerahkan bola kepada lawan sesuai aturan, (3) tidak berpura-pura tidak tahu.",
+    "explanation": "Guru mengamati murid mengakui kejadian dengan kata-kata sendiri, menyerahkan bola sesuai aturan, dan tidak berpura-pura tidak tahu."
+   },
+   "jenis": [
+    "BAHASA",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengulangan frasa diperbaiki dan perilaku teramati ditentukan; rubrik inti tetap.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0068": {
+   "perubahan": {
+    "options": [
+     "A. tanpa pembagian giliran",
+     "B. berkelompok secara bergantian",
+     "C. sendirian tanpa kelompok",
+     "D. sambil duduk di tempat"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang agar sejajar dengan kunci.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0073": {
+   "perubahan": {
+    "options": [
+     "A. lebih menyenangkan dan lancar",
+     "B. lebih lama dan melelahkan",
+     "C. lebih sulit dan lambat",
+     "D. lebih ramai dan berisik"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0079": {
+   "perubahan": {
+    "options": [
+     "A. membantu",
+     "B. tetap bermain tanpa menoleh",
+     "C. menyuruhnya pindah ke tim lain",
+     "D. melanjutkan giliran sendiri"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0081": {
+   "perubahan": {
+    "options": [
+     "A. berlari",
+     "B. berpindah tempat",
+     "C. berebut posisi",
+     "D. berkomunikasi"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0082": {
+   "perubahan": {
+    "options": [
+     "A. hak mengubah aturan",
+     "B. bola masing-masing",
+     "C. kekuasaan penuh",
+     "D. peran"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0095": {
+   "perubahan": {
+    "question": "Tim Bima akan memulai permainan beregu. Agar timnya punya strategi yang baik, Bima ....",
+    "options": [
+     "A. meninggalkan teman yang terjatuh",
+     "B. menahan bola sendiri terus",
+     "C. bermain tanpa rencana",
+     "D. berunding sebelum bermain"
+    ],
+    "explanation": "Menyusun strategi dilakukan dengan berunding bersama teman sebelum bermain."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat kaku ditulis ulang menjadi situasi wajar; opsi tidak berubah.",
+   "verifikasi": "Opsi dan kunci tidak berubah; hanya berunding yang menyusun strategi."
+  },
+  "PJK-BG-0096": {
+   "perubahan": {
+    "question": "Dalam permainan beregu, seorang teman satu tim Fikri tertinggal jauh. Fikri ....",
+    "options": [
+     "A. menyemangati teman yang tertinggal",
+     "B. terus berlari sendiri meninggalkannya",
+     "C. berhenti bermain dan duduk",
+     "D. mengejek teman yang tertinggal"
+    ],
+    "explanation": "Teman yang tertinggal diberi semangat agar tim tetap kompak."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat kaku ditulis ulang menjadi situasi wajar; pengecoh dibuat relevan dengan situasi.",
+   "verifikasi": "Teks kunci tetap; pengecoh bertentangan dengan memberi semangat."
+  },
+  "PJK-BG-0097": {
+   "perubahan": {
+    "question": "Sebelum bermain, guru membagi peran tiap anggota tim Salma. Salma ....",
+    "options": [
+     "A. menerima peran yang dibagikan",
+     "B. menukar peran tanpa bilang teman",
+     "C. memilih peran semaunya sendiri",
+     "D. menahan bola sendiri terus"
+    ],
+    "explanation": "Peran yang dibagikan diterima dan dijalankan agar tim bekerja sama."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat kaku ditulis ulang menjadi situasi wajar; pengecoh dibuat relevan.",
+   "verifikasi": "Teks kunci tetap; pengecoh bukan cara membagi peran dengan baik."
+  },
+  "PJK-BG-0099": {
+   "perubahan": {
+    "question": "Dalam permainan beregu, Rafi memegang bola. Satu temannya tidak dijaga lawan. Rafi ....",
+    "options": [
+     "A. mengoper bola kepada teman yang bebas",
+     "B. menahan bola sendiri terus",
+     "C. menendang bola jauh keluar lapangan",
+     "D. berkumpul di satu tempat"
+    ],
+    "explanation": "Bola dioper kepada teman yang tidak dijaga lawan agar tim bekerja sama."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat kaku ditulis ulang menjadi situasi wajar; pengecoh dibuat relevan.",
+   "verifikasi": "Teks kunci tetap; pengecoh tidak menunjukkan kerja sama mengoper."
+  },
+  "PJK-BG-0109": {
+   "perubahan": {
+    "question": "Benar atau salah: Agar timnya punya strategi yang baik, Bima bermain tanpa rencana.",
+    "explanation": "Salah. Yang benar: berunding sebelum bermain."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat templat kaku ditulis ulang menjadi pernyataan wajar; kunci Salah tetap.",
+   "verifikasi": "Bermain tanpa rencana bukan strategi, jadi kunci Salah tetap benar."
+  },
+  "PJK-BG-0098": {
+   "perubahan": {
+    "options": [
+     "A. menyimpan tongkat untuk dirinya sendiri",
+     "B. menyerahkan tongkat dengan tepat dan hati-hati",
+     "C. melempar tongkat dari jauh ke arah teman",
+     "D. berlari terus melewati temannya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh diperpanjang agar sejajar dengan kunci.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0128": {
+   "perubahan": {
+    "question": "Bersama kelompok kecil, mainkan estafet: pelari berlari ke kerucut, kembali, lalu menyerahkan tongkat kepada teman berikutnya! Guru mengamati: (1) tongkat diserahkan ke tangan teman, (2) teman berikutnya berlari setelah menerima tongkat, (3) tongkat tidak dijatuhkan.",
+    "explanation": "Guru mengamati tongkat diserahkan ke tangan teman, pelari berikutnya mulai setelah menerima tongkat, dan tongkat tidak jatuh."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0130": {
+   "perubahan": {
+    "question": "Mainkan estafet sederhana bersama timmu! Guru mengamati: (1) menunggu giliran di belakang garis, (2) menyerahkan tongkat ke tangan teman, (3) mengucapkan kata semangat kepada teman, misalnya \"Ayo, kamu bisa!\".",
+    "explanation": "Guru mengamati murid menunggu giliran, menyerahkan tongkat ke tangan teman, dan mengucapkan kata semangat."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0131": {
+   "perubahan": {
+    "question": "Bersama seorang teman, saling mengoper bola tiga kali bergantian dari jarak dua langkah! Guru mengamati: (1) menyebut nama teman sebelum mengoper, (2) bola diarahkan ke teman, (3) teman menerima bola tanpa jatuh.",
+    "explanation": "Guru mengamati murid menyebut nama teman, mengarahkan bola ke teman, dan teman menerima bola tanpa jatuh."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0132": {
+   "perubahan": {
+    "question": "Seorang temanmu menjatuhkan bolanya. Peragakan cara saling membantu! Guru mengamati: (1) mendekati teman, (2) mengambil bola yang jatuh, (3) mengembalikan bola sambil berkata \"Ini bolamu\".",
+    "explanation": "Guru mengamati murid mendekati teman, mengambil bola, dan mengembalikannya sambil berbicara."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0133": {
+   "perubahan": {
+    "question": "Temanmu belum berhasil menangkap bola. Peragakan cara memberi semangat! Guru mengamati: (1) menghadap teman, (2) mengucapkan kalimat semangat, misalnya \"Ayo, coba lagi!\", (3) tidak mengejek.",
+    "explanation": "Guru mengamati murid menghadap teman, mengucapkan kalimat semangat, dan tidak mengejek."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0134": {
+   "perubahan": {
+    "question": "Bersama seorang teman, peragakan kerja sama dalam berkomunikasi saat bermain! Guru mengamati: (1) menyebut nama teman sebelum mengoper, (2) menyampaikan rencana singkat, misalnya \"Aku jaga depan, kamu jaga belakang\", (3) mendengarkan jawaban teman.",
+    "explanation": "Guru mengamati murid menyebut nama teman, menyampaikan rencana singkat, dan mendengarkan jawaban teman."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0135": {
+   "perubahan": {
+    "options": [
+     "A. dengan nada memerintah",
+     "B. sopan dan lembut",
+     "C. dengan menunjuk-nunjuk",
+     "D. dengan menyindir"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0136": {
+   "perubahan": {
+    "options": [
+     "A. membiarkan bola di lapangan",
+     "B. meninggalkan alat berserakan",
+     "C. mengembalikan bola ke tempatnya",
+     "D. menyimpan alat di tas sendiri"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0137": {
+   "perubahan": {
+    "options": [
+     "A. cepat selesai tanpa pemenang",
+     "B. ramai dan penuh teriakan",
+     "C. lama dan melelahkan",
+     "D. tertib dan menyenangkan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0138": {
+   "perubahan": {
+    "options": [
+     "A. melewati garis batas permainan",
+     "B. bermain sebelum guru menjelaskan",
+     "C. mengubah aturan seenaknya",
+     "D. mengikuti aturan permainan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0142": {
+   "perubahan": {
+    "options": [
+     "A. menyerobot giliran teman",
+     "B. berpindah-pindah barisan",
+     "C. mendorong teman di depannya",
+     "D. menunggu giliran dengan sabar"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0150": {
+   "perubahan": {
+    "options": [
+     "A. memilih teman yang sama saja",
+     "B. mengajak teman yang pandai saja",
+     "C. menunggu teman meminta sendiri",
+     "D. mengajak teman yang berbeda bermain"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0153": {
+   "perubahan": {
+    "question": "Aturan permainan yang sudah disepakati bersama sebaiknya ....",
+    "options": [
+     "A. dilupakan",
+     "B. tidak diubah seenaknya",
+     "C. dilanggar",
+     "D. boleh diubah sendiri"
+    ]
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem yang menggantung dilengkapi (aturan permainan, disepakati bersama, sebaiknya); opsi tidak berubah.",
+   "verifikasi": "Kunci tetap; A, C, D bertentangan dengan menghargai kesepakatan."
+  },
+  "PJK-BG-0181": {
+   "perubahan": {
+    "question": "Isilah titik-titik berikut: Aturan permainan yang sudah disepakati bersama sebaiknya ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Stem yang menggantung dilengkapi; kunci tetap.",
+   "verifikasi": "Kunci tetap."
+  },
+  "PJK-BG-0158": {
+   "perubahan": {
+    "options": [
+     "A. tidak menyombongkan diri",
+     "B. meminta hadiah lebih banyak",
+     "C. mengulang-ulang menyebut skor",
+     "D. memamerkan skor kepada lawan"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0161": {
+   "perubahan": {
+    "question": "Nisa menang dalam permainan. Walaupun guru sedang tidak melihat, Nisa ....",
+    "options": [
+     "A. mengejek lawan",
+     "B. tidak menyombongkan diri",
+     "C. meminta lawan memberi hadiah",
+     "D. bersorak-sorak di depan lawan"
+    ]
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat kaku ditulis ulang menjadi situasi wajar; pengecoh tidak relevan diganti.",
+   "verifikasi": "Teks kunci tetap; pengecoh adalah sikap sombong atau tidak relevan."
+  },
+  "PJK-BG-0162": {
+   "perubahan": {
+    "question": "Dina bermain bersama teman dan guru sedang tidak melihat. Dina ....",
+    "options": [
+     "A. memulai permainan sebelum aba-aba",
+     "B. mengikuti aturan permainan",
+     "C. mendorong teman",
+     "D. mengubah aturan seenaknya"
+    ]
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat kaku ditulis ulang; pengecoh tidak relevan diganti.",
+   "verifikasi": "Teks kunci tetap; pengecoh melanggar aturan."
+  },
+  "PJK-BG-0163": {
+   "perubahan": {
+    "options": [
+     "A. tetap bermain sesuai aturan",
+     "B. bermain curang agar menang",
+     "C. menyerah dan berhenti bermain",
+     "D. mengubah aturan agar menguntungkan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  },
+  "PJK-BG-0164": {
+   "perubahan": {
+    "question": "Tim Fikri kalah dalam pertandingan. Fikri ....",
+    "options": [
+     "A. marah dan membanting bola",
+     "B. memberi selamat kepada pemenang",
+     "C. mengejek lawan yang menang",
+     "D. pergi tanpa bicara kepada lawan"
+    ]
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat kaku ditulis ulang; pengecoh tidak relevan diganti.",
+   "verifikasi": "Teks kunci tetap; pengecoh bukan sikap menerima kekalahan."
+  },
+  "PJK-BG-0165": {
+   "perubahan": {
+    "question": "Wasit memutuskan bola Hasan keluar garis. Hasan ....",
+    "options": [
+     "A. menerima keputusan wasit",
+     "B. membantah keputusan wasit",
+     "C. meminta mengulang sampai menang",
+     "D. pura-pura tidak mendengar wasit"
+    ]
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat kaku ditulis ulang; pengecoh tidak relevan diganti.",
+   "verifikasi": "Teks kunci tetap; pengecoh tidak menghormati keputusan wasit."
+  },
+  "PJK-BG-0166": {
+   "perubahan": {
+    "question": "Permainan sudah selesai dan bola masih berserakan. Zaki ....",
+    "options": [
+     "A. membawa bola pulang ke rumah",
+     "B. meninggalkan alat berserakan",
+     "C. mengembalikan bola ke tempatnya",
+     "D. menyuruh teman lain membereskan"
+    ]
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Templat kaku ditulis ulang; pengecoh tidak relevan diganti.",
+   "verifikasi": "Teks kunci tetap; pengecoh tidak merapikan alat sendiri."
+  },
+  "PJK-BG-0167": {
+   "perubahan": {
+    "question": "Benar atau salah: Fikri kalah dalam pertandingan. Fikri memberi selamat kepada pemenang."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat templat kaku ditulis ulang; kunci Benar tetap.",
+   "verifikasi": "Memberi selamat adalah sikap menerima kekalahan; kunci tetap."
+  },
+  "PJK-BG-0169": {
+   "perubahan": {
+    "question": "Benar atau salah: Sebelum bermain, Dani melakukan pemanasan."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat templat kaku ditulis ulang; kunci Benar tetap.",
+   "verifikasi": "Kunci tetap."
+  },
+  "PJK-BG-0175": {
+   "perubahan": {
+    "question": "Benar atau salah: Dina mengubah aturan seenaknya saat bermain. Perbuatan itu sesuai dengan aturan permainan."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat templat kaku ditulis ulang; kunci Salah tetap.",
+   "verifikasi": "Mengubah aturan seenaknya tidak sesuai aturan; kunci Salah tetap."
+  },
+  "PJK-BG-0176": {
+   "perubahan": {
+    "question": "Benar atau salah: Lani mendorong teman saat bermain. Perbuatan itu sesuai dengan aturan bermain tanpa berbuat kasar."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat templat kaku ditulis ulang; kunci Salah tetap.",
+   "verifikasi": "Mendorong adalah berbuat kasar; kunci Salah tetap."
+  },
+  "PJK-BG-0179": {
+   "perubahan": {
+    "question": "Benar atau salah: Dani langsung berlari tanpa pemanasan. Perbuatan itu sesuai dengan aturan pemanasan sebelum bermain."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Kalimat templat kaku ditulis ulang; kunci Salah tetap.",
+   "verifikasi": "Kunci Salah tetap."
+  },
+  "PJK-BG-0194": {
+   "perubahan": {
+    "question": "Guru menyatakan satu bola keluar garis. Tunjukkan cara menghormati keputusan guru atau wasit! Guru mengamati: (1) berhenti bermain saat keputusan diumumkan, (2) menerima keputusan tanpa membantah, (3) melanjutkan permainan setelah aba-aba.",
+    "explanation": "Guru mengamati murid berhenti saat keputusan diumumkan, tidak membantah, dan melanjutkan permainan setelah aba-aba."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0195": {
+   "perubahan": {
+    "question": "Setelah timmu kalah dalam permainan kecil, tunjukkan cara menerima kekalahan! Guru mengamati: (1) bersalaman dengan lawan, (2) mengucapkan selamat kepada pemenang, (3) tidak membanting alat.",
+    "explanation": "Guru mengamati murid bersalaman dengan lawan, mengucapkan selamat, dan tidak membanting alat."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0197": {
+   "perubahan": {
+    "question": "Guru berperan sebagai teman yang melangkah keluar garis. Ingatkan dengan sopan! Guru mengamati: (1) menyebut nama teman, (2) menggunakan kalimat sopan, misalnya \"Maaf, tadi keluar garis, ayo ulangi\", (3) berbicara pelan tanpa menunjuk atau mendorong.",
+    "explanation": "Guru mengamati murid menyebut nama, memakai kalimat sopan, dan berbicara pelan tanpa menunjuk atau mendorong."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0198": {
+   "perubahan": {
+    "question": "Mainkan permainan sederhana dengan tiga aturan dari guru: mulai saat aba-aba, tetap di dalam batas, dan bergiliran! Guru mengamati apakah ketiga aturan ditaati sampai permainan selesai.",
+    "explanation": "Guru mengamati tiga indikator: mulai saat aba-aba, tetap di dalam batas, dan bergiliran sampai permainan selesai."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0199": {
+   "perubahan": {
+    "question": "Berbarislah untuk bermain bergiliran! Guru mengamati: (1) berdiri di barisan tanpa menyerobot, (2) maju setelah teman di depan selesai, (3) menunggu sampai permainan selesai.",
+    "explanation": "Guru mengamati murid berdiri di barisan, maju setelah teman di depan selesai, dan menunggu sampai selesai."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0200": {
+   "perubahan": {
+    "question": "Mainkan permainan bersama teman dengan tidak berbuat kasar! Guru mengamati: (1) tangan tidak mendorong atau memukul, (2) menjaga jarak dengan teman, (3) meminta maaf bila tidak sengaja menyentuh teman.",
+    "explanation": "Guru mengamati tangan tidak mendorong atau memukul, jarak dengan teman terjaga, dan murid meminta maaf bila tidak sengaja menyentuh."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Kriteria teramati dijelaskan (indikator gerak/perilaku) agar guru dapat menilai; rubrik inti dan kunci tidak berubah.",
+   "verifikasi": "Kunci (rubrik guru skala 1-4) tidak berubah; hanya perintah dan penjelasan diperjelas dengan indikator teramati."
+  },
+  "PJK-BG-0204": {
+   "perubahan": {
+    "options": [
+     "A. tidak membahas permainan sama sekali",
+     "B. membubarkan tim dan pulang sendiri-sendiri",
+     "C. membahas apa yang sudah berjalan baik",
+     "D. menunjuk satu teman sebagai penyebab kalah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang",
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti dengan pilihan yang masuk akal tetapi jelas salah.",
+   "verifikasi": "Teks dan huruf kunci tidak berubah; pengecoh baru tidak menjawab pertanyaan sehingga hanya kunci yang benar."
+  }
+ },
+ "tidak_direvisi": {
+  "PJK-TB-0420": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
+  "PJK-TB-0430": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
+  "PJK-TB-0431": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
+  "PJK-TB-0443": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
+  "PJK-TB-0444": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
+  "PJK-TB-0446": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
+  "PJK-TB-0448": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
+  "PJK-TB-0451": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
+  "PJK-TB-0453": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
+  "PJK-TB-0454": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
+  "PJK-TB-0457": "Soal hitung pengurangan dalam 10 (numerasi) pada TP praktik; memperbaikinya berarti mengganti jenis/tujuan soal sehingga memerlukan keputusan ahli tentang cara mengukur TP, bukan sekadar perbaikan redaksi.",
+  "PJK-TB-0350": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0351": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0353": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0354": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0355": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0356": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0360": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0365": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0377": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0381": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0382": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0385": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0386": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0390": "Soal memadankan kata aba-aba dengan gerakannya; kemiripan kata adalah isi pengetahuan (definisi aba-aba), tidak dapat dihilangkan tanpa mengubah maksud soal. Parafrase yang aman hanya tersedia untuk aba-aba berhenti/balik (sudah direvisi).",
+  "PJK-TB-0452": "Perbaikan (isian frasa panjang yang sulit dinilai) menuntut perubahan kunci atau tipe soal, di luar izin revisi tanpa temuan isian terbuka; perlu keputusan ahli.",
+  "PJK-BG-0196": "Menyangkut keselamatan (memilih tempat bermain aman); kriteria yang tepat memerlukan keputusan ahli.",
+  "PJK-BG-0202": "Masalah berupa pembeda TP BG-04 (kolaborasi lebih menantang) yang perlu keputusan ahli kurikulum; perilaku dan pilihan sudah benar dan tidak ada cacat redaksi yang berdiri sendiri.",
+  "PJK-BG-0203": "Masalah berupa pembeda TP BG-04 (kolaborasi lebih menantang) yang perlu keputusan ahli kurikulum; perilaku dan pilihan sudah benar dan tidak ada cacat redaksi yang berdiri sendiri."
+ }
+}
