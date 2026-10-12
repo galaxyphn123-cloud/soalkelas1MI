@@ -1150,6 +1150,21 @@
    ],
    "alasan": "Panjang pengecoh disejajarkan dengan kunci.",
    "verifikasi": "Hanya kunci sopan dan mengingatkan menunggu giliran."
+  },
+  "ENG-B7-0043": {
+   "perubahan": {
+    "options": [
+     "A. Yes, you mays.",
+     "B. Yes, you may.",
+     "C. Yes, you may not.",
+     "D. Yes, your may."
+    ]
+   },
+   "jenis": [
+    "konstruksi"
+   ],
+   "alasan": "Pengecoh acak kata diganti kalimat wajar yang salah tata bahasa/makna, dengan huruf besar dan tanda baca sama dengan kunci.",
+   "verifikasi": "Kunci \"Yes, you may.\" tidak diubah; pengecoh salah bentuk (mays, your) atau bermakna menolak (may not), sehingga bukan jawaban untuk \"ya, boleh\"."
   }
  },
  "tidak_direvisi": {

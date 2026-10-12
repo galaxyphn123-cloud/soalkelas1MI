@@ -1,0 +1,1178 @@
+{
+ "revisi": {
+  "ENG-B1-0001": {
+   "perubahan": {
+    "options": [
+     "A. menanyakan nama temanmu di kelas",
+     "B. menanyakan kabar temanmu hari ini",
+     "C. menyebutkan bahwa kamu anak perempuan",
+     "D. menyebutkan namamu sendiri, yaitu Dina"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah; hanya pengecoh disejajarkan panjang/strukturnya dan tetap jelas salah, sehingga tidak ada opsi lain yang benar. 'I am a girl.' hanya bermakna menyebut diri anak perempuan."
+  },
+  "ENG-B1-0002": {
+   "perubahan": {
+    "options": [
+     "A. menanyakan kabar temanmu hari ini",
+     "B. menyebutkan bahwa kamu seorang murid",
+     "C. menyebutkan namamu sendiri, yaitu Dina",
+     "D. menanyakan nama temanmu di kelas"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah; hanya pengecoh disejajarkan panjang/strukturnya dan tetap jelas salah, sehingga tidak ada opsi lain yang benar. 'I am a student.' hanya bermakna menyebut diri murid."
+  },
+  "ENG-B1-0003": {
+   "perubahan": {
+    "options": [
+     "A. menanyakan kabar temanmu hari ini",
+     "B. menyebutkan bahwa kamu anak laki-laki",
+     "C. menanyakan nama temanmu di kelas",
+     "D. menyebutkan namamu sendiri, yaitu Dina"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh dipanjangkan agar sejajar dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah; hanya pengecoh disejajarkan panjang/strukturnya dan tetap jelas salah, sehingga tidak ada opsi lain yang benar. 'I am a boy.' hanya bermakna menyebut diri anak laki-laki."
+  },
+  "ENG-B1-0016": {
+   "perubahan": {
+    "options": [
+     "A. berteriak keras dari tempat duduk",
+     "B. menarik baju teman dengan keras",
+     "C. melempar buku ke arah teman",
+     "D. melambaikan tangan dan tersenyum"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah; hanya pengecoh disejajarkan panjang/strukturnya dan tetap jelas salah, sehingga tidak ada opsi lain yang benar. Stem meminta sapaan tanpa suara dalam kelas tenang; hanya melambai dan tersenyum yang sesuai."
+  },
+  "ENG-B1-0026": {
+   "perubahan": {
+    "options": [
+     "A. saling menyapa dan membalas sapaan",
+     "B. saling bertengkar dan berebut mainan",
+     "C. bermain curang dan saling menipu",
+     "D. berpisah sambil marah-marah"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah; hanya pengecoh disejajarkan panjang/strukturnya dan tetap jelas salah, sehingga tidak ada opsi lain yang benar. Berjabat tangan sambil tersenyum tidak cocok dengan bertengkar, curang, atau berpisah marah."
+  },
+  "ENG-B1-0027": {
+   "perubahan": {
+    "options": [
+     "A. memukul bahu temanmu dengan keras",
+     "B. melambaikan tangan dan tersenyum",
+     "C. berjalan pergi tanpa menoleh",
+     "D. menutup wajah dengan kedua tangan"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah; hanya pengecoh disejajarkan panjang/strukturnya dan tetap jelas salah, sehingga tidak ada opsi lain yang benar. Hanya membalas lambaian dengan lambaian dan senyum yang merupakan balasan sapaan."
+  },
+  "ENG-B1-0045": {
+   "perubahan": {
+    "options": [
+     "A. membuka tas dan buku",
+     "B. bermain pensil di meja",
+     "C. menutup mata dengan tangan",
+     "D. melihat ke papan tulis"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah; hanya pengecoh disejajarkan panjang/strukturnya dan tetap jelas salah, sehingga tidak ada opsi lain yang benar. 'Look at the board.' = lihat papan; opsi lain bukan menuruti instruksi itu."
+  },
+  "ENG-B1-0092": {
+   "perubahan": {
+    "question": "Guru membacakan: \"Mira: Good night, Mother. Mother: Good night, Mira.\" Benar atau salah: Mira dan ibunya berbicara pada waktu akan tidur di malam hari."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Memuat teks bacaan yang dirujuk agar soal dapat dijawab.",
+   "verifikasi": "Teks bacaan singkat dimuat di soal dengan isi sesuai penjelasan asli, sehingga kunci tetap benar dan dapat dijawab tanpa teks luar. Good night = malam, akan tidur: Benar."
+  },
+  "ENG-B1-0093": {
+   "perubahan": {
+    "question": "Guru membacakan: \"Hana: Hello, I am Hana. Putri: Hello, I am Putri. Nice to meet you.\" Benar atau salah: Hana dan Putri sedang berkenalan."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Memuat teks bacaan yang dirujuk agar soal dapat dijawab.",
+   "verifikasi": "Teks bacaan singkat dimuat di soal dengan isi sesuai penjelasan asli, sehingga kunci tetap benar dan dapat dijawab tanpa teks luar. Nice to meet you = senang bertemu/berkenalan: Benar."
+  },
+  "ENG-B1-0096": {
+   "perubahan": {
+    "question": "Guru membacakan: \"Nisa: Good morning, Teacher. Teacher: Good morning, Nisa.\" Benar atau salah: Nisa menyapa ibunya."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Memuat teks bacaan yang dirujuk agar soal dapat dijawab.",
+   "verifikasi": "Teks bacaan singkat dimuat di soal dengan isi sesuai penjelasan asli, sehingga kunci tetap benar dan dapat dijawab tanpa teks luar. Nisa menyapa Teacher (guru), bukan ibu: Salah."
+  },
+  "ENG-B1-0097": {
+   "perubahan": {
+    "question": "Guru membacakan: \"Hana: Hello, I am Hana. Putri: Hello, I am Putri. Nice to meet you.\" Lengkapi: Hana dan Putri sedang ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Memuat teks bacaan yang dirujuk agar soal dapat dijawab.",
+   "verifikasi": "Teks bacaan singkat dimuat di soal dengan isi sesuai penjelasan asli, sehingga kunci tetap benar dan dapat dijawab tanpa teks luar. Kunci 'berkenalan' tetap."
+  },
+  "ENG-B1-0098": {
+   "perubahan": {
+    "question": "Guru membacakan: \"Nisa: Good morning, Teacher. Teacher: Good morning, Nisa.\" Lengkapi: Nisa menyapa ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Memuat teks bacaan yang dirujuk agar soal dapat dijawab.",
+   "verifikasi": "Teks bacaan singkat dimuat di soal dengan isi sesuai penjelasan asli, sehingga kunci tetap benar dan dapat dijawab tanpa teks luar. Kunci 'gurunya' tetap."
+  },
+  "ENG-B1-0099": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"selamat siang, teman-teman\" adalah ....",
+    "options": [
+     "A. Good morning, friends.",
+     "B. Good afternoon, friends.",
+     "C. Good night, friends.",
+     "D. Goodbye, friends."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'Good afternoon, friends.' tidak berubah. Pengecoh memakai salam lain (morning/night/goodbye) sehingga salah makna."
+  },
+  "ENG-B1-0100": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"selamat tinggal, temanku\" adalah ....",
+    "options": [
+     "A. Goodbye, my friend.",
+     "B. Hello, my friend.",
+     "C. Good morning, my friend.",
+     "D. Goodbye, my teacher."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'Goodbye, my friend.' tidak berubah. Pengecoh salah salam atau salah sapaan penerima."
+  },
+  "ENG-B1-0101": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"selamat pagi, Bu Guru\" adalah ....",
+    "options": [
+     "A. Good afternoon, Teacher.",
+     "B. Good night, Teacher.",
+     "C. Good morning, Teacher.",
+     "D. Good morning, friends."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'Good morning, Teacher.' tidak berubah. Pengecoh salah waktu atau salah penerima sapaan."
+  },
+  "ENG-B1-0103": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"namaku Dina\" adalah ....",
+    "options": [
+     "A. Your name is Dina.",
+     "B. My name is Rafi.",
+     "C. His name is Dina.",
+     "D. My name is Dina."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'My name is Dina.' tidak berubah. Pengecoh salah pemilik atau salah nama."
+  },
+  "ENG-B1-0104": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"halo, namaku Rafi\" adalah ....",
+    "options": [
+     "A. Hello, my name is Dina.",
+     "B. Hello, my name is Rafi.",
+     "C. Goodbye, my name is Rafi.",
+     "D. Hello, your name is Rafi."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'Hello, my name is Rafi.' tidak berubah. Pengecoh salah nama, salam, atau pemilik."
+  },
+  "ENG-B1-0105": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: halo): l - l - o - h - e = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'hello' tidak berubah; petunjuk arti 'halo' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B1-0106": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: baik): n - f - i - e = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'fine' tidak berubah; petunjuk arti 'baik' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B1-0107": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: selamat tinggal): o - o - g - b - y - e - d = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'goodbye' tidak berubah; petunjuk arti 'selamat tinggal' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B1-0108": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: pagi): o - n - r - i - g - m - n = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'morning' tidak berubah; petunjuk arti 'pagi' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B2-0101": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: putih): w - e - t - h - i = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'white' tidak berubah; petunjuk arti 'putih' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B2-0102": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: pensil): c - p - i - l - e - n = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'pencil' tidak berubah; petunjuk arti 'pensil' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B2-0104": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: jendela): i - w - d - n - w - o = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'window' tidak berubah; petunjuk arti 'jendela' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B3-0095": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: pipi): c - e - e - k - h = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'cheek' tidak berubah; petunjuk arti 'pipi' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B3-0096": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: rambut): a - h - i - r = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'hair' tidak berubah; petunjuk arti 'rambut' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B3-0097": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: mata, satu): y - e - e = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'eye' tidak berubah; petunjuk arti 'mata, satu' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B3-0100": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: gigi): t - o - h - t - o = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'tooth' tidak berubah; petunjuk arti 'gigi' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B3-0102": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: lidah): t - o - n - u - g - e = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'tongue' tidak berubah; petunjuk arti 'lidah' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B3-0103": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: mata, lebih dari satu): e - y - s - e = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'eyes' tidak berubah; petunjuk arti 'mata, lebih dari satu' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B4-0104": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: persegi): a - r - q - s - e - u = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'square' tidak berubah; petunjuk arti 'persegi' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B4-0107": {
+   "perubahan": {
+    "question": "Susunlah huruf berikut menjadi satu kata Bahasa Inggris (artinya: sembilan): n - e - i - n = ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menambahkan petunjuk arti Indonesia pada stem agar kunci unik dan tugas tidak sekadar menebak huruf acak.",
+   "verifikasi": "Kunci 'nine' tidak berubah; petunjuk arti 'sembilan' dan huruf yang diberikan hanya membentuk satu kata itu."
+  },
+  "ENG-B2-0001": {
+   "perubahan": {
+    "options": [
+     "A. berlari keluar dari kelas",
+     "B. menutup mata dengan tangan",
+     "C. menunjuk benda itu dan mengangguk",
+     "D. menggeleng terus tanpa henti"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah; hanya pengecoh disejajarkan panjang/strukturnya dan tetap jelas salah, sehingga tidak ada opsi lain yang benar."
+  },
+  "ENG-B2-0002": {
+   "perubahan": {
+    "options": [
+     "A. memalingkan wajah dari benda itu",
+     "B. menutup telinga dengan kedua tangan",
+     "C. menepuk meja sambil berteriak",
+     "D. menunjuk benda dengan wajah bertanya"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah; hanya pengecoh disejajarkan panjang/strukturnya dan tetap jelas salah, sehingga tidak ada opsi lain yang benar."
+  },
+  "ENG-B2-0003": {
+   "perubahan": {
+    "question": "Temanmu menunjuk pintu dan bertanya, \"Is this a door?\" Kamu menjawab dengan mengangguk. Ucapan yang sesuai dengan anggukanmu adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Memperjelas stem yang tidak masuk akal ('mengangkat pintu') dan membedakan gerakan (mengangguk) dari ucapan pada opsi.",
+   "verifikasi": "Opsi dan kunci 'Yes, it is a door' tidak berubah; mengangguk = ya, sedangkan No/Goodbye/I am sad tidak sesuai."
+  },
+  "ENG-B2-0015": {
+   "perubahan": {
+    "options": [
+     "A. It is a ruler",
+     "B. It is a bag",
+     "C. It is a chair",
+     "D. It is an eraser"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti benda kelas lain dan bentuk salah 'a apple' dihapus.",
+   "verifikasi": "Kunci 'It is an eraser' tidak berubah; pengecoh adalah benda kelas lain yang bukan benda yang ditunjuk guru, artikel a/an benar."
+  },
+  "ENG-B2-0016": {
+   "perubahan": {
+    "options": [
+     "A. It is a table",
+     "B. It is a chair",
+     "C. It is a door",
+     "D. It is a bag"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti benda kelas lain dan bentuk salah 'a apple' dihapus.",
+   "verifikasi": "Kunci 'It is a table' tidak berubah; pengecoh adalah benda kelas lain yang bukan benda yang ditunjuk guru, artikel a/an benar."
+  },
+  "ENG-B2-0017": {
+   "perubahan": {
+    "options": [
+     "A. It is a book",
+     "B. It is a bag",
+     "C. It is a ruler",
+     "D. It is a pencil"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti benda kelas lain dan bentuk salah 'a apple' dihapus.",
+   "verifikasi": "Kunci 'It is a book' tidak berubah; pengecoh adalah benda kelas lain yang bukan benda yang ditunjuk guru, artikel a/an benar."
+  },
+  "ENG-B2-0018": {
+   "perubahan": {
+    "options": [
+     "A. It is a ruler",
+     "B. It is a crayon",
+     "C. It is a pencil",
+     "D. It is a bag"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti benda kelas lain dan bentuk salah 'a apple' dihapus.",
+   "verifikasi": "Kunci 'It is a crayon' tidak berubah; pengecoh adalah benda kelas lain yang bukan benda yang ditunjuk guru, artikel a/an benar."
+  },
+  "ENG-B2-0069": {
+   "perubahan": {
+    "question": "Dalam Bahasa Inggris, \"sebuah penghapus berwarna putih\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Memperbaiki huruf awal dan tanda baca stem.",
+   "verifikasi": "Opsi dan kunci tidak berubah."
+  },
+  "ENG-B2-0070": {
+   "perubahan": {
+    "question": "Dalam Bahasa Inggris, \"sebuah pensil berwarna kuning\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Memperbaiki huruf awal dan tanda baca stem.",
+   "verifikasi": "Opsi dan kunci tidak berubah."
+  },
+  "ENG-B2-0071": {
+   "perubahan": {
+    "question": "Dalam Bahasa Inggris, \"sebuah kursi berwarna cokelat\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Memperbaiki huruf awal dan tanda baca stem.",
+   "verifikasi": "Opsi dan kunci tidak berubah."
+  },
+  "ENG-B2-0074": {
+   "perubahan": {
+    "question": "Dalam Bahasa Inggris, \"sebuah botol minum berwarna merah muda\" adalah ...."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Memperbaiki huruf awal dan tanda baca stem.",
+   "verifikasi": "Opsi dan kunci tidak berubah."
+  },
+  "ENG-B2-0076": {
+   "perubahan": {
+    "options": [
+     "A. a red book",
+     "B. a blue bag",
+     "C. an orange crayon",
+     "D. a yellow pencil"
+    ],
+    "explanation": "Gambar menunjukkan an orange crayon."
+   },
+   "jenis": [
+    "AKURASI_SALAH_TEGAS"
+   ],
+   "alasan": "Artikel kunci diperbaiki: orange diawali bunyi vokal sehingga 'an orange crayon'.",
+   "verifikasi": "Diverifikasi: 'orange' diawali bunyi vokal /ɒ/, jadi 'an orange crayon' benar. Huruf kunci C tetap; opsi lain (red book, blue bag, yellow pencil) tidak sesuai gambar krayon oranye."
+  },
+  "ENG-B2-0095": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"ini tasku\" adalah ....",
+    "options": [
+     "A. This is my bag.",
+     "B. This is your bag.",
+     "C. This is my book.",
+     "D. That is my bag."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'This is my bag.' tidak berubah. Pengecoh salah pemilik, benda, atau kata tunjuk."
+  },
+  "ENG-B2-0096": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"ini penghapus putih\" adalah ....",
+    "options": [
+     "A. It is a white eraser.",
+     "B. It is a white pencil.",
+     "C. It is a red eraser.",
+     "D. It is a white ruler."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'It is a white eraser.' tidak berubah. Pengecoh salah benda atau salah warna."
+  },
+  "ENG-B2-0097": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"ini penggaris hijau\" adalah ....",
+    "options": [
+     "A. It is a green pencil.",
+     "B. It is a green ruler.",
+     "C. It is a red ruler.",
+     "D. It is a green book."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'It is a green ruler.' tidak berubah. Pengecoh salah benda atau salah warna."
+  },
+  "ENG-B2-0098": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"ini krayon oranye\" adalah ....",
+    "options": [
+     "A. It is an orange pencil.",
+     "B. It is a yellow crayon.",
+     "C. It is an orange crayon.",
+     "D. It is an orange book."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'It is an orange crayon.' tidak berubah. Pengecoh salah benda atau salah warna; artikel a/an benar."
+  },
+  "ENG-B2-0099": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"ini buku merah\" adalah ....",
+    "options": [
+     "A. It is a red bag.",
+     "B. It is a blue book.",
+     "C. It is a red book.",
+     "D. It is a red pencil."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'It is a red book.' tidak berubah. Pengecoh salah benda atau salah warna."
+  },
+  "ENG-B2-0100": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"tunjuk jendelanya\" adalah ....",
+    "options": [
+     "A. Point to the door.",
+     "B. Point to the window.",
+     "C. Point to the board.",
+     "D. Touch the window."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'Point to the window.' tidak berubah. Pengecoh menunjuk benda lain atau memakai kata kerja lain (touch=sentuh)."
+  },
+  "ENG-B3-0004": {
+   "perubahan": {
+    "options": [
+     "A. mengunyah makanan",
+     "B. mencium bau bunga",
+     "C. mendengar suara musik",
+     "D. melihat warna benda"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah; hanya pengecoh disejajarkan panjang/strukturnya dan tetap jelas salah, sehingga tidak ada opsi lain yang benar. Teeth = gigi, fungsinya mengunyah."
+  },
+  "ENG-B3-0022": {
+   "perubahan": {
+    "question": "Tunjuk salah satu telingamu dan ucapkan \"This is my ear\" dengan jelas!"
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Menyelaraskan instruksi tunggal dengan ucapan tunggal 'This is my ear' dan memakai kata Indonesia 'telingamu'.",
+   "verifikasi": "Rubrik penilaian (answer) tidak berubah; ucapan 'This is my ear' kini konsisten dengan menunjuk satu telinga."
+  },
+  "ENG-B3-0088": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"sentuh hidungmu\" adalah ....",
+    "options": [
+     "A. Touch your ear.",
+     "B. Touch your nose.",
+     "C. Touch your mouth.",
+     "D. Touch my nose."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'Touch your nose.' tidak berubah. Pengecoh salah bagian wajah atau salah pemilik."
+  },
+  "ENG-B3-0089": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"aku punya dua telinga\" adalah ....",
+    "options": [
+     "A. I have two eyes.",
+     "B. I have one ear.",
+     "C. You have two ears.",
+     "D. I have two ears."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'I have two ears.' tidak berubah. Pengecoh salah bagian, jumlah, atau subjek."
+  },
+  "ENG-B3-0090": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"rambutku panjang\" adalah ....",
+    "options": [
+     "A. My hair is short.",
+     "B. My hair is black.",
+     "C. Her hair is long.",
+     "D. My hair is long."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'My hair is long.' tidak berubah. Pengecoh salah sifat atau salah pemilik."
+  },
+  "ENG-B3-0091": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"aku punya dua mata\" adalah ....",
+    "options": [
+     "A. I have two ears.",
+     "B. I have one eye.",
+     "C. You have two eyes.",
+     "D. I have two eyes."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'I have two eyes.' tidak berubah. Pengecoh salah bagian, jumlah, atau subjek."
+  },
+  "ENG-B3-0092": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"aku punya satu mulut\" adalah ....",
+    "options": [
+     "A. I have one nose.",
+     "B. You have one mouth.",
+     "C. I have one ear.",
+     "D. I have one mouth."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'I have one mouth.' tidak berubah. Pengecoh salah bagian atau subjek."
+  },
+  "ENG-B3-0093": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"mataku cokelat\" adalah ....",
+    "options": [
+     "A. My eyes are black.",
+     "B. My hair is brown.",
+     "C. My eyes are brown.",
+     "D. Your eyes are brown."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'My eyes are brown.' tidak berubah. Pengecoh salah warna, bagian, atau pemilik."
+  },
+  "ENG-B3-0094": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"rambutku hitam\" adalah ....",
+    "options": [
+     "A. My hair is brown.",
+     "B. My eyes are black.",
+     "C. My hair is black.",
+     "D. Your hair is black."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'My hair is black.' tidak berubah. Pengecoh salah warna, bagian, atau pemilik."
+  },
+  "ENG-B4-0007": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Rani bermain dengan adik laki-laki ibunya. Dalam Bahasa Inggris, adik laki-laki ibu disebut ....",
+    "visual_prompt": "Seorang anak perempuan bermain dengan seorang laki-laki dewasa."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hubungan kekerabatan dinyatakan di teks (bukan dari gambar) dan deskripsi gambar tidak lagi membocorkan kunci.",
+   "verifikasi": "Kunci 'uncle' tetap benar: adik laki-laki ibu = paman; brother (saudara), mother, father tidak sesuai."
+  },
+  "ENG-B4-0015": {
+   "perubahan": {
+    "question": "Guru menunjuk foto kakekmu dan bertanya, \"Who is this?\" Jawaban yang tepat adalah ....",
+    "options": [
+     "A. He is my father",
+     "B. He is my uncle",
+     "C. He is my grandfather",
+     "D. He is my brother"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hubungan keluarga dinyatakan dengan kata Indonesia (bukan deskripsi gambar yang membocorkan) dan pengecoh diganti anggota keluarga lain.",
+   "verifikasi": "Kunci 'He is my grandfather' tidak berubah; hubungan pada stem hanya cocok dengan satu opsi, anggota keluarga lain jelas berbeda."
+  },
+  "ENG-B4-0016": {
+   "perubahan": {
+    "question": "Guru menunjuk foto ibumu dan bertanya, \"Who is this?\" Jawaban yang tepat adalah ....",
+    "options": [
+     "A. She is my aunt",
+     "B. She is my sister",
+     "C. She is my mother",
+     "D. She is my grandmother"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hubungan keluarga dinyatakan dengan kata Indonesia (bukan deskripsi gambar yang membocorkan) dan pengecoh diganti anggota keluarga lain.",
+   "verifikasi": "Kunci 'She is my mother' tidak berubah; hubungan pada stem hanya cocok dengan satu opsi, anggota keluarga lain jelas berbeda."
+  },
+  "ENG-B4-0017": {
+   "perubahan": {
+    "question": "Guru menunjuk foto saudara laki-lakimu dan bertanya, \"Who is this?\" Jawaban yang tepat adalah ....",
+    "options": [
+     "A. He is my father",
+     "B. He is my uncle",
+     "C. He is my brother",
+     "D. He is my grandfather"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hubungan keluarga dinyatakan dengan kata Indonesia (bukan deskripsi gambar yang membocorkan) dan pengecoh diganti anggota keluarga lain.",
+   "verifikasi": "Kunci 'He is my brother' tidak berubah; hubungan pada stem hanya cocok dengan satu opsi, anggota keluarga lain jelas berbeda."
+  },
+  "ENG-B4-0018": {
+   "perubahan": {
+    "question": "Guru menunjuk foto bibimu dan bertanya, \"Who is this?\" Jawaban yang tepat adalah ....",
+    "options": [
+     "A. She is my aunt",
+     "B. She is my mother",
+     "C. She is my sister",
+     "D. She is my grandmother"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hubungan keluarga dinyatakan dengan kata Indonesia (bukan deskripsi gambar yang membocorkan) dan pengecoh diganti anggota keluarga lain.",
+   "verifikasi": "Kunci 'She is my aunt' tidak berubah; hubungan pada stem hanya cocok dengan satu opsi, anggota keluarga lain jelas berbeda."
+  },
+  "ENG-B4-0019": {
+   "perubahan": {
+    "question": "Guru menunjuk foto nenekmu dan bertanya, \"Who is this?\" Jawaban yang tepat adalah ....",
+    "options": [
+     "A. She is my mother",
+     "B. She is my grandmother",
+     "C. She is my aunt",
+     "D. She is my sister"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hubungan keluarga dinyatakan dengan kata Indonesia (bukan deskripsi gambar yang membocorkan) dan pengecoh diganti anggota keluarga lain.",
+   "verifikasi": "Kunci 'She is my grandmother' tidak berubah; hubungan pada stem hanya cocok dengan satu opsi, anggota keluarga lain jelas berbeda."
+  },
+  "ENG-B4-0020": {
+   "perubahan": {
+    "question": "Guru menunjuk foto pamanmu dan bertanya, \"Who is this?\" Jawaban yang tepat adalah ....",
+    "options": [
+     "A. He is my father",
+     "B. He is my brother",
+     "C. He is my uncle",
+     "D. He is my grandfather"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hubungan keluarga dinyatakan dengan kata Indonesia (bukan deskripsi gambar yang membocorkan) dan pengecoh diganti anggota keluarga lain.",
+   "verifikasi": "Kunci 'He is my uncle' tidak berubah; hubungan pada stem hanya cocok dengan satu opsi, anggota keluarga lain jelas berbeda."
+  },
+  "ENG-B4-0021": {
+   "perubahan": {
+    "question": "Guru menunjuk foto ayahmu dan bertanya, \"Who is this?\" Jawaban yang tepat adalah ....",
+    "options": [
+     "A. He is my uncle",
+     "B. He is my brother",
+     "C. He is my grandfather",
+     "D. He is my father"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hubungan keluarga dinyatakan dengan kata Indonesia (bukan deskripsi gambar yang membocorkan) dan pengecoh diganti anggota keluarga lain.",
+   "verifikasi": "Kunci 'He is my father' tidak berubah; hubungan pada stem hanya cocok dengan satu opsi, anggota keluarga lain jelas berbeda."
+  },
+  "ENG-B4-0022": {
+   "perubahan": {
+    "question": "Guru menunjuk foto saudara perempuanmu dan bertanya, \"Who is this?\" Jawaban yang tepat adalah ....",
+    "options": [
+     "A. She is my mother",
+     "B. She is my aunt",
+     "C. She is my sister",
+     "D. She is my grandmother"
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hubungan keluarga dinyatakan dengan kata Indonesia (bukan deskripsi gambar yang membocorkan) dan pengecoh diganti anggota keluarga lain.",
+   "verifikasi": "Kunci 'She is my sister' tidak berubah; hubungan pada stem hanya cocok dengan satu opsi, anggota keluarga lain jelas berbeda."
+  },
+  "ENG-B4-0023": {
+   "perubahan": {
+    "question": "Benar atau salah: Ditanya \"Who is this?\" tentang foto nenekmu, kamu menjawab She is my grandmother."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hubungan keluarga dinyatakan dengan kata Indonesia, bukan deskripsi gambar.",
+   "verifikasi": "Nenek = grandmother, kunci Benar tetap."
+  },
+  "ENG-B4-0024": {
+   "perubahan": {
+    "question": "Benar atau salah: Ditanya \"Who is this?\" tentang foto ibumu, kamu menjawab She is my mother."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hubungan keluarga dinyatakan dengan kata Indonesia, bukan deskripsi gambar.",
+   "verifikasi": "Ibu = mother, kunci Benar tetap."
+  },
+  "ENG-B4-0027": {
+   "perubahan": {
+    "question": "Lengkapi: Ditanya \"Who is this?\" tentang foto pamanmu, kamu menjawab ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hubungan keluarga dinyatakan dengan kata Indonesia, bukan deskripsi gambar.",
+   "verifikasi": "Paman = uncle, kunci 'He is my uncle' tetap."
+  },
+  "ENG-B4-0028": {
+   "perubahan": {
+    "question": "Lengkapi: Ditanya \"Who is this?\" tentang foto saudara laki-lakimu, kamu menjawab ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Hubungan keluarga dinyatakan dengan kata Indonesia, bukan deskripsi gambar.",
+   "verifikasi": "Saudara laki-laki = brother, kunci 'He is my brother' tetap."
+  },
+  "ENG-B4-0049": {
+   "perubahan": {
+    "question": "Bentuk gambar bola sepak adalah '....'.",
+    "explanation": "Gambar bola sepak berbentuk circle."
+   },
+   "jenis": [
+    "BAHASA"
+   ],
+   "alasan": "Memakai istilah baku 'bola sepak' dan menghapus 'dilihat dari depan' yang abstrak.",
+   "verifikasi": "Kunci circle tetap; triangle, square, rectangle bukan bentuk gambar bola."
+  },
+  "ENG-B4-0096": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"itu lingkaran merah\" adalah ....",
+    "options": [
+     "A. It is a red circle.",
+     "B. It is a blue circle.",
+     "C. It is a red square.",
+     "D. It is a red triangle."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'It is a red circle.' tidak berubah. Pengecoh salah warna atau salah bentuk."
+  },
+  "ENG-B4-0098": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"ayahku tinggi\" adalah ....",
+    "options": [
+     "A. My father is short.",
+     "B. My father is tall.",
+     "C. My mother is tall.",
+     "D. Your father is tall."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'My father is tall.' tidak berubah. Pengecoh salah sifat, anggota keluarga, atau pemilik."
+  },
+  "ENG-B4-0099": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"ini lingkaran kuning\" adalah ....",
+    "options": [
+     "A. This is a yellow square.",
+     "B. This is a blue circle.",
+     "C. This is a yellow circle.",
+     "D. This is a yellow triangle."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'This is a yellow circle.' tidak berubah. Pengecoh salah warna atau salah bentuk."
+  },
+  "ENG-B4-0100": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"aku punya dua saudara laki-laki\" adalah ....",
+    "options": [
+     "A. I have two sisters.",
+     "B. I have one brother.",
+     "C. I have two brothers.",
+     "D. You have two brothers."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'I have two brothers.' tidak berubah. Pengecoh salah jumlah, saudara, atau subjek."
+  },
+  "ENG-B4-0101": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"ini persegi biru\" adalah ....",
+    "options": [
+     "A. This is a blue circle.",
+     "B. This is a blue square.",
+     "C. This is a red square.",
+     "D. This is a blue triangle."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'This is a blue square.' tidak berubah. Pengecoh salah warna atau salah bentuk."
+  },
+  "ENG-B5-0006": {
+   "perubahan": {
+    "question": "Ibu bertanya, \"Where is the kitchen?\" Kata kitchen dalam Bahasa Indonesia berarti ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Menghapus kalimat 'Kamu menunjuk <jawaban>' yang membocorkan kunci; soal kini menguji arti kosakata.",
+   "verifikasi": "Opsi dan kunci tidak berubah; arti kata tetap hanya cocok dengan satu opsi."
+  },
+  "ENG-B5-0007": {
+   "perubahan": {
+    "question": "Ibu bertanya, \"Where is the bedroom?\" Kata bedroom dalam Bahasa Indonesia berarti ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Menghapus kalimat 'Kamu menunjuk <jawaban>' yang membocorkan kunci; soal kini menguji arti kosakata.",
+   "verifikasi": "Opsi dan kunci tidak berubah; arti kata tetap hanya cocok dengan satu opsi."
+  },
+  "ENG-B5-0008": {
+   "perubahan": {
+    "question": "Ibu bertanya, \"Where is the living room?\" Kata living room dalam Bahasa Indonesia berarti ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Menghapus kalimat 'Kamu menunjuk <jawaban>' yang membocorkan kunci; soal kini menguji arti kosakata.",
+   "verifikasi": "Opsi dan kunci tidak berubah; arti kata tetap hanya cocok dengan satu opsi."
+  },
+  "ENG-B5-0009": {
+   "perubahan": {
+    "question": "Ibu bertanya, \"Where is the garden?\" Kata garden dalam Bahasa Indonesia berarti ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Menghapus kalimat 'Kamu menunjuk <jawaban>' yang membocorkan kunci; soal kini menguji arti kosakata.",
+   "verifikasi": "Opsi dan kunci tidak berubah; arti kata tetap hanya cocok dengan satu opsi."
+  },
+  "ENG-B5-0010": {
+   "perubahan": {
+    "question": "Ibu bertanya, \"Where is the bathroom?\" Kata bathroom dalam Bahasa Indonesia berarti ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Menghapus kalimat 'Kamu menunjuk <jawaban>' yang membocorkan kunci; soal kini menguji arti kosakata.",
+   "verifikasi": "Opsi dan kunci tidak berubah; arti kata tetap hanya cocok dengan satu opsi."
+  },
+  "ENG-B5-0011": {
+   "perubahan": {
+    "question": "Ibu bertanya, \"Where is the dining room?\" Kata dining room dalam Bahasa Indonesia berarti ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Menghapus kalimat 'Kamu menunjuk <jawaban>' yang membocorkan kunci; soal kini menguji arti kosakata.",
+   "verifikasi": "Opsi dan kunci tidak berubah; arti kata tetap hanya cocok dengan satu opsi."
+  },
+  "ENG-B5-0012": {
+   "perubahan": {
+    "question": "Lengkapi: Ibu bertanya, \"Where is the bedroom?\" Kata bedroom dalam Bahasa Indonesia berarti ...."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Menghapus petunjuk 'menunjuk kamar tidur' yang membocorkan kunci.",
+   "verifikasi": "Kunci 'kamar tidur' tetap benar."
+  },
+  "ENG-B5-0018": {
+   "perubahan": {
+    "options": [
+     "A. memasak makanan",
+     "B. mandi pakai sabun",
+     "C. tidur di kasur",
+     "D. memarkir mobil"
+    ]
+   },
+   "jenis": [
+    "petunjuk_kunci_terpanjang"
+   ],
+   "alasan": "Pengecoh disejajarkan panjangnya dengan kunci.",
+   "verifikasi": "Teks kunci tidak diubah; hanya pengecoh disejajarkan panjang/strukturnya dan tetap jelas salah, sehingga tidak ada opsi lain yang benar. Garage = garasi, tempat parkir mobil."
+  },
+  "ENG-B5-0055": {
+   "perubahan": {
+    "question": "Guru meminta murid mewarnai jendela dengan warna biru. Dalam Bahasa Inggris, warna itu adalah '....'.",
+    "explanation": "biru = blue."
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Warna jawaban tidak lagi tertulis dalam bahasa Inggris pada instruksi; soal menguji kosakata warna.",
+   "verifikasi": "Kunci blue tetap; brown (cokelat), red (merah), yellow (kuning) bukan biru."
+  },
+  "ENG-B5-0075": {
+   "perubahan": {
+    "question": "Perhatikan gambar! Di mana Kakek berada? Kalimat yang tepat adalah ....",
+    "visual_prompt": "Kakek berada di taman di halaman rumah."
+   },
+   "jenis": [
+    "KONSTRUKSI",
+    "BAHASA"
+   ],
+   "alasan": "Menghapus lokasi dari stem sehingga gambar diperlukan, dan memperbaiki deskripsi gambar yang janggal.",
+   "verifikasi": "Kunci 'Grandfather is in the garden' tetap; garage, kitchen, bedroom tidak sesuai gambar taman."
+  },
+  "ENG-B5-0083": {
+   "perubahan": {
+    "question": "Kalimat Bahasa Inggris yang tepat untuk \"kamar mandinya kuning\" adalah ....",
+    "options": [
+     "A. The bathroom is yellow.",
+     "B. The bathroom is blue.",
+     "C. The kitchen is yellow.",
+     "D. The bedroom is yellow."
+    ]
+   },
+   "jenis": [
+    "KONSTRUKSI"
+   ],
+   "alasan": "Pengecoh diganti kalimat wajar yang berbeda satu kata/makna dengan kunci (huruf besar dan tanda baca sama) agar kunci tidak terbaca dari bentuk.",
+   "verifikasi": "Teks kunci 'The bathroom is yellow.' tidak berubah. Pengecoh salah warna atau salah ruangan."
+  }
+ },
+ "tidak_direvisi": {
+  "ENG-B1-0109": "Token bocor huruf kapital/koma ('fine,', 'morning,') melekat pada kunci ordering; memperbaikinya menuntut perubahan token kunci/answer, yang tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS, dan tugas menyusun kalimat tertulis perlu keputusan desain ahli (tepi CP Fase A).",
+  "ENG-B1-0110": "Token bocor huruf kapital/koma ('fine,', 'morning,') melekat pada kunci ordering; memperbaikinya menuntut perubahan token kunci/answer, yang tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS, dan tugas menyusun kalimat tertulis perlu keputusan desain ahli (tepi CP Fase A).",
+  "ENG-B1-0111": "Token bocor huruf kapital/koma ('fine,', 'morning,') melekat pada kunci ordering; memperbaikinya menuntut perubahan token kunci/answer, yang tidak diizinkan tanpa temuan AKURASI_SALAH_TEGAS, dan tugas menyusun kalimat tertulis perlu keputusan desain ahli (tepi CP Fase A).",
+  "ENG-B3-0042": "Urutan sudah ada di stem karena soal ordering instruksi memerlukan sumber urutan (mis. audio/instruksi guru) yang perlu keputusan desain ahli; mengubah stem tanpa sumber urutan lain akan membuat kunci arbitrer dan mengubah maksud soal."
+ }
+}
