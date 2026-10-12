@@ -67,7 +67,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Angka 3 dibaca ....",
+  "question": "Lambang bilangan 3 dibaca ....",
   "options": [
    "A. satu",
    "B. tiga",
@@ -95,7 +95,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Angka 8 dibaca ....",
+  "question": "Lambang bilangan 8 dibaca ....",
   "options": [
    "A. delapan",
    "B. enam",
@@ -151,7 +151,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Bilangan \"lima\" ditulis dengan angka ....",
+  "question": "Kata bilangan \"lima\" dilambangkan dengan angka ....",
   "options": [
    "A. 6",
    "B. 7",
@@ -235,7 +235,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Angka 5 dibaca ....",
+  "question": "Lambang bilangan 5 dibaca ....",
   "options": [
    "A. satu",
    "B. dua",
@@ -263,7 +263,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Angka 10 dibaca ....",
+  "question": "Lambang bilangan 10 dibaca ....",
   "options": [
    "A. sepuluh",
    "B. enam",
@@ -291,7 +291,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Angka 6 dibaca ....",
+  "question": "Lambang bilangan 6 dibaca ....",
   "options": [
    "A. empat",
    "B. dua",
@@ -347,7 +347,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Bilangan \"empat\" ditulis dengan angka ....",
+  "question": "Kata bilangan \"empat\" dilambangkan dengan angka ....",
   "options": [
    "A. 4",
    "B. 0",
@@ -515,7 +515,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 4 dibaca empat.",
+  "question": "Benar atau salah: Lambang bilangan 4 dibaca empat.",
   "options": [
    "Benar",
    "Salah"
@@ -541,7 +541,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 5 dibaca lima.",
+  "question": "Benar atau salah: Lambang bilangan 5 dibaca lima.",
   "options": [
    "Benar",
    "Salah"
@@ -567,7 +567,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 8 dibaca empat.",
+  "question": "Benar atau salah: Lambang bilangan 8 dibaca empat.",
   "options": [
    "Benar",
    "Salah"
@@ -593,7 +593,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 7 dibaca sebelas.",
+  "question": "Benar atau salah: Lambang bilangan 7 dibaca sebelas.",
   "options": [
    "Benar",
    "Salah"
@@ -619,7 +619,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 10 dibaca delapan.",
+  "question": "Benar atau salah: Lambang bilangan 10 dibaca delapan.",
   "options": [
    "Benar",
    "Salah"
@@ -645,7 +645,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 3 dibaca empat.",
+  "question": "Benar atau salah: Lambang bilangan 3 dibaca empat.",
   "options": [
    "Benar",
    "Salah"
@@ -671,7 +671,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 9 dibaca enam.",
+  "question": "Benar atau salah: Lambang bilangan 9 dibaca enam.",
   "options": [
    "Benar",
    "Salah"
@@ -743,7 +743,7 @@
   "question_type": "fill_in_short",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Isilah: Bilangan \"empat\" ditulis dengan angka ....",
+  "question": "Isilah: Kata bilangan \"empat\" dilambangkan dengan angka ....",
   "options": null,
   "answer": "4",
   "explanation": "empat = 4.",
@@ -766,7 +766,7 @@
   "question_type": "fill_in_short",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Isilah: Bilangan \"sembilan\" ditulis dengan angka ....",
+  "question": "Isilah: Kata bilangan \"sembilan\" dilambangkan dengan angka ....",
   "options": null,
   "answer": "9",
   "explanation": "sembilan = 9.",
@@ -16915,7 +16915,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Bilangan \"tujuh belas\" ditulis dengan angka ....",
+  "question": "Kata bilangan \"tujuh belas\" dilambangkan dengan angka ....",
   "options": [
    "A. 20",
    "B. 18",
@@ -16943,7 +16943,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Bilangan \"delapan belas\" ditulis dengan angka ....",
+  "question": "Kata bilangan \"delapan belas\" dilambangkan dengan angka ....",
   "options": [
    "A. 18",
    "B. 15",
@@ -16971,7 +16971,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Angka 19 dibaca ....",
+  "question": "Lambang bilangan 19 dibaca ....",
   "options": [
    "A. lima belas",
    "B. sembilan belas",
@@ -16999,7 +16999,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Angka 16 dibaca ....",
+  "question": "Lambang bilangan 16 dibaca ....",
   "options": [
    "A. empat belas",
    "B. enam belas",
@@ -17055,7 +17055,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Angka 18 dibaca ....",
+  "question": "Lambang bilangan 18 dibaca ....",
   "options": [
    "A. empat belas",
    "B. enam belas",
@@ -17083,7 +17083,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Angka 12 dibaca ....",
+  "question": "Lambang bilangan 12 dibaca ....",
   "options": [
    "A. sepuluh",
    "B. sembilan",
@@ -17167,7 +17167,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Angka 15 dibaca ....",
+  "question": "Lambang bilangan 15 dibaca ....",
   "options": [
    "A. dua belas",
    "B. sebelas",
@@ -17195,7 +17195,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Bilangan \"empat belas\" ditulis dengan angka ....",
+  "question": "Kata bilangan \"empat belas\" dilambangkan dengan angka ....",
   "options": [
    "A. 17",
    "B. 14",
@@ -17223,7 +17223,7 @@
   "question_type": "multiple_choice",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Angka 17 dibaca ....",
+  "question": "Lambang bilangan 17 dibaca ....",
   "options": [
    "A. empat belas",
    "B. tujuh belas",
@@ -17307,7 +17307,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 18 dibaca delapan belas.",
+  "question": "Benar atau salah: Lambang bilangan 18 dibaca delapan belas.",
   "options": [
    "Benar",
    "Salah"
@@ -17333,7 +17333,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 16 dibaca enam belas.",
+  "question": "Benar atau salah: Lambang bilangan 16 dibaca enam belas.",
   "options": [
    "Benar",
    "Salah"
@@ -17359,7 +17359,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 11 dibaca sebelas.",
+  "question": "Benar atau salah: Lambang bilangan 11 dibaca sebelas.",
   "options": [
    "Benar",
    "Salah"
@@ -17385,7 +17385,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 11 dibaca sepuluh.",
+  "question": "Benar atau salah: Lambang bilangan 11 dibaca sepuluh.",
   "options": [
    "Benar",
    "Salah"
@@ -17411,7 +17411,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 16 dibaca dua belas.",
+  "question": "Benar atau salah: Lambang bilangan 16 dibaca dua belas.",
   "options": [
    "Benar",
    "Salah"
@@ -17437,7 +17437,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 15 dibaca sembilan belas.",
+  "question": "Benar atau salah: Lambang bilangan 15 dibaca sembilan belas.",
   "options": [
    "Benar",
    "Salah"
@@ -17463,7 +17463,7 @@
   "question_type": "true_false",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Benar atau salah: Angka 20 dibaca enam belas.",
+  "question": "Benar atau salah: Lambang bilangan 20 dibaca enam belas.",
   "options": [
    "Benar",
    "Salah"
@@ -17535,7 +17535,7 @@
   "question_type": "fill_in_short",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Isilah: Bilangan \"sebelas\" ditulis dengan angka ....",
+  "question": "Isilah: Kata bilangan \"sebelas\" dilambangkan dengan angka ....",
   "options": null,
   "answer": "11",
   "explanation": "sebelas = 11.",
@@ -17558,7 +17558,7 @@
   "question_type": "fill_in_short",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Isilah: Bilangan \"tiga belas\" ditulis dengan angka ....",
+  "question": "Isilah: Kata bilangan \"tiga belas\" dilambangkan dengan angka ....",
   "options": null,
   "answer": "13",
   "explanation": "tiga belas = 13.",
@@ -17604,7 +17604,7 @@
   "question_type": "fill_in_short",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Isilah: Bilangan \"sembilan belas\" ditulis dengan angka ....",
+  "question": "Isilah: Kata bilangan \"sembilan belas\" dilambangkan dengan angka ....",
   "options": null,
   "answer": "19",
   "explanation": "sembilan belas = 19.",
@@ -17650,7 +17650,7 @@
   "question_type": "fill_in_short",
   "difficulty": "easy",
   "cognitive_level": "mengenali",
-  "question": "Isilah: Bilangan \"dua belas\" ditulis dengan angka ....",
+  "question": "Isilah: Kata bilangan \"dua belas\" dilambangkan dengan angka ....",
   "options": null,
   "answer": "12",
   "explanation": "dua belas = 12.",

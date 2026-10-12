@@ -93,7 +93,7 @@
  "jumlah_temuan_validasi": 0,
  "temuan_validasi": [],
  "pasangan_hampir_duplikat_(kemiripan>=0.9)": {
-  "jumlah": 83,
+  "jumlah": 85,
   "lintas_materi": 6,
   "dengan_jawaban_sama": 20,
   "daftar": [
@@ -308,6 +308,14 @@
    [
     "MTK-B5-0063",
     "MTK-B5-0065"
+   ],
+   [
+    "MTK-B6-0016",
+    "MTK-B6-0019"
+   ],
+   [
+    "MTK-B6-0016",
+    "MTK-B6-0021"
    ],
    [
     "MTK-B6-0022",

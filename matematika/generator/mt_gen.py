@@ -26,11 +26,11 @@ def count_read(p, tp, lo, hi, seed=0):
         p.gk = f'cr{n}'
         w = KATA[n]
         others = [KATA[x] for x in range(max(0, n - 4), min(20, n + 4) + 1) if x != n]
-        p.mc(tp, f'Angka {n} dibaca ....', w, others, f'{n} dibaca {w}.', 'easy', 'mengenali', comp)
-        p.mc(tp, f'Bilangan "{w}" ditulis dengan angka ....', str(n), opts(n, 0, 20, 3, rng), f'{w} ditulis {n}.', 'easy', 'mengenali', comp)
-        p.tf(tp, f'Angka {n} dibaca {w}.', True, f'Benar, {n} = {w}.', 'easy', 'mengenali', comp)
-        p.tf(tp, f'Angka {n} dibaca {others[n % len(others)]}.', False, f'Salah, {n} = {w}.', 'easy', 'mengenali', comp)
-        p.fill(tp, f'Isilah: Bilangan "{w}" ditulis dengan angka ....', str(n), f'{w} = {n}.', 'easy', 'mengenali', comp)
+        p.mc(tp, f'Lambang bilangan {n} dibaca ....', w, others, f'{n} dibaca {w}.', 'easy', 'mengenali', comp)
+        p.mc(tp, f'Kata bilangan "{w}" dilambangkan dengan angka ....', str(n), opts(n, 0, 20, 3, rng), f'{w} ditulis {n}.', 'easy', 'mengenali', comp)
+        p.tf(tp, f'Lambang bilangan {n} dibaca {w}.', True, f'Benar, {n} = {w}.', 'easy', 'mengenali', comp)
+        p.tf(tp, f'Lambang bilangan {n} dibaca {others[n % len(others)]}.', False, f'Salah, {n} = {w}.', 'easy', 'mengenali', comp)
+        p.fill(tp, f'Isilah: Kata bilangan "{w}" dilambangkan dengan angka ....', str(n), f'{w} = {n}.', 'easy', 'mengenali', comp)
         o = OBJ[n % len(OBJ)]
         p.mc(tp, f'Perhatikan gambar kartu hitung nomor {n}! Berapa banyak {o} pada gambar?', str(n), opts(n, 0, 20, 3, rng), f'Pada gambar ada {n} {o}.', 'easy', 'menerapkan', comp,
              visual=f'Kartu hitung menampilkan {n} {OBJD[o]} tersusun rapi dalam baris-baris kecil.')
