@@ -23,6 +23,10 @@ for f in sorted(glob.glob(SP + '/out_*.json')):
     except Exception as e: print('GAGAL baca', f, e); continue
     for x in d.get('hasil', []): blind[x['id']] = x
 
+adj = {}
+for f in sorted(glob.glob(SP + '/adj_out_*.json')):
+    for x in json.load(open(f, encoding='utf-8')).get('hasil', []): adj[x['id']] = x
+
 def nz(s): return re.sub(r'\s+', ' ', re.sub(r'[^\w\s]', ' ', str(s).lower())).strip()
 
 def compare(r, b):
@@ -80,7 +84,16 @@ def decide(i):
     cmp_, det = ('NA', 'agen tidak memeriksa')
     if b:
         cmp_, det = compare(r, b)
-        if cmp_ == 'BEDA':
+        a_ = adj.get(i); av = a_['verdict'] if a_ else None
+        if av in ('KUNCI_BENAR', 'PARAFRASE_SETARA'):
+            if cmp_ == 'BEDA': cmp_ = 'COCOK_SETELAH_ADJUDIKASI'; det += f' | adjudikasi: {av} ({a_.get("alasan", "")[:160]})'
+            b = dict(b, masalah=[m for m in (b.get('masalah') or []) if m not in HARD])
+        elif av in ('JAWABAN_GANDA', 'TIDAK_ADA_JAWABAN', 'PENYELESAI_BENAR'):
+            add('ADJ_' + av, (a_.get('alasan') or '')[:300], 'jawaban menurut adjudikator: ' + str(a_.get('jawaban_yang_menurut_Anda_tepat'))[:160], 'adjudikasi agen AI kedua yang melihat kunci dan jawaban penyelesai buta', a_.get('keyakinan', ''), (a_.get('alasan_keyakinan') or '')[:200], (a_.get('usulan_koreksi') or 'tinjau dan perbaiki soal')[:300], True)
+            cmp_ = 'BEDA' if av == 'PENYELESAI_BENAR' else cmp_
+        elif av == 'TIDAK_DAPAT_DITENTUKAN':
+            add('ADJ_TIDAK_DAPAT_DITENTUKAN', (a_.get('alasan') or '')[:300], 'adjudikator tidak dapat memutuskan', str(a_.get('sumber_dibutuhkan')), a_.get('keyakinan', ''), 'bukti tersedia belum cukup', 'sediakan sumber/ahli', True)
+        if cmp_ == 'BEDA' and av is None:
             add('JAWABAN_BUTA_BEDA', f'soal: {r["question"][:140]}', det, 'penyelesaian buta oleh agen AI (tanpa kunci)', b.get('keyakinan', ''), b.get('alasan_keyakinan', '')[:200], 'selesaikan perbedaan; kunci belum boleh diubah tanpa keputusan', True)
         for m in b.get('masalah') or []:
             if m in HARD | SOFT:
@@ -92,9 +105,13 @@ def decide(i):
     src = b.get('perlu_sumber') if b else None
     ahli = bool(b and b.get('perlu_ahli'))
     konfirm = 'KONFIRMASI_PASCA_REVISI' in kodes
-    hard = kinds & {'HITUNG_TIDAK_COCOK', 'STRUKTUR', 'KUNCI_VS_PENJELASAN', 'KONFLIK_KUNCI', 'DUPLIKAT_IDENTIK', 'JAWABAN_BUTA_BEDA'} | {k for k in kinds if k.startswith('AGEN_') and k[5:] in HARD}
+    adjv = adj.get(i, {}).get('verdict')
+    hard = kinds & {'ADJ_JAWABAN_GANDA', 'ADJ_TIDAK_ADA_JAWABAN', 'ADJ_PENYELESAI_BENAR', 'HITUNG_TIDAK_COCOK', 'STRUKTUR', 'KUNCI_VS_PENJELASAN', 'KONFLIK_KUNCI', 'DUPLIKAT_IDENTIK', 'JAWABAN_BUTA_BEDA'} | {k for k in kinds if k.startswith('AGEN_') and k[5:] in HARD}
     if not b:
         st, why = 'UNRESOLVED', 'tidak ada hasil penyelesaian buta untuk ID ini'
+    elif adjv == 'TIDAK_DAPAT_DITENTUKAN' and not hard:
+        sr = adj[i].get('sumber_dibutuhkan')
+        st, why = ('SOURCE_REQUIRED', 'adjudikator: butuh sumber ' + str(sr)[:120]) if sr else ('UNRESOLVED', 'adjudikator tidak dapat memutuskan')
     elif konfirm:
         st, why = 'EXPERT_REQUIRED', 'kunci diubah oleh revisi; konfirmasi manusia wajib'
     elif hard:
@@ -107,6 +124,12 @@ def decide(i):
         st, why = 'EXPERT_REQUIRED', 'kesesuaian TP perlu keputusan kurikulum'
     elif kinds & {'DUPLIKAT_SUBSTANTIF', 'INDIKASI_JAWABAN_GANDA'} or {k for k in kinds if k.startswith('AGEN_')}:
         st, why = 'AI_FLAGGED', 'ditemukan: ' + ', '.join(sorted(kinds))
+    elif 'DUP_SUBSTANTIF' in kodes:
+        st, why = 'AI_FLAGGED', 'audit sebelumnya menandai duplikasi substantif; keputusan mempertahankan/menggabung belum dapat diambil otomatis (lihat DUPLICATION_REPORT.csv)'
+        add('DUPLIKAT_SUBSTANTIF_AUDIT_SEBELUMNYA', 'kode DUP_SUBSTANTIF pada antrean audit', 'ambang kemiripan skrip ini tidak menandai, tetapi pasangan dari audit sebelumnya belum dinilai fungsi pedagogisnya', 'audit/DUPLICATION_REPORT.csv', 'rendah', 'dua ambang berbeda', 'guru memutuskan pertahankan/gabung', True)
+    elif 'AKURASI_KONFLIK_INTERNAL' in kodes:
+        st, why = 'UNRESOLVED', 'audit sebelumnya menandai konflik internal antarsoal; pemeriksaan stem-sama (C07) tidak menemukan konflik, tetapi konflik semantik antar-butir belum dapat dipastikan'
+        add('KONFLIK_INTERNAL_SEMANTIK_BELUM_TUNTAS', 'kode AKURASI_KONFLIK_INTERNAL pada antrean audit', 'C07 hanya mendeteksi stem identik; konflik makna lintas butir tidak teruji penuh', 'audit/ANTRIAN_VERIFIKASI_AHLI_SEMUA.csv', 'rendah', 'keterbatasan metode', 'bandingkan butir terkait secara manual', True)
     elif b.get('keyakinan') == 'rendah' or cmp_ == 'NA' and r['question_type'] != 'performance_task':
         st, why = 'UNRESOLVED', 'keyakinan penyelesaian buta rendah atau perbandingan tidak dapat dilakukan'
     elif kinds:

@@ -1,13 +1,14 @@
 {
  "total_id": 1302,
  "status": {
-  "AI_FLAGGED": 314,
-  "AI_VERIFIED": 471,
-  "SOURCE_REQUIRED": 175,
-  "EXPERT_REQUIRED": 342
+  "AI_FLAGGED": 294,
+  "AI_VERIFIED": 456,
+  "SOURCE_REQUIRED": 189,
+  "EXPERT_REQUIRED": 354,
+  "UNRESOLVED": 9
  },
  "dengan_hasil_buta": 1302,
- "ada_masalah_unik_id": 691,
+ "ada_masalah_unik_id": 700,
  "cek_lolos": {
   "C01_ID_DAN_BERKAS": {
    "PASS": 1302
@@ -52,7 +53,8 @@
   },
   "C12_JAWABAN_BUTA_VS_KUNCI": {
    "COCOK": 1178,
-   "BEDA": 88,
+   "COCOK_SETELAH_ADJUDIKASI": 26,
+   "BEDA": 62,
    "NA": 36
   }
  }
