@@ -1,0 +1,1524 @@
+{
+ "catatan": "Tinjauan baca oleh model AI (bukan ahli). Hanya pengecualian yang dicatat; soal lain yang dibaca dianggap tidak bermasalah menurut pembaca. Semua temuan perlu keputusan guru/ahli.",
+ "reviewed_ranges": [
+  "0-100 (BIN-B1-0001..0100)",
+  "100-200 (BIN-B1-0101..0111, BIN-B2-0001..0089)",
+  "200-300 (BIN-B2-0090..0139, BIN-B3-0001..0050)",
+  "300-400 (BIN-B3-0051..0139, BIN-B4-0001..0011)",
+  "400-500 (BIN-B4-0012..0111)",
+  "500-600 (BIN-B5-0001..0100)",
+  "600-700 (BIN-B5-0101..0139, BIN-B6-0001..0061)"
+ ],
+ "temuan": {
+  "BIN-B1-0016": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal Benar/Salah memuat titik-titik tanpa angka/jumlah (\"Banyaknya huruf ... adalah ... huruf. Benar\"); pernyataan tidak lengkap sehingga tidak dapat dinilai benar/salah. Usulan: tulis angka (26 huruf / 5 huruf vokal / 21 konsonan) dalam pernyataan."
+   }
+  ],
+  "BIN-B1-0042": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal Benar/Salah memuat titik-titik tanpa angka/jumlah (\"Banyaknya huruf ... adalah ... huruf. Benar\"); pernyataan tidak lengkap sehingga tidak dapat dinilai benar/salah. Usulan: tulis angka (26 huruf / 5 huruf vokal / 21 konsonan) dalam pernyataan."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan \"Banyaknya huruf konsonan adalah ... huruf\" tanpa angka; juga tidak diperiksa dengan fakta (konsonan 21)."
+   }
+  ],
+  "BIN-B1-0047": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka \"kata yang hanya memiliki satu huruf vokal\" - banyak kata benar (tas, roti? bukan; tas, bus, kata, dll.), kunci hanya \"tas\"."
+   }
+  ],
+  "BIN-B1-0056": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "t_s dengan opsi u,e,o,a: \"tes\" (e) juga kata baku KBBI selain \"tas\"; dua opsi dapat dibenarkan."
+   }
+  ],
+  "BIN-B1-0004": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di seluruh teks ATP/CP; TP terdekat B1-01 (cara membaca dan menulis) atau B1-03 (kata berawalan huruf tertentu), tetapi tidak ada TP khusus suku kata."
+   }
+  ],
+  "BIN-B1-0022": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di seluruh teks ATP/CP; TP terdekat B1-01 (cara membaca dan menulis) atau B1-03 (kata berawalan huruf tertentu), tetapi tidak ada TP khusus suku kata."
+   }
+  ],
+  "BIN-B1-0026": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di seluruh teks ATP/CP; TP terdekat B1-01 (cara membaca dan menulis) atau B1-03 (kata berawalan huruf tertentu), tetapi tidak ada TP khusus suku kata."
+   }
+  ],
+  "BIN-B1-0058": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di seluruh teks ATP/CP; TP terdekat B1-01 (cara membaca dan menulis) atau B1-03 (kata berawalan huruf tertentu), tetapi tidak ada TP khusus suku kata."
+   }
+  ],
+  "BIN-B1-0062": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di seluruh teks ATP/CP; TP terdekat B1-01 (cara membaca dan menulis) atau B1-03 (kata berawalan huruf tertentu), tetapi tidak ada TP khusus suku kata."
+   }
+  ],
+  "BIN-B1-0064": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di seluruh teks ATP/CP; TP terdekat B1-01 (cara membaca dan menulis) atau B1-03 (kata berawalan huruf tertentu), tetapi tidak ada TP khusus suku kata."
+   }
+  ],
+  "BIN-B1-0066": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di seluruh teks ATP/CP; TP terdekat B1-01 (cara membaca dan menulis) atau B1-03 (kata berawalan huruf tertentu), tetapi tidak ada TP khusus suku kata."
+   }
+  ],
+  "BIN-B1-0071": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di seluruh teks ATP/CP; TP terdekat B1-01 (cara membaca dan menulis) atau B1-03 (kata berawalan huruf tertentu), tetapi tidak ada TP khusus suku kata."
+   }
+  ],
+  "BIN-B2-0008": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0009": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0010": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0011": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0012": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0013": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0014": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0015": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0016": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0017": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0018": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0019": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0020": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0021": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0022": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0023": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0024": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0025": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0026": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0027": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0028": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0029": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0030": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0031": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0032": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0033": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0034": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0035": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0036": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0037": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0038": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0039": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0040": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0041": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0042": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0043": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0044": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0045": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0046": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0047": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0048": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0049": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0050": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0051": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0052": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0053": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0054": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Dani Suka Olahraga\"/\"Sinta Makan Sayur\" tetapi teks cerita tidak dimuat di soal (teks pendukung hilang); murid tidak dapat menjawab kecuali cerita dibacakan terpisah. Usulan: sertakan teks cerita atau catatan bahwa guru membacakan cerita."
+   }
+  ],
+  "BIN-B2-0003": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Opsi \"taawuz\" (istilah ta'awuz) terlalu asing untuk murid kelas 1 dan tidak ada dalam ATP Bahasa Indonesia; pengecoh sebaiknya istilah yang dikenal murid."
+   }
+  ],
+  "BIN-B2-0055": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kata tanya (berapa/di mana/siapa/kapan) tidak disebut di TP; istilah \"kata tanya\" tidak ada di teks ATP/CP. TP terdekat B2-03 (tanda tanya dan tanda seru)."
+   }
+  ],
+  "BIN-B2-0067": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kata tanya (berapa/di mana/siapa/kapan) tidak disebut di TP; istilah \"kata tanya\" tidak ada di teks ATP/CP. TP terdekat B2-03 (tanda tanya dan tanda seru)."
+   }
+  ],
+  "BIN-B2-0075": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kata tanya (berapa/di mana/siapa/kapan) tidak disebut di TP; istilah \"kata tanya\" tidak ada di teks ATP/CP. TP terdekat B2-03 (tanda tanya dan tanda seru)."
+   }
+  ],
+  "BIN-B2-0079": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Kata tanya (berapa/di mana/siapa/kapan) tidak disebut di TP; istilah \"kata tanya\" tidak ada di teks ATP/CP. TP terdekat B2-03 (tanda tanya dan tanda seru)."
+   }
+  ],
+  "BIN-B2-0062": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kalimat perintah/ungkapan syukur dapat diakhiri titik (.) maupun seru (!) tergantung intonasi; hanya \"!\" yang dikunci, opsi \".\" dapat dibenarkan."
+   }
+  ],
+  "BIN-B2-0074": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kalimat perintah/ungkapan syukur dapat diakhiri titik (.) maupun seru (!) tergantung intonasi; hanya \"!\" yang dikunci, opsi \".\" dapat dibenarkan."
+   }
+  ],
+  "BIN-B2-0078": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kalimat perintah/ungkapan syukur dapat diakhiri titik (.) maupun seru (!) tergantung intonasi; hanya \"!\" yang dikunci, opsi \".\" dapat dibenarkan."
+   }
+  ],
+  "BIN-B2-0093": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di teks ATP/CP; TP B2-04 hanya \"membaca dan menulis kata berawalan c, i, p, s\"."
+   }
+  ],
+  "BIN-B2-0094": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di teks ATP/CP; TP B2-04 hanya \"membaca dan menulis kata berawalan c, i, p, s\"."
+   }
+  ],
+  "BIN-B2-0095": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di teks ATP/CP; TP B2-04 hanya \"membaca dan menulis kata berawalan c, i, p, s\"."
+   }
+  ],
+  "BIN-B2-0097": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di teks ATP/CP; TP B2-04 hanya \"membaca dan menulis kata berawalan c, i, p, s\"."
+   }
+  ],
+  "BIN-B2-0104": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di teks ATP/CP; TP B2-04 hanya \"membaca dan menulis kata berawalan c, i, p, s\"."
+   }
+  ],
+  "BIN-B2-0107": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di teks ATP/CP; TP B2-04 hanya \"membaca dan menulis kata berawalan c, i, p, s\"."
+   }
+  ],
+  "BIN-B2-0109": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di teks ATP/CP; TP B2-04 hanya \"membaca dan menulis kata berawalan c, i, p, s\"."
+   }
+  ],
+  "BIN-B2-0113": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di teks ATP/CP; TP B2-04 hanya \"membaca dan menulis kata berawalan c, i, p, s\"."
+   }
+  ],
+  "BIN-B2-0116": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: istilah \"suku kata\" tidak ada di teks ATP/CP; TP B2-04 hanya \"membaca dan menulis kata berawalan c, i, p, s\"."
+   }
+  ],
+  "BIN-B2-0102": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Materi kebiasaan sehat/syukur/menerapkan ilmu lebih dekat ke ATP 2.5 (Menerapkan ilmu yang dipelajari ... rasa syukur), yang tidak ada di daftar TP bank (hanya B2-01..04); TP terpasang B2-04 (kata berawalan c, i, p, s)."
+   }
+  ],
+  "BIN-B2-0115": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Materi kebiasaan sehat/syukur/menerapkan ilmu lebih dekat ke ATP 2.5 (Menerapkan ilmu yang dipelajari ... rasa syukur), yang tidak ada di daftar TP bank (hanya B2-01..04); TP terpasang B2-04 (kata berawalan c, i, p, s)."
+   }
+  ],
+  "BIN-B2-0126": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Materi kebiasaan sehat/syukur/menerapkan ilmu lebih dekat ke ATP 2.5 (Menerapkan ilmu yang dipelajari ... rasa syukur), yang tidak ada di daftar TP bank (hanya B2-01..04); TP terpasang B2-04 (kata berawalan c, i, p, s)."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian \"Agar badan kuat kita rajin ....\" tidak tunggal: berolahraga, makan sayur, makan bergizi juga benar; hanya \"berolahraga\" dikunci."
+   }
+  ],
+  "BIN-B2-0128": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Materi kebiasaan sehat/syukur/menerapkan ilmu lebih dekat ke ATP 2.5 (Menerapkan ilmu yang dipelajari ... rasa syukur), yang tidak ada di daftar TP bank (hanya B2-01..04); TP terpasang B2-04 (kata berawalan c, i, p, s)."
+   }
+  ],
+  "BIN-B2-0129": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Materi kebiasaan sehat/syukur/menerapkan ilmu lebih dekat ke ATP 2.5 (Menerapkan ilmu yang dipelajari ... rasa syukur), yang tidak ada di daftar TP bank (hanya B2-01..04); TP terpasang B2-04 (kata berawalan c, i, p, s)."
+   }
+  ],
+  "BIN-B2-0130": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Materi kebiasaan sehat/syukur/menerapkan ilmu lebih dekat ke ATP 2.5 (Menerapkan ilmu yang dipelajari ... rasa syukur), yang tidak ada di daftar TP bank (hanya B2-01..04); TP terpasang B2-04 (kata berawalan c, i, p, s)."
+   }
+  ],
+  "BIN-B2-0131": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Materi kebiasaan sehat/syukur/menerapkan ilmu lebih dekat ke ATP 2.5 (Menerapkan ilmu yang dipelajari ... rasa syukur), yang tidak ada di daftar TP bank (hanya B2-01..04); TP terpasang B2-04 (kata berawalan c, i, p, s)."
+   }
+  ],
+  "BIN-B2-0137": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Materi kebiasaan sehat/syukur/menerapkan ilmu lebih dekat ke ATP 2.5 (Menerapkan ilmu yang dipelajari ... rasa syukur), yang tidak ada di daftar TP bank (hanya B2-01..04); TP terpasang B2-04 (kata berawalan c, i, p, s)."
+   }
+  ],
+  "BIN-B3-0009": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0010": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0011": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0012": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0013": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0014": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0015": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0016": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0017": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0018": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0019": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0020": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0021": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0022": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0023": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0024": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0025": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0026": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0027": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0028": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0029": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0030": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tetapi teks cerita tidak dimuat di soal (berbeda dengan B3-0001..0008 yang memuat teks). Usulan: sertakan teks atau catatan guru membacakan cerita."
+   }
+  ],
+  "BIN-B3-0062": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   }
+  ],
+  "BIN-B3-0063": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   }
+  ],
+  "BIN-B3-0064": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   }
+  ],
+  "BIN-B3-0065": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   }
+  ],
+  "BIN-B3-0067": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   }
+  ],
+  "BIN-B3-0068": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   }
+  ],
+  "BIN-B3-0074": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   }
+  ],
+  "BIN-B3-0077": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   }
+  ],
+  "BIN-B3-0078": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   }
+  ],
+  "BIN-B3-0079": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B3-03 hanya membaca/menulis kata berawalan b, g, l, n, o."
+   }
+  ],
+  "BIN-B3-0080": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kartu huruf g bergambar \"gambar\" (gambar dari sebuah gambar): objek pada kartu tidak jelas/tidak dapat diidentifikasi murid sebagai kata \"gambar\"; usulan: ganti objek bergambar yang tegas (mis. gelas, gigi)."
+   }
+  ],
+  "BIN-B3-0102": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal sikap belajar/adab menyimak-membaca-menulis lebih dekat ke ATP 3.5 (sikap belajar sungguh-sungguh) yang tidak ada di daftar TP bank; TP terpasang B3-04 (menceritakan kembali gambar)."
+   }
+  ],
+  "BIN-B3-0103": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal sikap belajar/adab menyimak-membaca-menulis lebih dekat ke ATP 3.5 (sikap belajar sungguh-sungguh) yang tidak ada di daftar TP bank; TP terpasang B3-04 (menceritakan kembali gambar)."
+   }
+  ],
+  "BIN-B3-0106": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal sikap belajar/adab menyimak-membaca-menulis lebih dekat ke ATP 3.5 (sikap belajar sungguh-sungguh) yang tidak ada di daftar TP bank; TP terpasang B3-04 (menceritakan kembali gambar)."
+   }
+  ],
+  "BIN-B3-0107": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal sikap belajar/adab menyimak-membaca-menulis lebih dekat ke ATP 3.5 (sikap belajar sungguh-sungguh) yang tidak ada di daftar TP bank; TP terpasang B3-04 (menceritakan kembali gambar)."
+   }
+  ],
+  "BIN-B3-0112": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal sikap belajar/adab menyimak-membaca-menulis lebih dekat ke ATP 3.5 (sikap belajar sungguh-sungguh) yang tidak ada di daftar TP bank; TP terpasang B3-04 (menceritakan kembali gambar)."
+   }
+  ],
+  "BIN-B3-0113": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal sikap belajar/adab menyimak-membaca-menulis lebih dekat ke ATP 3.5 (sikap belajar sungguh-sungguh) yang tidak ada di daftar TP bank; TP terpasang B3-04 (menceritakan kembali gambar)."
+   }
+  ],
+  "BIN-B3-0114": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal sikap belajar/adab menyimak-membaca-menulis lebih dekat ke ATP 3.5 (sikap belajar sungguh-sungguh) yang tidak ada di daftar TP bank; TP terpasang B3-04 (menceritakan kembali gambar)."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Stem menyebut \"mengerjakan tugas dengan jujur\" tetapi kunci \"tanggung jawab\"; jawaban bisa dipertanyakan (jujur vs tanggung jawab), perlu keputusan guru."
+   }
+  ],
+  "BIN-B3-0124": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal sikap belajar/adab menyimak-membaca-menulis lebih dekat ke ATP 3.5 (sikap belajar sungguh-sungguh) yang tidak ada di daftar TP bank; TP terpasang B3-04 (menceritakan kembali gambar)."
+   }
+  ],
+  "BIN-B3-0109": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah \"sakinah\" (tenang, damai) abstrak untuk murid kelas 1; definisi tidak diajarkan dalam ATP selain judul bab."
+   }
+  ],
+  "BIN-B3-0115": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh televisi/kucing/bayi absurd sehingga kunci terbaca; juga bergantung stereotip peran (\"biasanya ibu\"), ayah/kakak juga dapat memasak nasi."
+   }
+  ],
+  "BIN-B1-0011": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Deskripsi gambar dalam stem sudah menyebut jawaban (mis. \"duduk tegak ... memegang pensil dengan benar\" -> menulis yang baik); jawaban terbaca dari soal."
+   }
+  ],
+  "BIN-B1-0094": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Deskripsi gambar dalam stem sudah menyebut jawaban (mis. \"duduk tegak ... memegang pensil dengan benar\" -> menulis yang baik); jawaban terbaca dari soal."
+   }
+  ],
+  "BIN-B1-0095": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Deskripsi gambar dalam stem sudah menyebut jawaban (mis. \"duduk tegak ... memegang pensil dengan benar\" -> menulis yang baik); jawaban terbaca dari soal."
+   }
+  ],
+  "BIN-B3-0116": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Deskripsi gambar dalam stem sudah memuat isi kunci (stem menyebut aktivitas yang sama dengan kalimat kunci); jawaban terbaca dari soal tanpa perlu melihat gambar."
+   }
+  ],
+  "BIN-B3-0117": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Deskripsi gambar dalam stem sudah memuat isi kunci (stem menyebut aktivitas yang sama dengan kalimat kunci); jawaban terbaca dari soal tanpa perlu melihat gambar."
+   }
+  ],
+  "BIN-B3-0118": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Deskripsi gambar dalam stem sudah memuat isi kunci (stem menyebut aktivitas yang sama dengan kalimat kunci); jawaban terbaca dari soal tanpa perlu melihat gambar."
+   }
+  ],
+  "BIN-B3-0119": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Deskripsi gambar dalam stem sudah memuat isi kunci (stem menyebut aktivitas yang sama dengan kalimat kunci); jawaban terbaca dari soal tanpa perlu melihat gambar."
+   }
+  ],
+  "BIN-B3-0120": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Deskripsi gambar dalam stem sudah memuat isi kunci (stem menyebut aktivitas yang sama dengan kalimat kunci); jawaban terbaca dari soal tanpa perlu melihat gambar."
+   }
+  ],
+  "BIN-B3-0121": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B3-0122": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tanpa memuat teks cerita."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Teks \"Keluargaku\" menggambarkan kegiatan yang berlangsung bersamaan (ayah bekerja, ibu memasak, kakak membantu, adik bermain); urutan tidak ditentukan oleh teks, hanya \"makan bersama sore hari\" yang jelas terakhir. Urutan kunci arbitrer."
+   }
+  ],
+  "BIN-B3-0125": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B3-0126": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk cerita \"Keluargaku\"/\"Lani Membantu Ibu\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B3-0132": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Teks \"Keluargaku\" menggambarkan kegiatan yang berlangsung bersamaan (ayah bekerja, ibu memasak, kakak membantu, adik bermain); urutan tidak ditentukan oleh teks, hanya \"makan bersama sore hari\" yang jelas terakhir. Urutan kunci arbitrer."
+   }
+  ],
+  "BIN-B4-0005": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "\"Kreativitas dan ekspresi diri\" abstrak untuk murid kelas 1 (6-7 tahun) sebagai jawaban soal."
+   }
+  ],
+  "BIN-B4-0010": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita (\"Gerakan Hewan\"/membersihkan tangan) tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0011": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita (\"Gerakan Hewan\"/membersihkan tangan) tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0027": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   }
+  ],
+  "BIN-B4-0031": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   }
+  ],
+  "BIN-B4-0032": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   }
+  ],
+  "BIN-B4-0034": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   }
+  ],
+  "BIN-B4-0035": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   }
+  ],
+  "BIN-B4-0037": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Nama bulan \"Februari\" (4 suku kata, ejaan sulit) tidak ada dalam TP/ATP dan terlalu sulit untuk pembaca awal."
+   }
+  ],
+  "BIN-B4-0042": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   }
+  ],
+  "BIN-B4-0043": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   }
+  ],
+  "BIN-B4-0044": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   }
+  ],
+  "BIN-B4-0047": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   }
+  ],
+  "BIN-B4-0050": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B4-02 hanya membaca/menulis kata berawalan d, e, f, j, u."
+   }
+  ],
+  "BIN-B4-0012": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "\"Kreativitas dan ekspresi diri\" abstrak untuk murid kelas 1 (sama dengan B4-0005)."
+   }
+  ],
+  "BIN-B4-0013": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Gerakan Hewan\" tanpa memuat teks cerita; murid tidak dapat memeriksa urutan atau isi."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan hewan (kelinci > gajah > burung) pada cerita deskriptif gerakan hewan tidak menyatakan urutan waktu; urutan kunci arbitrer."
+   }
+  ],
+  "BIN-B4-0016": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Gerakan Hewan\" tanpa memuat teks cerita; murid tidak dapat memeriksa urutan atau isi."
+   }
+  ],
+  "BIN-B4-0018": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Gerakan Hewan\" tanpa memuat teks cerita; murid tidak dapat memeriksa urutan atau isi."
+   }
+  ],
+  "BIN-B4-0020": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Gerakan Hewan\" tanpa memuat teks cerita; murid tidak dapat memeriksa urutan atau isi."
+   }
+  ],
+  "BIN-B4-0024": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Gerakan Hewan\" tanpa memuat teks cerita; murid tidak dapat memeriksa urutan atau isi."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan hewan (kelinci > gajah > burung) pada cerita deskriptif gerakan hewan tidak menyatakan urutan waktu; urutan kunci arbitrer."
+   }
+  ],
+  "BIN-B4-0048": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Nama bulan \"Februari\" (4 suku kata, ejaan sulit) tidak ada dalam TP/ATP dan terlalu sulit untuk pembaca awal."
+   }
+  ],
+  "BIN-B4-0065": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita (berbeda dengan B4-0061..0064 yang memuat teks)."
+   }
+  ],
+  "BIN-B4-0066": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita (berbeda dengan B4-0061..0064 yang memuat teks)."
+   }
+  ],
+  "BIN-B4-0067": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita (berbeda dengan B4-0061..0064 yang memuat teks)."
+   }
+  ],
+  "BIN-B4-0070": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0071": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0072": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0073": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0074": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0075": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0076": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0077": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0078": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0079": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0080": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0081": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0082": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0083": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Cuci Tangan\"/\"Bimo dan Sampah\" tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B4-0091": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "\"Menuntut ilmu hukumnya baik bagi setiap muslim\": istilah hukum yang lazim adalah wajib; \"baik\" kurang tepat sebagai hukum, perlu keputusan ahli."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Konsep \"hukumnya\" (status hukum) abstrak untuk kelas 1."
+   }
+  ],
+  "BIN-B5-0016": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pernyataan Benar/Salah memuat titik-titik (\"Tanda titik ditulis di ... kalimat berita\") sehingga tidak lengkap dan tidak dapat dinilai; usulan: tulis \"Tanda titik ditulis di akhir kalimat berita\"."
+   }
+  ],
+  "BIN-B5-0060": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Ejaan \"qurban\": bentuk baku KBBI adalah \"kurban\"; \"qurban\" ragam serapan, perlu keputusan ahli apakah dipertahankan karena TP meminta kata berawalan q."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   }
+  ],
+  "BIN-B5-0077": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Ejaan \"qurban\": bentuk baku KBBI adalah \"kurban\"; \"qurban\" ragam serapan, perlu keputusan ahli apakah dipertahankan karena TP meminta kata berawalan q."
+   }
+  ],
+  "BIN-B5-0084": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Ejaan \"qurban\": bentuk baku KBBI adalah \"kurban\"; \"qurban\" ragam serapan, perlu keputusan ahli apakah dipertahankan karena TP meminta kata berawalan q."
+   }
+  ],
+  "BIN-B5-0099": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Ejaan \"qurban\": bentuk baku KBBI adalah \"kurban\"; \"qurban\" ragam serapan, perlu keputusan ahli apakah dipertahankan karena TP meminta kata berawalan q."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Kata \"qari\" (pembaca Al-Qur'an) ejaan baku KBBI \"kari/qari\" meragukan dan kosakata terlalu jarang untuk kelas 1; perlu keputusan ahli."
+   }
+  ],
+  "BIN-B5-0069": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Kata \"qari\" (pembaca Al-Qur'an) ejaan baku KBBI \"kari/qari\" meragukan dan kosakata terlalu jarang untuk kelas 1; perlu keputusan ahli."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   }
+  ],
+  "BIN-B5-0090": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Kata \"qari\" (pembaca Al-Qur'an) ejaan baku KBBI \"kari/qari\" meragukan dan kosakata terlalu jarang untuk kelas 1; perlu keputusan ahli."
+   }
+  ],
+  "BIN-B5-0061": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   }
+  ],
+  "BIN-B5-0064": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   }
+  ],
+  "BIN-B5-0065": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   }
+  ],
+  "BIN-B5-0066": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   }
+  ],
+  "BIN-B5-0067": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   }
+  ],
+  "BIN-B5-0068": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   }
+  ],
+  "BIN-B5-0071": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   }
+  ],
+  "BIN-B5-0073": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pemenggalan/hitung suku kata: \"suku kata\" tidak ada di teks ATP/CP; TP B5-03 hanya membaca/menulis kata berawalan q, v, w, x, y, z."
+   }
+  ],
+  "BIN-B5-0101": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem sudah mendefinisikan ungkapan dan fungsinya lalu bertanya hal yang sama (\"Ungkapan itu dipakai ketika ....\"); kunci terbaca langsung dari stem."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi \"dipakai ketika .... \" diikuti opsi berawalan \"ketika\"/\"untuk\" (mis. \"ketika ketika kita...\"); bentuk opsi tidak seragam dan menggandakan kata."
+   }
+  ],
+  "BIN-B5-0106": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem sudah mendefinisikan ungkapan dan fungsinya lalu bertanya hal yang sama (\"Ungkapan itu dipakai ketika ....\"); kunci terbaca langsung dari stem."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi \"dipakai ketika .... \" diikuti opsi berawalan \"ketika\"/\"untuk\" (mis. \"ketika ketika kita...\"); bentuk opsi tidak seragam dan menggandakan kata."
+   }
+  ],
+  "BIN-B5-0108": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem sudah mendefinisikan ungkapan dan fungsinya lalu bertanya hal yang sama (\"Ungkapan itu dipakai ketika ....\"); kunci terbaca langsung dari stem."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi \"dipakai ketika .... \" diikuti opsi berawalan \"ketika\"/\"untuk\" (mis. \"ketika ketika kita...\"); bentuk opsi tidak seragam dan menggandakan kata."
+   }
+  ],
+  "BIN-B5-0109": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem sudah mendefinisikan ungkapan dan fungsinya lalu bertanya hal yang sama (\"Ungkapan itu dipakai ketika ....\"); kunci terbaca langsung dari stem."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi \"dipakai ketika .... \" diikuti opsi berawalan \"ketika\"/\"untuk\" (mis. \"ketika ketika kita...\"); bentuk opsi tidak seragam dan menggandakan kata."
+   }
+  ],
+  "BIN-B5-0116": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Bermain Bersama\" tanpa memuat teks cerita (teks hanya ada pada B5-0122 dan B5-0126)."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Opsi kunci memakai kata \"pergaulan\" dan \"santun\" dalam kalimat panjang; abstrak untuk kelas 1."
+   }
+  ],
+  "BIN-B5-0117": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Bermain Bersama\" tanpa memuat teks cerita (teks hanya ada pada B5-0122 dan B5-0126)."
+   }
+  ],
+  "BIN-B5-0119": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Bermain Bersama\" tanpa memuat teks cerita (teks hanya ada pada B5-0122 dan B5-0126)."
+   }
+  ],
+  "BIN-B5-0127": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Bermain Bersama\" tanpa memuat teks cerita (teks hanya ada pada B5-0122 dan B5-0126)."
+   }
+  ],
+  "BIN-B5-0137": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Bermain Bersama\" tanpa memuat teks cerita (teks hanya ada pada B5-0122 dan B5-0126)."
+   }
+  ],
+  "BIN-B5-0121": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Terlambat masuk kelas: \"permisi\" juga dapat dibenarkan karena bank mendefinisikan permisi sebagai meminta izin lewat atau masuk (B5-0104, B5-0129); hanya \"maaf\" dikunci."
+   }
+  ],
+  "BIN-B5-0134": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Terlambat masuk kelas: \"permisi\" juga dapat dibenarkan karena bank mendefinisikan permisi sebagai meminta izin lewat atau masuk (B5-0104, B5-0129); hanya \"maaf\" dikunci."
+   }
+  ],
+  "BIN-B6-0006": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0007": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0008": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0009": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0010": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0011": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0012": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0013": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0014": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0015": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0016": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0017": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0018": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0019": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0020": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0021": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0022": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0023": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita \"Ikan di Kolam\"/\"Rumahku Surgaku\" tanpa memuat teks cerita (B6-0001..0005 memuat teks)."
+   }
+  ],
+  "BIN-B6-0024": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B6-0025": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B6-0026": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B6-0027": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B6-0028": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B6-0029": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B6-0030": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Dalam \"Ikan di Kolam\" dua ikan ke kiri dan tiga ikan ke kanan terjadi bersamaan; urutan keduanya tidak ditentukan teks sehingga kunci \"setelah\" arbitrer."
+   }
+  ],
+  "BIN-B6-0031": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B6-0032": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B6-0033": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B6-0034": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Dalam \"Ikan di Kolam\" dua ikan ke kiri dan tiga ikan ke kanan terjadi bersamaan; urutan keduanya tidak ditentukan teks sehingga kunci \"setelah\" arbitrer."
+   }
+  ],
+  "BIN-B6-0035": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B6-0036": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B6-0037": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B6-0038": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   }
+  ],
+  "BIN-B6-0039": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk cerita tanpa memuat teks cerita."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Dalam \"Ikan di Kolam\" dua ikan ke kiri dan tiga ikan ke kanan terjadi bersamaan; urutan keduanya tidak ditentukan teks sehingga kunci \"setelah\" arbitrer."
+   }
+  ]
+ }
+}

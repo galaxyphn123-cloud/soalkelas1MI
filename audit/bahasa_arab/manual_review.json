@@ -1,0 +1,871 @@
+{
+ "catatan": "Tinjauan baca oleh model AI (bukan ahli). Hanya pengecualian yang dicatat; soal lain yang dibaca dianggap tidak bermasalah menurut pembaca. Semua temuan perlu keputusan guru/ahli.",
+ "reviewed_ranges": [
+  "0-100 (BAR-PK-0001..0100)",
+  "100-200 (BAR-PK-0101..0200)",
+  "200-300 (BAR-PK-0201..0250, BAR-KL-0001..0050)",
+  "300-400 (BAR-KL-0051..0150)",
+  "400-500 (BAR-KL-0151..0250)",
+  "500-600 (BAR-RM-0001..0100)",
+  "600-700 (BAR-RM-0101..0200)",
+  "700-800 (BAR-RM-0201..0250, BAR-SK-0001..0050)",
+  "800-900 (BAR-SK-0051..0150)",
+  "900-1000 (BAR-SK-0151..0250)"
+ ],
+ "temuan": {
+  "BAR-PK-0088": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Gambar anak laki-laki berseragam MI: \"هٰذَا وَلَدٌ\" (kunci) dan pengecoh C \"هٰذَا تِلْمِيْذٌ\" sama-sama benar untuk gambar itu."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-PK-0089; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-PK-0085": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Gambar anak perempuan berjilbab membawa tas di depan sekolah; pengecoh \"هٰذِهِ صَدِيْقَةٌ\" tidak dapat disingkirkan dari gambar tunggal (teman tidak tampak dari gambar)."
+   }
+  ],
+  "BAR-PK-0094": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi templat \"Dalam percakapan yang ucapan selamat pagi dan jawabannya, temanmu bertanya\" janggal/tidak gramatikal; perbaiki mis. \"Temanmu mengucapkan ... Jawaban yang tepat adalah ....\"."
+   }
+  ],
+  "BAR-PK-0095": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi templat \"Dalam percakapan yang ucapan selamat pagi dan jawabannya, temanmu bertanya\" janggal/tidak gramatikal; perbaiki mis. \"Temanmu mengucapkan ... Jawaban yang tepat adalah ....\"."
+   }
+  ],
+  "BAR-PK-0096": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi templat \"Dalam percakapan yang ucapan selamat pagi dan jawabannya, temanmu bertanya\" janggal/tidak gramatikal; perbaiki mis. \"Temanmu mengucapkan ... Jawaban yang tepat adalah ....\"."
+   }
+  ],
+  "BAR-PK-0097": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi templat \"Dalam percakapan yang ucapan selamat pagi dan jawabannya, temanmu bertanya\" janggal/tidak gramatikal; perbaiki mis. \"Temanmu mengucapkan ... Jawaban yang tepat adalah ....\"."
+   }
+  ],
+  "BAR-PK-0098": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi templat \"Dalam percakapan yang ucapan selamat pagi dan jawabannya, temanmu bertanya\" janggal/tidak gramatikal; perbaiki mis. \"Temanmu mengucapkan ... Jawaban yang tepat adalah ....\"."
+   }
+  ],
+  "BAR-PK-0099": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi templat \"Dalam percakapan yang ucapan selamat pagi dan jawabannya, temanmu bertanya\" janggal/tidak gramatikal; perbaiki mis. \"Temanmu mengucapkan ... Jawaban yang tepat adalah ....\"."
+   }
+  ],
+  "BAR-PK-0130": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\"/\"mudzakkar\" mencampur kategori yang tidak sejajar (kata kerja bukan jenis kata benda); stem dan opsi tidak koheren."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Penggolongan isim mudzakkar/muannats/jamak/fi'il adalah istilah nahwu-sharaf yang abstrak untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "BAR-PK-0132": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\"/\"mudzakkar\" mencampur kategori yang tidak sejajar (kata kerja bukan jenis kata benda); stem dan opsi tidak koheren."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Penggolongan isim mudzakkar/muannats/jamak/fi'il adalah istilah nahwu-sharaf yang abstrak untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "BAR-PK-0143": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\"/\"mudzakkar\" mencampur kategori yang tidak sejajar (kata kerja bukan jenis kata benda); stem dan opsi tidak koheren."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Penggolongan isim mudzakkar/muannats/jamak/fi'il adalah istilah nahwu-sharaf yang abstrak untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "BAR-PK-0148": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\"/\"mudzakkar\" mencampur kategori yang tidak sejajar (kata kerja bukan jenis kata benda); stem dan opsi tidak koheren."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Penggolongan isim mudzakkar/muannats/jamak/fi'il adalah istilah nahwu-sharaf yang abstrak untuk kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "BAR-PK-0168": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem \"Pertanyaan شُكْرًا / مَرْحَبًا dijawab dengan ...\" keliru: itu ucapan, bukan pertanyaan; ganti \"Ucapan\"."
+   }
+  ],
+  "BAR-PK-0169": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem \"Pertanyaan شُكْرًا / مَرْحَبًا dijawab dengan ...\" keliru: itu ucapan, bukan pertanyaan; ganti \"Ucapan\"."
+   }
+  ],
+  "BAR-PK-0210": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Hukum menjawab salam disebut \"dianjurkan\"; menurut rujukan fikih umum menjawab salam wajib (fardu kifayah/ain). Perlu keputusan ahli; juga bersifat fikih/hukum, bukan kosakata TP."
+   }
+  ],
+  "BAR-PK-0240": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem \"berdasarkan waktu/keperluannya\" tetapi dua kelompok kunci (\"ucapan sapaan/penyambutan\" vs \"ucapan penutup/terima kasih\") tidak sesuai dasar waktu; shubuh/petang dan penyambutan dicampur, مَرْحَبًا/أَهْلًا وَسَهْلًا (penyambutan) vs صَبَاحُ الْخَيْرِ (waktu) tidak pada dasar sama; syarat pengelompokan ambigu."
+   }
+  ],
+  "BAR-KL-0012": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci \"ibunda (orang tua perempuan)\" tetapi pengecoh A \"ibu\" juga merupakan arti yang benar untuk وَالِدَةٌ."
+   }
+  ],
+  "BAR-KL-0131": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\"/\"mudzakkar\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-KL-0140": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\"/\"mudzakkar\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-KL-0083": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Gambar \"paman\" tidak memuat petunjuk paman dari pihak ayah (عَمٌّ) atau ibu (خَالٌ); kunci hanya bergantung pada nomor kartu/narasi yang tidak tampak bagi murid."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0084; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0090; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0086": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Gambar \"paman\" tidak memuat petunjuk paman dari pihak ayah (عَمٌّ) atau ibu (خَالٌ); kunci hanya bergantung pada nomor kartu/narasi yang tidak tampak bagi murid."
+   }
+  ],
+  "BAR-KL-0088": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Gambar \"paman\" tidak memuat petunjuk paman dari pihak ayah (عَمٌّ) atau ibu (خَالٌ); kunci hanya bergantung pada nomor kartu/narasi yang tidak tampak bagi murid."
+   }
+  ],
+  "BAR-KL-0089": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Gambar \"paman\" tidak memuat petunjuk paman dari pihak ayah (عَمٌّ) atau ibu (خَالٌ); kunci hanya bergantung pada nomor kartu/narasi yang tidak tampak bagi murid."
+   }
+  ],
+  "BAR-KL-0156": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan pengecoh \"kata kerja\"/\"jamak\" tidak sejajar, sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-KL-0238": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan \"membukakan pintu > salam > cium tangan > ambilkan air\" tidak tunggal; salam dapat mendahului membukakan pintu."
+   }
+  ],
+  "BAR-RM-0039": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "طَاوِلَةٌ diartikan \"meja makan\"; kata ini umumnya berarti \"meja\" (meja makan lazimnya مَائِدَةٌ/طَاوِلَةُ الطَّعَامِ). Arti perlu dikonfirmasi ahli/buku ajar."
+   }
+  ],
+  "BAR-RM-0041": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "طَاوِلَةٌ diartikan \"meja makan\"; kata ini umumnya berarti \"meja\" (meja makan lazimnya مَائِدَةٌ/طَاوِلَةُ الطَّعَامِ). Arti perlu dikonfirmasi ahli/buku ajar."
+   }
+  ],
+  "BAR-RM-0052": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "طَاوِلَةٌ diartikan \"meja makan\"; kata ini umumnya berarti \"meja\" (meja makan lazimnya مَائِدَةٌ/طَاوِلَةُ الطَّعَامِ). Arti perlu dikonfirmasi ahli/buku ajar."
+   }
+  ],
+  "BAR-RM-0058": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "طَاوِلَةٌ diartikan \"meja makan\"; kata ini umumnya berarti \"meja\" (meja makan lazimnya مَائِدَةٌ/طَاوِلَةُ الطَّعَامِ). Arti perlu dikonfirmasi ahli/buku ajar."
+   }
+  ],
+  "BAR-RM-0093": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif \"kecuali\" dan menyebut pintu/kulkas sebagai \"ruang\"; teks hanya memuat dapur, kulkas, kamar mandi, pintu sehingga redaksi \"ruang\" tidak tepat."
+   }
+  ],
+  "BAR-RM-0127": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-RM-0139": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-RM-0141": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-RM-0147": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-RM-0153": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-RM-0162": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-RM-0165": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-RM-0239": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan \"merapikan barang > menyapu > membuang sampah > mencuci tangan\" tidak tunggal (mis. membuang sampah dapat mendahului menyapu); urutan bukan fakta bahasa/TP."
+   }
+  ],
+  "BAR-SK-0014": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "مَكْتَبٌ diberi arti \"meja belajar\"; kamus umumnya mengartikan \"meja tulis/kantor\". Arti perlu dikonfirmasi ahli/buku ajar."
+   }
+  ],
+  "BAR-SK-0128": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-SK-0131": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-SK-0133": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-SK-0058": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "مَكْتَبٌ dimaknai \"meja belajar/meja\"; sama dengan BAR-SK-0014 (arti umum meja tulis/kantor), perlu konfirmasi ahli."
+   }
+  ],
+  "BAR-SK-0088": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "مَكْتَبٌ dimaknai \"meja belajar/meja\"; sama dengan BAR-SK-0014 (arti umum meja tulis/kantor), perlu konfirmasi ahli."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0087; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0152": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-SK-0158": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-SK-0162": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Templat \"termasuk kata benda ....\" dengan opsi \"kata kerja\"/\"jamak\" (kategori tidak sejajar), sama dengan BAR-PK-0130."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah mudzakkar/muannats/jamak/kata kerja abstrak untuk kelas 1."
+   }
+  ],
+  "BAR-SK-0239": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan \"salam > duduk rapi > mendengarkan > mencatat\": mendengarkan dan mencatat berlangsung bersamaan; urutan tidak tunggal."
+   }
+  ],
+  "BAR-PK-0089": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-PK-0088; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-PK-0136": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-PK-0150; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-PK-0159; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-PK-0150": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-PK-0136; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-PK-0159; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-PK-0159": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-PK-0136; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-PK-0150; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0002": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0019; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0019": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0002; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0062": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0077; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0077": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0062; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0063": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0069; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0069": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0063; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0068; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0068": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0069; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0071": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0078; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0078": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0071; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0073": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0079; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0079": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0073; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0082": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0085; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0085": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0082; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0084": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0083; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0090; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0090": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0083; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0084; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0092": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0094; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0094": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0092; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0133": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0160; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0160": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0133; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0174": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0176; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-KL-0176": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-KL-0174; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0029": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0032; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0032": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0029; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0059": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0076; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0076": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0059; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0066": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0070; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0077; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0070": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0066; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0077; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0077": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0066; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0070; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0079": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0081; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0081": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0079; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0080": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0082; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0084; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0082": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0080; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0084; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0084": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0080; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0082; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0089": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0094; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0094": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0089; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0136": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0154; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0154": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0136; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0158; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0142": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0148; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0148": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0142; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0143": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0161; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0161": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0143; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-RM-0158": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-RM-0154; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0063": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0073; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0073": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0063; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0067": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0072; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0072": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0067; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0075": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0076; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0076": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0075; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0080": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0085; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0085": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0080; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0082": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0086; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0086": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0082; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0087": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0088; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0090": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0097; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0097": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0090; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0132": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0142; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0142": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0132; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0134": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0143; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0145; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0154; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0143": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0134; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0145; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0145": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0134; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   },
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0143; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0154": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0134; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0150": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0159; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ],
+  "BAR-SK-0159": [
+   {
+    "kode": "DUP_DIPERTAHANKAN",
+    "catatan": "Kembar templat dengan BAR-SK-0150; kata/fakta berbeda (butir kosakata atau gambar berbeda), dipertahankan."
+   }
+  ]
+ }
+}

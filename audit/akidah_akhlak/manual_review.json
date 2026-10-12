@@ -1,0 +1,680 @@
+{
+ "catatan": "Tinjauan baca oleh model AI (bukan ahli). Hanya pengecualian yang dicatat; soal lain yang dibaca dianggap tidak bermasalah menurut pembaca. Semua temuan perlu keputusan guru/ahli.",
+ "reviewed_ranges": [
+  "0-100 (AKA-SY-0001..0100)",
+  "100-200 (AKA-SY-0101..0104, AKA-TY-0001..0096)",
+  "200-300 (AKA-TY-0097..0103, AKA-SH-0001..0093)",
+  "300-400 (AKA-SH-0094..0155, AKA-AB-0001..0038)",
+  "400-500 (AKA-AB-0039..0138)",
+  "500-600 (AKA-AB-0139..0207, AKA-KN-0001..0031)",
+  "600-700 (AKA-KN-0032..0131)",
+  "700-800 (AKA-KN-0132..0155, AKA-RI-0001..0076)",
+  "800-900 (AKA-RI-0077..0176)"
+ ],
+ "temuan": {
+  "AKA-SY-0005": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Terjemah kata tata bahasa \"illa\" (kecuali) per kata terlalu abstrak untuk kelas 1; TP hanya meminta arti dua kalimat syahadat secara utuh."
+   }
+  ],
+  "AKA-SY-0023": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Sama dengan AKA-SY-0005: arti partikel \"illa\" per kata, kesulitan tinggi untuk usia 6-7 tahun."
+   }
+  ],
+  "AKA-SY-0028": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Arti bagian \"illallah\" (kecuali Allah) dipecah-pecah; analisis bagian kalimat berat untuk kelas 1."
+   }
+  ],
+  "AKA-SY-0047": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Sama dengan AKA-SY-0028 (isian arti \"illallah\")."
+   }
+  ],
+  "AKA-SY-0024": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menjodohkan arti kata per kata (asyhadu, ilaha, illa, rasul) menuntut analisis kata Arab; berat untuk kelas 1."
+   }
+  ],
+  "AKA-SY-0045": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian meminta murid menulis kalimat Arab berharakat lengkap; kemampuan tulis Arab berharakat belum menjadi TP kelas 1 (TP: menghafal/membaca) dan penilaian otomatis tidak realistis; lebih cocok pilihan ganda/praktik."
+   }
+  ],
+  "AKA-SY-0046": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian meminta murid menulis kalimat Arab berharakat lengkap; kemampuan tulis Arab berharakat belum menjadi TP kelas 1 (TP: menghafal/membaca) dan penilaian otomatis tidak realistis; lebih cocok pilihan ganda/praktik."
+   }
+  ],
+  "AKA-SY-0080": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Gambar tasyahud/salat; CP Akidah Akhlak tidak memuat salat (tasyahud ranah Fikih); kaitannya dengan syahadat hanya tidak langsung."
+   }
+  ],
+  "AKA-SY-0082": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Bacaan tasyahud dalam salat berada di ranah Fikih; ATP Akidah Akhlak tidak memuat bacaan salat. Selain itu \"paling sering\" tidak jelas karena tasyahud juga ada pada tasyahud awal."
+   }
+  ],
+  "AKA-SY-0088": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Mengaitkan syahadat dengan salat tepat waktu; salat bukan materi ATP Akidah Akhlak, kaitan ke TP syahadat longgar."
+   }
+  ],
+  "AKA-SY-0037": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal Benar/Salah memakai instruksi \"Lengkapi ...\" di dalam pernyataan; format campur membingungkan (bukan pernyataan yang dinilai benar/salah secara wajar). Sama pada AKA-TY-0019 dan AKA-TY-0022."
+   }
+  ],
+  "AKA-TY-0019": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal Benar/Salah berisi instruksi \"Lengkapi ...\" sehingga bentuk soal tidak jelas; selisih satu huruf (rahim/rajim; billah/lillah) sulit dinilai murid kelas 1."
+   }
+  ],
+  "AKA-TY-0022": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal Benar/Salah berisi instruksi \"Lengkapi ...\" sehingga bentuk soal tidak jelas; selisih satu huruf (rahim/rajim; billah/lillah) sulit dinilai murid kelas 1."
+   }
+  ],
+  "AKA-SY-0101": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan kegiatan pagi tidak punya urutan baku; \"bersyukur kepada Allah\" bisa dilakukan sejak bangun tidur, bukan hanya setelah salat Subuh. Urutan juga memasukkan wudu dan salat (ranah Fikih)."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Wudu dan salat Subuh bukan materi ATP Akidah Akhlak; hanya CP \"adab\" (mandi, berpakaian, makan, minum) yang mendekati."
+   }
+  ],
+  "AKA-SY-0103": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Praktik sikap duduk tasyahud adalah ranah Fikih; ATP Akidah Akhlak tidak punya TP/materi gerakan salat."
+   }
+  ],
+  "AKA-TY-0011": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Soal menyebut \"pada bab ini\" tanpa konteks bab; murid tidak tahu rujukan. Sama pada AKA-TY-0027."
+   }
+  ],
+  "AKA-TY-0027": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Menyebut \"pada bab ini\" tanpa konteks bab (sama dengan AKA-TY-0011)."
+   }
+  ],
+  "AKA-TY-0043": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Arti \"ar-rajim\" = \"yang terkutuk\" abstrak untuk kelas 1 dan tidak diminta TP (arti tiap kata); pertimbangkan guru."
+   }
+  ],
+  "AKA-TY-0054": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Arti \"ar-rajim\" = \"yang terkutuk\" abstrak untuk kelas 1 dan tidak diminta TP (arti tiap kata); pertimbangkan guru."
+   }
+  ],
+  "AKA-TY-0057": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Arti \"ar-rajim\" = \"yang terkutuk\" abstrak untuk kelas 1 dan tidak diminta TP (arti tiap kata); pertimbangkan guru."
+   }
+  ],
+  "AKA-TY-0076": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Opsi tidak sejajar dengan batang soal (\"menolak sambil membaca ....\" tetapi opsi B \"membaca ta'awudz dan menolak ...\" sehingga kata \"membaca\" ganda; opsi A/C/D bukan bacaan); kunci terbaca karena paling panjang dan satu-satunya yang menyebut bacaan. Ejaan \"ta'awudz\" juga tidak seragam dengan \"taawuz\" di bank."
+   }
+  ],
+  "AKA-TY-0065": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh \"tahmid\" istilah asing yang belum diajarkan kelas 1 dan sinonim hamdalah; pengecoh tidak wajar."
+   }
+  ],
+  "AKA-TY-0098": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan reaksi saat marah tidak baku: menarik napas/menenangkan diri dapat dilakukan bersamaan atau sebelum taawuz; hanya satu urutan dinilai benar tanpa dasar rujukan."
+   }
+  ],
+  "AKA-TY-0101": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal pengelompokan tidak bermakna: kelompok \"arti\" hanya berisi satu butir, dan \"Alhamdulillah\" dengan \"Segala puji bagi Allah\" bermakna sama sehingga pengelompokan Latin vs arti membingungkan."
+   }
+  ],
+  "AKA-SH-0004": [
+   {
+    "kode": "BAHASA",
+    "catatan": "\"disingkat juga dengan perilaku hidup bersih dan sehat\": PHBS adalah istilah/nama program, bukan singkatan dari \"pola hidup sehat dan bersih\"; kata \"disingkat\" menyesatkan. Sama pada AKA-SH-0015 dan AKA-SH-0026."
+   }
+  ],
+  "AKA-SH-0015": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Memakai \"disingkat juga dengan ...\" (lihat AKA-SH-0004); istilah PHBS tidak diajarkan di ATP."
+   }
+  ],
+  "AKA-SH-0026": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Memakai \"disingkat juga dengan ...\" (lihat AKA-SH-0004); istilah PHBS tidak diajarkan di ATP."
+   }
+  ],
+  "AKA-SH-0009": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "\"Kebersihan dan kesehatan adalah bagian dari iman\": ungkapan populer \"kebersihan sebagian dari iman\" bersumber dari hadis yang sahih hanya pada lafal \"ath-thuhuru syatrul iman\" (kesucian); \"kesehatan\" tidak termasuk lafalnya. Perlu keputusan ahli hadis/akidah. Sama pada AKA-SH-0030."
+   }
+  ],
+  "AKA-SH-0030": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Sama dengan AKA-SH-0009 (kaitan kebersihan dan kesehatan dengan iman)."
+   }
+  ],
+  "AKA-SH-0011": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh \"rambut saja\": rambut juga dipotong teratur dan dapat menjadi tempat kuman/kutu; murid dapat memilihnya."
+   }
+  ],
+  "AKA-SH-0037": [
+   {
+    "kode": "BAHASA",
+    "catatan": "\"yang dipelajari\" tanpa rujukan bagi murid; jumlah langkah cuci tangan berbeda menurut rujukan (6 langkah Kemenkes/WHO versi 6, 7, atau 11 langkah). Sama pada AKA-SH-0063."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Jumlah langkah cuci tangan bergantung rujukan (Kemenkes 6 langkah; WHO 6/7/11 langkah); AKA-SH-0072 menyusun 6 langkah versi sendiri yang tidak memuat langkah memutar kuku/pergelangan."
+   }
+  ],
+  "AKA-SH-0063": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Jumlah langkah cuci tangan bergantung rujukan (Kemenkes 6 langkah; WHO 6/7/11 langkah); AKA-SH-0072 menyusun 6 langkah versi sendiri yang tidak memuat langkah memutar kuku/pergelangan."
+   }
+  ],
+  "AKA-SH-0041": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah \"ventilasi\" tidak umum untuk kelas 1; pertimbangkan guru (misal \"jendela dan cahaya\")."
+   }
+  ],
+  "AKA-SH-0064": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah \"ventilasi\" tidak umum untuk kelas 1; pertimbangkan guru (misal \"jendela dan cahaya\")."
+   }
+  ],
+  "AKA-SH-0042": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Opsi \"1 kali seminggu\" dipasang pada batang \"... kali sehari\" sehingga tidak sejajar secara tata bahasa dan satuan; opsi 0 dan 10 tidak wajar."
+   }
+  ],
+  "AKA-SH-0052": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pernyataan Benar/Salah masih berisi titik-titik (\"... kali sehari\") sehingga tidak dapat dinilai benar atau salah."
+   }
+  ],
+  "AKA-SH-0045": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah organik/anorganik terlalu abstrak untuk kelas 1; TP hanya pola hidup sehat dan bersih."
+   }
+  ],
+  "AKA-SH-0071": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah organik/anorganik terlalu abstrak untuk kelas 1; TP hanya pola hidup sehat dan bersih."
+   }
+  ],
+  "AKA-SH-0060": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian meminta jawaban majemuk/kalimat panjang yang harus sama persis; tidak cocok untuk isian singkat kelas 1."
+   }
+  ],
+  "AKA-SH-0070": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian meminta jawaban majemuk/kalimat panjang yang harus sama persis; tidak cocok untuk isian singkat kelas 1."
+   }
+  ],
+  "AKA-SH-0109": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah organik/anorganik abstrak untuk kelas 1 (lihat AKA-SH-0045); pada AKA-SH-0120 gambar berlabel membantu tetapi tetap bergantung pada istilah."
+   }
+  ],
+  "AKA-SH-0120": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah organik/anorganik abstrak untuk kelas 1 (lihat AKA-SH-0045); pada AKA-SH-0120 gambar berlabel membantu tetapi tetap bergantung pada istilah."
+   }
+  ],
+  "AKA-SH-0151": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan piket kelas (merapikan meja dulu atau menyapu dulu; membuang sampah sebelum/sesudah) tidak baku; lebih dari satu urutan dapat dibenarkan."
+   }
+  ],
+  "AKA-SH-0099": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian meminta kalimat panjang yang harus sama persis; tidak realistis sebagai isian singkat kelas 1 (bagian dari pola isian berbentuk kalimat)."
+   }
+  ],
+  "AKA-SH-0105": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian meminta kalimat panjang yang harus sama persis; tidak realistis sebagai isian singkat kelas 1 (bagian dari pola isian berbentuk kalimat)."
+   }
+  ],
+  "AKA-AB-0116": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "\"Nikmat akal dan kesempatan belajar\" sebagai objek syukur adalah abstraksi tinggi untuk usia 6-7 tahun; pertimbangkan guru."
+   }
+  ],
+  "AKA-AB-0120": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "\"Nikmat akal dan kesempatan belajar\" sebagai objek syukur adalah abstraksi tinggi untuk usia 6-7 tahun; pertimbangkan guru."
+   }
+  ],
+  "AKA-AB-0129": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "\"Nikmat akal dan kesempatan belajar\" sebagai objek syukur adalah abstraksi tinggi untuk usia 6-7 tahun; pertimbangkan guru."
+   }
+  ],
+  "AKA-AB-0050": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan \"memperhatikan guru\" dan \"mencatat\" berlangsung bersamaan dalam belajar; urutan hanya konvensi, tanpa dasar rujukan; pengecoh urutan lain dapat dibenarkan."
+   }
+  ],
+  "AKA-KN-0013": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah Ansar dan Muhajirin (kaum di peristiwa hijrah) terlalu rinci untuk kelas 1; pertimbangkan guru."
+   }
+  ],
+  "AKA-KN-0016": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah Ansar dan Muhajirin (kaum di peristiwa hijrah) terlalu rinci untuk kelas 1; pertimbangkan guru."
+   }
+  ],
+  "AKA-KN-0009": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh \"tahun Kera\" dan \"tahun Singa\" tidak ada maknanya dan menyesatkan sebagai nama tahun; pengecoh buatan."
+   }
+  ],
+  "AKA-KN-0040": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Empat sifat rasul (siddiq, amanah, tablig, fatanah): CP hanya memuat \"sifat wajib bagi Allah\" dan kisah Nabi Muhammad; istilah sifat wajib rasul tidak ada di CP/ATP. Dekat ke TP-AKA-KN-02 (menyimpulkan kisah) tetapi bukan materi yang disebut."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Empat istilah Arab sifat rasul (siddiq, amanah, tablig, fatanah) dihafal dan dibedakan sekaligus; terlalu abstrak untuk kelas 1."
+   }
+  ],
+  "AKA-KN-0046": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Empat sifat rasul (siddiq, amanah, tablig, fatanah): CP hanya memuat \"sifat wajib bagi Allah\" dan kisah Nabi Muhammad; istilah sifat wajib rasul tidak ada di CP/ATP. Dekat ke TP-AKA-KN-02 (menyimpulkan kisah) tetapi bukan materi yang disebut."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Empat istilah Arab sifat rasul (siddiq, amanah, tablig, fatanah) dihafal dan dibedakan sekaligus; terlalu abstrak untuk kelas 1."
+   }
+  ],
+  "AKA-KN-0048": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Empat sifat rasul (siddiq, amanah, tablig, fatanah): CP hanya memuat \"sifat wajib bagi Allah\" dan kisah Nabi Muhammad; istilah sifat wajib rasul tidak ada di CP/ATP. Dekat ke TP-AKA-KN-02 (menyimpulkan kisah) tetapi bukan materi yang disebut."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Empat istilah Arab sifat rasul (siddiq, amanah, tablig, fatanah) dihafal dan dibedakan sekaligus; terlalu abstrak untuk kelas 1."
+   }
+  ],
+  "AKA-KN-0050": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Empat sifat rasul (siddiq, amanah, tablig, fatanah): CP hanya memuat \"sifat wajib bagi Allah\" dan kisah Nabi Muhammad; istilah sifat wajib rasul tidak ada di CP/ATP. Dekat ke TP-AKA-KN-02 (menyimpulkan kisah) tetapi bukan materi yang disebut."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Empat istilah Arab sifat rasul (siddiq, amanah, tablig, fatanah) dihafal dan dibedakan sekaligus; terlalu abstrak untuk kelas 1."
+   }
+  ],
+  "AKA-KN-0053": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Istilah sifat rasul (siddiq/amanah/tablig/fatanah) tidak tercantum di CP/ATP Akidah Akhlak kelas 1 (sama dengan AKA-KN-0040)."
+   }
+  ],
+  "AKA-KN-0056": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Istilah sifat rasul (siddiq/amanah/tablig/fatanah) tidak tercantum di CP/ATP Akidah Akhlak kelas 1 (sama dengan AKA-KN-0040)."
+   }
+  ],
+  "AKA-KN-0059": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Istilah sifat rasul (siddiq/amanah/tablig/fatanah) tidak tercantum di CP/ATP Akidah Akhlak kelas 1 (sama dengan AKA-KN-0040)."
+   }
+  ],
+  "AKA-KN-0061": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Istilah sifat rasul (siddiq/amanah/tablig/fatanah) tidak tercantum di CP/ATP Akidah Akhlak kelas 1 (sama dengan AKA-KN-0040)."
+   }
+  ],
+  "AKA-KN-0062": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Istilah sifat rasul (siddiq/amanah/tablig/fatanah) tidak tercantum di CP/ATP Akidah Akhlak kelas 1 (sama dengan AKA-KN-0040)."
+   }
+  ],
+  "AKA-KN-0067": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Istilah sifat rasul (siddiq/amanah/tablig/fatanah) tidak tercantum di CP/ATP Akidah Akhlak kelas 1 (sama dengan AKA-KN-0040)."
+   }
+  ],
+  "AKA-KN-0070": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Istilah sifat rasul (siddiq/amanah/tablig/fatanah) tidak tercantum di CP/ATP Akidah Akhlak kelas 1 (sama dengan AKA-KN-0040)."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Empat istilah Arab sifat rasul (siddiq, amanah, tablig, fatanah) dihafal dan dibedakan sekaligus; terlalu abstrak untuk kelas 1."
+   }
+  ],
+  "AKA-KN-0071": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Istilah sifat rasul (siddiq/amanah/tablig/fatanah) tidak tercantum di CP/ATP Akidah Akhlak kelas 1 (sama dengan AKA-KN-0040)."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Empat istilah Arab sifat rasul (siddiq, amanah, tablig, fatanah) dihafal dan dibedakan sekaligus; terlalu abstrak untuk kelas 1."
+   }
+  ],
+  "AKA-KN-0072": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Istilah sifat rasul (siddiq/amanah/tablig/fatanah) tidak tercantum di CP/ATP Akidah Akhlak kelas 1 (sama dengan AKA-KN-0040)."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Empat istilah Arab sifat rasul (siddiq, amanah, tablig, fatanah) dihafal dan dibedakan sekaligus; terlalu abstrak untuk kelas 1."
+   }
+  ],
+  "AKA-KN-0073": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Istilah sifat rasul (siddiq/amanah/tablig/fatanah) tidak tercantum di CP/ATP Akidah Akhlak kelas 1 (sama dengan AKA-KN-0040)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal pengelompokan hanya empat butir ke empat kelompok (satu butir per kelompok); sebenarnya soal menjodohkan, tipe tidak cocok."
+   }
+  ],
+  "AKA-KN-0042": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "\"Al-Amin\" dijawab \"karena jujur\", padahal AKA-KN-0039/0065 mengartikannya \"orang yang dapat dipercaya\" (amanah) dan AKA-KN-0050/0067 membedakan jujur sebagai siddiq. Kunci tidak konsisten dengan pembedaan siddiq-amanah di bank."
+   }
+  ],
+  "AKA-KN-0055": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "\"Al-Amin\" dijawab \"karena jujur\", padahal AKA-KN-0039/0065 mengartikannya \"orang yang dapat dipercaya\" (amanah) dan AKA-KN-0050/0067 membedakan jujur sebagai siddiq. Kunci tidak konsisten dengan pembedaan siddiq-amanah di bank."
+   }
+  ],
+  "AKA-KN-0069": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "\"Al-Amin\" dijawab \"karena jujur\", padahal AKA-KN-0039/0065 mengartikannya \"orang yang dapat dipercaya\" (amanah) dan AKA-KN-0050/0067 membedakan jujur sebagai siddiq. Kunci tidak konsisten dengan pembedaan siddiq-amanah di bank."
+   }
+  ],
+  "AKA-KN-0036": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan pengasuh tidak tunggal: Nabi diasuh Aminah, disusui Halimah, kembali kepada Aminah, lalu Abdul Muthalib dan Abu Thalib; Tsuwaibah juga menyusui. Urutan yang dianggap benar menyederhanakan riwayat."
+   }
+  ],
+  "AKA-KN-0079": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "\"Abdullah wafat ketika Nabi masih dalam kandungan\" adalah pendapat yang dominan, tetapi sebagian riwayat menyebut wafat setelah kelahiran; perlu keputusan ahli sirah."
+   }
+  ],
+  "AKA-KN-0100": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "\"Abdullah wafat ketika Nabi masih dalam kandungan\" adalah pendapat yang dominan, tetapi sebagian riwayat menyebut wafat setelah kelahiran; perlu keputusan ahli sirah."
+   }
+  ],
+  "AKA-KN-0110": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kategori kelompok dibuat sembarang (\"orang tua dan kakek\" vs \"paman, istri, dan putri\"); tidak ada konsep silsilah yang membedakan, sehingga pengelompokan tidak bermakna."
+   }
+  ],
+  "AKA-KN-0075": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Silsilah empat generasi (Hasyim, kakek buyut) tinggi untuk kelas 1, tetapi TP-AKA-KN-03 memintanya; perlu pertimbangan guru tentang kedalaman."
+   }
+  ],
+  "AKA-KN-0084": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Silsilah empat generasi (Hasyim, kakek buyut) tinggi untuk kelas 1, tetapi TP-AKA-KN-03 memintanya; perlu pertimbangan guru tentang kedalaman."
+   }
+  ],
+  "AKA-KN-0093": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Silsilah empat generasi (Hasyim, kakek buyut) tinggi untuk kelas 1, tetapi TP-AKA-KN-03 memintanya; perlu pertimbangan guru tentang kedalaman."
+   }
+  ],
+  "AKA-KN-0094": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Silsilah empat generasi (Hasyim, kakek buyut) tinggi untuk kelas 1, tetapi TP-AKA-KN-03 memintanya; perlu pertimbangan guru tentang kedalaman."
+   }
+  ],
+  "AKA-KN-0099": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Silsilah empat generasi (Hasyim, kakek buyut) tinggi untuk kelas 1, tetapi TP-AKA-KN-03 memintanya; perlu pertimbangan guru tentang kedalaman."
+   }
+  ],
+  "AKA-KN-0113": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Bacaan selawat/tasliyah tidak tercantum di CP (kalimah thayyibah hanya basmalah, hamdalah, taawuz); dekat ke TP-AKA-KN-04 (meneladan) tetapi bukan materi yang disebut."
+   }
+  ],
+  "AKA-KN-0118": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Bacaan selawat/tasliyah tidak tercantum di CP (kalimah thayyibah hanya basmalah, hamdalah, taawuz); dekat ke TP-AKA-KN-04 (meneladan) tetapi bukan materi yang disebut."
+   }
+  ],
+  "AKA-KN-0126": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Bacaan selawat/tasliyah tidak tercantum di CP (kalimah thayyibah hanya basmalah, hamdalah, taawuz); dekat ke TP-AKA-KN-04 (meneladan) tetapi bukan materi yang disebut."
+   }
+  ],
+  "AKA-RI-0018": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Definisi iman sebagai \"percaya dengan hati, diucapkan, dan diamalkan\" mengikuti rumusan jumhur ahlussunnah; sebagian mazhab akidah (Asy'ariyah/Maturidiyah) menekankan tasdiq dengan hati. Perlu keputusan ahli/kurikulum. Di bank ini RI-0006 mendefinisikan iman = \"percaya\"."
+   }
+  ],
+  "AKA-RI-0059": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Definisi iman sebagai \"percaya dengan hati, diucapkan, dan diamalkan\" mengikuti rumusan jumhur ahlussunnah; sebagian mazhab akidah (Asy'ariyah/Maturidiyah) menekankan tasdiq dengan hati. Perlu keputusan ahli/kurikulum. Di bank ini RI-0006 mendefinisikan iman = \"percaya\"."
+   }
+  ],
+  "AKA-RI-0069": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Raqib (mencatat amal baik) dan Atid (amal buruk) sebagai nama dua malaikat pencatat bersumber dari tafsir QS Qaf: 17-18 (\"raqibun atid\"); sebagian ulama menganggapnya sifat bukan nama. Perlu keputusan ahli."
+   }
+  ],
+  "AKA-RI-0066": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Kalimat \"Nabi yang pertama diciptakan Allah sebagai manusia pertama\" berbelit; cukup \"Manusia pertama yang diciptakan Allah dan nabi pertama adalah ...\"."
+   }
+  ],
+  "AKA-RI-0081": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Raqib=pencatat amal baik dan Atid=pencatat amal buruk sebagai nama (lihat AKA-RI-0069); bergantung pada penafsiran QS Qaf: 17-18, perlu keputusan ahli."
+   }
+  ],
+  "AKA-RI-0104": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Raqib=pencatat amal baik dan Atid=pencatat amal buruk sebagai nama (lihat AKA-RI-0069); bergantung pada penafsiran QS Qaf: 17-18, perlu keputusan ahli."
+   }
+  ],
+  "AKA-RI-0110": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Raqib=pencatat amal baik dan Atid=pencatat amal buruk sebagai nama (lihat AKA-RI-0069); bergantung pada penafsiran QS Qaf: 17-18, perlu keputusan ahli."
+   }
+  ],
+  "AKA-RI-0118": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Raqib=pencatat amal baik dan Atid=pencatat amal buruk sebagai nama (lihat AKA-RI-0069); bergantung pada penafsiran QS Qaf: 17-18, perlu keputusan ahli."
+   }
+  ],
+  "AKA-RI-0133": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Raqib=pencatat amal baik dan Atid=pencatat amal buruk sebagai nama (lihat AKA-RI-0069); bergantung pada penafsiran QS Qaf: 17-18, perlu keputusan ahli."
+   }
+  ],
+  "AKA-RI-0135": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Raqib=pencatat amal baik dan Atid=pencatat amal buruk sebagai nama (lihat AKA-RI-0069); bergantung pada penafsiran QS Qaf: 17-18, perlu keputusan ahli."
+   }
+  ],
+  "AKA-RI-0161": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Raqib=pencatat amal baik dan Atid=pencatat amal buruk sebagai nama (lihat AKA-RI-0069); bergantung pada penafsiran QS Qaf: 17-18, perlu keputusan ahli."
+   }
+  ],
+  "AKA-RI-0091": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pernyataan Benar/Salah masih berisi titik-titik (\"... kitab\", \"... malaikat\") tanpa angka sehingga tidak dapat dinilai benar atau salah."
+   }
+  ],
+  "AKA-RI-0093": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pernyataan Benar/Salah masih berisi titik-titik (\"... kitab\", \"... malaikat\") tanpa angka sehingga tidak dapat dinilai benar atau salah."
+   }
+  ],
+  "AKA-RI-0078": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "\"Orang yang durhaka kepada Allah akan mendapat azab di neraka\" dinyatakan mutlak; menurut ahlussunnah pelaku dosa selain syirik bergantung kehendak Allah (diampuni atau diazab). Perlu rumusan ahli dan sensitivitas untuk kelas 1."
+   }
+  ],
+  "AKA-RI-0111": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "\"Orang yang durhaka kepada Allah akan mendapat azab di neraka\" dinyatakan mutlak; menurut ahlussunnah pelaku dosa selain syirik bergantung kehendak Allah (diampuni atau diazab). Perlu rumusan ahli dan sensitivitas untuk kelas 1."
+   }
+  ],
+  "AKA-RI-0079": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Pertanyaan alam kubur oleh Munkar dan Nakir adalah konsep gaib yang berat dan dapat menakutkan murid kelas 1; pertimbangan guru."
+   }
+  ],
+  "AKA-RI-0097": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Pertanyaan alam kubur oleh Munkar dan Nakir adalah konsep gaib yang berat dan dapat menakutkan murid kelas 1; pertimbangan guru."
+   }
+  ],
+  "AKA-RI-0105": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Pertanyaan alam kubur oleh Munkar dan Nakir adalah konsep gaib yang berat dan dapat menakutkan murid kelas 1; pertimbangan guru."
+   }
+  ],
+  "AKA-RI-0115": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Pertanyaan alam kubur oleh Munkar dan Nakir adalah konsep gaib yang berat dan dapat menakutkan murid kelas 1; pertimbangan guru."
+   }
+  ],
+  "AKA-RI-0145": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah \"dihisab pada hari kiamat\" abstrak untuk kelas 1."
+   }
+  ],
+  "AKA-RI-0137": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengelompokan empat butir ke empat kelompok (satu butir per kelompok) sama dengan menjodohkan (duplikasi tipe dengan AKA-RI-0131); tidak bermakna sebagai pengelompokan."
+   }
+  ],
+  "AKA-RI-0147": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh \"Allah\" dapat dibenarkan: yakin malaikat mencatat amal juga berarti yakin kepada Allah yang memerintahkannya."
+   }
+  ],
+  "AKA-RI-0174": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pernyataan dinyatakan Salah (iman kepada Allah), tetapi percaya pada malaikat pencatat amal bersumber dari iman kepada Allah; jawaban bergantung pada penekanan."
+   }
+  ]
+ }
+}

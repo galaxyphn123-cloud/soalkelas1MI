@@ -1,0 +1,1953 @@
+{
+ "catatan": "Tinjauan baca oleh model AI (bukan ahli). Hanya pengecualian yang dicatat; soal lain yang dibaca dianggap tidak bermasalah menurut pembaca. Semua temuan perlu keputusan guru/ahli.",
+ "reviewed_ranges": [
+  "0-100 (PJK-TB-0001..0100)",
+  "101-200 (PJK-TB-0101..0200)",
+  "201-300 (PJK-TB-0201..0300)",
+  "301-400 (PJK-TB-0301..0400)",
+  "401-500 (PJK-TB-0401..0467, PJK-BG-0001..0033)",
+  "501-600 (PJK-BG-0034..0133)"
+ ],
+ "temuan": {
+  "PJK-TB-0001": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Stem memakai kata 'Melompat' untuk gerak dua kaki, padahal PJK-TB-0006/0008/0045 mendefinisikan melompat = tumpu satu kaki mendarat kaki yang sama; kunci 'meloncat'. Redaksi stem bertentangan dengan definisi bank."
+   }
+  ],
+  "PJK-TB-0030": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Pernyataan 'Melompat dengan dua kaki ... disebut meloncat' bertentangan dengan definisi melompat (satu kaki) di PJK-TB-0008/0054."
+   }
+  ],
+  "PJK-TB-0037": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Stem 'Melompat dengan dua kaki ... disebut berjalan': memakai 'melompat' untuk dua kaki, bertentangan dengan PJK-TB-0008/0054; sebaiknya 'meloncat'."
+   }
+  ],
+  "PJK-TB-0040": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Stem 'Melompat dengan dua kaki ...' kunci 'meloncat'; 'melompat' sendiri adalah jawaban yang dapat dibenarkan secara awam, dan bertentangan dengan PJK-TB-0045."
+   }
+  ],
+  "PJK-TB-0024": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Stem mendeskripsikan 'melompat ke depan dengan dua kaki', kunci 'meloncat'; kata 'melompat' pada stem bertentangan dengan definisi bank (melompat=satu kaki)."
+   }
+  ],
+  "PJK-TB-0006": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pembedaan melompat (tumpu satu kaki) vs meloncat (dua kaki) bersifat istilah PJOK khusus; di KBBI/awam keduanya hampir sinonim. Pengecoh 'meloncat/melompat' dapat dibenarkan secara awam; perlu keputusan guru/ahli."
+   },
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi 'melompat' dan 'meloncat' sama-sama muncul; bagi murid kelas 1 pembedaan hanya soal hafalan istilah, pengecoh dapat dibenarkan."
+   }
+  ],
+  "PJK-TB-0015": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pembedaan melompat (tumpu satu kaki) vs meloncat (dua kaki) bersifat istilah PJOK khusus; di KBBI/awam keduanya hampir sinonim. Pengecoh 'meloncat/melompat' dapat dibenarkan secara awam; perlu keputusan guru/ahli."
+   },
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi 'melompat' dan 'meloncat' sama-sama muncul; bagi murid kelas 1 pembedaan hanya soal hafalan istilah, pengecoh dapat dibenarkan."
+   }
+  ],
+  "PJK-TB-0045": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pembedaan melompat (tumpu satu kaki) vs meloncat (dua kaki) bersifat istilah PJOK khusus; di KBBI/awam keduanya hampir sinonim. Pengecoh 'meloncat/melompat' dapat dibenarkan secara awam; perlu keputusan guru/ahli."
+   }
+  ],
+  "PJK-TB-0051": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pembedaan melompat (tumpu satu kaki) vs meloncat (dua kaki) bersifat istilah PJOK khusus; di KBBI/awam keduanya hampir sinonim. Pengecoh 'meloncat/melompat' dapat dibenarkan secara awam; perlu keputusan guru/ahli."
+   }
+  ],
+  "PJK-TB-0054": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pembedaan melompat (tumpu satu kaki) vs meloncat (dua kaki) bersifat istilah PJOK khusus; di KBBI/awam keduanya hampir sinonim. Pengecoh 'meloncat/melompat' dapat dibenarkan secara awam; perlu keputusan guru/ahli."
+   }
+  ],
+  "PJK-TB-0057": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pembedaan melompat (tumpu satu kaki) vs meloncat (dua kaki) bersifat istilah PJOK khusus; di KBBI/awam keduanya hampir sinonim. Pengecoh 'meloncat/melompat' dapat dibenarkan secara awam; perlu keputusan guru/ahli."
+   }
+  ],
+  "PJK-TB-0012": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Berjingkat' (KBBI: berjalan hati-hati/pelan) dipakai bermakna berjalan bertumpu ujung jari kaki (berjinjit); istilah baku PJOK 'berjinjit/jengket'. Perlu keputusan ahli; klasifikasi lokomotor/bukan juga bisa diperdebatkan."
+   }
+  ],
+  "PJK-TB-0022": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Berjingkat' (KBBI: berjalan hati-hati/pelan) dipakai bermakna berjalan bertumpu ujung jari kaki (berjinjit); istilah baku PJOK 'berjinjit/jengket'. Perlu keputusan ahli; klasifikasi lokomotor/bukan juga bisa diperdebatkan."
+   }
+  ],
+  "PJK-TB-0029": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Berjingkat' (KBBI: berjalan hati-hati/pelan) dipakai bermakna berjalan bertumpu ujung jari kaki (berjinjit); istilah baku PJOK 'berjinjit/jengket'. Perlu keputusan ahli; klasifikasi lokomotor/bukan juga bisa diperdebatkan."
+   }
+  ],
+  "PJK-TB-0038": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Berjingkat' (KBBI: berjalan hati-hati/pelan) dipakai bermakna berjalan bertumpu ujung jari kaki (berjinjit); istilah baku PJOK 'berjinjit/jengket'. Perlu keputusan ahli; klasifikasi lokomotor/bukan juga bisa diperdebatkan."
+   }
+  ],
+  "PJK-TB-0066": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Berjingkat' (KBBI: berjalan hati-hati/pelan) dipakai bermakna berjalan bertumpu ujung jari kaki (berjinjit); istilah baku PJOK 'berjinjit/jengket'. Perlu keputusan ahli; klasifikasi lokomotor/bukan juga bisa diperdebatkan."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja tanpa kriteria teramati per keterampilan: rubrik umum 'ketepatan gerak, kesungguhan, sikap sportif, keselamatan (skala 1-4)' tanpa deskriptor ciri gerak (mis. tubuh dekat lantai untuk merayap)."
+   }
+  ],
+  "PJK-TB-0087": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci 'menekuk' (melipat sendi) tetapi pengecoh 'membungkuk' = 'menekuk badan ke depan'; membungkuk juga menekuk sendi pinggul sehingga ambigu."
+   }
+  ],
+  "PJK-TB-0088": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci 'menekuk' (melipat sendi) tetapi pengecoh 'membungkuk' = 'menekuk badan ke depan'; membungkuk juga menekuk sendi pinggul sehingga ambigu."
+   }
+  ],
+  "PJK-TB-0009": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Berguling dijadikan contoh lokomotor (di TB-0062 non-lokomotor berisi 'memutar badan'); klasifikasi berguling (lokomotor vs non-lokomotor/akrobatik) diperdebatkan dan perlu keputusan ahli. TB-0062: 'memutar badan' (non-lokomotor) vs TB-0009 'berguling = memutar badan ke samping di atas matras' (lokomotor) saling tumpang tindih."
+   }
+  ],
+  "PJK-TB-0011": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Berguling dijadikan contoh lokomotor (di TB-0062 non-lokomotor berisi 'memutar badan'); klasifikasi berguling (lokomotor vs non-lokomotor/akrobatik) diperdebatkan dan perlu keputusan ahli. TB-0062: 'memutar badan' (non-lokomotor) vs TB-0009 'berguling = memutar badan ke samping di atas matras' (lokomotor) saling tumpang tindih."
+   }
+  ],
+  "PJK-TB-0049": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Berguling dijadikan contoh lokomotor (di TB-0062 non-lokomotor berisi 'memutar badan'); klasifikasi berguling (lokomotor vs non-lokomotor/akrobatik) diperdebatkan dan perlu keputusan ahli. TB-0062: 'memutar badan' (non-lokomotor) vs TB-0009 'berguling = memutar badan ke samping di atas matras' (lokomotor) saling tumpang tindih."
+   }
+  ],
+  "PJK-TB-0062": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Berguling dijadikan contoh lokomotor (di TB-0062 non-lokomotor berisi 'memutar badan'); klasifikasi berguling (lokomotor vs non-lokomotor/akrobatik) diperdebatkan dan perlu keputusan ahli. TB-0062: 'memutar badan' (non-lokomotor) vs TB-0009 'berguling = memutar badan ke samping di atas matras' (lokomotor) saling tumpang tindih."
+   }
+  ],
+  "PJK-TB-0050": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'Contoh gerak lokomotor adalah ....' kunci 'berlari'; berjalan, melompat, dst. juga benar."
+   }
+  ],
+  "PJK-TB-0003": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tidak masuk akal (tidur, diam, membuat sakit, penuh barang, licin); kunci mudah ditebak tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-TB-0004": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tidak masuk akal (tidur, diam, membuat sakit, penuh barang, licin); kunci mudah ditebak tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-TB-0023": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tidak masuk akal (tidur, diam, membuat sakit, penuh barang, licin); kunci mudah ditebak tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-TB-0026": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tidak masuk akal (tidur, diam, membuat sakit, penuh barang, licin); kunci mudah ditebak tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-TB-0082": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tidak masuk akal (tidur, diam, membuat sakit, penuh barang, licin); kunci mudah ditebak tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-TB-0025": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal gambar sudah menyebut gerakan (berlari / meregangkan) di stem sehingga gambar tidak dibutuhkan; pengecoh 'diam' absurd. Gambar hanya deskripsi teks."
+   }
+  ],
+  "PJK-TB-0092": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal gambar sudah menyebut gerakan (berlari / meregangkan) di stem sehingga gambar tidak dibutuhkan; pengecoh 'diam' absurd. Gambar hanya deskripsi teks."
+   }
+  ],
+  "PJK-TB-0063": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja tanpa kriteria teramati per keterampilan: rubrik umum 'ketepatan gerak, kesungguhan, sikap sportif, keselamatan (skala 1-4)' tanpa deskriptor ciri gerak (mis. tubuh dekat lantai untuk merayap)."
+   }
+  ],
+  "PJK-TB-0064": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja tanpa kriteria teramati per keterampilan: rubrik umum 'ketepatan gerak, kesungguhan, sikap sportif, keselamatan (skala 1-4)' tanpa deskriptor ciri gerak (mis. tubuh dekat lantai untuk merayap)."
+   }
+  ],
+  "PJK-TB-0065": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja tanpa kriteria teramati per keterampilan: rubrik umum 'ketepatan gerak, kesungguhan, sikap sportif, keselamatan (skala 1-4)' tanpa deskriptor ciri gerak (mis. tubuh dekat lantai untuk merayap)."
+   }
+  ],
+  "PJK-TB-0067": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja tanpa kriteria teramati per keterampilan: rubrik umum 'ketepatan gerak, kesungguhan, sikap sportif, keselamatan (skala 1-4)' tanpa deskriptor ciri gerak (mis. tubuh dekat lantai untuk merayap)."
+   }
+  ],
+  "PJK-TB-0076": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'kaki tetap berada di sejauh mungkin' tidak gramatikal; opsi 'depan/belakang/sejauh mungkin' tidak sejenis dengan 'di tempat'."
+   }
+  ],
+  "PJK-TB-0100": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'kaki tetap berada di sejauh mungkin' tidak gramatikal; opsi 'depan/belakang/sejauh mungkin' tidak sejenis dengan 'di tempat'."
+   }
+  ],
+  "PJK-TB-0058": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Completion 'Rafi ...' berupa kalimat panjang tanpa kemungkinan pencocokan tepat; bukan mengukur keterampilan gerak."
+   }
+  ],
+  "PJK-TB-0145": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci dibedakan hanya lewat deskripsi tiruan hewan; pengecoh (katak/kelinci) juga melompat dengan dua kaki; melompat-lompat dengan dua kaki juga ciri katak, melompat rendah dari jongkok juga bisa kelinci. Lebih dari satu jawaban dapat dibenarkan."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0171": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci dibedakan hanya lewat deskripsi tiruan hewan; pengecoh (katak/kelinci) juga melompat dengan dua kaki; melompat-lompat dengan dua kaki juga ciri katak, melompat rendah dari jongkok juga bisa kelinci. Lebih dari satu jawaban dapat dibenarkan."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0136": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kelinci vs katak: 'melompat rendah dari posisi jongkok' dan 'melompat-lompat dengan dua kaki' sama-sama dapat dipakai untuk kelinci maupun katak (lihat TB-0145,0171)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0159": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kelinci vs katak: 'melompat rendah dari posisi jongkok' dan 'melompat-lompat dengan dua kaki' sama-sama dapat dipakai untuk kelinci maupun katak (lihat TB-0145,0171)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0144": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak sejenis (gelap, besar sekali, basah, rata, dalam tanah, awan, langit, tidur, bertengkar, sunyi); kunci dapat dipilih tanpa memahami materi."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0148": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak sejenis (gelap, besar sekali, basah, rata, dalam tanah, awan, langit, tidur, bertengkar, sunyi); kunci dapat dipilih tanpa memahami materi."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0157": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak sejenis (gelap, besar sekali, basah, rata, dalam tanah, awan, langit, tidur, bertengkar, sunyi); kunci dapat dipilih tanpa memahami materi."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0160": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak sejenis (gelap, besar sekali, basah, rata, dalam tanah, awan, langit, tidur, bertengkar, sunyi); kunci dapat dipilih tanpa memahami materi."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0165": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak sejenis (gelap, besar sekali, basah, rata, dalam tanah, awan, langit, tidur, bertengkar, sunyi); kunci dapat dipilih tanpa memahami materi."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0168": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak sejenis (gelap, besar sekali, basah, rata, dalam tanah, awan, langit, tidur, bertengkar, sunyi); kunci dapat dipilih tanpa memahami materi."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0170": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/tak sejenis (gelap, besar sekali, basah, rata, dalam tanah, awan, langit, tidur, bertengkar, sunyi); kunci dapat dipilih tanpa memahami materi."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0137": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berupa perilaku buruk yang absurd (mendorong, berteriak, bertengkar, menabrak); jawaban terbaca dari nilai sosial, bukan pengetahuan gerak. TB-0175: stem sudah menyebut 'menirukan gajah'; gambar tidak perlu."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0175": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berupa perilaku buruk yang absurd (mendorong, berteriak, bertengkar, menabrak); jawaban terbaca dari nilai sosial, bukan pengetahuan gerak. TB-0175: stem sudah menyebut 'menirukan gajah'; gambar tidak perlu."
+   }
+  ],
+  "PJK-TB-0176": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh berupa perilaku buruk yang absurd (mendorong, berteriak, bertengkar, menabrak); jawaban terbaca dari nilai sosial, bukan pengetahuan gerak. TB-0175: stem sudah menyebut 'menirukan gajah'; gambar tidak perlu."
+   }
+  ],
+  "PJK-TB-0158": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kata kunci pada stem sama dengan kunci (lurus - garis lurus) sehingga jawaban terbaca dari soal."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0178": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kata kunci pada stem sama dengan kunci (lurus - garis lurus) sehingga jawaban terbaca dari soal."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian singkat menuntut frasa definisi panjang yang harus sama persis dengan kunci; tidak cocok untuk murid kelas 1 dan sulit dinilai otomatis."
+   }
+  ],
+  "PJK-TB-0111": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian singkat menuntut frasa definisi panjang yang harus sama persis dengan kunci; tidak cocok untuk murid kelas 1 dan sulit dinilai otomatis."
+   }
+  ],
+  "PJK-TB-0112": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian singkat menuntut frasa definisi panjang yang harus sama persis dengan kunci; tidak cocok untuk murid kelas 1 dan sulit dinilai otomatis."
+   }
+  ],
+  "PJK-TB-0117": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian singkat menuntut frasa definisi panjang yang harus sama persis dengan kunci; tidak cocok untuk murid kelas 1 dan sulit dinilai otomatis."
+   }
+  ],
+  "PJK-TB-0119": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian singkat menuntut frasa definisi panjang yang harus sama persis dengan kunci; tidak cocok untuk murid kelas 1 dan sulit dinilai otomatis."
+   }
+  ],
+  "PJK-TB-0121": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian singkat menuntut frasa definisi panjang yang harus sama persis dengan kunci; tidak cocok untuk murid kelas 1 dan sulit dinilai otomatis."
+   }
+  ],
+  "PJK-TB-0177": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian singkat menuntut frasa definisi panjang yang harus sama persis dengan kunci; tidak cocok untuk murid kelas 1 dan sulit dinilai otomatis."
+   }
+  ],
+  "PJK-TB-0180": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian singkat menuntut frasa definisi panjang yang harus sama persis dengan kunci; tidak cocok untuk murid kelas 1 dan sulit dinilai otomatis."
+   }
+  ],
+  "PJK-TB-0185": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian singkat menuntut frasa definisi panjang yang harus sama persis dengan kunci; tidak cocok untuk murid kelas 1 dan sulit dinilai otomatis."
+   }
+  ],
+  "PJK-TB-0188": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian singkat menuntut frasa definisi panjang yang harus sama persis dengan kunci; tidak cocok untuk murid kelas 1 dan sulit dinilai otomatis."
+   }
+  ],
+  "PJK-TB-0189": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian singkat menuntut frasa definisi panjang yang harus sama persis dengan kunci; tidak cocok untuk murid kelas 1 dan sulit dinilai otomatis."
+   }
+  ],
+  "PJK-TB-0192": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian singkat menuntut frasa definisi panjang yang harus sama persis dengan kunci; tidak cocok untuk murid kelas 1 dan sulit dinilai otomatis."
+   }
+  ],
+  "PJK-TB-0135": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0138": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0139": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0140": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0141": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0142": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0143": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0146": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0147": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0149": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0150": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0151": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0152": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0153": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0154": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0155": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0156": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0161": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0162": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0163": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0164": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0166": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0167": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0169": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0172": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0173": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0174": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "TP 'mengeksplorasi berbagai cara menggerakkan tubuh' diukur dengan hafalan definisi (cepat, lambat, zig-zag, tiruan hewan), bukan eksplorasi gerak; tipe soal tertulis kurang cocok dengan TP berbasis praktik."
+   }
+  ],
+  "PJK-TB-0128": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum yang sama (ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4) tanpa deskriptor ciri gerak teramati per keterampilan."
+   }
+  ],
+  "PJK-TB-0129": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum yang sama (ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4) tanpa deskriptor ciri gerak teramati per keterampilan."
+   }
+  ],
+  "PJK-TB-0130": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum yang sama (ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4) tanpa deskriptor ciri gerak teramati per keterampilan."
+   }
+  ],
+  "PJK-TB-0131": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum yang sama (ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4) tanpa deskriptor ciri gerak teramati per keterampilan."
+   }
+  ],
+  "PJK-TB-0132": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum yang sama (ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4) tanpa deskriptor ciri gerak teramati per keterampilan."
+   }
+  ],
+  "PJK-TB-0133": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum yang sama (ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4) tanpa deskriptor ciri gerak teramati per keterampilan."
+   }
+  ],
+  "PJK-TB-0134": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum yang sama (ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4) tanpa deskriptor ciri gerak teramati per keterampilan."
+   }
+  ],
+  "PJK-TB-0196": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja eksplorasi ('dua cara berbeda') dengan rubrik generik; tidak ada kriteria teramati (apa yang dihitung sebagai cara berbeda)."
+   }
+  ],
+  "PJK-TB-0197": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja eksplorasi ('dua cara berbeda') dengan rubrik generik; tidak ada kriteria teramati (apa yang dihitung sebagai cara berbeda)."
+   }
+  ],
+  "PJK-TB-0198": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja eksplorasi ('dua cara berbeda') dengan rubrik generik; tidak ada kriteria teramati (apa yang dihitung sebagai cara berbeda)."
+   }
+  ],
+  "PJK-TB-0199": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja eksplorasi ('dua cara berbeda') dengan rubrik generik; tidak ada kriteria teramati (apa yang dihitung sebagai cara berbeda)."
+   }
+  ],
+  "PJK-TB-0200": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja eksplorasi ('dua cara berbeda') dengan rubrik generik; tidak ada kriteria teramati (apa yang dihitung sebagai cara berbeda)."
+   }
+  ],
+  "PJK-TB-0115": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'kaki tetap berada di ....' tidak jelas tanpa konteks 'memutar badan di tempat'; kunci 'tempat' berpasangan dengan TB-0076/0100 yang bermasalah."
+   }
+  ],
+  "PJK-TB-0204": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Opsi 'tangan' dan 'kedua tangan' juga dapat dibenarkan untuk memantulkan bola; kunci 'telapak tangan' hanya lebih spesifik (pembeda sangat halus bagi kelas 1)."
+   }
+  ],
+  "PJK-TB-0209": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kunci 'tangan yang memegang raket' vs pengecoh 'tangan'/'kedua tangan': raket dapat dipegang satu atau dua tangan; pengecoh dapat dibenarkan."
+   }
+  ],
+  "PJK-TB-0226": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kunci 'tangan yang memegang raket' vs pengecoh 'tangan'/'kedua tangan': raket dapat dipegang satu atau dua tangan; pengecoh dapat dibenarkan."
+   }
+  ],
+  "PJK-TB-0248": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kunci 'tangan yang memegang raket' vs pengecoh 'tangan'/'kedua tangan': raket dapat dipegang satu atau dua tangan; pengecoh dapat dibenarkan."
+   }
+  ],
+  "PJK-TB-0213": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Melempar bola 'dengan tangan' vs 'kedua tangan'/'telapak tangan': lemparan dua tangan (mis. dari dada) sah; TB-0236 menyalahkan 'kedua tangan' padahal dapat benar."
+   }
+  ],
+  "PJK-TB-0230": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Melempar bola 'dengan tangan' vs 'kedua tangan'/'telapak tangan': lemparan dua tangan (mis. dari dada) sah; TB-0236 menyalahkan 'kedua tangan' padahal dapat benar."
+   }
+  ],
+  "PJK-TB-0236": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Melempar bola 'dengan tangan' vs 'kedua tangan'/'telapak tangan': lemparan dua tangan (mis. dari dada) sah; TB-0236 menyalahkan 'kedua tangan' padahal dapat benar."
+   }
+  ],
+  "PJK-TB-0253": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Melempar bola 'dengan tangan' vs 'kedua tangan'/'telapak tangan': lemparan dua tangan (mis. dari dada) sah; TB-0236 menyalahkan 'kedua tangan' padahal dapat benar."
+   }
+  ],
+  "PJK-TB-0215": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Menangkap bola: pengecoh 'telapak tangan' dan 'tangan' juga benar secara umum; kunci 'kedua tangan' hanya benar untuk bola besar (lihat TB-0214)."
+   }
+  ],
+  "PJK-TB-0254": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Menangkap bola: pengecoh 'telapak tangan' dan 'tangan' juga benar secara umum; kunci 'kedua tangan' hanya benar untuk bola besar (lihat TB-0214)."
+   }
+  ],
+  "PJK-TB-0211": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Menahan bola dengan dada (TB-0266, TB-0327 sebagai tugas kinerja) berisiko bagi anak 6-7 tahun dan teknik lazimnya melibatkan tangan; TB-0238 menyalahkan 'kedua tangan' tanpa syarat. Perlu keputusan guru/ahli (keselamatan, ukuran/berat bola)."
+   }
+  ],
+  "PJK-TB-0238": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Menahan bola dengan dada (TB-0266, TB-0327 sebagai tugas kinerja) berisiko bagi anak 6-7 tahun dan teknik lazimnya melibatkan tangan; TB-0238 menyalahkan 'kedua tangan' tanpa syarat. Perlu keputusan guru/ahli (keselamatan, ukuran/berat bola)."
+   }
+  ],
+  "PJK-TB-0255": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Menahan bola dengan dada (TB-0266, TB-0327 sebagai tugas kinerja) berisiko bagi anak 6-7 tahun dan teknik lazimnya melibatkan tangan; TB-0238 menyalahkan 'kedua tangan' tanpa syarat. Perlu keputusan guru/ahli (keselamatan, ukuran/berat bola)."
+   }
+  ],
+  "PJK-TB-0258": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Menahan bola dengan dada (TB-0266, TB-0327 sebagai tugas kinerja) berisiko bagi anak 6-7 tahun dan teknik lazimnya melibatkan tangan; TB-0238 menyalahkan 'kedua tangan' tanpa syarat. Perlu keputusan guru/ahli (keselamatan, ukuran/berat bola)."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Menyundul bola (heading) bukan keterampilan umum/aman untuk kelas 1 dan tidak ada di ATP/CP; berisiko cedera kepala (TB-0326 menjadikannya tugas kinerja sambil berlari). Perlu keputusan ahli."
+   }
+  ],
+  "PJK-TB-0266": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Menahan bola dengan dada (TB-0266, TB-0327 sebagai tugas kinerja) berisiko bagi anak 6-7 tahun dan teknik lazimnya melibatkan tangan; TB-0238 menyalahkan 'kedua tangan' tanpa syarat. Perlu keputusan guru/ahli (keselamatan, ukuran/berat bola)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum ('ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4') tanpa deskriptor teramati; hanya TB-0264 memuat kriteria hitung (lima kali)."
+   }
+  ],
+  "PJK-TB-0327": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Menahan bola dengan dada (TB-0266, TB-0327 sebagai tugas kinerja) berisiko bagi anak 6-7 tahun dan teknik lazimnya melibatkan tangan; TB-0238 menyalahkan 'kedua tangan' tanpa syarat. Perlu keputusan guru/ahli (keselamatan, ukuran/berat bola)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja gabungan dengan rubrik generik tanpa kriteria teramati; TB-0326 dan TB-0327 juga berisiko (menyundul / menahan dengan dada sambil berlari)."
+   }
+  ],
+  "PJK-TB-0216": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Menyundul bola (heading) bukan keterampilan umum/aman untuk kelas 1 dan tidak ada di ATP/CP; berisiko cedera kepala (TB-0326 menjadikannya tugas kinerja sambil berlari). Perlu keputusan ahli."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Materi menyundul bola terlalu teknis/berisiko untuk murid kelas 1."
+   }
+  ],
+  "PJK-TB-0233": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Menyundul bola (heading) bukan keterampilan umum/aman untuk kelas 1 dan tidak ada di ATP/CP; berisiko cedera kepala (TB-0326 menjadikannya tugas kinerja sambil berlari). Perlu keputusan ahli."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Materi menyundul bola terlalu teknis/berisiko untuk murid kelas 1."
+   }
+  ],
+  "PJK-TB-0245": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Menyundul bola (heading) bukan keterampilan umum/aman untuk kelas 1 dan tidak ada di ATP/CP; berisiko cedera kepala (TB-0326 menjadikannya tugas kinerja sambil berlari). Perlu keputusan ahli."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Materi menyundul bola terlalu teknis/berisiko untuk murid kelas 1."
+   }
+  ],
+  "PJK-TB-0326": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Menyundul bola (heading) bukan keterampilan umum/aman untuk kelas 1 dan tidak ada di ATP/CP; berisiko cedera kepala (TB-0326 menjadikannya tugas kinerja sambil berlari). Perlu keputusan ahli."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Materi menyundul bola terlalu teknis/berisiko untuk murid kelas 1."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja gabungan dengan rubrik generik tanpa kriteria teramati; TB-0326 dan TB-0327 juga berisiko (menyundul / menahan dengan dada sambil berlari)."
+   }
+  ],
+  "PJK-TB-0249": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'benda yang dapat dimanipulasi adalah ....' kunci 'kantong biji dan selendang'; tali, balon, gelang, dll. juga benar."
+   }
+  ],
+  "PJK-TB-0217": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh batu besar/kaca/pisau absurd; kunci terbaca langsung."
+   }
+  ],
+  "PJK-TB-0202": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hidung, telinga, tajam, berduri, dagu, menutup mata, duduk dan tidur, menulis saja); kunci terbaca tanpa pengetahuan materi. TB-0273 stem negatif ('tidak boleh')."
+   }
+  ],
+  "PJK-TB-0208": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hidung, telinga, tajam, berduri, dagu, menutup mata, duduk dan tidur, menulis saja); kunci terbaca tanpa pengetahuan materi. TB-0273 stem negatif ('tidak boleh')."
+   }
+  ],
+  "PJK-TB-0214": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hidung, telinga, tajam, berduri, dagu, menutup mata, duduk dan tidur, menulis saja); kunci terbaca tanpa pengetahuan materi. TB-0273 stem negatif ('tidak boleh')."
+   }
+  ],
+  "PJK-TB-0219": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hidung, telinga, tajam, berduri, dagu, menutup mata, duduk dan tidur, menulis saja); kunci terbaca tanpa pengetahuan materi. TB-0273 stem negatif ('tidak boleh')."
+   }
+  ],
+  "PJK-TB-0239": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hidung, telinga, tajam, berduri, dagu, menutup mata, duduk dan tidur, menulis saja); kunci terbaca tanpa pengetahuan materi. TB-0273 stem negatif ('tidak boleh')."
+   }
+  ],
+  "PJK-TB-0273": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hidung, telinga, tajam, berduri, dagu, menutup mata, duduk dan tidur, menulis saja); kunci terbaca tanpa pengetahuan materi. TB-0273 stem negatif ('tidak boleh')."
+   }
+  ],
+  "PJK-TB-0275": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hidung, telinga, tajam, berduri, dagu, menutup mata, duduk dan tidur, menulis saja); kunci terbaca tanpa pengetahuan materi. TB-0273 stem negatif ('tidak boleh')."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menanyakan jenis gerak gabungan tetapi kunci hanya menyebut ulang gerak ('berlari dan menangkap'), tidak seperti soal sejenis (TB-0268..0282) yang menanyakan kategori lokomotor/non-lokomotor/manipulatif."
+   }
+  ],
+  "PJK-TB-0276": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hidung, telinga, tajam, berduri, dagu, menutup mata, duduk dan tidur, menulis saja); kunci terbaca tanpa pengetahuan materi. TB-0273 stem negatif ('tidak boleh')."
+   }
+  ],
+  "PJK-TB-0280": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hidung, telinga, tajam, berduri, dagu, menutup mata, duduk dan tidur, menulis saja); kunci terbaca tanpa pengetahuan materi. TB-0273 stem negatif ('tidak boleh')."
+   }
+  ],
+  "PJK-TB-0283": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (hidung, telinga, tajam, berduri, dagu, menutup mata, duduk dan tidur, menulis saja); kunci terbaca tanpa pengetahuan materi. TB-0273 stem negatif ('tidak boleh')."
+   }
+  ],
+  "PJK-TB-0277": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Berguling lalu berdiri dikunci 'lokomotor dan non-lokomotor': bergantung pada berguling sebagai lokomotor (lihat PJK-TB-0009); klasifikasi berguling diperdebatkan."
+   }
+  ],
+  "PJK-TB-0290": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Berguling lalu berdiri dikunci 'lokomotor dan non-lokomotor': bergantung pada berguling sebagai lokomotor (lihat PJK-TB-0009); klasifikasi berguling diperdebatkan."
+   }
+  ],
+  "PJK-TB-0308": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Berguling lalu berdiri dikunci 'lokomotor dan non-lokomotor': bergantung pada berguling sebagai lokomotor (lihat PJK-TB-0009); klasifikasi berguling diperdebatkan."
+   }
+  ],
+  "PJK-TB-0260": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum ('ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4') tanpa deskriptor teramati; hanya TB-0264 memuat kriteria hitung (lima kali)."
+   }
+  ],
+  "PJK-TB-0261": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum ('ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4') tanpa deskriptor teramati; hanya TB-0264 memuat kriteria hitung (lima kali)."
+   }
+  ],
+  "PJK-TB-0262": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum ('ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4') tanpa deskriptor teramati; hanya TB-0264 memuat kriteria hitung (lima kali)."
+   }
+  ],
+  "PJK-TB-0263": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum ('ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4') tanpa deskriptor teramati; hanya TB-0264 memuat kriteria hitung (lima kali)."
+   }
+  ],
+  "PJK-TB-0264": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum ('ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4') tanpa deskriptor teramati; hanya TB-0264 memuat kriteria hitung (lima kali)."
+   }
+  ],
+  "PJK-TB-0265": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum ('ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4') tanpa deskriptor teramati; hanya TB-0264 memuat kriteria hitung (lima kali)."
+   }
+  ],
+  "PJK-TB-0267": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik umum ('ketepatan gerak, kesungguhan, sikap sportif, keselamatan skala 1-4') tanpa deskriptor teramati; hanya TB-0264 memuat kriteria hitung (lima kali)."
+   }
+  ],
+  "PJK-TB-0201": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'dua cara berbeda berguling' dengan rubrik generik tanpa kriteria teramati."
+   }
+  ],
+  "PJK-TB-0324": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Soal urutan lintasan tanpa petunjuk urutan di stem; urutan kunci arbitrer (bergantung pada konteks TB-0283/0284)."
+   }
+  ],
+  "PJK-TB-0341": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Aba-aba 'naik' = berjinjit dan 'turun' = merendahkan tubuh adalah kesepakatan buatan soal; 'naik' juga bisa berarti berdiri/melompat. Soal tidak dapat dijawab tanpa konteks kelas; jawaban tidak berasal dari pengetahuan umum."
+   }
+  ],
+  "PJK-TB-0343": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Aba-aba 'naik' = berjinjit dan 'turun' = merendahkan tubuh adalah kesepakatan buatan soal; 'naik' juga bisa berarti berdiri/melompat. Soal tidak dapat dijawab tanpa konteks kelas; jawaban tidak berasal dari pengetahuan umum."
+   }
+  ],
+  "PJK-TB-0345": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Aba-aba 'naik' = berjinjit dan 'turun' = merendahkan tubuh adalah kesepakatan buatan soal; 'naik' juga bisa berarti berdiri/melompat. Soal tidak dapat dijawab tanpa konteks kelas; jawaban tidak berasal dari pengetahuan umum."
+   }
+  ],
+  "PJK-TB-0347": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Aba-aba 'naik' = berjinjit dan 'turun' = merendahkan tubuh adalah kesepakatan buatan soal; 'naik' juga bisa berarti berdiri/melompat. Soal tidak dapat dijawab tanpa konteks kelas; jawaban tidak berasal dari pengetahuan umum."
+   }
+  ],
+  "PJK-TB-0369": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Aba-aba 'naik' = berjinjit dan 'turun' = merendahkan tubuh adalah kesepakatan buatan soal; 'naik' juga bisa berarti berdiri/melompat. Soal tidak dapat dijawab tanpa konteks kelas; jawaban tidak berasal dari pengetahuan umum."
+   }
+  ],
+  "PJK-TB-0384": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Aba-aba 'naik' = berjinjit dan 'turun' = merendahkan tubuh adalah kesepakatan buatan soal; 'naik' juga bisa berarti berdiri/melompat. Soal tidak dapat dijawab tanpa konteks kelas; jawaban tidak berasal dari pengetahuan umum."
+   }
+  ],
+  "PJK-TB-0389": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Aba-aba 'naik' = berjinjit dan 'turun' = merendahkan tubuh adalah kesepakatan buatan soal; 'naik' juga bisa berarti berdiri/melompat. Soal tidak dapat dijawab tanpa konteks kelas; jawaban tidak berasal dari pengetahuan umum."
+   }
+  ],
+  "PJK-TB-0394": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Aba-aba 'naik' = berjinjit dan 'turun' = merendahkan tubuh adalah kesepakatan buatan soal; 'naik' juga bisa berarti berdiri/melompat. Soal tidak dapat dijawab tanpa konteks kelas; jawaban tidak berasal dari pengetahuan umum."
+   }
+  ],
+  "PJK-TB-0334": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0336": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0337": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0340": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0344": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0350": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0351": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0353": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0354": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0355": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0356": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0360": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0365": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0377": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0381": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0382": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0385": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0386": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0387": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0388": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0390": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem dan kunci menggandakan kata yang sama (aba-aba 'cepat' -> bergerak cepat, 'lompat' -> melompat, 'berhenti' -> berhenti); jawaban terbaca dari soal dan tidak mengukur kontrol gerak."
+   }
+  ],
+  "PJK-TB-0338": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (kelucuan, kemarahan, kemalasan, permusuhan, tertawa keras, menabrak, berteriak); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-TB-0339": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (kelucuan, kemarahan, kemalasan, permusuhan, tertawa keras, menabrak, berteriak); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-TB-0348": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (kelucuan, kemarahan, kemalasan, permusuhan, tertawa keras, menabrak, berteriak); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-TB-0352": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (kelucuan, kemarahan, kemalasan, permusuhan, tertawa keras, menabrak, berteriak); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-TB-0358": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (kelucuan, kemarahan, kemalasan, permusuhan, tertawa keras, menabrak, berteriak); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-TB-0359": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (kelucuan, kemarahan, kemalasan, permusuhan, tertawa keras, menabrak, berteriak); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-TB-0346": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Gerak lambat dilakukan dengan tenaga terkontrol dan kecil': gerak lambat tidak selalu bertenaga kecil (mis. menahan beban lambat). Pernyataan perlu keputusan ahli; juga USIA_ISI (abstraksi tenaga)."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Konsep 'tenaga terkontrol' abstrak untuk kelas 1."
+   }
+  ],
+  "PJK-TB-0361": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Gerak lambat dilakukan dengan tenaga terkontrol dan kecil': gerak lambat tidak selalu bertenaga kecil (mis. menahan beban lambat). Pernyataan perlu keputusan ahli; juga USIA_ISI (abstraksi tenaga)."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Konsep 'tenaga terkontrol' abstrak untuk kelas 1."
+   }
+  ],
+  "PJK-TB-0375": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Gerak lambat dilakukan dengan tenaga terkontrol dan kecil': gerak lambat tidak selalu bertenaga kecil (mis. menahan beban lambat). Pernyataan perlu keputusan ahli; juga USIA_ISI (abstraksi tenaga)."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Konsep 'tenaga terkontrol' abstrak untuk kelas 1."
+   }
+  ],
+  "PJK-TB-0396": [
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "'Melompat dua kaki' bertentangan dengan definisi bank (melompat satu kaki, dua kaki = meloncat; lihat TB-0006/0008/0015)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik generik; TB-0395 memuat kriteria hitungan tetapi tidak ada batas toleransi keseimbangan; lainnya tanpa kriteria teramati."
+   }
+  ],
+  "PJK-TB-0397": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Lakukan memutar/meregang/mendorong dengan terkontrol' tidak gramatikal; 'mendorong' tanpa objek tidak dapat diamati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik generik; TB-0395 memuat kriteria hitungan tetapi tidak ada batas toleransi keseimbangan; lainnya tanpa kriteria teramati."
+   }
+  ],
+  "PJK-TB-0398": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Lakukan memutar/meregang/mendorong dengan terkontrol' tidak gramatikal; 'mendorong' tanpa objek tidak dapat diamati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik generik; TB-0395 memuat kriteria hitungan tetapi tidak ada batas toleransi keseimbangan; lainnya tanpa kriteria teramati."
+   }
+  ],
+  "PJK-TB-0400": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Lakukan memutar/meregang/mendorong dengan terkontrol' tidak gramatikal; 'mendorong' tanpa objek tidak dapat diamati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik generik; TB-0395 memuat kriteria hitungan tetapi tidak ada batas toleransi keseimbangan; lainnya tanpa kriteria teramati."
+   }
+  ],
+  "PJK-TB-0325": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja gabungan dengan rubrik generik tanpa kriteria teramati; TB-0326 dan TB-0327 juga berisiko (menyundul / menahan dengan dada sambil berlari)."
+   }
+  ],
+  "PJK-TB-0328": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja gabungan dengan rubrik generik tanpa kriteria teramati; TB-0326 dan TB-0327 juga berisiko (menyundul / menahan dengan dada sambil berlari)."
+   }
+  ],
+  "PJK-TB-0329": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja gabungan dengan rubrik generik tanpa kriteria teramati; TB-0326 dan TB-0327 juga berisiko (menyundul / menahan dengan dada sambil berlari)."
+   }
+  ],
+  "PJK-TB-0330": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja gabungan dengan rubrik generik tanpa kriteria teramati; TB-0326 dan TB-0327 juga berisiko (menyundul / menahan dengan dada sambil berlari)."
+   }
+  ],
+  "PJK-TB-0331": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja gabungan dengan rubrik generik tanpa kriteria teramati; TB-0326 dan TB-0327 juga berisiko (menyundul / menahan dengan dada sambil berlari)."
+   }
+  ],
+  "PJK-TB-0332": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja gabungan dengan rubrik generik tanpa kriteria teramati; TB-0326 dan TB-0327 juga berisiko (menyundul / menahan dengan dada sambil berlari)."
+   }
+  ],
+  "PJK-TB-0333": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja gabungan dengan rubrik generik tanpa kriteria teramati; TB-0326 dan TB-0327 juga berisiko (menyundul / menahan dengan dada sambil berlari)."
+   }
+  ],
+  "PJK-TB-0395": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik generik; TB-0395 memuat kriteria hitungan tetapi tidak ada batas toleransi keseimbangan; lainnya tanpa kriteria teramati."
+   }
+  ],
+  "PJK-TB-0399": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik generik; TB-0395 memuat kriteria hitungan tetapi tidak ada batas toleransi keseimbangan; lainnya tanpa kriteria teramati."
+   }
+  ],
+  "PJK-TB-0316": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'menggabungkan gerak ....' dijawab dengan menyebut ulang gerak pada stem (berlari dan melompat/menangkap); bukan konsep klasifikasi seperti soal sejenis."
+   }
+  ],
+  "PJK-TB-0315": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'menggabungkan gerak ....' dijawab dengan menyebut ulang gerak pada stem (berlari dan melompat/menangkap); bukan konsep klasifikasi seperti soal sejenis."
+   }
+  ],
+  "PJK-TB-0402": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0403": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0404": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0405": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0409": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0411": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0418": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0420": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0421": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "'hasil tepatnya ... dari sepuluh' tidak jelas (apa yang dihitung: lemparan masuk); kunci 5 hanya mengulang angka stem."
+   }
+  ],
+  "PJK-TB-0422": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0430": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0431": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0435": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0443": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0444": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0446": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0448": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0450": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "'hasil tepatnya ... dari sepuluh' tidak jelas (apa yang dihitung: lemparan masuk); kunci 5 hanya mengulang angka stem."
+   }
+  ],
+  "PJK-TB-0451": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0453": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0454": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0457": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal hitung pengurangan dalam 10 (lemparan masuk/tidak masuk); hasil hitungan benar tetapi yang diukur numerasi, bukan keterampilan memanipulasi objek (TP-PJK-TB-07 berbasis praktik); tipe soal tertulis kurang cocok dan banyak soal dengan pola identik (lihat daftar duplikat)."
+   }
+  ],
+  "PJK-TB-0436": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Agar pantulan bola tepat kita perlu mengikuti bola dengan mata' dikunci Salah, padahal mengikuti bola dengan mata membantu ketepatan pantulan; dapat dibenarkan."
+   }
+  ],
+  "PJK-TB-0424": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci 'mengatur tenaga pantulan'; 'mengikuti bola dengan mata'/melihat sasaran juga ikut menentukan ketepatan pantulan."
+   }
+  ],
+  "PJK-TB-0442": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Kunci 'mengatur tenaga pantulan'; 'mengikuti bola dengan mata'/melihat sasaran juga ikut menentukan ketepatan pantulan."
+   }
+  ],
+  "PJK-TB-0415": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kunci 'mengarahkan operan ke teman' menggandakan frasa stem (operan ke teman tepat); jawaban terbaca dari soal."
+   }
+  ],
+  "PJK-TB-0440": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kunci 'mengarahkan operan ke teman' menggandakan frasa stem (operan ke teman tepat); jawaban terbaca dari soal."
+   }
+  ],
+  "PJK-TB-0406": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (semakin berbahaya, asal lempar, menutup mata, diam, mengejek teman, kelelahan, kecurangan, marah pada bola, menyalahkan teman); kunci terbaca tanpa pengetahuan materi. TB-0427/0429 kunci sama meski skor berbeda (6 vs 3 dari 10)."
+   }
+  ],
+  "PJK-TB-0416": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (semakin berbahaya, asal lempar, menutup mata, diam, mengejek teman, kelelahan, kecurangan, marah pada bola, menyalahkan teman); kunci terbaca tanpa pengetahuan materi. TB-0427/0429 kunci sama meski skor berbeda (6 vs 3 dari 10)."
+   }
+  ],
+  "PJK-TB-0417": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (semakin berbahaya, asal lempar, menutup mata, diam, mengejek teman, kelelahan, kecurangan, marah pada bola, menyalahkan teman); kunci terbaca tanpa pengetahuan materi. TB-0427/0429 kunci sama meski skor berbeda (6 vs 3 dari 10)."
+   }
+  ],
+  "PJK-TB-0423": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (semakin berbahaya, asal lempar, menutup mata, diam, mengejek teman, kelelahan, kecurangan, marah pada bola, menyalahkan teman); kunci terbaca tanpa pengetahuan materi. TB-0427/0429 kunci sama meski skor berbeda (6 vs 3 dari 10)."
+   }
+  ],
+  "PJK-TB-0426": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (semakin berbahaya, asal lempar, menutup mata, diam, mengejek teman, kelelahan, kecurangan, marah pada bola, menyalahkan teman); kunci terbaca tanpa pengetahuan materi. TB-0427/0429 kunci sama meski skor berbeda (6 vs 3 dari 10)."
+   }
+  ],
+  "PJK-TB-0427": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (semakin berbahaya, asal lempar, menutup mata, diam, mengejek teman, kelelahan, kecurangan, marah pada bola, menyalahkan teman); kunci terbaca tanpa pengetahuan materi. TB-0427/0429 kunci sama meski skor berbeda (6 vs 3 dari 10)."
+   }
+  ],
+  "PJK-TB-0428": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (semakin berbahaya, asal lempar, menutup mata, diam, mengejek teman, kelelahan, kecurangan, marah pada bola, menyalahkan teman); kunci terbaca tanpa pengetahuan materi. TB-0427/0429 kunci sama meski skor berbeda (6 vs 3 dari 10)."
+   }
+  ],
+  "PJK-TB-0429": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd/afektif (semakin berbahaya, asal lempar, menutup mata, diam, mengejek teman, kelelahan, kecurangan, marah pada bola, menyalahkan teman); kunci terbaca tanpa pengetahuan materi. TB-0427/0429 kunci sama meski skor berbeda (6 vs 3 dari 10)."
+   }
+  ],
+  "PJK-TB-0452": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian menuntut frasa panjang 'dikurangi atau ditambah tenaganya dengan tepat'; sulit dinilai sama persis dan abstrak bagi kelas 1."
+   }
+  ],
+  "PJK-TB-0462": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Lakukan memantulkan/menangkap/menggiring bola dengan tepat sasaran' tanpa sasaran yang didefinisikan; kriteria tidak teramati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik generik; kriteria teramati hanya pada TB-0465 (lima kali, catat berapa masuk)."
+   }
+  ],
+  "PJK-TB-0463": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Lakukan memantulkan/menangkap/menggiring bola dengan tepat sasaran' tanpa sasaran yang didefinisikan; kriteria tidak teramati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik generik; kriteria teramati hanya pada TB-0465 (lima kali, catat berapa masuk)."
+   }
+  ],
+  "PJK-TB-0464": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Lakukan memantulkan/menangkap/menggiring bola dengan tepat sasaran' tanpa sasaran yang didefinisikan; kriteria tidak teramati."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik generik; kriteria teramati hanya pada TB-0465 (lima kali, catat berapa masuk)."
+   }
+  ],
+  "PJK-TB-0466": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Lakukan memantulkan/menangkap/menggiring bola dengan tepat sasaran' tanpa sasaran yang didefinisikan; kriteria tidak teramati."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Tugas kinerja menyundul bola berisiko cedera kepala bagi anak 6-7 tahun; bukan bagian ATP (lihat TB-0216)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik generik; kriteria teramati hanya pada TB-0465 (lima kali, catat berapa masuk)."
+   }
+  ],
+  "PJK-TB-0465": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik generik; kriteria teramati hanya pada TB-0465 (lima kali, catat berapa masuk)."
+   }
+  ],
+  "PJK-TB-0467": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja dengan rubrik generik; kriteria teramati hanya pada TB-0465 (lima kali, catat berapa masuk)."
+   }
+  ],
+  "PJK-BG-0001": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Soal 'Manfaat aturan bermain X' memakai opsi manfaat bersama (adil, dapat dipercaya, semua mendapat kesempatan, pertemanan terjaga) yang saling tumpang tindih: jujur dan sesuai aturan dapat dipercaya sekaligus adil; menunggu giliran juga adil; menghormati wasit juga adil. Lebih dari satu opsi dapat dibenarkan."
+   }
+  ],
+  "PJK-BG-0006": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Soal 'Manfaat aturan bermain X' memakai opsi manfaat bersama (adil, dapat dipercaya, semua mendapat kesempatan, pertemanan terjaga) yang saling tumpang tindih: jujur dan sesuai aturan dapat dipercaya sekaligus adil; menunggu giliran juga adil; menghormati wasit juga adil. Lebih dari satu opsi dapat dibenarkan."
+   }
+  ],
+  "PJK-BG-0007": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Soal 'Manfaat aturan bermain X' memakai opsi manfaat bersama (adil, dapat dipercaya, semua mendapat kesempatan, pertemanan terjaga) yang saling tumpang tindih: jujur dan sesuai aturan dapat dipercaya sekaligus adil; menunggu giliran juga adil; menghormati wasit juga adil. Lebih dari satu opsi dapat dibenarkan."
+   }
+  ],
+  "PJK-BG-0013": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Soal 'Manfaat aturan bermain X' memakai opsi manfaat bersama (adil, dapat dipercaya, semua mendapat kesempatan, pertemanan terjaga) yang saling tumpang tindih: jujur dan sesuai aturan dapat dipercaya sekaligus adil; menunggu giliran juga adil; menghormati wasit juga adil. Lebih dari satu opsi dapat dibenarkan."
+   }
+  ],
+  "PJK-BG-0017": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Soal 'Manfaat aturan bermain X' memakai opsi manfaat bersama (adil, dapat dipercaya, semua mendapat kesempatan, pertemanan terjaga) yang saling tumpang tindih: jujur dan sesuai aturan dapat dipercaya sekaligus adil; menunggu giliran juga adil; menghormati wasit juga adil. Lebih dari satu opsi dapat dibenarkan."
+   }
+  ],
+  "PJK-BG-0020": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Soal 'Manfaat aturan bermain X' memakai opsi manfaat bersama (adil, dapat dipercaya, semua mendapat kesempatan, pertemanan terjaga) yang saling tumpang tindih: jujur dan sesuai aturan dapat dipercaya sekaligus adil; menunggu giliran juga adil; menghormati wasit juga adil. Lebih dari satu opsi dapat dibenarkan."
+   }
+  ],
+  "PJK-BG-0003": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Berdoa sebelum berolahraga dijadikan 'aturan bermain'/fair play; ATP/CP menyebut fair play, aturan, strategi kolaborasi, tidak menyebut doa. Topik di tepi TP-PJK-BG-01."
+   }
+  ],
+  "PJK-BG-0008": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Berdoa sebelum berolahraga dijadikan 'aturan bermain'/fair play; ATP/CP menyebut fair play, aturan, strategi kolaborasi, tidak menyebut doa. Topik di tepi TP-PJK-BG-01."
+   }
+  ],
+  "PJK-BG-0026": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Berdoa sebelum berolahraga dijadikan 'aturan bermain'/fair play; ATP/CP menyebut fair play, aturan, strategi kolaborasi, tidak menyebut doa. Topik di tepi TP-PJK-BG-01."
+   }
+  ],
+  "PJK-BG-0015": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menangis dan marah saat kalah dicap 'tidak menaati aturan'; bagi murid 6-7 tahun menangis adalah reaksi emosi wajar. Redaksi perlu pertimbangan guru (fokus pada perilaku seperti membantah/mengejek)."
+   }
+  ],
+  "PJK-BG-0028": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menangis dan marah saat kalah dicap 'tidak menaati aturan'; bagi murid 6-7 tahun menangis adalah reaksi emosi wajar. Redaksi perlu pertimbangan guru (fokus pada perilaku seperti membantah/mengejek)."
+   }
+  ],
+  "PJK-BG-0009": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (sombong/pemarah, menangis keras, bertengkar, menutup lapangan, melarang bermain, berbahaya, kacau); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0014": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (sombong/pemarah, menangis keras, bertengkar, menutup lapangan, melarang bermain, berbahaya, kacau); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0022": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (sombong/pemarah, menangis keras, bertengkar, menutup lapangan, melarang bermain, berbahaya, kacau); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0024": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (sombong/pemarah, menangis keras, bertengkar, menutup lapangan, melarang bermain, berbahaya, kacau); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0021": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (sombong/pemarah, menangis keras, bertengkar, menutup lapangan, melarang bermain, berbahaya, kacau); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0045": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'Manfaat aturan bermain X adalah ....' menuntut satu frasa manfaat tertentu dari beberapa yang tumpang tindih (bermain sesuai aturan -> adil/dapat dipercaya; merapikan alat -> rapi/tidak hilang); jawaban benar lain tidak diterima."
+   }
+  ],
+  "PJK-BG-0046": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'Manfaat aturan bermain X adalah ....' menuntut satu frasa manfaat tertentu dari beberapa yang tumpang tindih (bermain sesuai aturan -> adil/dapat dipercaya; merapikan alat -> rapi/tidak hilang); jawaban benar lain tidak diterima."
+   }
+  ],
+  "PJK-BG-0049": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'Manfaat aturan bermain X adalah ....' menuntut satu frasa manfaat tertentu dari beberapa yang tumpang tindih (bermain sesuai aturan -> adil/dapat dipercaya; merapikan alat -> rapi/tidak hilang); jawaban benar lain tidak diterima."
+   }
+  ],
+  "PJK-BG-0051": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'Manfaat aturan bermain X adalah ....' menuntut satu frasa manfaat tertentu dari beberapa yang tumpang tindih (bermain sesuai aturan -> adil/dapat dipercaya; merapikan alat -> rapi/tidak hilang); jawaban benar lain tidak diterima."
+   }
+  ],
+  "PJK-BG-0052": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'Manfaat aturan bermain X adalah ....' menuntut satu frasa manfaat tertentu dari beberapa yang tumpang tindih (bermain sesuai aturan -> adil/dapat dipercaya; merapikan alat -> rapi/tidak hilang); jawaban benar lain tidak diterima."
+   }
+  ],
+  "PJK-BG-0053": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'Manfaat aturan bermain X adalah ....' menuntut satu frasa manfaat tertentu dari beberapa yang tumpang tindih (bermain sesuai aturan -> adil/dapat dipercaya; merapikan alat -> rapi/tidak hilang); jawaban benar lain tidak diterima."
+   }
+  ],
+  "PJK-BG-0054": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Bermain curang membuat teman merasa ....' kunci 'dirugikan'; sedih, kecewa, marah juga benar."
+   }
+  ],
+  "PJK-BG-0064": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja sikap (rendah hati, jujur, mengajak teman) berupa peragaan; sikap tidak dapat diamati dalam peragaan singkat, rubrik generik tanpa kriteria perilaku teramati. TB-0067 'saat bermain saat bermain' (BAHASA, redundan)."
+   }
+  ],
+  "PJK-BG-0065": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja sikap (rendah hati, jujur, mengajak teman) berupa peragaan; sikap tidak dapat diamati dalam peragaan singkat, rubrik generik tanpa kriteria perilaku teramati. TB-0067 'saat bermain saat bermain' (BAHASA, redundan)."
+   }
+  ],
+  "PJK-BG-0066": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja sikap (rendah hati, jujur, mengajak teman) berupa peragaan; sikap tidak dapat diamati dalam peragaan singkat, rubrik generik tanpa kriteria perilaku teramati. TB-0067 'saat bermain saat bermain' (BAHASA, redundan)."
+   }
+  ],
+  "PJK-BG-0067": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja sikap (rendah hati, jujur, mengajak teman) berupa peragaan; sikap tidak dapat diamati dalam peragaan singkat, rubrik generik tanpa kriteria perilaku teramati. TB-0067 'saat bermain saat bermain' (BAHASA, redundan)."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "'Peragakan sikap jujur saat bermain saat bermain!' pengulangan frasa."
+   }
+  ],
+  "PJK-BG-0062": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'marah dan menangis' dikelompokkan sebagai tidak menaati aturan; menangis adalah reaksi emosi wajar murid 6-7 tahun (lihat BG-0015)."
+   }
+  ],
+  "PJK-BG-0069": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Manfaat 'mengoper bola' dikunci 'semua ikut bermain'; 'tim menjadi kompak' dan 'tim bergerak lebih cepat' juga dapat dibenarkan. Pemetaan aturan-manfaat bersifat arbitrer."
+   }
+  ],
+  "PJK-BG-0108": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Manfaat 'mengoper bola' dikunci 'semua ikut bermain'; 'tim menjadi kompak' dan 'tim bergerak lebih cepat' juga dapat dibenarkan. Pemetaan aturan-manfaat bersifat arbitrer."
+   }
+  ],
+  "PJK-BG-0120": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Manfaat 'mengoper bola' dikunci 'semua ikut bermain'; 'tim menjadi kompak' dan 'tim bergerak lebih cepat' juga dapat dibenarkan. Pemetaan aturan-manfaat bersifat arbitrer."
+   }
+  ],
+  "PJK-BG-0126": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Manfaat 'mengoper bola' dikunci 'semua ikut bermain'; 'tim menjadi kompak' dan 'tim bergerak lebih cepat' juga dapat dibenarkan. Pemetaan aturan-manfaat bersifat arbitrer."
+   }
+  ],
+  "PJK-BG-0078": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Saling membantu' dikaitkan dengan manfaat 'tidak ada yang cedera' (cedera lebih terkait aturan keselamatan/tidak kasar); opsi 'tim menjadi kompak' lebih sesuai. Kaitan perlu keputusan guru/ahli."
+   }
+  ],
+  "PJK-BG-0104": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Saling membantu' dikaitkan dengan manfaat 'tidak ada yang cedera' (cedera lebih terkait aturan keselamatan/tidak kasar); opsi 'tim menjadi kompak' lebih sesuai. Kaitan perlu keputusan guru/ahli."
+   }
+  ],
+  "PJK-BG-0122": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Saling membantu' dikaitkan dengan manfaat 'tidak ada yang cedera' (cedera lebih terkait aturan keselamatan/tidak kasar); opsi 'tim menjadi kompak' lebih sesuai. Kaitan perlu keputusan guru/ahli."
+   }
+  ],
+  "PJK-BG-0125": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Saling membantu' dikaitkan dengan manfaat 'tidak ada yang cedera' (cedera lebih terkait aturan keselamatan/tidak kasar); opsi 'tim menjadi kompak' lebih sesuai. Kaitan perlu keputusan guru/ahli."
+   }
+  ],
+  "PJK-BG-0087": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Manfaat 'menjaga posisi' dikunci 'lapangan terjaga rapi'; manfaat strategis posisi (area tercakup, tidak bertabrakan) tidak muncul; kunci meragukan."
+   }
+  ],
+  "PJK-BG-0119": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Manfaat 'menjaga posisi' dikunci 'lapangan terjaga rapi'; manfaat strategis posisi (area tercakup, tidak bertabrakan) tidak muncul; kunci meragukan."
+   }
+  ],
+  "PJK-BG-0095": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi templat 'tim X menghadapi \"menyusun strategi\" (kerja sama tim). Yang dilakukan X adalah ....' kaku dan membingungkan bagi kelas 1; BG-0109 'Terhadap kerja sama tim ..., Bima bermain tanpa rencana' tidak jelas."
+   }
+  ],
+  "PJK-BG-0096": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi templat 'tim X menghadapi \"menyusun strategi\" (kerja sama tim). Yang dilakukan X adalah ....' kaku dan membingungkan bagi kelas 1; BG-0109 'Terhadap kerja sama tim ..., Bima bermain tanpa rencana' tidak jelas."
+   }
+  ],
+  "PJK-BG-0097": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi templat 'tim X menghadapi \"menyusun strategi\" (kerja sama tim). Yang dilakukan X adalah ....' kaku dan membingungkan bagi kelas 1; BG-0109 'Terhadap kerja sama tim ..., Bima bermain tanpa rencana' tidak jelas."
+   }
+  ],
+  "PJK-BG-0099": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi templat 'tim X menghadapi \"menyusun strategi\" (kerja sama tim). Yang dilakukan X adalah ....' kaku dan membingungkan bagi kelas 1; BG-0109 'Terhadap kerja sama tim ..., Bima bermain tanpa rencana' tidak jelas."
+   }
+  ],
+  "PJK-BG-0109": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi templat 'tim X menghadapi \"menyusun strategi\" (kerja sama tim). Yang dilakukan X adalah ....' kaku dan membingungkan bagi kelas 1; BG-0109 'Terhadap kerja sama tim ..., Bima bermain tanpa rencana' tidak jelas."
+   }
+  ],
+  "PJK-BG-0073": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (berbahaya, kacau, tempat tidur, kekuasaan penuh, berdiam); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0079": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (berbahaya, kacau, tempat tidur, kekuasaan penuh, berdiam); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0081": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (berbahaya, kacau, tempat tidur, kekuasaan penuh, berdiam); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0082": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd (berbahaya, kacau, tempat tidur, kekuasaan penuh, berdiam); kunci terbaca tanpa pengetahuan materi."
+   }
+  ],
+  "PJK-BG-0128": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Peragakan kerja sama dalam ...' tanpa kriteria teramati (apa yang harus dilakukan, berapa kali, oleh siapa); rubrik generik."
+   }
+  ],
+  "PJK-BG-0129": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Peragakan kerja sama dalam ...' tanpa kriteria teramati (apa yang harus dilakukan, berapa kali, oleh siapa); rubrik generik."
+   }
+  ],
+  "PJK-BG-0130": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Peragakan kerja sama dalam ...' tanpa kriteria teramati (apa yang harus dilakukan, berapa kali, oleh siapa); rubrik generik."
+   }
+  ],
+  "PJK-BG-0131": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Peragakan kerja sama dalam ...' tanpa kriteria teramati (apa yang harus dilakukan, berapa kali, oleh siapa); rubrik generik."
+   }
+  ],
+  "PJK-BG-0132": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Peragakan kerja sama dalam ...' tanpa kriteria teramati (apa yang harus dilakukan, berapa kali, oleh siapa); rubrik generik."
+   }
+  ],
+  "PJK-BG-0133": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tugas kinerja 'Peragakan kerja sama dalam ...' tanpa kriteria teramati (apa yang harus dilakukan, berapa kali, oleh siapa); rubrik generik."
+   }
+  ]
+ }
+}

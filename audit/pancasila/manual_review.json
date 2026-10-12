@@ -1,0 +1,1438 @@
+{
+ "catatan": "Tinjauan baca oleh model AI (bukan ahli). Hanya pengecualian yang dicatat; soal lain yang dibaca dianggap tidak bermasalah menurut pembaca. Semua temuan perlu keputusan guru/ahli.",
+ "reviewed_ranges": [
+  "0-100 (PPN-B1-0001..0100)",
+  "100-200 (PPN-B1-0101..0200)",
+  "200-300 (PPN-B1-0201..0214, PPN-B2-0001..0086)",
+  "300-400 (PPN-B2-0087..0186)",
+  "400-500 (PPN-B2-0187..0214, PPN-B3-0001..0072)"
+ ],
+ "temuan": {
+  "PPN-B1-0010": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Burung Garuda/lambang negara termasuk materi TP-PPN-B3-01 (simbol Pancasila pada lambang negara); di TP B1-01 (identitas diri) hanya berkaitan lewat semboyan."
+   },
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'Rajawali Putih' dan 'Elang Jawa' masih berkerabat dengan Garuda (burung Garuda Pancasila dirujuk dari rajawali/elang Jawa); pengecoh terlalu dekat."
+   }
+  ],
+  "PPN-B1-0061": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Sama dengan PPN-B1-0010 (isian burung Garuda; lebih dekat ke TP-PPN-B3-01)."
+   }
+  ],
+  "PPN-B1-0011": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Bahasa yang dipakai di rumah dan sekolah di seluruh Indonesia' tidak akurat: di rumah banyak anak memakai bahasa daerah (bertentangan dengan PPN-B1-0025). Redaksi perlu 'bahasa pemersatu di antara suku-suku'."
+   }
+  ],
+  "PPN-B1-0029": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Sama dengan PPN-B1-0011: klaim bahasa Indonesia dipakai di rumah di seluruh Indonesia terlalu umum."
+   }
+  ],
+  "PPN-B1-0046": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Sama dengan PPN-B1-0011 (pernyataan 'di rumah dan sekolah di seluruh Indonesia')."
+   }
+  ],
+  "PPN-B1-0052": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Sama dengan PPN-B1-0011."
+   }
+  ],
+  "PPN-B1-0015": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Hobi menggambar: 'buku' (buku gambar) dapat dibenarkan; kunci 'pensil warna' sempit."
+   }
+  ],
+  "PPN-B1-0050": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Sama dengan PPN-B1-0015 pada versi isian: 'buku gambar' dapat dibenarkan, sedangkan kunci hanya 'pensil warna'."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Orang yang hobi X memerlukan ....' terbuka: banyak jawaban sah (hobi menggambar: buku gambar, kertas, krayon), padahal kunci tunggal berupa frasa persis."
+   }
+  ],
+  "PPN-B1-0036": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Kalimat 'Terhadap teman laki-laki maupun perempuan, kita hanya berteman dengan yang sama' berbelit dan membingungkan (kata 'maupun' dan 'hanya' bertentangan)."
+   }
+  ],
+  "PPN-B1-0041": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'banyak daerah memiliki bahasa asing saja' janggal; pernyataan salah dibentuk dengan menukar kata sehingga tidak bermakna."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pernyataan Salah dihasilkan dengan mengganti pengecoh ke kalimat benar tanpa memeriksa kewajaran."
+   }
+  ],
+  "PPN-B1-0045": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Identitas diri ... seragam' sebagai pernyataan Salah kurang jelas bagi kelas 1; istilah 'seragam' bisa disalahpahami sebagai pakaian seragam."
+   }
+  ],
+  "PPN-B1-0021": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pasangan beragam/seragam sulit dibedakan murid kelas 1 dan 'seragam' berarti pakaian seragam bagi anak."
+   }
+  ],
+  "PPN-B1-0072": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pengelompokan: hobi dan bahasa daerah juga identitas diri, sehingga kategori 'identitas lain: nama' tumpang tindih dengan dua kategori lain."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kategori 'identitas lain' membocorkan 'nama' sebagai sisa; tipe grouping bertumpuk."
+   }
+  ],
+  "PPN-B1-0023": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal bergambar bergantung pada gambar yang tidak tersedia pada bank (hanya deskripsi); 'warna kulit beragam' sensitif dan perlu dipastikan ilustrasi netral."
+   }
+  ],
+  "PPN-B1-0093": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Klenteng dikaitkan dengan Konghucu; klenteng juga lazim dipakai umat Buddha/Tridharma sehingga pengecoh 'Buddha' dapat dibenarkan; perlu keputusan ahli."
+   },
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'Buddha' dapat dibenarkan (klenteng sering berfungsi sebagai tempat ibadah umat Buddha)."
+   }
+  ],
+  "PPN-B1-0075": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Gereja untuk 'agama Kristen': tempat ibadah Katolik juga gereja; perlu keputusan ahli/guru apakah Kristen dimaksud Kristen Protestan dan Katolik."
+   }
+  ],
+  "PPN-B1-0088": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Alkitab sebagai kitab suci 'agama Kristen' tanpa menyebut Katolik; perlu keputusan ahli untuk keseragaman istilah."
+   }
+  ],
+  "PPN-B1-0076": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Ucapan terima kasih dalam bahasa Batak/Sunda/Jawa/Bali dengan empat pengecoh asing dalam sekali soal berat bagi kelas 1; menghafal kata daerah."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan terima kasih bahasa daerah, rumah adat, tarian, alat musik, makanan khas daerah tidak ada di teks CP/ATP (CP: identitas sesuai jenis kelamin, hobi, bahasa, agama; TP B1-02: keberagaman suku bangsa, budaya, agama); hanya terkait longgar lewat 'budaya'."
+   }
+  ],
+  "PPN-B1-0077": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan daerah/tarian/rumah adat: lihat PPN-B1-0076, tepi TP-PPN-B1-02 (tidak ada di CP/ATP)."
+   }
+  ],
+  "PPN-B1-0078": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan daerah/tarian/rumah adat: lihat PPN-B1-0076, tepi TP-PPN-B1-02 (tidak ada di CP/ATP)."
+   }
+  ],
+  "PPN-B1-0079": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan daerah/tarian/rumah adat: lihat PPN-B1-0076, tepi TP-PPN-B1-02 (tidak ada di CP/ATP)."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Joglo berasal dari budaya Jawa (Jawa Tengah dan DIY); kunci tunggal 'Jawa Tengah' perlu keputusan ahli."
+   }
+  ],
+  "PPN-B1-0083": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Rumah adat/makanan khas daerah: lihat PPN-B1-0076."
+   }
+  ],
+  "PPN-B1-0084": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Rumah adat/makanan khas daerah: lihat PPN-B1-0076."
+   }
+  ],
+  "PPN-B1-0085": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Rumah adat/makanan khas daerah: lihat PPN-B1-0076."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Gudeg sebagai makanan khas Yogyakarta; gudeg juga khas Jawa Tengah (Solo), keputusan ahli."
+   }
+  ],
+  "PPN-B1-0087": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan daerah/makanan/rumah adat/tarian/alat musik daerah: lihat PPN-B1-0076."
+   }
+  ],
+  "PPN-B1-0089": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan daerah/makanan/rumah adat/tarian/alat musik daerah: lihat PPN-B1-0076."
+   }
+  ],
+  "PPN-B1-0090": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan daerah/makanan/rumah adat/tarian/alat musik daerah: lihat PPN-B1-0076."
+   }
+  ],
+  "PPN-B1-0091": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan daerah/makanan/rumah adat/tarian/alat musik daerah: lihat PPN-B1-0076."
+   }
+  ],
+  "PPN-B1-0094": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan daerah/makanan/rumah adat/tarian/alat musik daerah: lihat PPN-B1-0076."
+   }
+  ],
+  "PPN-B1-0095": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan daerah/makanan/rumah adat/tarian/alat musik daerah: lihat PPN-B1-0076."
+   }
+  ],
+  "PPN-B1-0097": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Ucapan daerah/makanan/rumah adat/tarian/alat musik daerah: lihat PPN-B1-0076."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Angklung dari Jawa Barat; kunci benar umumnya, namun angklung juga alat musik Banten; perlu keputusan ahli apakah 'Jawa Barat' tunggal."
+   }
+  ],
+  "PPN-B1-0102": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0103": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0105": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0108": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0109": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0110": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0111": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0115": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0116": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0117": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0118": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0119": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0120": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0121": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0122": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0123": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyebut 'di Sumatera Barat' dan bentuk atap melengkung seperti tanduk kerbau; kunci Rumah Gadang terbaca dari stem dan bertentangan dengan fungsi soal bergambar (harus dikenali dari gambar)."
+   }
+  ],
+  "PPN-B1-0124": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyebut 'tarian Bali di pura', jawaban Bali terbaca dari stem; pengecoh tidak berkaitan."
+   }
+  ],
+  "PPN-B1-0128": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0130": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0131": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0132": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0133": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0139": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0141": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0145": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Fakta budaya daerah (rumah adat/tari/alat musik/kain/makanan/ucapan terima kasih daerah) tidak ada di teks CP/ATP; terkait longgar dengan TP-PPN-B1-02 ('keberagaman suku bangsa, budaya, dan agama') dan CP 'identitas ... bahasa'. Termasuk tepi TP, perlu keputusan guru."
+   }
+  ],
+  "PPN-B1-0113": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Pengecoh 'Eskimo' dianggap istilah luar yang tidak disukai (Inuit) dan 'Aborigin/Maori' menyebut kelompok etnis asing sebagai pengecoh; peka dan perlu ditinjau ahli."
+   }
+  ],
+  "PPN-B1-0101": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Jumlah agama resmi sebagai angka abstrak; kelas 1 mungkin belum menghitung/menghafal 'agama resmi'; ada keterkaitan dengan PPN-B1-0147 (enam agama)."
+   }
+  ],
+  "PPN-B1-0106": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Kitab suci Konghucu ditulis 'Si Shu'; rujukan lazim di Indonesia juga 'Si Shu Wu Jing' (Matakin); perlu keputusan ahli."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'Si Shu' asing dan sulit untuk kelas 1."
+   }
+  ],
+  "PPN-B1-0107": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Imlek dikaitkan sebagai hari raya agama Konghucu; Imlek juga perayaan budaya Tionghoa; perlu keputusan ahli."
+   }
+  ],
+  "PPN-B1-0114": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Klenteng sebagai tempat ibadah Konghucu; lihat PPN-B1-0093 (klenteng juga dipakai umat Buddha/Tridharma)."
+   }
+  ],
+  "PPN-B1-0143": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Klenteng sebagai tempat ibadah Konghucu; lihat PPN-B1-0093 (klenteng juga dipakai umat Buddha/Tridharma)."
+   }
+  ],
+  "PPN-B1-0134": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Orang yang beragama Islam menyebut Tuhan dengan nama Allah' menyiratkan hanya Islam; umat Kristen Indonesia dan Arab juga memakai 'Allah'; pernyataan eksklusif perlu keputusan ahli dan peka antaragama. Lihat juga PPN-B1-0007."
+   }
+  ],
+  "PPN-B1-0157": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kutipan Arab 'Lakum dinukum waliyadin' (QS. Al-Kafirun: 6) dan maknanya abstrak untuk kelas 1; tingkat kesulitan 'h' (hard)."
+   }
+  ],
+  "PPN-B1-0187": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kutipan Arab 'Lakum dinukum waliyadin' (QS. Al-Kafirun: 6) dan maknanya abstrak untuk kelas 1; tingkat kesulitan 'h' (hard)."
+   }
+  ],
+  "PPN-B1-0198": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kutipan Arab 'Lakum dinukum waliyadin' (QS. Al-Kafirun: 6) dan maknanya abstrak untuk kelas 1; tingkat kesulitan 'h' (hard)."
+   }
+  ],
+  "PPN-B1-0152": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "'Cinta kepada sesama manusia menunjukkan bahwa kita mengasihi tanpa membedakan' bersifat tautologi (kunci mengulang stem) dan pengecoh 'suka bertengkar/iri hati' absurd."
+   }
+  ],
+  "PPN-B1-0197": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "'Cinta kepada sesama manusia menunjukkan bahwa kita mengasihi tanpa membedakan' bersifat tautologi (kunci mengulang stem) dan pengecoh 'suka bertengkar/iri hati' absurd."
+   }
+  ],
+  "PPN-B1-0183": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Cinta kepada sesama manusia menunjukkan bahwa kita pilih-pilih teman' pernyataan Salah yang janggal; kalimat dibentuk dengan menukar pengecoh."
+   }
+  ],
+  "PPN-B1-0159": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menggambarkan anak berpeci dan berkalung salib, sedangkan deskripsi gambar menyebut 'berseragam MI dan sekolah umum'; inkonsistensi stem-gambar."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Mengidentifikasi agama anak dari atribut (peci, kalung salib) menyederhanakan dan dapat dianggap stereotipe; perlu ditinjau."
+   }
+  ],
+  "PPN-B1-0167": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Mengucapkan selamat pada hari raya agama lain: dalam fikih Islam ada perbedaan pendapat (khilafiah); perlu keputusan guru/ahli apakah dijadikan kunci tunggal. 0181 hanya terkait makanan: abaikan jika tidak relevan."
+   }
+  ],
+  "PPN-B1-0175": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Mengucapkan selamat pada hari raya agama lain: dalam fikih Islam ada perbedaan pendapat (khilafiah); perlu keputusan guru/ahli apakah dijadikan kunci tunggal. 0181 hanya terkait makanan: abaikan jika tidak relevan."
+   }
+  ],
+  "PPN-B1-0181": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Mengucapkan selamat pada hari raya agama lain: dalam fikih Islam ada perbedaan pendapat (khilafiah); perlu keputusan guru/ahli apakah dijadikan kunci tunggal. 0181 hanya terkait makanan: abaikan jika tidak relevan."
+   }
+  ],
+  "PPN-B1-0169": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Seorang teman berbicara dengan bahasa daerah saat berbicara dengan temannya' berbelit/berulang."
+   }
+  ],
+  "PPN-B1-0186": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'kita sebaiknya membiarkan' tidak gramatikal sebagai pernyataan Benar/Salah."
+   }
+  ],
+  "PPN-B1-0206": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Mengucapkan selamat hari raya agama lain: lihat PPN-B1-0167 (khilafiah, perlu keputusan ahli)."
+   }
+  ],
+  "PPN-B1-0048": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Orang yang hobi X memerlukan ....' terbuka: banyak jawaban sah (hobi menggambar: buku gambar, kertas, krayon), padahal kunci tunggal berupa frasa persis."
+   }
+  ],
+  "PPN-B1-0053": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Orang yang hobi X memerlukan ....' terbuka: banyak jawaban sah (hobi menggambar: buku gambar, kertas, krayon), padahal kunci tunggal berupa frasa persis."
+   }
+  ],
+  "PPN-B1-0057": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Orang yang hobi X memerlukan ....' terbuka: banyak jawaban sah (hobi menggambar: buku gambar, kertas, krayon), padahal kunci tunggal berupa frasa persis."
+   }
+  ],
+  "PPN-B1-0059": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Orang yang hobi X memerlukan ....' terbuka: banyak jawaban sah (hobi menggambar: buku gambar, kertas, krayon), padahal kunci tunggal berupa frasa persis."
+   }
+  ],
+  "PPN-B1-0062": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Orang yang hobi X memerlukan ....' terbuka: banyak jawaban sah (hobi menggambar: buku gambar, kertas, krayon), padahal kunci tunggal berupa frasa persis."
+   }
+  ],
+  "PPN-B1-0065": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Orang yang hobi X memerlukan ....' terbuka: banyak jawaban sah (hobi menggambar: buku gambar, kertas, krayon), padahal kunci tunggal berupa frasa persis."
+   }
+  ],
+  "PPN-B1-0066": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Orang yang hobi X memerlukan ....' terbuka: banyak jawaban sah (hobi menggambar: buku gambar, kertas, krayon), padahal kunci tunggal berupa frasa persis."
+   }
+  ],
+  "PPN-B2-0001": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Aturan 'tidak mengganggu adik': pengecoh 'orang tua tidak khawatir' juga dapat dibenarkan."
+   }
+  ],
+  "PPN-B2-0007": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "'Belajar pada jam belajar' dapat membuat 'hidup menjadi disiplin' (pengecoh); kunci 'menjadi pandai' tidak unik."
+   }
+  ],
+  "PPN-B2-0059": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "'Belajar pada jam belajar' dapat membuat 'hidup menjadi disiplin' (pengecoh); kunci 'menjadi pandai' tidak unik."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0010": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "'Tidur tepat waktu' juga membuat 'hidup menjadi disiplin' (pengecoh); kunci 'badan menjadi segar' tidak unik."
+   }
+  ],
+  "PPN-B2-0067": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "'Tidur tepat waktu' juga membuat 'hidup menjadi disiplin' (pengecoh); kunci 'badan menjadi segar' tidak unik."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0018": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "'Membuang sampah pada tempatnya' juga membuat 'rumah menjadi rapi' (pengecoh) selain 'bersih'; kunci tidak unik."
+   }
+  ],
+  "PPN-B2-0062": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "'Membuang sampah pada tempatnya' juga membuat 'rumah menjadi rapi' (pengecoh) selain 'bersih'; kunci tidak unik."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0017": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "'Membantu pekerjaan rumah' dapat membuat 'rumah menjadi rapi' dan 'orang tua tidak khawatir'; kunci tidak unik."
+   }
+  ],
+  "PPN-B2-0053": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "'Membantu pekerjaan rumah' dapat membuat 'rumah menjadi rapi' dan 'orang tua tidak khawatir'; kunci tidak unik."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0011": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'orang tua tidak khawatir' dapat dibenarkan untuk aturan nasihat/jujur/sopan; kunci tidak unik. Pola bank: pengecoh generik 'hidup menjadi disiplin / orang tua tidak khawatir / rumah menjadi rapi' dapat dibenarkan untuk banyak aturan."
+   }
+  ],
+  "PPN-B2-0020": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'orang tua tidak khawatir' dapat dibenarkan untuk aturan nasihat/jujur/sopan; kunci tidak unik. Pola bank: pengecoh generik 'hidup menjadi disiplin / orang tua tidak khawatir / rumah menjadi rapi' dapat dibenarkan untuk banyak aturan."
+   }
+  ],
+  "PPN-B2-0024": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'orang tua tidak khawatir' dapat dibenarkan untuk aturan nasihat/jujur/sopan; kunci tidak unik. Pola bank: pengecoh generik 'hidup menjadi disiplin / orang tua tidak khawatir / rumah menjadi rapi' dapat dibenarkan untuk banyak aturan."
+   }
+  ],
+  "PPN-B2-0044": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pernyataan 'merapikan mainan -> orang tua tidak khawatir' diberi kunci Salah, padahal dapat dibenarkan; kunci tidak tegas."
+   }
+  ],
+  "PPN-B2-0045": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Berkata jujur -> disayang keluarga' diberi kunci Salah, padahal jujur juga membuat disayang keluarga; bertentangan dengan manfaat 'dipercaya' hanya sebagai pilihan."
+   }
+  ],
+  "PPN-B2-0047": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Belajar pada jam belajar -> dipercaya orang lain' diberi kunci Salah; tidak tegas salah."
+   }
+  ],
+  "PPN-B2-0025": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Manfaat 'salat tepat waktu' dipersempit menjadi 'hidup menjadi disiplin'; manfaat utama salat adalah ketaatan kepada Allah; perlu keputusan guru/ahli. Salat tidak dirinci pada TP/CP Pancasila."
+   }
+  ],
+  "PPN-B2-0055": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Manfaat 'salat tepat waktu' dipersempit menjadi 'hidup menjadi disiplin'; manfaat utama salat adalah ketaatan kepada Allah; perlu keputusan guru/ahli. Salat tidak dirinci pada TP/CP Pancasila."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0050": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0051": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0054": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0057": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0058": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0061": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0065": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0066": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0068": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0069": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0070": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0071": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0073": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Manfaat aturan X adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal frasa persis; cocok sebagai pilihan ganda/menjodohkan, bukan isian."
+   }
+  ],
+  "PPN-B2-0081": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' dengan pengecoh berupa perilaku yang menaati; berisiko salah baca bagi kelas 1."
+   }
+  ],
+  "PPN-B2-0083": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' dengan pengecoh berupa perilaku yang menaati; berisiko salah baca bagi kelas 1."
+   }
+  ],
+  "PPN-B2-0086": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' dengan pengecoh berupa perilaku yang menaati; berisiko salah baca bagi kelas 1."
+   }
+  ],
+  "PPN-B2-0082": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'langsung makan dengan tangan kotor' tidak berkaitan dengan salat; pengecoh absurd/tidak setema."
+   }
+  ],
+  "PPN-B2-0088": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0091": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0093": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0094": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0097": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0100": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0101": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0102": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0103": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0104": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kunci 'berpura-pura tidak melihat' untuk 'tidak membantu pekerjaan rumah' tidak jelas; perilaku itu tidak otomatis melanggar aturan itu (konteks tidak dijelaskan)."
+   }
+  ],
+  "PPN-B2-0111": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0113": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0114": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0116": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0117": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0118": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem negatif 'Perilaku yang tidak menaati aturan ...' (sama pola dengan PPN-B2-0081); berisiko salah baca oleh murid kelas 1."
+   }
+  ],
+  "PPN-B2-0107": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'hewan', 'tidak ada', 'musuh' absurd; jawaban terbaca tanpa pemahaman."
+   }
+  ],
+  "PPN-B2-0126": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan '... dipercaya oleh tidak ada' tidak gramatikal/janggal (dibuat dari pengecoh pilihan ganda)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola: tujuh pernyataan Benar/Salah berurutan semua berkunci Salah dan berbentuk 'perilaku buruk menaati aturan'; dapat ditebak tanpa membaca."
+   }
+  ],
+  "PPN-B2-0130": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian 'Contoh perilaku tidak menaati aturan adalah ....' terbuka (banyak jawaban sah) tetapi kunci tunggal 'melanggar jam tidur'."
+   }
+  ],
+  "PPN-B2-0131": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian terbuka dengan kunci frasa persis (teguran atau nasihat / meminta maaf dan memperbaiki diri); jawaban alternatif sah."
+   }
+  ],
+  "PPN-B2-0132": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian terbuka dengan kunci frasa persis (teguran atau nasihat / meminta maaf dan memperbaiki diri); jawaban alternatif sah."
+   }
+  ],
+  "PPN-B2-0121": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola: tujuh pernyataan Benar/Salah berurutan semua berkunci Salah dan berbentuk 'perilaku buruk menaati aturan'; dapat ditebak tanpa membaca."
+   }
+  ],
+  "PPN-B2-0122": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola: tujuh pernyataan Benar/Salah berurutan semua berkunci Salah dan berbentuk 'perilaku buruk menaati aturan'; dapat ditebak tanpa membaca."
+   }
+  ],
+  "PPN-B2-0123": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola: tujuh pernyataan Benar/Salah berurutan semua berkunci Salah dan berbentuk 'perilaku buruk menaati aturan'; dapat ditebak tanpa membaca."
+   }
+  ],
+  "PPN-B2-0124": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola: tujuh pernyataan Benar/Salah berurutan semua berkunci Salah dan berbentuk 'perilaku buruk menaati aturan'; dapat ditebak tanpa membaca."
+   }
+  ],
+  "PPN-B2-0125": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola: tujuh pernyataan Benar/Salah berurutan semua berkunci Salah dan berbentuk 'perilaku buruk menaati aturan'; dapat ditebak tanpa membaca."
+   }
+  ],
+  "PPN-B2-0127": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola: tujuh pernyataan Benar/Salah berurutan semua berkunci Salah dan berbentuk 'perilaku buruk menaati aturan'; dapat ditebak tanpa membaca."
+   }
+  ],
+  "PPN-B2-0139": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'rida' (rida orang tua/Allah) abstrak bagi kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "PPN-B2-0141": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'rida' (rida orang tua/Allah) abstrak bagi kelas 1; perlu pertimbangan guru."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Rida orang tua adalah bagian dari rida Allah': hadis berbunyi 'rida Allah bergantung pada rida orang tua'; rumusan 'bagian dari' perlu diputuskan ahli."
+   }
+  ],
+  "PPN-B2-0167": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'rida' (rida orang tua/Allah) abstrak bagi kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "PPN-B2-0170": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'rida' (rida orang tua/Allah) abstrak bagi kelas 1; perlu pertimbangan guru."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Rida orang tua adalah bagian dari rida Allah': hadis berbunyi 'rida Allah bergantung pada rida orang tua'; rumusan 'bagian dari' perlu diputuskan ahli."
+   }
+  ],
+  "PPN-B2-0179": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'rida' (rida orang tua/Allah) abstrak bagi kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "PPN-B2-0181": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'rida' (rida orang tua/Allah) abstrak bagi kelas 1; perlu pertimbangan guru."
+   }
+  ],
+  "PPN-B2-0140": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'berbahaya/sia-sia/buruk' absurd; kunci 'baik' mudah ditebak."
+   }
+  ],
+  "PPN-B2-0142": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'bermain', 'berpetualang', 'berdagang' absurd; tidak sebanding sebagai ajaran."
+   }
+  ],
+  "PPN-B2-0184": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'mengamalkan ajaran bermain' tidak bermakna (pengecoh dipaksakan menjadi pernyataan)."
+   }
+  ],
+  "PPN-B2-0144": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain (mis. 'langsung masuk tanpa memberi salam' pada aturan sampah), sehingga kunci dapat diketahui dari kata kunci aturan di stem."
+   }
+  ],
+  "PPN-B2-0145": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain (mis. 'langsung masuk tanpa memberi salam' pada aturan sampah), sehingga kunci dapat diketahui dari kata kunci aturan di stem."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Salat tepat waktu tidak ada di CP/ATP Pancasila (CP hanya 'aturan di lingkungan keluarga'; TP B2-03 menyebut 'ajaran Islam'); tepi TP, lebih dekat ke mapel Fikih."
+   }
+  ],
+  "PPN-B2-0146": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain (mis. 'langsung masuk tanpa memberi salam' pada aturan sampah), sehingga kunci dapat diketahui dari kata kunci aturan di stem."
+   }
+  ],
+  "PPN-B2-0147": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain (mis. 'langsung masuk tanpa memberi salam' pada aturan sampah), sehingga kunci dapat diketahui dari kata kunci aturan di stem."
+   }
+  ],
+  "PPN-B2-0148": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain (mis. 'langsung masuk tanpa memberi salam' pada aturan sampah), sehingga kunci dapat diketahui dari kata kunci aturan di stem."
+   }
+  ],
+  "PPN-B2-0149": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain (mis. 'langsung masuk tanpa memberi salam' pada aturan sampah), sehingga kunci dapat diketahui dari kata kunci aturan di stem."
+   }
+  ],
+  "PPN-B2-0150": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain (mis. 'langsung masuk tanpa memberi salam' pada aturan sampah), sehingga kunci dapat diketahui dari kata kunci aturan di stem."
+   }
+  ],
+  "PPN-B2-0151": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain (mis. 'langsung masuk tanpa memberi salam' pada aturan sampah), sehingga kunci dapat diketahui dari kata kunci aturan di stem."
+   }
+  ],
+  "PPN-B2-0152": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain (mis. 'langsung masuk tanpa memberi salam' pada aturan sampah), sehingga kunci dapat diketahui dari kata kunci aturan di stem."
+   }
+  ],
+  "PPN-B2-0153": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain (mis. 'langsung masuk tanpa memberi salam' pada aturan sampah), sehingga kunci dapat diketahui dari kata kunci aturan di stem."
+   }
+  ],
+  "PPN-B2-0154": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain (mis. 'langsung masuk tanpa memberi salam' pada aturan sampah), sehingga kunci dapat diketahui dari kata kunci aturan di stem."
+   }
+  ],
+  "PPN-B2-0155": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain (mis. 'langsung masuk tanpa memberi salam' pada aturan sampah), sehingga kunci dapat diketahui dari kata kunci aturan di stem."
+   }
+  ],
+  "PPN-B2-0158": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain, sehingga kunci dapat diketahui dari kata kunci aturan di stem (sama dengan PPN-B2-0144)."
+   }
+  ],
+  "PPN-B2-0159": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain, sehingga kunci dapat diketahui dari kata kunci aturan di stem (sama dengan PPN-B2-0144)."
+   }
+  ],
+  "PPN-B2-0160": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain, sehingga kunci dapat diketahui dari kata kunci aturan di stem (sama dengan PPN-B2-0144)."
+   }
+  ],
+  "PPN-B2-0161": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain, sehingga kunci dapat diketahui dari kata kunci aturan di stem (sama dengan PPN-B2-0144)."
+   }
+  ],
+  "PPN-B2-0162": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain, sehingga kunci dapat diketahui dari kata kunci aturan di stem (sama dengan PPN-B2-0144)."
+   }
+  ],
+  "PPN-B2-0163": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pola template: pengecoh diambil dari aturan lain, sehingga kunci dapat diketahui dari kata kunci aturan di stem (sama dengan PPN-B2-0144)."
+   }
+  ],
+  "PPN-B2-0156": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'karena sakit' tidak jelas siapa yang sakit (Salma atau Ayah); redaksi dapat diperbaiki."
+   }
+  ],
+  "PPN-B2-0166": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Salat tepat waktu tidak ada di CP/ATP Pancasila (CP hanya 'aturan di lingkungan keluarga'; TP B2-03 menyebut 'ajaran Islam'); tepi TP, lebih dekat ke mapel Fikih."
+   }
+  ],
+  "PPN-B2-0192": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0193": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0194": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0195": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0196": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0197": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0198": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0199": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0200": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0201": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0202": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Salat tepat waktu: lihat PPN-B2-0145."
+   }
+  ],
+  "PPN-B2-0203": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0204": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0205": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0206": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0207": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0208": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0209": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0210": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0211": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Lengkapi 'Agar menaati aturan X, [nama] ....' bersifat terbuka; banyak respons sah, kunci berupa frasa persis. Stem sudah membocorkan kata kunci kunci jawaban (aturan = perilaku)."
+   }
+  ],
+  "PPN-B2-0188": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian terbuka 'Orang tua rida jika anaknya ....' dengan kunci frasa persis 'taat dan berbakti'."
+   }
+  ],
+  "PPN-B2-0190": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'rida' abstrak; lihat PPN-B2-0139. Lihat juga AKURASI_AHLI PPN-B2-0141."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Sama dengan PPN-B2-0141 (rumusan 'bagian dari rida Allah')."
+   }
+  ],
+  "PPN-B2-0212": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan menggosok gigi dan merapikan mainan sebelum berdoa/tidur tidak baku (menggosok gigi dapat sebelum merapikan mainan); 'Tidur tepat waktu' bukan langkah kegiatan."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tipe ordering tanpa urutan baku sehingga kunci tunggal tidak dapat dipertahankan."
+   }
+  ],
+  "PPN-B3-0011": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'Elang' berkerabat dengan Garuda (Garuda Pancasila dirujuk dari rajawali/elang Jawa)."
+   }
+  ],
+  "PPN-B3-0033": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Nama pencipta lagu Indonesia Raya (tokoh) di luar CP ('mengenal lagu kebangsaan'); hafalan tokoh sulit untuk kelas 1; tingkat 'h'."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Nama pencipta lagu tidak ada di CP/ATP ('mengenal bendera negara, lagu kebangsaan, simbol dan sila ...'); tepi TP-PPN-B3-01."
+   }
+  ],
+  "PPN-B3-0039": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Nama pencipta lagu Indonesia Raya (tokoh) di luar CP ('mengenal lagu kebangsaan'); hafalan tokoh sulit untuk kelas 1; tingkat 'h'."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Nama pencipta lagu tidak ada di CP/ATP ('mengenal bendera negara, lagu kebangsaan, simbol dan sila ...'); tepi TP-PPN-B3-01."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Sebelas pernyataan Benar/Salah berurutan di bagian B3-01 semuanya berkunci Salah (tanpa satu pun Benar); pola dapat ditebak."
+   }
+  ],
+  "PPN-B3-0062": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Nama pencipta lagu Indonesia Raya (tokoh) di luar CP ('mengenal lagu kebangsaan'); hafalan tokoh sulit untuk kelas 1; tingkat 'h'."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Nama pencipta lagu tidak ada di CP/ATP ('mengenal bendera negara, lagu kebangsaan, simbol dan sila ...'); tepi TP-PPN-B3-01."
+   }
+  ],
+  "PPN-B3-0035": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'Lambang burung bermahkota perisai di dada' keliru: Garuda tidak bermahkota; maksudnya burung berperisai di dada."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem mendeskripsikan gambar sehingga jawaban terbaca dari stem tanpa gambar (merah di atas putih di bawah; burung berperisai bertuliskan lima lambang)."
+   }
+  ],
+  "PPN-B3-0036": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem mendeskripsikan gambar sehingga jawaban terbaca dari stem tanpa gambar (merah di atas putih di bawah; burung berperisai bertuliskan lima lambang)."
+   }
+  ],
+  "PPN-B3-0037": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Sebelas pernyataan Benar/Salah berurutan di bagian B3-01 semuanya berkunci Salah (tanpa satu pun Benar); pola dapat ditebak."
+   }
+  ],
+  "PPN-B3-0038": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Sebelas pernyataan Benar/Salah berurutan di bagian B3-01 semuanya berkunci Salah (tanpa satu pun Benar); pola dapat ditebak."
+   }
+  ],
+  "PPN-B3-0040": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Sebelas pernyataan Benar/Salah berurutan di bagian B3-01 semuanya berkunci Salah (tanpa satu pun Benar); pola dapat ditebak."
+   }
+  ],
+  "PPN-B3-0041": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Sebelas pernyataan Benar/Salah berurutan di bagian B3-01 semuanya berkunci Salah (tanpa satu pun Benar); pola dapat ditebak."
+   }
+  ],
+  "PPN-B3-0042": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Sebelas pernyataan Benar/Salah berurutan di bagian B3-01 semuanya berkunci Salah (tanpa satu pun Benar); pola dapat ditebak."
+   }
+  ],
+  "PPN-B3-0043": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Sebelas pernyataan Benar/Salah berurutan di bagian B3-01 semuanya berkunci Salah (tanpa satu pun Benar); pola dapat ditebak."
+   }
+  ],
+  "PPN-B3-0044": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Sebelas pernyataan Benar/Salah berurutan di bagian B3-01 semuanya berkunci Salah (tanpa satu pun Benar); pola dapat ditebak."
+   }
+  ],
+  "PPN-B3-0045": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Sebelas pernyataan Benar/Salah berurutan di bagian B3-01 semuanya berkunci Salah (tanpa satu pun Benar); pola dapat ditebak."
+   }
+  ],
+  "PPN-B3-0046": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Sebelas pernyataan Benar/Salah berurutan di bagian B3-01 semuanya berkunci Salah (tanpa satu pun Benar); pola dapat ditebak."
+   }
+  ],
+  "PPN-B3-0047": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Sebelas pernyataan Benar/Salah berurutan di bagian B3-01 semuanya berkunci Salah (tanpa satu pun Benar); pola dapat ditebak."
+   }
+  ],
+  "PPN-B3-0061": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Teks sila ke-4 (panjang, istilah 'hikmat kebijaksanaan', 'permusyawaratan/perwakilan') abstrak dan panjang untuk isian kelas 1; kunci menuntut kutipan penuh."
+   }
+  ],
+  "PPN-B3-0072": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Teks sila ke-4 (panjang, istilah 'hikmat kebijaksanaan', 'permusyawaratan/perwakilan') abstrak dan panjang untuk isian kelas 1; kunci menuntut kutipan penuh."
+   }
+  ],
+  "PPN-B3-0049": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bunyi sila menuntut kutipan persis; ejaan/penulisan berisiko dinilai salah (sebaiknya pilihan ganda atau rubrik)."
+   }
+  ],
+  "PPN-B3-0053": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bunyi sila menuntut kutipan persis; ejaan/penulisan berisiko dinilai salah (sebaiknya pilihan ganda atau rubrik)."
+   }
+  ],
+  "PPN-B3-0054": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bunyi sila menuntut kutipan persis; ejaan/penulisan berisiko dinilai salah (sebaiknya pilihan ganda atau rubrik)."
+   }
+  ]
+ }
+}

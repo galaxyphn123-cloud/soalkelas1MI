@@ -1,0 +1,699 @@
+{
+ "catatan": "Tinjauan baca oleh model AI (bukan ahli). Hanya pengecualian yang dicatat; soal lain yang dibaca dianggap tidak bermasalah menurut pembaca. Semua temuan perlu keputusan guru/ahli.",
+ "reviewed_ranges": [
+  "0-100 (MTK-B1-0001..0100)",
+  "100-200 (MTK-B1-0101..0134, MTK-B2-0001..0066)",
+  "200-300 (MTK-B2-0067..0134, MTK-B3-0001..0032)",
+  "300-400 (MTK-B3-0033..0132)",
+  "400-500 (MTK-B3-0133, MTK-B4-0001..0099)",
+  "500-600 (MTK-B4-0100, MTK-B5-0001..0099)",
+  "600-700 (MTK-B5-0100..0133, MTK-B6-0001..0066)",
+  "700-800 (MTK-B6-0067..0133, MTK-B7-0001..0033)"
+ ],
+ "temuan": {
+  "MTK-B1-0007": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Bilangan setelah 10 = 11 berada di luar TP B1-01 (bilangan sampai 10); masih dalam CP (sampai 20) dan lebih dekat ke TP-MTK-B6-01 (sampai 20)."
+   }
+  ],
+  "MTK-B1-0133": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "7 jeruk untuk 3 orang tidak dapat dibagi sama banyak (7 : 3 bukan bilangan cacah); 'secara adil' tidak punya hasil tunggal dan pembagian dengan sisa di luar CP (pecahan hanya setengah dan seperempat)."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Pembagian 7 dengan 3 (bersisa) terlalu sulit untuk kelas 1 dan tidak jelas rubriknya."
+   }
+  ],
+  "MTK-B1-0131": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak cukup: banyak kue Rafi tidak disebut di soal, jawaban 'masing-masing 2' tidak dapat diturunkan dari soal."
+   }
+  ],
+  "MTK-B1-0114": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kunci jauh paling panjang dan paling lengkap; pengecoh absurd ('mengambil kembali', 'menyombongkan diri') sehingga jawaban terbaca tanpa matematika; tidak ada hitungan sama sekali padahal TP B1-04 tentang penerapan bilangan."
+   }
+  ],
+  "MTK-B2-0038": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Instruksi 'dari yang dimulai angka 0' membingungkan; kunci hanya memuat 0+5, 1+4, 2+3, 3+2 (tanpa 4+1 dan 5+0) sehingga urutan tidak lengkap/tidak jelas dasarnya."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pasangan jumlah 5 ada 6 (0+5 sampai 5+0), kunci hanya 4 butir; dasar pengurutan tidak dinyatakan."
+   }
+  ],
+  "MTK-B2-0088": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan benar/salah memuat pertanyaan 'Berapa ...?' lalu 'Jawabannya N'; format campuran pertanyaan dan pernyataan membingungkan murid kelas 1 dan beban baca tinggi untuk bilangan sederhana (dapat dirapikan jadi satu pernyataan tanpa mengubah kunci)."
+   }
+  ],
+  "MTK-B2-0089": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan benar/salah memuat pertanyaan 'Berapa ...?' lalu 'Jawabannya N'; format campuran pertanyaan dan pernyataan membingungkan murid kelas 1 dan beban baca tinggi untuk bilangan sederhana (dapat dirapikan jadi satu pernyataan tanpa mengubah kunci)."
+   }
+  ],
+  "MTK-B2-0090": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan benar/salah memuat pertanyaan 'Berapa ...?' lalu 'Jawabannya N'; format campuran pertanyaan dan pernyataan membingungkan murid kelas 1 dan beban baca tinggi untuk bilangan sederhana (dapat dirapikan jadi satu pernyataan tanpa mengubah kunci)."
+   }
+  ],
+  "MTK-B2-0091": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan benar/salah memuat pertanyaan 'Berapa ...?' lalu 'Jawabannya N'; format campuran pertanyaan dan pernyataan membingungkan murid kelas 1 dan beban baca tinggi untuk bilangan sederhana (dapat dirapikan jadi satu pernyataan tanpa mengubah kunci)."
+   }
+  ],
+  "MTK-B2-0092": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan benar/salah memuat pertanyaan 'Berapa ...?' lalu 'Jawabannya N'; format campuran pertanyaan dan pernyataan membingungkan murid kelas 1 dan beban baca tinggi untuk bilangan sederhana (dapat dirapikan jadi satu pernyataan tanpa mengubah kunci)."
+   }
+  ],
+  "MTK-B2-0093": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan benar/salah memuat pertanyaan 'Berapa ...?' lalu 'Jawabannya N'; format campuran pertanyaan dan pernyataan membingungkan murid kelas 1 dan beban baca tinggi untuk bilangan sederhana (dapat dirapikan jadi satu pernyataan tanpa mengubah kunci)."
+   }
+  ],
+  "MTK-B2-0094": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan benar/salah memuat pertanyaan 'Berapa ...?' lalu 'Jawabannya N'; format campuran pertanyaan dan pernyataan membingungkan murid kelas 1 dan beban baca tinggi untuk bilangan sederhana (dapat dirapikan jadi satu pernyataan tanpa mengubah kunci)."
+   }
+  ],
+  "MTK-B2-0095": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan benar/salah memuat pertanyaan 'Berapa ...?' lalu 'Jawabannya N'; format campuran pertanyaan dan pernyataan membingungkan murid kelas 1 dan beban baca tinggi untuk bilangan sederhana (dapat dirapikan jadi satu pernyataan tanpa mengubah kunci)."
+   }
+  ],
+  "MTK-B2-0096": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan benar/salah memuat pertanyaan 'Berapa ...?' lalu 'Jawabannya N'; format campuran pertanyaan dan pernyataan membingungkan murid kelas 1 dan beban baca tinggi untuk bilangan sederhana (dapat dirapikan jadi satu pernyataan tanpa mengubah kunci)."
+   }
+  ],
+  "MTK-B2-0097": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan benar/salah memuat pertanyaan 'Berapa ...?' lalu 'Jawabannya N'; format campuran pertanyaan dan pernyataan membingungkan murid kelas 1 dan beban baca tinggi untuk bilangan sederhana (dapat dirapikan jadi satu pernyataan tanpa mengubah kunci)."
+   }
+  ],
+  "MTK-B2-0098": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan benar/salah memuat pertanyaan 'Berapa ...?' lalu 'Jawabannya N'; format campuran pertanyaan dan pernyataan membingungkan murid kelas 1 dan beban baca tinggi untuk bilangan sederhana (dapat dirapikan jadi satu pernyataan tanpa mengubah kunci)."
+   }
+  ],
+  "MTK-B2-0123": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan 'disukai tidak ada' tidak gramatikal karena opsi 'tidak ada' disalin utuh menjadi pernyataan; kunci Salah tetap tetapi redaksi tidak terbaca."
+   }
+  ],
+  "MTK-B2-0113": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Dina 'menghitung 3 pensil milik Rani dan 4 pensil miliknya' lalu 'mengaku hanya punya 3'; tidak jelas milik siapa 3 pensil itu sehingga skenario kejujuran membingungkan; tidak ada hitungan yang dinilai."
+   }
+  ],
+  "MTK-B2-0106": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal sikap tanpa hitungan; pengecoh absurd/jelas buruk ('setan', 'tidak ada', 'curang', 'asal-asalan') sehingga kunci terbaca dari nilai moral saja dan tidak mengukur penjumlahan; hanya terkait TP B2-04 secara tematik."
+   }
+  ],
+  "MTK-B2-0107": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal sikap tanpa hitungan; pengecoh absurd/jelas buruk ('setan', 'tidak ada', 'curang', 'asal-asalan') sehingga kunci terbaca dari nilai moral saja dan tidak mengukur penjumlahan; hanya terkait TP B2-04 secara tematik."
+   }
+  ],
+  "MTK-B2-0108": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal sikap tanpa hitungan; pengecoh absurd/jelas buruk ('setan', 'tidak ada', 'curang', 'asal-asalan') sehingga kunci terbaca dari nilai moral saja dan tidak mengukur penjumlahan; hanya terkait TP B2-04 secara tematik."
+   }
+  ],
+  "MTK-B2-0109": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal sikap tanpa hitungan; pengecoh absurd/jelas buruk ('setan', 'tidak ada', 'curang', 'asal-asalan') sehingga kunci terbaca dari nilai moral saja dan tidak mengukur penjumlahan; hanya terkait TP B2-04 secara tematik."
+   }
+  ],
+  "MTK-B2-0110": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal sikap tanpa hitungan; pengecoh absurd/jelas buruk ('setan', 'tidak ada', 'curang', 'asal-asalan') sehingga kunci terbaca dari nilai moral saja dan tidak mengukur penjumlahan; hanya terkait TP B2-04 secara tematik."
+   }
+  ],
+  "MTK-B3-0008": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'selisih' tidak lazim untuk kelas 1; ATP hanya 'pengurangan' dan 'sisa'."
+   }
+  ],
+  "MTK-B3-0020": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'selisih' tidak lazim untuk kelas 1."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bebas dengan kunci dua kata 'selisih atau sisa'; jawaban 'sisa' saja juga benar sehingga penilaian tidak pasti."
+   }
+  ],
+  "MTK-B3-0109": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh absurd ('benda', 'mainan', 'televisi') sehingga kunci 'sesama' terbaca; tidak ada hitungan padahal ditempatkan di TP pengurangan B3-04."
+   }
+  ],
+  "MTK-B4-0015": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyebut 'kotak kado berbentuk kubus' lalu menanyakan bentuknya; jawaban 'kubus' tertulis di dalam soal."
+   }
+  ],
+  "MTK-B4-0023": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Benda 'bendera segitiga' sudah memuat jawaban 'segitiga' pada namanya; jawaban terbaca dari stem."
+   }
+  ],
+  "MTK-B4-0060": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kedua benda bernama 'potongan sandwich segitiga' dan 'bendera segitiga'; kunci 'segitiga' terbaca dari nama benda."
+   }
+  ],
+  "MTK-B4-0048": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kunci 'kotak kado berbentuk kubus' memuat kata 'kubus' sedangkan pengecoh tidak; terbaca tanpa mengetahui bentuk dadu."
+   }
+  ],
+  "MTK-B4-0064": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Salah satu butir diberi nama 'kotak kado berbentuk kubus' sehingga kelompoknya terbaca dari nama benda."
+   }
+  ],
+  "MTK-B4-0018": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Pernyataan 'Segi lima memiliki ... sisi.' tidak lengkap (titik-titik tanpa bilangan), sehingga 'Benar' tidak dapat dinilai; segi lima juga di tepi TP bentuk benda sehari-hari."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Segi lima/segi banyak ada di CP (segi banyak) tetapi TP B4-01 hanya mendeskripsikan bentuk benda; pencacahan sisi segi lima tidak terpasang pada TP tersebut."
+   }
+  ],
+  "MTK-B4-0021": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Persegi adalah persegi panjang istimewa; sisi kubus yang persegi juga dapat disebut persegi panjang sehingga 'Salah' tidak mutlak; bank sendiri memakai 'persegi panjang atau persegi' (MTK-B4-0072, MTK-B4-0076)."
+   }
+  ],
+  "MTK-B4-0022": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Ubin lantai dapat berbentuk persegi panjang; kunci Salah hanya benar bila ubinnya persegi; bentuk ubin tidak ditentukan dan persegi termasuk persegi panjang."
+   }
+  ],
+  "MTK-B4-0009": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Ubin lantai dapat berbentuk persegi panjang; pengecoh B (persegi panjang) dapat dibenarkan tanpa gambar."
+   }
+  ],
+  "MTK-B4-0070": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tautologi: 'Menyusun ... disebut menyusun bentuk'; jawaban memakai kata yang sama dengan stem."
+   }
+  ],
+  "MTK-B4-0082": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Tautologi: 'menyusun beberapa bentuk menjadi gambar baru disebut menyusun bentuk'; tidak mengukur pemahaman."
+   }
+  ],
+  "MTK-B4-0072": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Dua segitiga yang sama dapat digabung menjadi jajar genjang, layang-layang, dsb.; 'persegi atau persegi panjang' hanya benar untuk segitiga siku-siku (kata 'dapat' membuat kunci sah, tetapi ahli perlu memutuskan)."
+   }
+  ],
+  "MTK-B4-0094": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'Dua segitiga yang sama dapat digabung menjadi ....' punya banyak jawaban benar (jajar genjang, segitiga lebih besar, layang-layang, persegi panjang) padahal kunci hanya 'persegi atau persegi panjang'."
+   }
+  ],
+  "MTK-B4-0073": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'diagonal' (membagi persegi menurut diagonalnya) terlalu abstrak untuk kelas 1."
+   }
+  ],
+  "MTK-B4-0093": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'diagonal' terlalu abstrak untuk kelas 1."
+   }
+  ],
+  "MTK-B4-0089": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bebas dengan kunci frasa panjang ('memecah menjadi bagian-bagian kecil', 'belajar dan mengembangkan potensi'); sulit dinilai dan terlalu berat menulis untuk kelas 1; lebih cocok pilihan ganda."
+   }
+  ],
+  "MTK-B4-0090": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bebas dengan kunci frasa panjang ('memecah menjadi bagian-bagian kecil', 'belajar dan mengembangkan potensi'); sulit dinilai dan terlalu berat menulis untuk kelas 1; lebih cocok pilihan ganda."
+   }
+  ],
+  "MTK-B4-0095": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bebas dengan kunci frasa panjang ('memecah menjadi bagian-bagian kecil', 'belajar dan mengembangkan potensi'); sulit dinilai dan terlalu berat menulis untuk kelas 1; lebih cocok pilihan ganda."
+   }
+  ],
+  "MTK-B4-0075": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kunci terpanjang dan abstrak, pengecoh absurd ('malas', 'mengganggu', 'bermain saja'); terbaca tanpa menyusun bentuk."
+   }
+  ],
+  "MTK-B4-0098": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan langkah 'Siapkan potongan' dan 'Lihat contoh gambar' dapat ditukar; tidak ada alasan urutan tunggal."
+   }
+  ],
+  "MTK-B5-0033": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'Benda yang dapat dipakai sebagai satuan tidak baku adalah ....' punya banyak jawaban benar (pensil, jengkal, langkah, tali, dll.), kunci hanya 'klip kertas'."
+   }
+  ],
+  "MTK-B5-0047": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: buku 4 depa (kira-kira 6 m) dan pintu 5 depa; ukuran bertentangan dengan pengalaman murid dan melemahkan konteks."
+   }
+  ],
+  "MTK-B5-0061": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: buku 4 depa (kira-kira 6 m) dan pintu 5 depa; ukuran bertentangan dengan pengalaman murid dan melemahkan konteks."
+   }
+  ],
+  "MTK-B5-0066": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: buku 4 depa (kira-kira 6 m) dan pintu 5 depa; ukuran bertentangan dengan pengalaman murid dan melemahkan konteks."
+   }
+  ],
+  "MTK-B5-0078": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: buku 4 depa (kira-kira 6 m) dan pintu 5 depa; ukuran bertentangan dengan pengalaman murid dan melemahkan konteks."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah dan operasi 'selisih panjang' (pengurangan dua hasil ukur) abstrak untuk kelas 1; tingkat 'hard' tidak sesuai dengan TP B5-03 yang hanya mengukur dengan satuan tidak baku."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal mencari selisih dua hasil ukur adalah pengurangan bilangan (TP-MTK-B7-03/B3-02) atau perbandingan panjang (TP-MTK-B5-02), bukan 'mengukur panjang dengan satuan tidak baku' (TP-MTK-B5-03)."
+   }
+  ],
+  "MTK-B5-0049": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: lorong kelas hanya 7 langkah tetapi papan tulis 8 langkah (papan tulis lebih panjang dari lorong)."
+   }
+  ],
+  "MTK-B5-0058": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: lorong kelas hanya 7 langkah tetapi papan tulis 8 langkah (papan tulis lebih panjang dari lorong)."
+   }
+  ],
+  "MTK-B5-0073": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: lorong kelas hanya 7 langkah tetapi papan tulis 8 langkah (papan tulis lebih panjang dari lorong)."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah dan operasi 'selisih panjang' (pengurangan dua hasil ukur) abstrak untuk kelas 1; tingkat 'hard' tidak sesuai dengan TP B5-03 yang hanya mengukur dengan satuan tidak baku."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal mencari selisih dua hasil ukur adalah pengurangan bilangan (TP-MTK-B7-03/B3-02) atau perbandingan panjang (TP-MTK-B5-02), bukan 'mengukur panjang dengan satuan tidak baku' (TP-MTK-B5-03)."
+   }
+  ],
+  "MTK-B5-0041": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: tongkat hanya 2 klip kertas sedangkan tali 7 klip kertas; ukuran tongkat tidak masuk akal."
+   }
+  ],
+  "MTK-B5-0044": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: tongkat hanya 2 klip kertas sedangkan tali 7 klip kertas; ukuran tongkat tidak masuk akal."
+   }
+  ],
+  "MTK-B5-0080": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: tongkat hanya 2 klip kertas sedangkan tali 7 klip kertas; ukuran tongkat tidak masuk akal."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah dan operasi 'selisih panjang' (pengurangan dua hasil ukur) abstrak untuk kelas 1; tingkat 'hard' tidak sesuai dengan TP B5-03 yang hanya mengukur dengan satuan tidak baku."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal mencari selisih dua hasil ukur adalah pengurangan bilangan (TP-MTK-B7-03/B3-02) atau perbandingan panjang (TP-MTK-B5-02), bukan 'mengukur panjang dengan satuan tidak baku' (TP-MTK-B5-03)."
+   }
+  ],
+  "MTK-B5-0055": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: pintu hanya 3 jengkal (sekitar 60 cm)."
+   }
+  ],
+  "MTK-B5-0056": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: pintu hanya 3 jengkal (sekitar 60 cm)."
+   }
+  ],
+  "MTK-B5-0067": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: pintu hanya 3 jengkal (sekitar 60 cm)."
+   }
+  ],
+  "MTK-B5-0076": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: pintu hanya 3 jengkal (sekitar 60 cm)."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah dan operasi 'selisih panjang' (pengurangan dua hasil ukur) abstrak untuk kelas 1; tingkat 'hard' tidak sesuai dengan TP B5-03 yang hanya mengukur dengan satuan tidak baku."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal mencari selisih dua hasil ukur adalah pengurangan bilangan (TP-MTK-B7-03/B3-02) atau perbandingan panjang (TP-MTK-B5-02), bukan 'mengukur panjang dengan satuan tidak baku' (TP-MTK-B5-03)."
+   }
+  ],
+  "MTK-B5-0050": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: tongkat 6 langkah (sekitar 3 m) dibandingkan dengan lorong kelas 8 langkah."
+   }
+  ],
+  "MTK-B5-0059": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: tongkat 6 langkah (sekitar 3 m) dibandingkan dengan lorong kelas 8 langkah."
+   }
+  ],
+  "MTK-B5-0075": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: tongkat 6 langkah (sekitar 3 m) dibandingkan dengan lorong kelas 8 langkah."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah dan operasi 'selisih panjang' (pengurangan dua hasil ukur) abstrak untuk kelas 1; tingkat 'hard' tidak sesuai dengan TP B5-03 yang hanya mengukur dengan satuan tidak baku."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal mencari selisih dua hasil ukur adalah pengurangan bilangan (TP-MTK-B7-03/B3-02) atau perbandingan panjang (TP-MTK-B5-02), bukan 'mengukur panjang dengan satuan tidak baku' (TP-MTK-B5-03)."
+   }
+  ],
+  "MTK-B5-0084": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: tongkat 6 langkah (sekitar 3 m) dibandingkan dengan lorong kelas 8 langkah."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Hasil ukur sudah tertulis di stem ('hasilnya 6 klip kertas') dan jawabannya sama persis; gambar tidak diperlukan untuk menjawab sehingga tidak mengukur kemampuan mengukur."
+   }
+  ],
+  "MTK-B5-0091": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Data tidak realistis: tongkat 6 langkah (sekitar 3 m) dibandingkan dengan lorong kelas 8 langkah."
+   }
+  ],
+  "MTK-B5-0074": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah dan operasi 'selisih panjang' (pengurangan dua hasil ukur) abstrak untuk kelas 1; tingkat 'hard' tidak sesuai dengan TP B5-03 yang hanya mengukur dengan satuan tidak baku."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal mencari selisih dua hasil ukur adalah pengurangan bilangan (TP-MTK-B7-03/B3-02) atau perbandingan panjang (TP-MTK-B5-02), bukan 'mengukur panjang dengan satuan tidak baku' (TP-MTK-B5-03)."
+   }
+  ],
+  "MTK-B5-0077": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah dan operasi 'selisih panjang' (pengurangan dua hasil ukur) abstrak untuk kelas 1; tingkat 'hard' tidak sesuai dengan TP B5-03 yang hanya mengukur dengan satuan tidak baku."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal mencari selisih dua hasil ukur adalah pengurangan bilangan (TP-MTK-B7-03/B3-02) atau perbandingan panjang (TP-MTK-B5-02), bukan 'mengukur panjang dengan satuan tidak baku' (TP-MTK-B5-03)."
+   }
+  ],
+  "MTK-B5-0079": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah dan operasi 'selisih panjang' (pengurangan dua hasil ukur) abstrak untuk kelas 1; tingkat 'hard' tidak sesuai dengan TP B5-03 yang hanya mengukur dengan satuan tidak baku."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal mencari selisih dua hasil ukur adalah pengurangan bilangan (TP-MTK-B7-03/B3-02) atau perbandingan panjang (TP-MTK-B5-02), bukan 'mengukur panjang dengan satuan tidak baku' (TP-MTK-B5-03)."
+   }
+  ],
+  "MTK-B5-0081": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah dan operasi 'selisih panjang' (pengurangan dua hasil ukur) abstrak untuk kelas 1; tingkat 'hard' tidak sesuai dengan TP B5-03 yang hanya mengukur dengan satuan tidak baku."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal mencari selisih dua hasil ukur adalah pengurangan bilangan (TP-MTK-B7-03/B3-02) atau perbandingan panjang (TP-MTK-B5-02), bukan 'mengukur panjang dengan satuan tidak baku' (TP-MTK-B5-03)."
+   }
+  ],
+  "MTK-B5-0082": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah dan operasi 'selisih panjang' (pengurangan dua hasil ukur) abstrak untuk kelas 1; tingkat 'hard' tidak sesuai dengan TP B5-03 yang hanya mengukur dengan satuan tidak baku."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Soal mencari selisih dua hasil ukur adalah pengurangan bilangan (TP-MTK-B7-03/B3-02) atau perbandingan panjang (TP-MTK-B5-02), bukan 'mengukur panjang dengan satuan tidak baku' (TP-MTK-B5-03)."
+   }
+  ],
+  "MTK-B5-0083": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Hasil ukur sudah tertulis di stem ('hasilnya 6 klip kertas') dan jawabannya sama persis; gambar tidak diperlukan untuk menjawab sehingga tidak mengukur kemampuan mengukur."
+   }
+  ],
+  "MTK-B5-0085": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Hasil ukur sudah tertulis di stem ('hasilnya 6 klip kertas') dan jawabannya sama persis; gambar tidak diperlukan untuk menjawab sehingga tidak mengukur kemampuan mengukur."
+   }
+  ],
+  "MTK-B5-0086": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Hasil ukur sudah tertulis di stem ('hasilnya 6 klip kertas') dan jawabannya sama persis; gambar tidak diperlukan untuk menjawab sehingga tidak mengukur kemampuan mengukur."
+   }
+  ],
+  "MTK-B5-0087": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Hasil ukur sudah tertulis di stem ('hasilnya 6 klip kertas') dan jawabannya sama persis; gambar tidak diperlukan untuk menjawab sehingga tidak mengukur kemampuan mengukur."
+   }
+  ],
+  "MTK-B5-0104": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal: 'menyambung dua pintu yang panjangnya 1 depa dan 8 depa'; hitungan 1+8=9 benar tetapi ceritanya tidak realistis."
+   }
+  ],
+  "MTK-B5-0109": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal: 'menyambung dua lorong kelas/tongkat/buku/papan tulis/kain/tali/pita yang panjangnya berbeda' (buku dan papan tulis tidak lazim disambung); hitungan benar tetapi cerita tidak realistis."
+   }
+  ],
+  "MTK-B5-0110": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal: 'menyambung dua lorong kelas/tongkat/buku/papan tulis/kain/tali/pita yang panjangnya berbeda' (buku dan papan tulis tidak lazim disambung); hitungan benar tetapi cerita tidak realistis."
+   }
+  ],
+  "MTK-B5-0111": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal: 'menyambung dua lorong kelas/tongkat/buku/papan tulis/kain/tali/pita yang panjangnya berbeda' (buku dan papan tulis tidak lazim disambung); hitungan benar tetapi cerita tidak realistis."
+   }
+  ],
+  "MTK-B5-0112": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal: 'menyambung dua lorong kelas/tongkat/buku/papan tulis/kain/tali/pita yang panjangnya berbeda' (buku dan papan tulis tidak lazim disambung); hitungan benar tetapi cerita tidak realistis."
+   }
+  ],
+  "MTK-B5-0113": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal: 'menyambung dua lorong kelas/tongkat/buku/papan tulis/kain/tali/pita yang panjangnya berbeda' (buku dan papan tulis tidak lazim disambung); hitungan benar tetapi cerita tidak realistis."
+   }
+  ],
+  "MTK-B5-0114": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal: 'menyambung dua lorong kelas/tongkat/buku/papan tulis/kain/tali/pita yang panjangnya berbeda' (buku dan papan tulis tidak lazim disambung); hitungan benar tetapi cerita tidak realistis."
+   }
+  ],
+  "MTK-B5-0115": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Konteks tidak masuk akal: 'menyambung dua lorong kelas/tongkat/buku/papan tulis/kain/tali/pita yang panjangnya berbeda' (buku dan papan tulis tidak lazim disambung); hitungan benar tetapi cerita tidak realistis."
+   }
+  ],
+  "MTK-B5-0105": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi 'memotong karpet sepanjang 6 jengkal sebanyak 2 jengkal' membingungkan (6 jengkal panjang total atau potongan?). Hitungan 6-2=4, 7-4=3, 10-3=7, 8-1=7 sesuai pembacaan pengurangan."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Objek yang 'dipotong' (karpet, lorong kelas, pintu) tidak masuk akal; soal ini sebenarnya pengurangan bilangan, bukan pengukuran."
+   }
+  ],
+  "MTK-B5-0107": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi 'memotong karpet sepanjang 6 jengkal sebanyak 2 jengkal' membingungkan (6 jengkal panjang total atau potongan?). Hitungan 6-2=4, 7-4=3, 10-3=7, 8-1=7 sesuai pembacaan pengurangan."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Objek yang 'dipotong' (karpet, lorong kelas, pintu) tidak masuk akal; soal ini sebenarnya pengurangan bilangan, bukan pengukuran."
+   }
+  ],
+  "MTK-B5-0108": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi 'memotong karpet sepanjang 6 jengkal sebanyak 2 jengkal' membingungkan (6 jengkal panjang total atau potongan?). Hitungan 6-2=4, 7-4=3, 10-3=7, 8-1=7 sesuai pembacaan pengurangan."
+   }
+  ],
+  "MTK-B5-0116": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Redaksi 'memotong karpet sepanjang 6 jengkal sebanyak 2 jengkal' membingungkan (6 jengkal panjang total atau potongan?). Hitungan 6-2=4, 7-4=3, 10-3=7, 8-1=7 sesuai pembacaan pengurangan."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Objek yang 'dipotong' (karpet, lorong kelas, pintu) tidak masuk akal; soal ini sebenarnya pengurangan bilangan, bukan pengukuran."
+   }
+  ],
+  "MTK-B5-0125": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Setelah memakai penggaris teman, Alif menyimpannya' dinilai Salah, tetapi 'menyimpan' dapat berarti menyimpan rapi (benar) atau menyimpan untuk dirinya; kunci bergantung tafsir."
+   },
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Bertentangan dengan MTK-B5-0102 dan MTK-B5-0129 yang menyatakan alat ukur sebaiknya 'disimpan kembali dengan rapi'."
+   }
+  ],
+  "MTK-B5-0100": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal sikap tanpa hitungan; pengecoh absurd ('dirusak', 'bermimpi', 'tidur', 'berbohong') sehingga kunci terbaca dari nilai moral; kunci terpanjang pada B5-0102 dan B5-0103."
+   }
+  ],
+  "MTK-B5-0101": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal sikap tanpa hitungan; pengecoh absurd ('dirusak', 'bermimpi', 'tidur', 'berbohong') sehingga kunci terbaca dari nilai moral; kunci terpanjang pada B5-0102 dan B5-0103."
+   }
+  ],
+  "MTK-B5-0102": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal sikap tanpa hitungan; pengecoh absurd ('dirusak', 'bermimpi', 'tidur', 'berbohong') sehingga kunci terbaca dari nilai moral; kunci terpanjang pada B5-0102 dan B5-0103."
+   }
+  ],
+  "MTK-B5-0103": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal sikap tanpa hitungan; pengecoh absurd ('dirusak', 'bermimpi', 'tidur', 'berbohong') sehingga kunci terbaca dari nilai moral; kunci terpanjang pada B5-0102 dan B5-0103."
+   }
+  ],
+  "MTK-B5-0127": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bebas dengan kunci frasa panjang ('membuat atau membeli sesuatu dengan ukuran tepat', 'disimpan kembali dengan rapi'); sulit dinilai untuk kelas 1."
+   }
+  ],
+  "MTK-B5-0129": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bebas dengan kunci frasa panjang ('membuat atau membeli sesuatu dengan ukuran tepat', 'disimpan kembali dengan rapi'); sulit dinilai untuk kelas 1."
+   }
+  ],
+  "MTK-B5-0130": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bebas dengan kunci frasa panjang ('membuat atau membeli sesuatu dengan ukuran tepat', 'disimpan kembali dengan rapi'); sulit dinilai untuk kelas 1."
+   }
+  ],
+  "MTK-B5-0132": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Isian bebas dengan kunci frasa panjang 'mengembalikannya dengan ucapan terima kasih'; banyak jawaban sah."
+   }
+  ],
+  "MTK-B6-0110": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Nomor yang berada di depan nomor 13' bergantung arah barisan: jika barisan dimulai dari depan (11 paling depan), 12 benar, tetapi 'di depan' juga bisa dipahami murid sebagai 14 (di sebelah depan menghadap); arah tidak ditentukan."
+   }
+  ],
+  "MTK-B6-0128": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Sama dengan MTK-B6-0110: 'tepat di depan nomor 13' tidak menyebut arah barisan; kunci 'nomor 12' bergantung asumsi."
+   }
+  ]
+ }
+}

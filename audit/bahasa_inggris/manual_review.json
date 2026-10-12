@@ -1,0 +1,866 @@
+{
+ "catatan": "Tinjauan baca oleh model AI (bukan ahli). Hanya pengecualian yang dicatat; soal lain yang dibaca dianggap tidak bermasalah menurut pembaca. Semua temuan perlu keputusan guru/ahli.",
+ "reviewed_ranges": [
+  "0-100 (ENG-B1-0001..0100)",
+  "100-200 (ENG-B1-0101..0112, ENG-B2-0001..0088)",
+  "200-300 (ENG-B2-0089..0111, ENG-B3-0001..0077)",
+  "300-400 (ENG-B3-0078..0111, ENG-B4-0001..0066)",
+  "400-500 (ENG-B4-0067..0111, ENG-B5-0001..0055)"
+ ],
+ "temuan": {
+  "ENG-B1-0051": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'Hello' adalah sapaan yang juga dapat dibenarkan pada situasi mana pun (bertemu tetangga/teman/guru); pola templat sapaan-waktu selalu menyertakan Hello sebagai pengecoh."
+   }
+  ],
+  "ENG-B1-0052": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'Hello' adalah sapaan yang juga dapat dibenarkan pada situasi mana pun (bertemu tetangga/teman/guru); pola templat sapaan-waktu selalu menyertakan Hello sebagai pengecoh."
+   }
+  ],
+  "ENG-B1-0054": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'Hello' adalah sapaan yang juga dapat dibenarkan pada situasi mana pun (bertemu tetangga/teman/guru); pola templat sapaan-waktu selalu menyertakan Hello sebagai pengecoh."
+   }
+  ],
+  "ENG-B1-0053": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Saat bertemu teman di sekolah' kuncinya Hello, tetapi Good morning/Good afternoon juga wajar di sekolah (waktu tak ditentukan); lebih dari satu jawaban dapat dibenarkan."
+   }
+  ],
+  "ENG-B1-0057": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Gambar dua anak melambai di halaman tanpa petunjuk waktu; Good morning/Good afternoon/Hello semua wajar, kunci Hello tidak unik (juga bukan 'Hi')."
+   }
+  ],
+  "ENG-B1-0055": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "'How are you' lazim ditambahkan saat bertemu guru pagi hari (opsi C) atau teman siang hari; opsi lain bukan salah mutlak."
+   }
+  ],
+  "ENG-B1-0056": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh 'bertemu teman di sekolah' bisa terjadi pada pagi hari sehingga Good morning juga cocok."
+   }
+  ],
+  "ENG-B1-0060": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "'Good night' di TP sapaan (B1-05): Good night ucapan sebelum tidur/perpisahan, bukan sapaan bertemu; lebih dekat TP B1-07 (perpisahan)."
+   }
+  ],
+  "ENG-B1-0064": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "'You are welcome' membalas 'Thank you' bukan respon salam sapaan; ucapan terima kasih tidak ada di teks ATP Bab 1 (tepi TP B1-06)."
+   }
+  ],
+  "ENG-B1-0070": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "'How old are you?/I am six years old' adalah informasi diri (lebih dekat TP B1-01), bukan respon salam sapaan di B1-06."
+   }
+  ],
+  "ENG-B1-0065": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Membalas 'Good afternoon!' / 'Good morning!' dengan 'Hello!' juga wajar; pengecoh 'Hello!' dapat dibenarkan."
+   }
+  ],
+  "ENG-B1-0069": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Membalas 'Good afternoon!' / 'Good morning!' dengan 'Hello!' juga wajar; pengecoh 'Hello!' dapat dibenarkan."
+   }
+  ],
+  "ENG-B1-0078": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Ungkapan perpisahan saling tumpang tindih: 'berpisah dengan teman', 'akan bertemu lagi', 'akan bertemu lagi besok' semua dapat berlaku untuk Goodbye/See you/See you tomorrow; lebih dari satu opsi dapat dibenarkan."
+   }
+  ],
+  "ENG-B1-0079": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Ungkapan perpisahan saling tumpang tindih: 'berpisah dengan teman', 'akan bertemu lagi', 'akan bertemu lagi besok' semua dapat berlaku untuk Goodbye/See you/See you tomorrow; lebih dari satu opsi dapat dibenarkan."
+   }
+  ],
+  "ENG-B1-0081": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Ungkapan perpisahan saling tumpang tindih: 'berpisah dengan teman', 'akan bertemu lagi', 'akan bertemu lagi besok' semua dapat berlaku untuk Goodbye/See you/See you tomorrow; lebih dari satu opsi dapat dibenarkan."
+   }
+  ],
+  "ENG-B1-0082": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Ungkapan perpisahan saling tumpang tindih: 'berpisah dengan teman', 'akan bertemu lagi', 'akan bertemu lagi besok' semua dapat berlaku untuk Goodbye/See you/See you tomorrow; lebih dari satu opsi dapat dibenarkan."
+   }
+  ],
+  "ENG-B1-0083": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Ungkapan perpisahan saling tumpang tindih: 'berpisah dengan teman', 'akan bertemu lagi', 'akan bertemu lagi besok' semua dapat berlaku untuk Goodbye/See you/See you tomorrow; lebih dari satu opsi dapat dibenarkan."
+   }
+  ],
+  "ENG-B1-0085": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'akan bertemu lagi' dapat dijawab See you / See you tomorrow / Goodbye; kunci tunggal tidak tegas."
+   }
+  ],
+  "ENG-B1-0086": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'akan bertemu lagi' dapat dijawab See you / See you tomorrow / Goodbye; kunci tunggal tidak tegas."
+   }
+  ],
+  "ENG-B1-0087": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pasangan 'berpisah dengan teman', 'akan bertemu lagi', 'akan bertemu lagi besok' bermakna tumpang tindih sehingga kecocokan satu-satu tidak tegas."
+   }
+  ],
+  "ENG-B1-0093": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk 'Dalam bacaan, Hana dan Putri / Nisa ...' tetapi teks bacaan tidak dimuat di soal dan tidak ada soal konteks pendamping di bank (hanya bacaan Hasan-Zaki, Mira, Dani di 0089-0091); soal tidak dapat dijawab tanpa teks."
+   }
+  ],
+  "ENG-B1-0096": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk 'Dalam bacaan, Hana dan Putri / Nisa ...' tetapi teks bacaan tidak dimuat di soal dan tidak ada soal konteks pendamping di bank (hanya bacaan Hasan-Zaki, Mira, Dani di 0089-0091); soal tidak dapat dijawab tanpa teks."
+   }
+  ],
+  "ENG-B1-0097": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk 'Dalam bacaan, Hana dan Putri / Nisa ...' tetapi teks bacaan tidak dimuat di soal dan tidak ada soal konteks pendamping di bank (hanya bacaan Hasan-Zaki, Mira, Dani di 0089-0091); soal tidak dapat dijawab tanpa teks."
+   }
+  ],
+  "ENG-B1-0098": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Soal merujuk 'Dalam bacaan, Hana dan Putri / Nisa ...' tetapi teks bacaan tidak dimuat di soal dan tidak ada soal konteks pendamping di bank (hanya bacaan Hasan-Zaki, Mira, Dani di 0089-0091); soal tidak dapat dijawab tanpa teks."
+   }
+  ],
+  "ENG-B1-0092": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Merujuk 'bacaan' Mira tanpa memuat teks; hanya terbantu soal 0090 yang dekat urutannya (pelajar tidak menerima teks di soal ini)."
+   }
+  ],
+  "ENG-B1-0099": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata; kunci satu-satunya yang memakai koma/urutan wajar ('Good afternoon, friends.' / 'Goodbye, my friend.') sehingga terbaca dari tanda baca. Juga menuntut membaca kalimat tertulis (tepi TP B1-09 'kosakata')."
+   }
+  ],
+  "ENG-B1-0100": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata; kunci satu-satunya yang memakai koma/urutan wajar ('Good afternoon, friends.' / 'Goodbye, my friend.') sehingga terbaca dari tanda baca. Juga menuntut membaca kalimat tertulis (tepi TP B1-09 'kosakata')."
+   }
+  ],
+  "ENG-B1-0101": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata; kunci terbaca dari huruf besar/tanda baca (mis. hanya kunci yang memakai koma wajar seperti 'Good morning, Teacher.', pengecoh bercampur huruf besar di tengah kalimat seperti 'Good Teacher morning.' atau 'hello' huruf kecil di 'Name my Rafi is hello.')."
+   }
+  ],
+  "ENG-B1-0102": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata; kunci terbaca dari huruf besar/tanda baca (mis. hanya kunci yang memakai koma wajar seperti 'Good morning, Teacher.', pengecoh bercampur huruf besar di tengah kalimat seperti 'Good Teacher morning.' atau 'hello' huruf kecil di 'Name my Rafi is hello.')."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'selamat malam, Ibu' diterjemahkan 'Good night, Mother'. 'Selamat malam' sebagai sapaan bertemu padanannya Good evening; Good night hanya ucapan sebelum tidur/berpisah. Ambigu terjemahan Indonesia->Inggris; bertentangan dengan B1-0051 (Good evening untuk menjelang malam)."
+   }
+  ],
+  "ENG-B1-0103": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata; kunci terbaca dari huruf besar/tanda baca (mis. hanya kunci yang memakai koma wajar seperti 'Good morning, Teacher.', pengecoh bercampur huruf besar di tengah kalimat seperti 'Good Teacher morning.' atau 'hello' huruf kecil di 'Name my Rafi is hello.')."
+   }
+  ],
+  "ENG-B1-0104": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata; kunci terbaca dari huruf besar/tanda baca (mis. hanya kunci yang memakai koma wajar seperti 'Good morning, Teacher.', pengecoh bercampur huruf besar di tengah kalimat seperti 'Good Teacher morning.' atau 'hello' huruf kecil di 'Name my Rafi is hello.')."
+   }
+  ],
+  "ENG-B1-0112": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'selamat malam, Ibu' diterjemahkan 'Good night, Mother'. 'Selamat malam' sebagai sapaan bertemu padanannya Good evening; Good night hanya ucapan sebelum tidur/berpisah. Ambigu terjemahan Indonesia->Inggris; bertentangan dengan B1-0051 (Good evening untuk menjelang malam)."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Ordering memberi token yang sudah memuat huruf kapital/koma (mis. 'fine,', 'morning,', 'night,') sehingga posisi tanda baca membocorkan urutan; tugas menyusun kalimat tertulis berada di tepi CP Fase A."
+   }
+  ],
+  "ENG-B1-0105": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Instruksi 'Susunlah huruf berikut ... l - l - o - h - e' (anagram huruf acak) membingungkan bagi kelas 1 dan menuntut menulis ejaan; Fase A menulis belum fokus (hanya kosakata/frase sederhana). Usulan: beri petunjuk gambar/arti atau ubah jadi mengenali ejaan."
+   }
+  ],
+  "ENG-B1-0106": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Instruksi 'Susunlah huruf berikut ... l - l - o - h - e' (anagram huruf acak) membingungkan bagi kelas 1 dan menuntut menulis ejaan; Fase A menulis belum fokus (hanya kosakata/frase sederhana). Usulan: beri petunjuk gambar/arti atau ubah jadi mengenali ejaan."
+   }
+  ],
+  "ENG-B1-0107": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Instruksi 'Susunlah huruf berikut ... l - l - o - h - e' (anagram huruf acak) membingungkan bagi kelas 1 dan menuntut menulis ejaan; Fase A menulis belum fokus (hanya kosakata/frase sederhana). Usulan: beri petunjuk gambar/arti atau ubah jadi mengenali ejaan."
+   }
+  ],
+  "ENG-B1-0108": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Instruksi 'Susunlah huruf berikut ... l - l - o - h - e' (anagram huruf acak) membingungkan bagi kelas 1 dan menuntut menulis ejaan; Fase A menulis belum fokus (hanya kosakata/frase sederhana). Usulan: beri petunjuk gambar/arti atau ubah jadi mengenali ejaan."
+   }
+  ],
+  "ENG-B1-0109": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Ordering memberi token yang sudah memuat huruf kapital/koma (mis. 'fine,', 'morning,', 'night,') sehingga posisi tanda baca membocorkan urutan; tugas menyusun kalimat tertulis berada di tepi CP Fase A."
+   }
+  ],
+  "ENG-B1-0110": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Ordering memberi token yang sudah memuat huruf kapital/koma (mis. 'fine,', 'morning,', 'night,') sehingga posisi tanda baca membocorkan urutan; tugas menyusun kalimat tertulis berada di tepi CP Fase A."
+   }
+  ],
+  "ENG-B1-0111": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Ordering memberi token yang sudah memuat huruf kapital/koma (mis. 'fine,', 'morning,', 'night,') sehingga posisi tanda baca membocorkan urutan; tugas menyusun kalimat tertulis berada di tepi CP Fase A."
+   }
+  ],
+  "ENG-B2-0003": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'mengangguk saat kamu mengangkat pintu' tidak masuk akal (mengangkat pintu), dan stem rancu antara gerakan dan ucapan; opsi berupa ucapan padahal soal tentang gerakan tubuh."
+   }
+  ],
+  "ENG-B2-0015": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'apple/house/cat' di luar kosakata kelas dan mudah dieliminasi; pengecoh 'It is a apple' berisi bentuk salah (a apple) yang justru ditampilkan kepada murid. Usulan: ganti dengan benda kelas lain dan hindari 'a apple'."
+   }
+  ],
+  "ENG-B2-0016": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'apple/house/cat' di luar kosakata kelas dan mudah dieliminasi; pengecoh 'It is a apple' berisi bentuk salah (a apple) yang justru ditampilkan kepada murid. Usulan: ganti dengan benda kelas lain dan hindari 'a apple'."
+   }
+  ],
+  "ENG-B2-0017": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'apple/house/cat' di luar kosakata kelas dan mudah dieliminasi; pengecoh 'It is a apple' berisi bentuk salah (a apple) yang justru ditampilkan kepada murid. Usulan: ganti dengan benda kelas lain dan hindari 'a apple'."
+   }
+  ],
+  "ENG-B2-0018": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'apple/house/cat' di luar kosakata kelas dan mudah dieliminasi; pengecoh 'It is a apple' berisi bentuk salah (a apple) yang justru ditampilkan kepada murid. Usulan: ganti dengan benda kelas lain dan hindari 'a apple'."
+   }
+  ],
+  "ENG-B2-0019": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'apple/house/cat' di luar kosakata kelas dan mudah dieliminasi; pengecoh 'It is a apple' berisi bentuk salah (a apple) yang justru ditampilkan kepada murid. Usulan: ganti dengan benda kelas lain dan hindari 'a apple'."
+   },
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'It is a chalk': chalk tak terhitung (lazim 'a piece of chalk'); keputusan ahli apakah 'a chalk' dapat diterima untuk kelas 1."
+   }
+  ],
+  "ENG-B2-0041": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'ruler' dikelompokkan sebagai 'alat tulis' bersama pen dan pencil; penggaris lebih tepat alat ukur/perlengkapan sekolah, kategori dapat diperdebatkan."
+   }
+  ],
+  "ENG-B2-0069": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Soal diawali huruf kecil dan tanpa tanda baca akhir yang konsisten ('sebuah penghapus ... adalah ....')."
+   }
+  ],
+  "ENG-B2-0070": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Soal diawali huruf kecil dan tanpa tanda baca akhir yang konsisten ('sebuah penghapus ... adalah ....')."
+   }
+  ],
+  "ENG-B2-0071": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Soal diawali huruf kecil dan tanpa tanda baca akhir yang konsisten ('sebuah penghapus ... adalah ....')."
+   }
+  ],
+  "ENG-B2-0074": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Soal diawali huruf kecil dan tanpa tanda baca akhir yang konsisten ('sebuah penghapus ... adalah ....')."
+   }
+  ],
+  "ENG-B2-0076": [
+   {
+    "kode": "AKURASI_SALAH_TEGAS",
+    "catatan": "Kunci 'a orange crayon' salah artikel; orange diawali bunyi vokal sehingga 'an orange crayon' (usulan: an orange crayon)."
+   }
+  ],
+  "ENG-B2-0078": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Isian terbuka 'Benda berwarna white adalah ....' dijawab 'sebuah penghapus berwarna putih' padahal banyak benda putih; kunci tunggal tidak tegas."
+   }
+  ],
+  "ENG-B2-0079": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kategori 'warna terang' vs 'warna lain' subjektif (red book masuk terang, blue bag/green ruler tidak) dan instruksi 'menurut warnanya yang sama dengan benda dalam daftar' tidak jelas."
+   },
+   {
+    "kode": "BAHASA",
+    "catatan": "Instruksi 'menurut warnanya yang sama dengan benda dalam daftar' berbelit dan sulit dipahami kelas 1."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Abstraksi 'warna terang/warna lain' tidak sesuai kelas 1 dan tidak terkait TP B2-06 (mengidentifikasi nama dan warna)."
+   }
+  ],
+  "ENG-B2-0095": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh acak urutan kata (mis. 'Bag this my is.') terlalu mudah dieliminasi dan tidak menguji pemahaman; juga menuntut membaca kalimat tertulis, di tepi CP Fase A (menulis hanya frase sederhana, TP B2-08 'frase')."
+   }
+  ],
+  "ENG-B2-0096": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh acak urutan kata (mis. 'Bag this my is.') terlalu mudah dieliminasi dan tidak menguji pemahaman; juga menuntut membaca kalimat tertulis, di tepi CP Fase A (menulis hanya frase sederhana, TP B2-08 'frase')."
+   }
+  ],
+  "ENG-B2-0097": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh acak urutan kata (mis. 'Bag this my is.') terlalu mudah dieliminasi dan tidak menguji pemahaman; juga menuntut membaca kalimat tertulis, di tepi CP Fase A (menulis hanya frase sederhana, TP B2-08 'frase')."
+   }
+  ],
+  "ENG-B2-0098": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh acak urutan kata (mis. 'Bag this my is.') terlalu mudah dieliminasi dan tidak menguji pemahaman; juga menuntut membaca kalimat tertulis, di tepi CP Fase A (menulis hanya frase sederhana, TP B2-08 'frase')."
+   }
+  ],
+  "ENG-B2-0099": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh acak urutan kata (mis. 'Bag this my is.') terlalu mudah dieliminasi dan tidak menguji pemahaman; juga menuntut membaca kalimat tertulis, di tepi CP Fase A (menulis hanya frase sederhana, TP B2-08 'frase')."
+   }
+  ],
+  "ENG-B2-0100": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh acak urutan kata (mis. 'Bag this my is.') terlalu mudah dieliminasi dan tidak menguji pemahaman; juga menuntut membaca kalimat tertulis, di tepi CP Fase A (menulis hanya frase sederhana, TP B2-08 'frase')."
+   }
+  ],
+  "ENG-B2-0101": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak ('w - e - t - h - i') membingungkan bagi kelas 1 dan tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B2-0102": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak ('w - e - t - h - i') membingungkan bagi kelas 1 dan tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B2-0103": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak ('w - e - t - h - i') membingungkan bagi kelas 1 dan tanpa petunjuk arti/gambar."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf r-a-b-d-o dapat disusun menjadi 'board' dan 'broad'; kunci 'board' tidak unik."
+   }
+  ],
+  "ENG-B2-0104": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak ('w - e - t - h - i') membingungkan bagi kelas 1 dan tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B3-0009": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Gambar bibir; pengecoh 'mouth' dapat dibenarkan karena bibir bagian dari mulut."
+   }
+  ],
+  "ENG-B3-0019": [
+   {
+    "kode": "AKURASI_SALAH_TEGAS",
+    "catatan": "Kunci menaruh 'mouth' di kelompok 'di luar mulut' padahal mulut tidak berada di luar dirinya sendiri; usulan: keluarkan 'mouth' dari daftar atau ubah kategori (mis. 'di dalam mulut' vs 'di luar mulut' tanpa mouth)."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Pengelompokan 'di dalam/di luar mulut' abstrak untuk kelas 1; 'tongue' tidak muncul di teks ATP Bab 3."
+   }
+  ],
+  "ENG-B3-0022": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Instruksi 'Tunjuk ears' (jamak) tetapi ucapan 'This is my ear' (tunggal); tidak konsisten."
+   }
+  ],
+  "ENG-B3-0042": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Urutan sudah disebutkan lengkap dalam stem (sentuh hidung, lalu mata, lalu telinga, lalu mulut); jawaban hanya menerjemahkan, bukan menyusun."
+   }
+  ],
+  "ENG-B3-0076": [
+   {
+    "kode": "AKURASI_SALAH_TEGAS",
+    "catatan": "Kunci 'one' untuk 'How many eyebrows do I have?' salah; manusia punya dua alis (usulan: two). Bertentangan dengan B3-0069 yang memakai 'two eyebrows'."
+   },
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Bertentangan dengan ENG-B3-0069 (two eyebrows)."
+   }
+  ],
+  "ENG-B3-0088": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'I two ears have.') sehingga mudah ditebak dari struktur/huruf besar; menuntut membaca kalimat tertulis (tepi CP Fase A, TP hanya 'frase sederhana')."
+   }
+  ],
+  "ENG-B3-0089": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'I two ears have.') sehingga mudah ditebak dari struktur/huruf besar; menuntut membaca kalimat tertulis (tepi CP Fase A, TP hanya 'frase sederhana')."
+   }
+  ],
+  "ENG-B3-0090": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'I two ears have.') sehingga mudah ditebak dari struktur/huruf besar; menuntut membaca kalimat tertulis (tepi CP Fase A, TP hanya 'frase sederhana')."
+   }
+  ],
+  "ENG-B3-0091": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'I two ears have.') sehingga mudah ditebak dari struktur/huruf besar; menuntut membaca kalimat tertulis (tepi CP Fase A, TP hanya 'frase sederhana')."
+   }
+  ],
+  "ENG-B3-0092": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'I two ears have.') sehingga mudah ditebak dari struktur/huruf besar; menuntut membaca kalimat tertulis (tepi CP Fase A, TP hanya 'frase sederhana')."
+   }
+  ],
+  "ENG-B3-0093": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'I two ears have.') sehingga mudah ditebak dari struktur/huruf besar; menuntut membaca kalimat tertulis (tepi CP Fase A, TP hanya 'frase sederhana')."
+   }
+  ],
+  "ENG-B3-0094": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata (mis. 'I two ears have.') sehingga mudah ditebak dari struktur/huruf besar; menuntut membaca kalimat tertulis (tepi CP Fase A, TP hanya 'frase sederhana')."
+   }
+  ],
+  "ENG-B3-0095": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak ('c - e - e - k - h') membingungkan bagi kelas 1, tanpa gambar/arti sebagai petunjuk."
+   }
+  ],
+  "ENG-B3-0096": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak ('c - e - e - k - h') membingungkan bagi kelas 1, tanpa gambar/arti sebagai petunjuk."
+   }
+  ],
+  "ENG-B3-0097": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak ('c - e - e - k - h') membingungkan bagi kelas 1, tanpa gambar/arti sebagai petunjuk."
+   }
+  ],
+  "ENG-B3-0098": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak ('c - e - e - k - h') membingungkan bagi kelas 1, tanpa gambar/arti sebagai petunjuk."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf e-f-a-c dapat disusun menjadi 'face' dan 'cafe'; kunci tidak unik."
+   }
+  ],
+  "ENG-B3-0099": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak ('c - e - e - k - h') membingungkan bagi kelas 1, tanpa gambar/arti sebagai petunjuk."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf e-r-a dapat disusun menjadi 'ear', 'are', dan 'era'; kunci tidak unik."
+   }
+  ],
+  "ENG-B3-0100": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak ('c - e - e - k - h') membingungkan bagi kelas 1, tanpa gambar/arti sebagai petunjuk."
+   }
+  ],
+  "ENG-B3-0101": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak ('c - e - e - k - h') membingungkan bagi kelas 1, tanpa gambar/arti sebagai petunjuk."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf n-o-e-s dapat disusun menjadi 'nose', 'ones', dan 'eons'; kunci tidak unik."
+   }
+  ],
+  "ENG-B3-0102": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak ('c - e - e - k - h') membingungkan bagi kelas 1, tanpa gambar/arti sebagai petunjuk."
+   }
+  ],
+  "ENG-B3-0103": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak ('c - e - e - k - h') membingungkan bagi kelas 1, tanpa gambar/arti sebagai petunjuk."
+   }
+  ],
+  "ENG-B4-0007": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Hubungan kekerabatan (uncle/aunt/brother/sister) tidak dapat dibedakan dari gambar; deskripsi gambar sendiri memuat jawaban ('seorang paman', 'seorang bibi', 'bersama saudaranya'). Deskripsi tidak memadai dan membocorkan kunci."
+   }
+  ],
+  "ENG-B4-0017": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Hubungan kekerabatan (uncle/aunt/brother/sister) tidak dapat dibedakan dari gambar; deskripsi gambar sendiri memuat jawaban ('seorang paman', 'seorang bibi', 'bersama saudaranya'). Deskripsi tidak memadai dan membocorkan kunci."
+   }
+  ],
+  "ENG-B4-0018": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Hubungan kekerabatan (uncle/aunt/brother/sister) tidak dapat dibedakan dari gambar; deskripsi gambar sendiri memuat jawaban ('seorang paman', 'seorang bibi', 'bersama saudaranya'). Deskripsi tidak memadai dan membocorkan kunci."
+   }
+  ],
+  "ENG-B4-0020": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Hubungan kekerabatan (uncle/aunt/brother/sister) tidak dapat dibedakan dari gambar; deskripsi gambar sendiri memuat jawaban ('seorang paman', 'seorang bibi', 'bersama saudaranya'). Deskripsi tidak memadai dan membocorkan kunci."
+   }
+  ],
+  "ENG-B4-0022": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Hubungan kekerabatan (uncle/aunt/brother/sister) tidak dapat dibedakan dari gambar; deskripsi gambar sendiri memuat jawaban ('seorang paman', 'seorang bibi', 'bersama saudaranya'). Deskripsi tidak memadai dan membocorkan kunci."
+   }
+  ],
+  "ENG-B4-0027": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Hubungan kekerabatan (uncle/aunt/brother/sister) tidak dapat dibedakan dari gambar; deskripsi gambar sendiri memuat jawaban ('seorang paman', 'seorang bibi', 'bersama saudaranya'). Deskripsi tidak memadai dan membocorkan kunci."
+   }
+  ],
+  "ENG-B4-0028": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Hubungan kekerabatan (uncle/aunt/brother/sister) tidak dapat dibedakan dari gambar; deskripsi gambar sendiri memuat jawaban ('seorang paman', 'seorang bibi', 'bersama saudaranya'). Deskripsi tidak memadai dan membocorkan kunci."
+   }
+  ],
+  "ENG-B4-0015": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'teacher/doctor/friend' mudah dieliminasi karena deskripsi gambar sudah menyebut peran keluarga; hanya satu opsi berstatus anggota keluarga."
+   }
+  ],
+  "ENG-B4-0016": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'teacher/doctor/friend' mudah dieliminasi karena deskripsi gambar sudah menyebut peran keluarga; hanya satu opsi berstatus anggota keluarga."
+   }
+  ],
+  "ENG-B4-0019": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'teacher/doctor/friend' mudah dieliminasi karena deskripsi gambar sudah menyebut peran keluarga; hanya satu opsi berstatus anggota keluarga."
+   }
+  ],
+  "ENG-B4-0021": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'teacher/doctor/friend' mudah dieliminasi karena deskripsi gambar sudah menyebut peran keluarga; hanya satu opsi berstatus anggota keluarga."
+   }
+  ],
+  "ENG-B4-0023": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'teacher/doctor/friend' mudah dieliminasi karena deskripsi gambar sudah menyebut peran keluarga; hanya satu opsi berstatus anggota keluarga."
+   }
+  ],
+  "ENG-B4-0024": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh 'teacher/doctor/friend' mudah dieliminasi karena deskripsi gambar sudah menyebut peran keluarga; hanya satu opsi berstatus anggota keluarga."
+   }
+  ],
+  "ENG-B4-0037": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'There are four people in my family.' (there are + people) lebih rumit dari frase sederhana kelas 1."
+   }
+  ],
+  "ENG-B4-0038": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'There are four people in my family.' (there are + people) lebih rumit dari frase sederhana kelas 1."
+   }
+  ],
+  "ENG-B4-0049": [
+   {
+    "kode": "BAHASA",
+    "catatan": "'bola kaki' bukan istilah baku (bola sepak); 'dilihat dari depan' abstrak untuk kelas 1."
+   }
+  ],
+  "ENG-B4-0052": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "TP B4-04/05 hanya membatasi bentuk lingkaran dan persegi (circle, square); 'rectangle'/'triangle' sebagai kunci berada di luar TP (lebih dekat TP B5-04 'beberapa bentuk bangun datar')."
+   }
+  ],
+  "ENG-B4-0056": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "TP B4-04/05 hanya membatasi bentuk lingkaran dan persegi (circle, square); 'rectangle'/'triangle' sebagai kunci berada di luar TP (lebih dekat TP B5-04 'beberapa bentuk bangun datar')."
+   }
+  ],
+  "ENG-B4-0060": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kosakata 'tile', 'handkerchief', 'chessboard' tidak diajarkan dan sulit untuk kelas 1; juga di luar kosakata TP B4-04."
+   },
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Benda 'tile/handkerchief/chessboard' tidak muncul di teks ATP Bab 4; ATP hanya menyebut bentuk lingkaran dan persegi."
+   }
+  ],
+  "ENG-B4-0096": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata sehingga mudah dieliminasi (mis. 'Circle is red a it.'); menuntut membaca kalimat tertulis (tepi CP Fase A; TP B4-07 hanya 'frase sederhana')."
+   }
+  ],
+  "ENG-B4-0097": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata sehingga mudah dieliminasi (mis. 'Circle is red a it.'); menuntut membaca kalimat tertulis (tepi CP Fase A; TP B4-07 hanya 'frase sederhana')."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'There are four people in my family' (7 kata, there are + people) terlalu panjang/struktur baru untuk kelas 1."
+   }
+  ],
+  "ENG-B4-0098": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata sehingga mudah dieliminasi (mis. 'Circle is red a it.'); menuntut membaca kalimat tertulis (tepi CP Fase A; TP B4-07 hanya 'frase sederhana')."
+   }
+  ],
+  "ENG-B4-0099": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata sehingga mudah dieliminasi (mis. 'Circle is red a it.'); menuntut membaca kalimat tertulis (tepi CP Fase A; TP B4-07 hanya 'frase sederhana')."
+   }
+  ],
+  "ENG-B4-0100": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata sehingga mudah dieliminasi (mis. 'Circle is red a it.'); menuntut membaca kalimat tertulis (tepi CP Fase A; TP B4-07 hanya 'frase sederhana')."
+   }
+  ],
+  "ENG-B4-0101": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh dibuat dengan mengacak kata sehingga mudah dieliminasi (mis. 'Circle is red a it.'); menuntut membaca kalimat tertulis (tepi CP Fase A; TP B4-07 hanya 'frase sederhana')."
+   }
+  ],
+  "ENG-B4-0111": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "'There are four people in my family' (7 kata, there are + people) terlalu panjang/struktur baru untuk kelas 1."
+   }
+  ],
+  "ENG-B4-0102": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf r-t-e-s-i-s dapat disusun 'sister' dan 'resist'; kunci tidak unik."
+   }
+  ],
+  "ENG-B4-0103": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf v-s-e-e-n dapat disusun 'seven' dan 'evens'; kunci tidak unik."
+   }
+  ],
+  "ENG-B4-0104": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B4-0105": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Anagram 11 huruf (grandmother) jauh terlalu sulit untuk kelas 1."
+   }
+  ],
+  "ENG-B4-0106": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   },
+   {
+    "kode": "AMBIGU",
+    "catatan": "Huruf n-e-o dapat disusun 'one' dan 'eon'; kunci tidak unik."
+   }
+  ],
+  "ENG-B4-0107": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Anagram huruf acak membingungkan bagi kelas 1 tanpa petunjuk arti/gambar."
+   }
+  ],
+  "ENG-B5-0006": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyatakan 'Kamu menunjuk dapur/kamar tidur/...' sehingga jawaban (dapur/kamar tidur/...) terbaca langsung dari soal; tidak menguji pemahaman kosakata."
+   }
+  ],
+  "ENG-B5-0007": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyatakan 'Kamu menunjuk dapur/kamar tidur/...' sehingga jawaban (dapur/kamar tidur/...) terbaca langsung dari soal; tidak menguji pemahaman kosakata."
+   }
+  ],
+  "ENG-B5-0008": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyatakan 'Kamu menunjuk dapur/kamar tidur/...' sehingga jawaban (dapur/kamar tidur/...) terbaca langsung dari soal; tidak menguji pemahaman kosakata."
+   }
+  ],
+  "ENG-B5-0009": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyatakan 'Kamu menunjuk dapur/kamar tidur/...' sehingga jawaban (dapur/kamar tidur/...) terbaca langsung dari soal; tidak menguji pemahaman kosakata."
+   }
+  ],
+  "ENG-B5-0010": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyatakan 'Kamu menunjuk dapur/kamar tidur/...' sehingga jawaban (dapur/kamar tidur/...) terbaca langsung dari soal; tidak menguji pemahaman kosakata."
+   }
+  ],
+  "ENG-B5-0011": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyatakan 'Kamu menunjuk dapur/kamar tidur/...' sehingga jawaban (dapur/kamar tidur/...) terbaca langsung dari soal; tidak menguji pemahaman kosakata."
+   }
+  ],
+  "ENG-B5-0012": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Stem menyatakan 'Kamu menunjuk dapur/kamar tidur/...' sehingga jawaban (dapur/kamar tidur/...) terbaca langsung dari soal; tidak menguji pemahaman kosakata."
+   }
+  ],
+  "ENG-B5-0016": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Halaman rumah dengan bunga dan rumput' = garden, padahal 'halaman' = yard di ENG-B5-0001/0013/0014; yard juga halaman rumah sehingga dua opsi dapat dibenarkan."
+   },
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Bertentangan dengan ENG-B5-0001 dan ENG-B5-0013 (halaman = yard; taman = garden)."
+   }
+  ],
+  "ENG-B5-0025": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "'Halaman rumah dengan bunga dan rumput' = garden, padahal 'halaman' = yard di ENG-B5-0001/0013/0014; yard juga halaman rumah sehingga dua opsi dapat dibenarkan."
+   },
+   {
+    "kode": "AKURASI_KONFLIK_INTERNAL",
+    "catatan": "Bertentangan dengan ENG-B5-0001 dan ENG-B5-0013 (halaman = yard; taman = garden)."
+   }
+  ],
+  "ENG-B5-0023": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kunci Salah untuk 'tempat mobil diparkir = yard', tetapi mobil lazim diparkir di halaman (yard/carport); kunci dapat diperdebatkan."
+   }
+  ],
+  "ENG-B5-0026": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Garage dikelompokkan 'di luar rumah'; garasi umumnya bagian bangunan rumah; kategori dalam/luar rumah dapat diperdebatkan."
+   }
+  ],
+  "ENG-B5-0054": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Kosakata 'chimney' (cerobong) sulit/di luar kosakata Bab 5 untuk kelas 1."
+   },
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Warna jawaban sudah tertulis dalam instruksi ('Color the chimney black'); soal hanya meminta menyalin kata warna."
+   }
+  ],
+  "ENG-B5-0055": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Warna jawaban sudah tertulis dalam instruksi ('Color the chimney black'); soal hanya meminta menyalin kata warna."
+   }
+  ]
+ }
+}

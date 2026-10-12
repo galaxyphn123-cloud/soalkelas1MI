@@ -1,0 +1,335 @@
+{
+ "catatan": "Tinjauan baca oleh model AI (bukan ahli). Hanya pengecualian yang dicatat; soal lain yang dibaca dianggap tidak bermasalah menurut pembaca. Semua temuan perlu keputusan guru/ahli.",
+ "reviewed_ranges": [
+  "0-100 (AQH-HJ-0001..0100)",
+  "101-200 (AQH-HJ-0101..0143, AQH-FA-0001..0057)",
+  "201-300 (AQH-FA-0058..0143, AQH-IK-0001..0014)",
+  "301-400 (AQH-IK-0015..0114)",
+  "401-500 (AQH-IK-0115..0143, AQH-HT-0001..0071)",
+  "501-600 (AQH-HT-0072..0143, AQH-NS-0001..0028)",
+  "601-700 (AQH-NS-0029..0128)",
+  "701-800 (AQH-NS-0129..0143, AQH-FL-0001..0085)"
+ ],
+ "temuan": {
+  "AQH-HJ-0003": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menanyakan nomor urut huruf (ف ke-20, ط ke-16) menuntut hafalan urutan numerik 28 huruf; terlalu abstrak untuk murid kelas 1, perlu pertimbangan guru (urutan sendiri sudah diuji pada soal sebelum/sesudah)."
+   }
+  ],
+  "AQH-HJ-0015": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Menanyakan nomor urut huruf (ف ke-20, ط ke-16) menuntut hafalan urutan numerik 28 huruf; terlalu abstrak untuk murid kelas 1, perlu pertimbangan guru (urutan sendiri sudah diuji pada soal sebelum/sesudah)."
+   }
+  ],
+  "AQH-HJ-0106": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Kategori 'sama-sama bertitik' tidak eksklusif: ج dan خ juga bertitik, sedangkan ح tidak bertitik; kategori kedua 'mangkuk terbuka' juga tidak jelas. Dasar pengelompokan tumpang tindih sehingga kunci tidak tunggal."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Pengelompokan menurut 'bentuk dasar' ba/jim-ha-kha terlalu abstrak untuk kelas 1."
+   }
+  ],
+  "AQH-HJ-0107": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Mengelompokkan huruf berdasarkan 'bentuk dasar' (mirip Ba/Dal/Ra) abstraksi tinggi untuk kelas 1."
+   }
+  ],
+  "AQH-FA-0026": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Pernyataan 'Basmalah mengajarkan yakin Allah Maha Pengasih dan Maha Penyayang' dijawab Salah, padahal Basmalah memuat Ar-Rahman Ar-Rahim; pernyataan dapat dibenarkan."
+   }
+  ],
+  "AQH-FA-0006": [
+   {
+    "kode": "DISTRAKTOR_AMBIGU",
+    "catatan": "Pengecoh A 'Bismillahirrahmanirrahim' memuat kata Ar-Rahman Ar-Rahim sehingga dapat dibenarkan sebagai ayat yang menyatakan Allah Maha Pengasih dan Maha Penyayang."
+   }
+  ],
+  "AQH-FA-0042": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Penomoran ayat Al-Fatihah menghitung Basmalah sebagai ayat 1 (ayat 6 = Ihdina, ayat 7 = Shirat); mushaf lain (mis. hitungan Madinah) tidak menghitung Basmalah sehingga ayat 6 = Shirat. Perlu keputusan rujukan."
+   }
+  ],
+  "AQH-FA-0048": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Penomoran ayat Al-Fatihah menghitung Basmalah sebagai ayat 1 (ayat 6 = Ihdina, ayat 7 = Shirat); mushaf lain (mis. hitungan Madinah) tidak menghitung Basmalah sehingga ayat 6 = Shirat. Perlu keputusan rujukan."
+   }
+  ],
+  "AQH-FA-0050": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Penomoran ayat Al-Fatihah menghitung Basmalah sebagai ayat 1 (ayat 6 = Ihdina, ayat 7 = Shirat); mushaf lain (mis. hitungan Madinah) tidak menghitung Basmalah sehingga ayat 6 = Shirat. Perlu keputusan rujukan."
+   }
+  ],
+  "AQH-FA-0057": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Penomoran ayat Al-Fatihah menghitung Basmalah sebagai ayat 1 (ayat 6 = Ihdina, ayat 7 = Shirat); mushaf lain (mis. hitungan Madinah) tidak menghitung Basmalah sehingga ayat 6 = Shirat. Perlu keputusan rujukan."
+   }
+  ],
+  "AQH-FA-0059": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Bergantung penomoran ayat Al-Fatihah yang menghitung Basmalah sebagai ayat 1 (Ar-rahman = ayat 3, Ihdina = ayat 6, 'ayat kedua' = Alhamdu); hitungan mushaf lain berbeda. Perlu keputusan rujukan (selaras dengan AQH-FA-0042 dst)."
+   }
+  ],
+  "AQH-FA-0066": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Bergantung penomoran ayat Al-Fatihah yang menghitung Basmalah sebagai ayat 1 (Ar-rahman = ayat 3, Ihdina = ayat 6, 'ayat kedua' = Alhamdu); hitungan mushaf lain berbeda. Perlu keputusan rujukan (selaras dengan AQH-FA-0042 dst)."
+   }
+  ],
+  "AQH-FA-0067": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Bergantung penomoran ayat Al-Fatihah yang menghitung Basmalah sebagai ayat 1 (Ar-rahman = ayat 3, Ihdina = ayat 6, 'ayat kedua' = Alhamdu); hitungan mushaf lain berbeda. Perlu keputusan rujukan (selaras dengan AQH-FA-0042 dst)."
+   }
+  ],
+  "AQH-FA-0102": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Bergantung penomoran ayat Al-Fatihah yang menghitung Basmalah sebagai ayat 1 (Ar-rahman = ayat 3, Ihdina = ayat 6, 'ayat kedua' = Alhamdu); hitungan mushaf lain berbeda. Perlu keputusan rujukan (selaras dengan AQH-FA-0042 dst)."
+   }
+  ],
+  "AQH-FA-0103": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Bergantung penomoran ayat Al-Fatihah yang menghitung Basmalah sebagai ayat 1 (Ar-rahman = ayat 3, Ihdina = ayat 6, 'ayat kedua' = Alhamdu); hitungan mushaf lain berbeda. Perlu keputusan rujukan (selaras dengan AQH-FA-0042 dst)."
+   }
+  ],
+  "AQH-FA-0114": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Bergantung penomoran ayat Al-Fatihah yang menghitung Basmalah sebagai ayat 1 (Ar-rahman = ayat 3, Ihdina = ayat 6, 'ayat kedua' = Alhamdu); hitungan mushaf lain berbeda. Perlu keputusan rujukan (selaras dengan AQH-FA-0042 dst)."
+   }
+  ],
+  "AQH-FA-0023": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Wajib dibaca pada setiap rakaat salat' bergantung mazhab (Syafii: rukun tiap rakaat; Hanafi berbeda); perlu konfirmasi rujukan madrasah."
+   }
+  ],
+  "AQH-FA-0030": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Wajib dibaca pada setiap rakaat salat' bergantung mazhab (Syafii: rukun tiap rakaat; Hanafi berbeda); perlu konfirmasi rujukan madrasah."
+   }
+  ],
+  "AQH-FA-0022": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'Ummul Kitab' (induk Al-Qur'an) abstrak untuk kelas 1 dan tidak ada di rumusan TP."
+   }
+  ],
+  "AQH-IK-0006": [
+   {
+    "kode": "BAHASA",
+    "catatan": "Stem 'kita perlu' diikuti opsi tanpa kata kerja ('Allah Maha Esa dan menjadi tempat meminta ...') sehingga kalimat tidak gramatikal; perlu 'kita perlu meyakini bahwa ...'."
+   }
+  ],
+  "AQH-IK-0016": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "'Tauhid artinya Maha Esa' kurang tepat: tauhid = mengesakan Allah (keyakinan), 'Maha Esa' adalah sifat Allah; berbeda dengan AQH-IK-0018 yang mendefinisikan tauhid sebagai keyakinan bahwa Allah Maha Esa. Perlu keputusan redaksi ahli."
+   },
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'tauhid' abstrak untuk kelas 1 dan tidak muncul di TP/CP."
+   }
+  ],
+  "AQH-IK-0018": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'tauhid' abstrak untuk kelas 1 dan tidak muncul di TP/CP."
+   }
+  ],
+  "AQH-IK-0111": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Kunci terbaca dari kata mutlak pada pengecoh ('hanya Al-Kafirun', 'Al-Ma'un saja', 'hanya Al-Lahab'); kunci satu-satunya yang tanpa 'hanya/saja'. Selain itu membaca surah lain pun tidak salah (stem 'yang termasuk dibaca')."
+   }
+  ],
+  "AQH-IK-0109": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Pengecoh Al-Kautsar, Al-Lahab, Al-Kafirun adalah surah di luar surah pilihan kelas 1 dalam ATP (Al-Fatihah, Al-Ikhlas, An-Nas, Al-Falaq); wajar sebagai pengecoh tetapi menuntut pengenalan surah di luar TP."
+   }
+  ],
+  "AQH-IK-0137": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan 'cara menjelaskan' (membaca ayat, arti, penjelasan, mengajak meniru) tidak punya urutan baku; 'mengajak adik meniru bacaan' dapat ditempatkan lebih awal sehingga kunci tunggal tidak pasti."
+   }
+  ],
+  "AQH-IK-0138": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan kegiatan sebelum tidur: membaca Al-Ikhlas (bersama Al-Falaq dan An-Nas) dan doa tidur tidak punya urutan baku sehingga urutan 'doa > Al-Ikhlas' dapat dibalik. Juga bergantung rujukan hadis amalan tidur (AKURASI_AHLI)."
+   }
+  ],
+  "AQH-IK-0140": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Item 'lupa berdoa sebelum tidur' dan 'malas menghafal ayat' dikelompokkan 'kurang sesuai dengan pesan surah Al-Ikhlas' padahal pesan pokok surah ini ketauhidan; kriteria 'sesuai pesan surah' tidak jelas."
+   }
+  ],
+  "AQH-HT-0042": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menanyakan padanan kosakata Arab-Indonesia (air, roti, langit, kertas, anjing, qalam=pena, dll). TP HT-01..04 hanya tentang bentuk/penulisan huruf terpisah-tersambung; CP/ATP tidak memuat kosakata/arti kata Arab (kosakata lebih dekat ke mapel Bahasa Arab)."
+   }
+  ],
+  "AQH-HT-0044": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menanyakan padanan kosakata Arab-Indonesia (air, roti, langit, kertas, anjing, qalam=pena, dll). TP HT-01..04 hanya tentang bentuk/penulisan huruf terpisah-tersambung; CP/ATP tidak memuat kosakata/arti kata Arab (kosakata lebih dekat ke mapel Bahasa Arab)."
+   }
+  ],
+  "AQH-HT-0045": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menanyakan padanan kosakata Arab-Indonesia (air, roti, langit, kertas, anjing, qalam=pena, dll). TP HT-01..04 hanya tentang bentuk/penulisan huruf terpisah-tersambung; CP/ATP tidak memuat kosakata/arti kata Arab (kosakata lebih dekat ke mapel Bahasa Arab)."
+   }
+  ],
+  "AQH-HT-0051": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menanyakan padanan kosakata Arab-Indonesia (air, roti, langit, kertas, anjing, qalam=pena, dll). TP HT-01..04 hanya tentang bentuk/penulisan huruf terpisah-tersambung; CP/ATP tidak memuat kosakata/arti kata Arab (kosakata lebih dekat ke mapel Bahasa Arab)."
+   }
+  ],
+  "AQH-HT-0056": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menanyakan padanan kosakata Arab-Indonesia (air, roti, langit, kertas, anjing, qalam=pena, dll). TP HT-01..04 hanya tentang bentuk/penulisan huruf terpisah-tersambung; CP/ATP tidak memuat kosakata/arti kata Arab (kosakata lebih dekat ke mapel Bahasa Arab)."
+   }
+  ],
+  "AQH-HT-0057": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menanyakan padanan kosakata Arab-Indonesia (air, roti, langit, kertas, anjing, qalam=pena, dll). TP HT-01..04 hanya tentang bentuk/penulisan huruf terpisah-tersambung; CP/ATP tidak memuat kosakata/arti kata Arab (kosakata lebih dekat ke mapel Bahasa Arab)."
+   }
+  ],
+  "AQH-HT-0058": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menanyakan padanan kosakata Arab-Indonesia (air, roti, langit, kertas, anjing, qalam=pena, dll). TP HT-01..04 hanya tentang bentuk/penulisan huruf terpisah-tersambung; CP/ATP tidak memuat kosakata/arti kata Arab (kosakata lebih dekat ke mapel Bahasa Arab)."
+   }
+  ],
+  "AQH-HT-0063": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Menanyakan padanan kosakata Arab-Indonesia (air, roti, langit, kertas, anjing, qalam=pena, dll). TP HT-01..04 hanya tentang bentuk/penulisan huruf terpisah-tersambung; CP/ATP tidak memuat kosakata/arti kata Arab (kosakata lebih dekat ke mapel Bahasa Arab)."
+   }
+  ],
+  "AQH-FA-0139": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Item 'menunda belajar membaca Al-Fatihah' dan 'mengeluh terus-menerus' dikelompokkan 'kurang sesuai dengan pesan surah Al-Fatihah' padahal kaitannya dengan pesan pokok surah lemah; kriteria pengelompokan kurang jelas."
+   }
+  ],
+  "AQH-HT-0111": [
+   {
+    "kode": "AKURASI_SALAH_TEGAS",
+    "catatan": "Kata رجل tersusun ر-ج-ل; huruf Jim berada di posisi kedua (tengah kata), sehingga pernyataan 'Jim ditulis di tengah kata' Benar, bukan Salah. usulan: kunci Benar (atau ubah pernyataan menjadi 'Jim ditulis di awal kata' agar kunci Salah)."
+   }
+  ],
+  "AQH-HT-0122": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Meminta arti kosakata Arab (باب = pintu, ماء = air); CP/ATP hanya memuat mengenal dan menulis huruf hijaiah tersambung, bukan kosakata Arab (lebih dekat ke mapel Bahasa Arab)."
+   }
+  ],
+  "AQH-HT-0127": [
+   {
+    "kode": "ATP_INDIKASI",
+    "catatan": "Meminta arti kosakata Arab (باب = pintu, ماء = air); CP/ATP hanya memuat mengenal dan menulis huruf hijaiah tersambung, bukan kosakata Arab (lebih dekat ke mapel Bahasa Arab)."
+   }
+  ],
+  "AQH-HT-0124": [
+   {
+    "kode": "KONSTRUKSI",
+    "catatan": "Pengecoh memakai kata pembatas 'saja' ('warna pensil saja', 'ukuran meja saja') sedangkan kunci tidak; kunci terbaca dari pola kata, bukan dari isi."
+   }
+  ],
+  "AQH-HT-0135": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Langkah menulis kata بيت menempatkan titik tiap huruf sebelum menyambung huruf berikutnya, bertentangan dengan AQH-HT-0117 (titik ditulis setelah badan huruf selesai); urutan menulis titik perlu keputusan guru/ahli kaligrafi."
+   }
+  ],
+  "AQH-HT-0136": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan 'duduk tegak, menyiapkan alat tulis, berdoa, mulai menulis' tidak punya urutan baku; berdoa atau menyiapkan alat dapat didahulukan."
+   }
+  ],
+  "AQH-NS-0019": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Penjelasan bahwa al-khannas 'bersembunyi/pergi ketika disebut nama Allah' berasal dari tafsir tertentu (bukan makna kata langsung); perlu keputusan rujukan tafsir."
+   }
+  ],
+  "AQH-NS-0028": [
+   {
+    "kode": "AKURASI_AHLI",
+    "catatan": "Penjelasan bahwa al-khannas 'bersembunyi/pergi ketika disebut nama Allah' berasal dari tafsir tertentu (bukan makna kata langsung); perlu keputusan rujukan tafsir."
+   }
+  ],
+  "AQH-NS-0109": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'ta'awudz' tidak dikenal murid kelas 1 dan tidak ada di TP/ATP; murid kelas 1 lebih tepat diberi 'membaca a'udzubillah'."
+   }
+  ],
+  "AQH-NS-0110": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'ta'awudz' tidak dikenal murid kelas 1 dan tidak ada di TP/ATP; murid kelas 1 lebih tepat diberi 'membaca a'udzubillah'."
+   }
+  ],
+  "AQH-NS-0122": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'ta'awudz' tidak dikenal murid kelas 1 dan tidak ada di TP/ATP; murid kelas 1 lebih tepat diberi 'membaca a'udzubillah'."
+   }
+  ],
+  "AQH-NS-0126": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'ta'awudz' tidak dikenal murid kelas 1 dan tidak ada di TP/ATP; murid kelas 1 lebih tepat diberi 'membaca a'udzubillah'."
+   }
+  ],
+  "AQH-NS-0137": [
+   {
+    "kode": "AMBIGU",
+    "catatan": "Urutan 'menenangkan diri > membaca ta'awudz > membaca An-Nas > meminta ditemani orang tua' tidak baku; meminta ditemani orang tua dapat dilakukan lebih awal, kunci tunggal tidak pasti."
+   }
+  ],
+  "AQH-FL-0017": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'mu'awwidzatain' terlalu sulit untuk kelas 1 dan tidak ada di TP/ATP; sebaiknya dibatasi pada guru."
+   }
+  ],
+  "AQH-FL-0022": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'mu'awwidzatain' terlalu sulit untuk kelas 1 dan tidak ada di TP/ATP; sebaiknya dibatasi pada guru."
+   }
+  ],
+  "AQH-FL-0029": [
+   {
+    "kode": "USIA_ISI",
+    "catatan": "Istilah 'mu'awwidzatain' terlalu sulit untuk kelas 1 dan tidak ada di TP/ATP; sebaiknya dibatasi pada guru."
+   }
+  ]
+ }
+}
