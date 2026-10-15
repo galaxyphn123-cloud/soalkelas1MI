@@ -1,0 +1,3029 @@
+[
+ {
+  "id": "AKA-KN-0904",
+  "tp_id": "TP-AKA-KN-02",
+  "alasan": [
+   "penyelesai menandai AMBIGU: \"Kita belajar untuk bersikap .... kepada orang lain\" - isian terbuka: ramah/sopan/santun/menghormati semua dapat diterim"
+  ],
+  "soal": {
+   "id": "AKA-KN-0904",
+   "subject": "Akidah Akhlak",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-AKA-KN-02",
+   "tp": "Murid mampu menyimpulkan kisah Nabi Muhammad saw. dengan benar.",
+   "material": "Kisah Keteladanan Nabi Muhammad saw.",
+   "competency": "Menyimpulkan kisah Nabi",
+   "question_type": "fill_in_short",
+   "difficulty": "easy",
+   "cognitive_level": "memahami",
+   "question": "Isilah titik-titik berikut: Nabi Muhammad saw. menyapa anak-anak dengan salam. Kita belajar untuk bersikap .... kepada orang lain.",
+   "options": null,
+   "answer": "ramah",
+   "explanation": "Nabi bersikap ramah kepada semua orang, termasuk anak-anak.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-AKA-KN-02",
+    "kisah-keteladanan-nabi-muhammad-saw."
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "AKA-KN-0904",
+   "jawaban_saya": "ramah (sopan/santun/suka menyapa)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Isian/terbuka: beberapa jawaban dapat diterima.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"Kita belajar untuk bersikap .... kepada orang lain\" - isian terbuka: ramah/sopan/santun/menghormati semua dapat diterima",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "TP sesuai materi dan kata kerja TP dalam ATP.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": "Hadis riwayat tentang Nabi menyapa anak-anak dengan salam / buku teks Kisah Nabi kelas 1 MI",
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "AKA-SW-0910",
+  "tp_id": "TP-AKA-SW-02",
+  "alasan": [
+   "penyelesai menandai AMBIGU: \"Allah tetap ada walau tidak terlihat\" - kata \"tetap\" bisa dibaca Baqa' (D tidak, tetapi B Baqa' ada di opsi); kunci waj"
+  ],
+  "soal": {
+   "id": "AKA-SW-0910",
+   "subject": "Akidah Akhlak",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-AKA-SW-02",
+   "tp": "Murid mampu menjelaskan sifat-sifat wajib Allah Swt. dengan baik dan benar.",
+   "material": "Sifat Wajib Allah Swt.",
+   "competency": "Menjelaskan sifat wajib Allah",
+   "question_type": "contextual",
+   "difficulty": "medium",
+   "cognitive_level": "menerapkan",
+   "question": "Kayla tidak melihat angin, tetapi merasakan sejuknya. Seperti itu, kita yakin Allah tetap ada walau tidak terlihat. Sifat ini ....",
+   "options": [
+    "A. Wujud",
+    "B. Baqa'",
+    "C. Qidam",
+    "D. Fana"
+   ],
+   "answer": "A",
+   "explanation": "Wujud: Allah ada.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-AKA-SW-02",
+    "sifat-wajib-allah-swt."
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "AKA-SW-0910",
+   "jawaban_saya": "A",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Isian/terbuka: beberapa jawaban dapat diterima.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"Allah tetap ada walau tidak terlihat\" - kata \"tetap\" bisa dibaca Baqa' (D tidak, tetapi B Baqa' ada di opsi); kunci wajar Wujud",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "TP sesuai materi dan kata kerja TP dalam ATP.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "AKA-SW-0937",
+  "tp_id": "TP-AKA-SW-04",
+  "alasan": [
+   "penyelesai menandai AMBIGU: \"bergantung kepada Allah yang bersifat ....\" tanpa pilihan; Baqa', Wujud, atau Qidam dapat diterima; hanya isian bebas t"
+  ],
+  "soal": {
+   "id": "AKA-SW-0937",
+   "subject": "Akidah Akhlak",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-AKA-SW-04",
+   "tp": "Murid mampu menerapkan perilaku beriman kepada sifat-sifat wajib Allah Swt. dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+   "material": "Sifat Wajib Allah Swt.",
+   "competency": "Menerapkan perilaku beriman kepada sifat wajib Allah",
+   "question_type": "completion",
+   "difficulty": "medium",
+   "cognitive_level": "menerapkan",
+   "question": "Lengkapi: Saat sedih karena mainan rusak, Yusuf bergantung kepada Allah yang bersifat ....",
+   "options": null,
+   "answer": "kekal (Baqa')",
+   "explanation": "Hanya Allah yang kekal.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-AKA-SW-04",
+    "sifat-wajib-allah-swt."
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "AKA-SW-0937",
+   "jawaban_saya": "Baqa' (Maha Kekal)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Isian/terbuka: beberapa jawaban dapat diterima.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"bergantung kepada Allah yang bersifat ....\" tanpa pilihan; Baqa', Wujud, atau Qidam dapat diterima; hanya isian bebas tanpa petunjuk \"kekal\"",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "TP sesuai materi dan kata kerja TP dalam ATP.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "AKA-SW-0939",
+  "tp_id": "TP-AKA-SW-04",
+  "alasan": [
+   "penyelesai menandai AMBIGU: Santi tidak boleh ....: banyak isian wajar (sombong, bangga berlebihan, bergantung pada harta)."
+  ],
+  "soal": {
+   "id": "AKA-SW-0939",
+   "subject": "Akidah Akhlak",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-AKA-SW-04",
+   "tp": "Murid mampu menerapkan perilaku beriman kepada sifat-sifat wajib Allah Swt. dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+   "material": "Sifat Wajib Allah Swt.",
+   "competency": "Menerapkan perilaku beriman kepada sifat wajib Allah",
+   "question_type": "completion",
+   "difficulty": "medium",
+   "cognitive_level": "menerapkan",
+   "question": "Lengkapi: Kecantikan dan harta akan hilang, maka Santi tidak boleh ....",
+   "options": null,
+   "answer": "sombong",
+   "explanation": "Tidak kekal, jadi tidak sombong.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-AKA-SW-04",
+    "sifat-wajib-allah-swt."
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "AKA-SW-0939",
+   "jawaban_saya": "sombong (atau sombong dengan kecantikan/hartanya)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Jawaban terbuka; 'sombong' paling wajar, tetapi 'bergantung pada kecantikan/harta' juga dapat diterima.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "Santi tidak boleh ....: banyak isian wajar (sombong, bangga berlebihan, bergantung pada harta).",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "Kaitan dengan sifat wajib (Baqa') hanya tersirat.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Kunci perlu menerima sinonim."
+  }
+ },
+ {
+  "id": "AKA-SW-0940",
+  "tp_id": "TP-AKA-SW-04",
+  "alasan": [
+   "penyelesai menandai AMBIGU: Allah selalu ....: tidak ada petunjuk sifat mana yang dimaksud."
+  ],
+  "soal": {
+   "id": "AKA-SW-0940",
+   "subject": "Akidah Akhlak",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-AKA-SW-04",
+   "tp": "Murid mampu menerapkan perilaku beriman kepada sifat-sifat wajib Allah Swt. dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+   "material": "Sifat Wajib Allah Swt.",
+   "competency": "Menerapkan perilaku beriman kepada sifat wajib Allah",
+   "question_type": "completion",
+   "difficulty": "easy",
+   "cognitive_level": "menerapkan",
+   "question": "Lengkapi: Sebelum tidur, Ilham berdoa kepada Allah karena yakin Allah selalu ....",
+   "options": null,
+   "answer": "ada",
+   "explanation": "Allah Maha Ada.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-AKA-SW-04",
+    "sifat-wajib-allah-swt."
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "AKA-SW-0940",
+   "jawaban_saya": "ada / mendengar doa (mengawasi)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "rendah",
+   "alasan_keyakinan": "Isian terbuka; 'ada', 'mendengar', 'dekat', 'melihat' semua wajar.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "Allah selalu ....: tidak ada petunjuk sifat mana yang dimaksud.",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "Sifat yang dimaksud tidak jelas; Sami' bukan bagian sifat Wujud/Qidam/Baqa' yang dipelajari.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Kunci tunggal berisiko."
+  }
+ },
+ {
+  "id": "AKA-SY-0938",
+  "tp_id": "TP-AKA-SY-04",
+  "alasan": [
+   "penyelesai menandai AMBIGU: Beliau adalah .... Allah.: 'rasul', 'utusan', 'hamba', 'kekasih' mungkin."
+  ],
+  "soal": {
+   "id": "AKA-SY-0938",
+   "subject": "Akidah Akhlak",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-AKA-SY-04",
+   "tp": "Murid mampu menerapkan kalimat syahadat dalam kehidupan sehari-hari sebagai wujud cinta Allah dan Rasul-Nya serta cinta diri dan sesama manusia.",
+   "material": "Dua Kalimat Syahadat",
+   "competency": "Menerapkan nilai dalam kehidupan",
+   "question_type": "fill_in_short",
+   "difficulty": "easy",
+   "cognitive_level": "mengingat",
+   "question": "Kita meneladani Nabi Muhammad saw. karena beliau adalah .... Allah.",
+   "options": null,
+   "answer": "utusan",
+   "explanation": "Syahadat rasul: Muhammad adalah utusan Allah.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-AKA-SY-04",
+    "dua-kalimat-syahadat"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "AKA-SY-0938",
+   "jawaban_saya": "utusan (rasul)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "'utusan' atau 'rasul' keduanya wajar; kunci harus menerima keduanya.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "Beliau adalah .... Allah.: 'rasul', 'utusan', 'hamba', 'kekasih' mungkin.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Meneladani Rasul.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Tulis kunci dengan sinonim."
+  }
+ },
+ {
+  "id": "AKA-SW-0962",
+  "tp_id": "TP-AKA-SW-01",
+  "alasan": [
+   "penyelesai menandai AMBIGU: Ulangi sendiri sampai lancar / Bacakan tanpa melihat tulisan: urutan kedua langkah akhir tidak mutlak."
+  ],
+  "soal": {
+   "id": "AKA-SW-0962",
+   "subject": "Akidah Akhlak",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-AKA-SW-01",
+   "tp": "Murid mampu menghafal sifat-sifat wajib Allah Swt. dengan baik dan benar.",
+   "material": "Sifat Wajib Allah Swt.",
+   "competency": "Mengurutkan",
+   "question_type": "ordering",
+   "difficulty": "medium",
+   "cognitive_level": "mengurutkan",
+   "question": "Urutkan langkah menghafal sifat wajib Allah berikut!",
+   "options": [
+    "Ulangi sendiri sampai lancar",
+    "Bacakan tanpa melihat tulisan",
+    "Dengarkan guru melafalkan sifat wajib",
+    "Tirukan bacaan guru bersama teman"
+   ],
+   "answer": [
+    "Dengarkan guru melafalkan sifat wajib",
+    "Tirukan bacaan guru bersama teman",
+    "Ulangi sendiri sampai lancar",
+    "Bacakan tanpa melihat tulisan"
+   ],
+   "explanation": "Menghafal dimulai dari mendengar, meniru, mengulang, lalu membaca tanpa teks.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-AKA-SW-01",
+    "sifat-wajib-allah-swt."
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "AKA-SW-0962",
+   "jawaban_saya": [
+    "Dengarkan guru melafalkan sifat wajib",
+    "Tirukan bacaan guru bersama teman",
+    "Ulangi sendiri sampai lancar",
+    "Bacakan tanpa melihat tulisan"
+   ],
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Urutan pedagogis wajar tetapi 'Ulangi' vs 'Bacakan' bisa dibolak-balik.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "Ulangi sendiri sampai lancar / Bacakan tanpa melihat tulisan: urutan kedua langkah akhir tidak mutlak.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Menghafal sifat wajib.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "AKA-SW-0977",
+  "tp_id": "TP-AKA-SW-03",
+  "alasan": [
+   "penyelesai menandai AMBIGU: Allah sudah ada .... dari semua makhluk."
+  ],
+  "soal": {
+   "id": "AKA-SW-0977",
+   "subject": "Akidah Akhlak",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-AKA-SW-03",
+   "tp": "Murid mampu menemukan hikmah mempelajari sifat-sifat wajib Allah Swt.",
+   "material": "Sifat Wajib Allah Swt.",
+   "competency": "Menemukan hikmah sifat wajib Allah",
+   "question_type": "fill_in_short",
+   "difficulty": "medium",
+   "cognitive_level": "memahami",
+   "question": "Hikmah belajar sifat Qidam: Allah sudah ada .... dari semua makhluk.",
+   "options": null,
+   "answer": "lebih dahulu",
+   "explanation": "Qidam berarti terdahulu.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-AKA-SW-03",
+    "sifat-wajib-allah-swt."
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "AKA-SW-0977",
+   "jawaban_saya": "lebih dahulu (terdahulu)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Isian terbuka: 'dahulu', 'lebih dahulu', 'terlebih dahulu'.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "Allah sudah ada .... dari semua makhluk.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Hikmah Qidam.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Kunci perlu sinonim."
+  }
+ },
+ {
+  "id": "AKA-SW-0978",
+  "tp_id": "TP-AKA-SW-03",
+  "alasan": [
+   "penyelesai menandai AMBIGU: kita makin rajin ...."
+  ],
+  "soal": {
+   "id": "AKA-SW-0978",
+   "subject": "Akidah Akhlak",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-AKA-SW-03",
+   "tp": "Murid mampu menemukan hikmah mempelajari sifat-sifat wajib Allah Swt.",
+   "material": "Sifat Wajib Allah Swt.",
+   "competency": "Menemukan hikmah sifat wajib Allah",
+   "question_type": "fill_in_short",
+   "difficulty": "easy",
+   "cognitive_level": "memahami",
+   "question": "Setelah tahu bahwa Allah itu ada, kita makin rajin ....",
+   "options": null,
+   "answer": "beribadah",
+   "explanation": "Hikmahnya makin taat beribadah.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-AKA-SW-03",
+    "sifat-wajib-allah-swt."
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "AKA-SW-0978",
+   "jawaban_saya": "beribadah (berdoa, salat)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Isian terbuka; beribadah/berdoa/bersyukur wajar.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "kita makin rajin ....",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Hikmah sifat Wujud.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Kunci perlu sinonim."
+  }
+ },
+ {
+  "id": "AQH-FA-0904",
+  "tp_id": "TP-AQH-FA-01",
+  "alasan": [
+   "penyelesai menandai AMBIGU: memohon ...."
+  ],
+  "soal": {
+   "id": "AQH-FA-0904",
+   "subject": "Al-Quran Hadis",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-AQH-FA-01",
+   "tp": "Murid mampu menjelaskan pesan pokok surah Al-Fatihah dengan benar.",
+   "material": "Surah Al-Fatihah",
+   "competency": "Menjelaskan pesan pokok surah",
+   "question_type": "completion",
+   "difficulty": "medium",
+   "cognitive_level": "mengingat",
+   "question": "Lengkapi: Pesan pokok surah Al-Fatihah adalah memuji Allah, hanya menyembah Allah, dan memohon ....",
+   "options": null,
+   "answer": "petunjuk jalan yang lurus",
+   "explanation": "Pesan pokok Al-Fatihah: memuji Allah, hanya menyembah Allah, dan memohon petunjuk jalan yang lurus.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-AQH-FA-01",
+    "surah-al-fatihah"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "AQH-FA-0904",
+   "jawaban_saya": "petunjuk jalan yang lurus",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Pesan pokok bisa pula 'pertolongan' (Iyyaka nasta'in); jawaban yang dimaksud kemungkinan 'petunjuk'",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "memohon ....",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Sesuai TP dan materi pada ATP",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "AQH-FA-0905",
+  "tp_id": "TP-AQH-FA-02",
+  "alasan": [
+   "penyelesai menandai AMBIGU: Ayat ke-4 surah Al-Fatihah"
+  ],
+  "soal": {
+   "id": "AQH-FA-0905",
+   "subject": "Al-Quran Hadis",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-AQH-FA-02",
+   "tp": "Murid mampu menyesuaikan pelafalan dan menghafal surah Al-Fatihah dengan benar.",
+   "material": "Surah Al-Fatihah",
+   "competency": "Menghafal ayat berurutan",
+   "question_type": "multiple_choice",
+   "difficulty": "easy",
+   "cognitive_level": "mengingat",
+   "question": "Ayat ke-4 surah Al-Fatihah dibaca ....",
+   "options": [
+    "A. Maliki yaumid-din",
+    "B. Ar-rahmanir-rahim",
+    "C. Iyyaka na'budu wa iyyaka nasta'in",
+    "D. Ihdinash-shiratal-mustaqim"
+   ],
+   "answer": "A",
+   "explanation": "Ayat ke-4 adalah \"Maliki yaumid-din\".",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-AQH-FA-02",
+    "surah-al-fatihah"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "AQH-FA-0905",
+   "jawaban_saya": "A",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Benar bila basmalah dihitung ayat 1 (hitungan umum Hafs/Kemenag); tanpa basmalah ayat ke-4 adalah Iyyaka",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "Ayat ke-4 surah Al-Fatihah",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Sesuai TP dan materi pada ATP",
+   "usia_bahasa": "ok",
+   "perlu_sumber": "Mushaf standar Kemenag / buku teks Al-Qur'an Hadis Kelas 1",
+   "perlu_ahli": true,
+   "alasan_ahli": "Hitungan ayat (basmalah ayat 1 atau tidak) mengikuti mushaf/buku teks",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "AQH-HK-0904",
+  "tp_id": "TP-AQH-HK-01",
+  "alasan": [
+   "penyelesai menandai AMBIGU: badan, pakaian, dan ...."
+  ],
+  "soal": {
+   "id": "AQH-HK-0904",
+   "subject": "Al-Quran Hadis",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-AQH-HK-01",
+   "tp": "Murid mampu menjelaskan pesan pokok hadis tentang kebersihan dengan benar.",
+   "material": "Hadis tentang Kebersihan",
+   "competency": "Menjelaskan pesan hadis",
+   "question_type": "fill_in_short",
+   "difficulty": "medium",
+   "cognitive_level": "memahami",
+   "question": "Hadis kebersihan mengajak kita menjaga kebersihan badan, pakaian, dan ....",
+   "options": null,
+   "answer": "lingkungan",
+   "explanation": "Kebersihan mencakup badan, pakaian, dan lingkungan.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-AQH-HK-01",
+    "hadis-tentang-kebersihan"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "AQH-HK-0904",
+   "jawaban_saya": "lingkungan (tempat tinggal)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Jawaban terbuka: lingkungan/tempat tinggal/tempat ibadah; bergantung buku teks",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "badan, pakaian, dan ....",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Sesuai TP dan materi pada ATP",
+   "usia_bahasa": "ok",
+   "perlu_sumber": "Buku teks Al-Qur'an Hadis Kelas 1",
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BAR-KL-0903",
+  "tp_id": "TP-BAR-KL-01",
+  "alasan": [
+   "penyelesai menandai AMBIGU: 'Kata Arab untuk keluarga' - عَائِلَةٌ juga benar selain أُسْرَةٌ."
+  ],
+  "soal": {
+   "id": "BAR-KL-0903",
+   "subject": "Bahasa Arab",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BAR-KL-01",
+   "tp": "Murid mampu mengenali bunyi dan kosakata tentang keluargaku dengan pola kalimat: مَنْ هُوَ؟، مَنْ هِيَ؟، هُوَ أَبِيْ، هِيَ أُمِّيْ.",
+   "material": "Keluargaku (أسرتي)",
+   "competency": "Mengenali kosakata",
+   "question_type": "fill_in_short",
+   "difficulty": "easy",
+   "cognitive_level": "mengingat",
+   "question": "Kata Arab untuk \"keluarga\" adalah ....",
+   "options": null,
+   "answer": "أُسْرَةٌ",
+   "explanation": "\"Keluarga\" dalam bahasa Arab adalah أُسْرَةٌ (usratun).",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BAR-KL-01",
+    "keluargaku-(أسرتي)"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BAR-KL-0903",
+   "jawaban_saya": "أُسْرَةٌ",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Sesuai judul materi أسرتي; عَائِلَةٌ juga lazim.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "'Kata Arab untuk keluarga' - عَائِلَةٌ juga benar selain أُسْرَةٌ.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Kosakata/kalimat sesuai tujuan materi pada ATP.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BAR-KL-0916",
+  "tp_id": "TP-BAR-KL-03",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: NA",
+   "penyelesai menandai LAIN: Perintah 'Kelompokkan kata berikut' tetapi tidak ada daftar kata pada options."
+  ],
+  "soal": {
+   "id": "BAR-KL-0916",
+   "subject": "Bahasa Arab",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BAR-KL-03",
+   "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang keluargaku.",
+   "material": "Keluargaku (أسرتي)",
+   "competency": "Memahami kata",
+   "question_type": "grouping",
+   "difficulty": "hard",
+   "cognitive_level": "menganalisis",
+   "question": "Kelompokkan kata berikut menurut jenis anggota keluarganya!",
+   "options": {
+    "kelompok": [
+     "Laki-laki",
+     "Perempuan"
+    ]
+   },
+   "answer": {
+    "Laki-laki": [
+     "أَبٌ",
+     "أَخٌ",
+     "وَالِدٌ"
+    ],
+    "Perempuan": [
+     "أُمٌّ",
+     "أُخْتٌ",
+     "وَالِدَةٌ"
+    ]
+   },
+   "explanation": "أَبٌ, أَخٌ, وَالِدٌ laki-laki; أُمٌّ, أُخْتٌ, وَالِدَةٌ perempuan.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BAR-KL-03",
+    "keluargaku-(أسرتي)"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BAR-KL-0916",
+   "jawaban_saya": "NA",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "rendah",
+   "alasan_keyakinan": "Daftar kata yang harus dikelompokkan tidak ada pada masukan.",
+   "masalah": [
+    "LAIN"
+   ],
+   "bukti_masalah": "Perintah 'Kelompokkan kata berikut' tetapi tidak ada daftar kata pada options.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Kosakata/kalimat sesuai tujuan materi pada ATP.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Butir tak dapat dijawab tanpa daftar item."
+  }
+ },
+ {
+  "id": "BAR-RM-0916",
+  "tp_id": "TP-BAR-RM-03",
+  "alasan": [
+   "penyelesai menandai TP_TIDAK_SELARAS: Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ)."
+  ],
+  "soal": {
+   "id": "BAR-RM-0916",
+   "subject": "Bahasa Arab",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BAR-RM-03",
+   "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik rumahku.",
+   "material": "Rumahku (بيتي)",
+   "competency": "Memahami kalimat sederhana",
+   "question_type": "true_false",
+   "difficulty": "medium",
+   "cognitive_level": "memahami",
+   "question": "Benar atau salah: Kata هٰذَا dipakai untuk menunjuk benda yang jauh.",
+   "options": [
+    "Benar",
+    "Salah"
+   ],
+   "answer": "Salah",
+   "explanation": "Salah. هٰذَا menunjuk benda yang dekat; benda jauh memakai ذٰلِكَ.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BAR-RM-03",
+    "rumahku-(بيتي)"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BAR-RM-0916",
+   "jawaban_saya": "Salah",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "هذا untuk dekat.",
+   "masalah": [
+    "TP_TIDAK_SELARAS"
+   ],
+   "bukti_masalah": "Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ).",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "Materi sejalan, tetapi pola ذٰلِكَ/تِلْكَ di luar pola TP yang tertulis (هٰذَا بَيْتٌ / هٰذِهِ مَدْرَسَةٌ).",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": true,
+   "alasan_ahli": "Penetapan cakupan TP/kurikulum.",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BAR-RM-0917",
+  "tp_id": "TP-BAR-RM-03",
+  "alasan": [
+   "penyelesai menandai TP_TIDAK_SELARAS: Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ)."
+  ],
+  "soal": {
+   "id": "BAR-RM-0917",
+   "subject": "Bahasa Arab",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BAR-RM-03",
+   "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik rumahku.",
+   "material": "Rumahku (بيتي)",
+   "competency": "Memahami kalimat sederhana",
+   "question_type": "true_false",
+   "difficulty": "medium",
+   "cognitive_level": "memahami",
+   "question": "Benar atau salah: Kata تِلْكَ dipakai untuk menunjuk benda perempuan yang jauh.",
+   "options": [
+    "Benar",
+    "Salah"
+   ],
+   "answer": "Benar",
+   "explanation": "Benar, تِلْكَ berarti \"itu\" untuk benda perempuan yang jauh.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BAR-RM-03",
+    "rumahku-(بيتي)"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BAR-RM-0917",
+   "jawaban_saya": "Benar",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "تلك = itu (muannats).",
+   "masalah": [
+    "TP_TIDAK_SELARAS"
+   ],
+   "bukti_masalah": "Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ).",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "Materi sejalan, tetapi pola ذٰلِكَ/تِلْكَ di luar pola TP yang tertulis (هٰذَا بَيْتٌ / هٰذِهِ مَدْرَسَةٌ).",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": true,
+   "alasan_ahli": "Penetapan cakupan TP/kurikulum.",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BAR-RM-0921",
+  "tp_id": "TP-BAR-RM-03",
+  "alasan": [
+   "penyelesai menandai TP_TIDAK_SELARAS: Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ)."
+  ],
+  "soal": {
+   "id": "BAR-RM-0921",
+   "subject": "Bahasa Arab",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BAR-RM-03",
+   "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik rumahku.",
+   "material": "Rumahku (بيتي)",
+   "competency": "Memahami kalimat sederhana",
+   "question_type": "matching",
+   "difficulty": "easy",
+   "cognitive_level": "mencocokkan",
+   "question": "Jodohkan kata penunjuk dengan artinya!",
+   "options": {
+    "kolom_kiri": [
+     "هٰذَا",
+     "هٰذِهِ",
+     "ذٰلِكَ",
+     "تِلْكَ"
+    ],
+    "kolom_kanan": [
+     "itu (benda perempuan)",
+     "ini (benda laki-laki)",
+     "itu (benda laki-laki)",
+     "ini (benda perempuan)"
+    ]
+   },
+   "answer": {
+    "هٰذَا": "ini (benda laki-laki)",
+    "هٰذِهِ": "ini (benda perempuan)",
+    "ذٰلِكَ": "itu (benda laki-laki)",
+    "تِلْكَ": "itu (benda perempuan)"
+   },
+   "explanation": "Setiap kata penunjuk dipasangkan dengan artinya.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BAR-RM-03",
+    "rumahku-(بيتي)"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BAR-RM-0921",
+   "jawaban_saya": {
+    "هٰذَا": "ini (benda laki-laki)",
+    "هٰذِهِ": "ini (benda perempuan)",
+    "ذٰلِكَ": "itu (benda laki-laki)",
+    "تِلْكَ": "itu (benda perempuan)"
+   },
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "Kata tunjuk baku.",
+   "masalah": [
+    "TP_TIDAK_SELARAS"
+   ],
+   "bukti_masalah": "Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ).",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "Materi sejalan, tetapi pola ذٰلِكَ/تِلْكَ di luar pola TP yang tertulis (هٰذَا بَيْتٌ / هٰذِهِ مَدْرَسَةٌ).",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": true,
+   "alasan_ahli": "Penetapan cakupan TP/kurikulum.",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BAR-SK-0907",
+  "tp_id": "TP-BAR-SK-03",
+  "alasan": [
+   "penyelesai menandai TP_TIDAK_SELARAS: Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ)."
+  ],
+  "soal": {
+   "id": "BAR-SK-0907",
+   "subject": "Bahasa Arab",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BAR-SK-03",
+   "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik madrasahku.",
+   "material": "Sekolahku (مدرستي)",
+   "competency": "Memahami percakapan sederhana",
+   "question_type": "contextual",
+   "difficulty": "medium",
+   "cognitive_level": "memahami",
+   "question": "Bacalah! \"مَا ذٰلِكَ؟ ذٰلِكَ مَسْجِدٌ. مَا تِلْكَ؟ تِلْكَ مَكْتَبَةٌ.\" Benda yang ditunjuk dengan kata ذٰلِكَ adalah ....",
+   "options": [
+    "A. مَكْتَبَةٌ",
+    "B. مَلْعَبٌ",
+    "C. فَصْلٌ",
+    "D. مَسْجِدٌ"
+   ],
+   "answer": "D",
+   "explanation": "ذٰلِكَ مَسْجِدٌ: itu sebuah masjid.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BAR-SK-03",
+    "sekolahku-(مدرستي)"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BAR-SK-0907",
+   "jawaban_saya": "D",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "ذلك مسجد.",
+   "masalah": [
+    "TP_TIDAK_SELARAS"
+   ],
+   "bukti_masalah": "Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ).",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "Materi sejalan, tetapi pola ذٰلِكَ/تِلْكَ di luar pola TP yang tertulis (هٰذَا بَيْتٌ / هٰذِهِ مَدْرَسَةٌ).",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": true,
+   "alasan_ahli": "Penetapan cakupan TP/kurikulum.",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BAR-SK-0915",
+  "tp_id": "TP-BAR-SK-03",
+  "alasan": [
+   "penyelesai menandai TP_TIDAK_SELARAS: Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ)."
+  ],
+  "soal": {
+   "id": "BAR-SK-0915",
+   "subject": "Bahasa Arab",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BAR-SK-03",
+   "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik madrasahku.",
+   "material": "Sekolahku (مدرستي)",
+   "competency": "Memahami kalimat sederhana",
+   "question_type": "true_false",
+   "difficulty": "medium",
+   "cognitive_level": "memahami",
+   "question": "Benar atau salah: Kalimat تِلْكَ مَكْتَبَةٌ berarti \"Itu sebuah perpustakaan\".",
+   "options": [
+    "Benar",
+    "Salah"
+   ],
+   "answer": "Benar",
+   "explanation": "Benar, مَكْتَبَةٌ berarti perpustakaan.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BAR-SK-03",
+    "sekolahku-(مدرستي)"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BAR-SK-0915",
+   "jawaban_saya": "Benar",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "تلك مكتبة = itu sebuah perpustakaan.",
+   "masalah": [
+    "TP_TIDAK_SELARAS"
+   ],
+   "bukti_masalah": "Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ).",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "Materi sejalan, tetapi pola ذٰلِكَ/تِلْكَ di luar pola TP yang tertulis (هٰذَا بَيْتٌ / هٰذِهِ مَدْرَسَةٌ).",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": true,
+   "alasan_ahli": "Penetapan cakupan TP/kurikulum.",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BAR-SK-0916",
+  "tp_id": "TP-BAR-SK-03",
+  "alasan": [
+   "penyelesai menandai TP_TIDAK_SELARAS: Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ)."
+  ],
+  "soal": {
+   "id": "BAR-SK-0916",
+   "subject": "Bahasa Arab",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BAR-SK-03",
+   "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik madrasahku.",
+   "material": "Sekolahku (مدرستي)",
+   "competency": "Memahami kalimat sederhana",
+   "question_type": "fill_in_short",
+   "difficulty": "easy",
+   "cognitive_level": "memahami",
+   "question": "Arti kalimat ذٰلِكَ مَسْجِدٌ adalah ....",
+   "options": null,
+   "answer": "Itu sebuah masjid",
+   "explanation": "ذٰلِكَ مَسْجِدٌ berarti \"Itu sebuah masjid\".",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BAR-SK-03",
+    "sekolahku-(مدرستي)"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BAR-SK-0916",
+   "jawaban_saya": "Itu sebuah masjid",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "ذلك مسجد.",
+   "masalah": [
+    "TP_TIDAK_SELARAS"
+   ],
+   "bukti_masalah": "Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ).",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "Materi sejalan, tetapi pola ذٰلِكَ/تِلْكَ di luar pola TP yang tertulis (هٰذَا بَيْتٌ / هٰذِهِ مَدْرَسَةٌ).",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": true,
+   "alasan_ahli": "Penetapan cakupan TP/kurikulum.",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BAR-SK-0917",
+  "tp_id": "TP-BAR-SK-03",
+  "alasan": [
+   "penyelesai menandai TP_TIDAK_SELARAS: Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ)."
+  ],
+  "soal": {
+   "id": "BAR-SK-0917",
+   "subject": "Bahasa Arab",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BAR-SK-03",
+   "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik madrasahku.",
+   "material": "Sekolahku (مدرستي)",
+   "competency": "Memahami kalimat sederhana",
+   "question_type": "completion",
+   "difficulty": "hard",
+   "cognitive_level": "menerapkan",
+   "question": "Lengkapi kalimat penunjuk benda perempuan yang jauh: .... مَكْتَبَةٌ.",
+   "options": null,
+   "answer": "تِلْكَ",
+   "explanation": "Penunjuk jauh untuk benda perempuan adalah تِلْكَ.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BAR-SK-03",
+    "sekolahku-(مدرستي)"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BAR-SK-0917",
+   "jawaban_saya": "تِلْكَ",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "Muannats jauh.",
+   "masalah": [
+    "TP_TIDAK_SELARAS"
+   ],
+   "bukti_masalah": "Memakai ذٰلِكَ/تِلْكَ; pada ATP pola ini terdaftar pada tema lain (مَا ذٰلِكَ؟، تِلْكَ سَيَّارَةٌ).",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "Materi sejalan, tetapi pola ذٰلِكَ/تِلْكَ di luar pola TP yang tertulis (هٰذَا بَيْتٌ / هٰذِهِ مَدْرَسَةٌ).",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": true,
+   "alasan_ahli": "Penetapan cakupan TP/kurikulum.",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BAR-SK-0919",
+  "tp_id": "TP-BAR-SK-03",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: NA",
+   "penyelesai menandai LAIN: Perintah 'Kelompokkan kata berikut' tetapi tidak ada daftar kata pada options."
+  ],
+  "soal": {
+   "id": "BAR-SK-0919",
+   "subject": "Bahasa Arab",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BAR-SK-03",
+   "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik madrasahku.",
+   "material": "Sekolahku (مدرستي)",
+   "competency": "Memahami kata",
+   "question_type": "grouping",
+   "difficulty": "medium",
+   "cognitive_level": "menganalisis",
+   "question": "Kelompokkan kata berikut menurut jenis orangnya!",
+   "options": {
+    "kelompok": [
+     "Laki-laki",
+     "Perempuan"
+    ]
+   },
+   "answer": {
+    "Laki-laki": [
+     "تِلْمِيْذٌ",
+     "مُدَرِّسٌ",
+     "صَدِيْقٌ"
+    ],
+    "Perempuan": [
+     "تِلْمِيْذَةٌ",
+     "مُدَرِّسَةٌ",
+     "صَدِيْقَةٌ"
+    ]
+   },
+   "explanation": "Kata tanpa ة untuk laki-laki, yang berakhir ة untuk perempuan.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BAR-SK-03",
+    "sekolahku-(مدرستي)"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BAR-SK-0919",
+   "jawaban_saya": "NA",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "rendah",
+   "alasan_keyakinan": "Daftar kata yang harus dikelompokkan tidak ada pada masukan.",
+   "masalah": [
+    "LAIN"
+   ],
+   "bukti_masalah": "Perintah 'Kelompokkan kata berikut' tetapi tidak ada daftar kata pada options.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Kosakata/kalimat sesuai tujuan materi pada ATP.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Butir tak dapat dijawab tanpa daftar item."
+  }
+ },
+ {
+  "id": "BIN-B8-0901",
+  "tp_id": "TP-BIN-B8-02",
+  "alasan": [
+   "penyelesai menandai AMBIGU: \"Kucing duduk .... pohon\" tanpa pilihan: di bawah/di dekat/di samping sama-sama wajar; hanya konteks burung di dahan mem"
+  ],
+  "soal": {
+   "id": "BIN-B8-0901",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B8-02",
+   "tp": "Murid mampu menulis kata-kata sederhana tentang arah dan letak serta pekerjaan dengan benar.",
+   "material": "Bab 8. Lingkungan Sekitarku",
+   "competency": "Menulis kata arah, letak, dan pekerjaan",
+   "question_type": "completion",
+   "difficulty": "easy",
+   "cognitive_level": "menerapkan",
+   "question": "Burung bertengger di dahan pohon. Kucing duduk di tanah. Lengkapi kata letak: Kucing duduk .... pohon.",
+   "options": null,
+   "answer": "di bawah",
+   "explanation": "Kucing berada pada bagian bawah pohon.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B8-02",
+    "bab-8.-lingkungan-sekitarku"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B8-0901",
+   "jawaban_saya": "di bawah",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "\"Kucing duduk .... pohon\" tanpa pilihan: di bawah/di dekat/di samping sama-sama wajar; hanya konteks burung di dahan memberi petunjuk.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"Kucing duduk .... pohon\" tanpa pilihan: di bawah/di dekat/di samping sama-sama wajar; hanya konteks burung di dahan memberi petunjuk.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Isi soal sesuai rumusan TP dan elemen CP/ATP Fase A.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B2-0903",
+  "tp_id": "TP-BIN-B2-05",
+  "alasan": [
+   "penyelesai menandai AMBIGU: Pernyataan kaitan menulis rapi dengan bersyukur bersifat nilai; dianggap Benar tetapi bergantung konteks bab."
+  ],
+  "soal": {
+   "id": "BIN-B2-0903",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B2-05",
+   "tp": "Murid mampu menerapkan ilmu yang dipelajari dengan sungguh-sungguh sebagai wujud rasa syukur kepada Allah Swt.",
+   "material": "Bab 2. Badanku Sehat dan Kuat",
+   "competency": "Menerapkan ilmu dengan sungguh-sungguh sebagai wujud syukur kepada Allah Swt.",
+   "question_type": "true_false",
+   "difficulty": "easy",
+   "cognitive_level": "memahami",
+   "question": "Benar atau salah: Murid yang menulis huruf c, i, p, dan s dengan rapi sedang bersyukur atas ilmu dari Allah Swt.",
+   "options": [
+    "Benar",
+    "Salah"
+   ],
+   "answer": "Benar",
+   "explanation": "Belajar dengan sungguh-sungguh adalah wujud syukur.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B2-05",
+    "bab-2.-badanku-sehat-dan-kuat"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B2-0903",
+   "jawaban_saya": "Benar",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Pernyataan kaitan menulis rapi dengan bersyukur bersifat nilai; dianggap Benar tetapi bergantung konteks bab.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "Pernyataan kaitan menulis rapi dengan bersyukur bersifat nilai; dianggap Benar tetapi bergantung konteks bab.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Isi soal sesuai rumusan TP dan elemen CP/ATP Fase A.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B2-0906",
+  "tp_id": "TP-BIN-B2-05",
+  "alasan": [
+   "penyelesai menandai AMBIGU: Isian terbuka \"....\" banyak kata benar (amalkan, gunakan, praktikkan, terapkan)."
+  ],
+  "soal": {
+   "id": "BIN-B2-0906",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B2-05",
+   "tp": "Murid mampu menerapkan ilmu yang dipelajari dengan sungguh-sungguh sebagai wujud rasa syukur kepada Allah Swt.",
+   "material": "Bab 2. Badanku Sehat dan Kuat",
+   "competency": "Menerapkan ilmu dengan sungguh-sungguh sebagai wujud syukur kepada Allah Swt.",
+   "question_type": "completion",
+   "difficulty": "easy",
+   "cognitive_level": "menerapkan",
+   "question": "Lengkapi: Ilmu yang kita pelajari di sekolah sebaiknya kita .... dalam kehidupan sehari-hari.",
+   "options": null,
+   "answer": "gunakan (terapkan)",
+   "explanation": "Ilmu diterapkan agar bermanfaat.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B2-05",
+    "bab-2.-badanku-sehat-dan-kuat"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B2-0906",
+   "jawaban_saya": "amalkan / gunakan",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Isian terbuka \"....\" banyak kata benar (amalkan, gunakan, praktikkan, terapkan).",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "Isian terbuka \"....\" banyak kata benar (amalkan, gunakan, praktikkan, terapkan).",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Isi soal sesuai rumusan TP dan elemen CP/ATP Fase A.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B2-0910",
+  "tp_id": "TP-BIN-B2-05",
+  "alasan": [
+   "penyelesai menandai AMBIGU: Urutan duduk tegak vs memegang pensil tidak mutlak; dua langkah awal dapat tertukar."
+  ],
+  "soal": {
+   "id": "BIN-B2-0910",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B2-05",
+   "tp": "Murid mampu menerapkan ilmu yang dipelajari dengan sungguh-sungguh sebagai wujud rasa syukur kepada Allah Swt.",
+   "material": "Bab 2. Badanku Sehat dan Kuat",
+   "competency": "Menerapkan ilmu dengan sungguh-sungguh sebagai wujud syukur kepada Allah Swt.",
+   "question_type": "ordering",
+   "difficulty": "medium",
+   "cognitive_level": "mengurutkan",
+   "question": "Urutkan cara menulis dengan sungguh-sungguh!",
+   "options": [
+    "Menulis huruf dengan rapi",
+    "Duduk dengan tegak",
+    "Memegang pensil dengan benar"
+   ],
+   "answer": [
+    "Duduk dengan tegak",
+    "Memegang pensil dengan benar",
+    "Menulis huruf dengan rapi"
+   ],
+   "explanation": "Siap duduk, pegang pensil, lalu menulis.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B2-05",
+    "bab-2.-badanku-sehat-dan-kuat"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B2-0910",
+   "jawaban_saya": [
+    "Duduk dengan tegak",
+    "Memegang pensil dengan benar",
+    "Menulis huruf dengan rapi"
+   ],
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Urutan duduk tegak vs memegang pensil tidak mutlak; dua langkah awal dapat tertukar.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "Urutan duduk tegak vs memegang pensil tidak mutlak; dua langkah awal dapat tertukar.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Isi soal sesuai rumusan TP dan elemen CP/ATP Fase A.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B2-0912",
+  "tp_id": "TP-BIN-B2-05",
+  "alasan": [
+   "penyelesai menandai AMBIGU: \"Diajari kata baru\" dapat dipasangkan dengan \"membaca berulang-ulang\" atau \"bertanya kepada guru\"; \"Diberi latihan menul"
+  ],
+  "soal": {
+   "id": "BIN-B2-0912",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B2-05",
+   "tp": "Murid mampu menerapkan ilmu yang dipelajari dengan sungguh-sungguh sebagai wujud rasa syukur kepada Allah Swt.",
+   "material": "Bab 2. Badanku Sehat dan Kuat",
+   "competency": "Menerapkan ilmu dengan sungguh-sungguh sebagai wujud syukur kepada Allah Swt.",
+   "question_type": "matching",
+   "difficulty": "medium",
+   "cognitive_level": "mencocokkan",
+   "question": "Jodohkan keadaan dengan tindakan yang tepat!",
+   "options": {
+    "kolom_kiri": [
+     "Diajari kata baru",
+     "Diberi latihan menulis",
+     "Belum paham pelajaran",
+     "Pensil sudah tumpul"
+    ],
+    "kolom_kanan": [
+     "mengasah pensil",
+     "bertanya kepada guru",
+     "membaca berulang-ulang",
+     "mengerjakan dengan rapi"
+    ]
+   },
+   "answer": {
+    "Diajari kata baru": "membaca berulang-ulang",
+    "Diberi latihan menulis": "mengerjakan dengan rapi",
+    "Belum paham pelajaran": "bertanya kepada guru",
+    "Pensil sudah tumpul": "mengasah pensil"
+   },
+   "explanation": "Tiap keadaan punya tindakan yang sesuai.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B2-05",
+    "bab-2.-badanku-sehat-dan-kuat"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B2-0912",
+   "jawaban_saya": {
+    "Diajari kata baru": "membaca berulang-ulang",
+    "Diberi latihan menulis": "mengerjakan dengan rapi",
+    "Belum paham pelajaran": "bertanya kepada guru",
+    "Pensil sudah tumpul": "mengasah pensil"
+   },
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "\"Diajari kata baru\" dapat dipasangkan dengan \"membaca berulang-ulang\" atau \"bertanya kepada guru\"; \"Diberi latihan menulis\" dengan \"mengerjakan dengan rapi\" atau \"mengasah pensil\".",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"Diajari kata baru\" dapat dipasangkan dengan \"membaca berulang-ulang\" atau \"bertanya kepada guru\"; \"Diberi latihan menulis\" dengan \"mengerjakan dengan rapi\" atau \"mengasah pensil\".",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Isi soal sesuai rumusan TP dan elemen CP/ATP Fase A.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B2-0918",
+  "tp_id": "TP-BIN-B2-05",
+  "alasan": [
+   "penyelesai menandai LAIN: \"huruf awal p\" memberi tahu jawaban; soal sangat mudah, jawaban mengandalkan petunjuk dalam kurung."
+  ],
+  "soal": {
+   "id": "BIN-B2-0918",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B2-05",
+   "tp": "Murid mampu menerapkan ilmu yang dipelajari dengan sungguh-sungguh sebagai wujud rasa syukur kepada Allah Swt.",
+   "material": "Bab 2. Badanku Sehat dan Kuat",
+   "competency": "Menerapkan ilmu dengan sungguh-sungguh sebagai wujud syukur kepada Allah Swt.",
+   "question_type": "completion",
+   "difficulty": "easy",
+   "cognitive_level": "mengenali",
+   "question": "Lengkapi huruf awal buah berwarna kuning ini: .... isang. (huruf awal p)",
+   "options": null,
+   "answer": "p",
+   "explanation": "Kata yang benar: pisang.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B2-05",
+    "bab-2.-badanku-sehat-dan-kuat"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B2-0918",
+   "jawaban_saya": "p (pisang)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "Dihitung/ditalar sendiri dari teks soal; jawaban tunggal jelas.",
+   "masalah": [
+    "LAIN"
+   ],
+   "bukti_masalah": "\"huruf awal p\" memberi tahu jawaban; soal sangat mudah, jawaban mengandalkan petunjuk dalam kurung.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Isi soal sesuai rumusan TP dan elemen CP/ATP Fase A.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Isian: jawaban dapat diterima dalam bentuk huruf/kata sebagaimana petunjuk."
+  }
+ },
+ {
+  "id": "BIN-B7-0908",
+  "tp_id": "TP-BIN-B7-05",
+  "alasan": [
+   "penyelesai menandai AMBIGU: \"Kalimat yang diucapkan sebelum memulai sesuatu, termasuk bercerita\" dapat dijawab Bismillah atau Assalamualaikum; butir"
+  ],
+  "soal": {
+   "id": "BIN-B7-0908",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B7-05",
+   "tp": "Murid mampu memperhatikan adab ketika bercerita sesuai ajaran Islam.",
+   "material": "Bab 7. Sekolahku Menyenangkan",
+   "competency": "Memperhatikan adab bercerita sesuai ajaran Islam",
+   "question_type": "fill_in_short",
+   "difficulty": "easy",
+   "cognitive_level": "mengingat",
+   "question": "Kalimat yang diucapkan sebelum memulai sesuatu, termasuk bercerita, adalah ....",
+   "options": null,
+   "answer": "Bismillah",
+   "explanation": "Kita memulai dengan Bismillah.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B7-05",
+    "bab-7.-sekolahku-menyenangkan"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B7-0908",
+   "jawaban_saya": "Bismillah (atau salam; ambigu)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "\"Kalimat yang diucapkan sebelum memulai sesuatu, termasuk bercerita\" dapat dijawab Bismillah atau Assalamualaikum; butir lain (B7-0903, 0913, 0925) memakai salam sebelum bercerita.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"Kalimat yang diucapkan sebelum memulai sesuatu, termasuk bercerita\" dapat dijawab Bismillah atau Assalamualaikum; butir lain (B7-0903, 0913, 0925) memakai salam sebelum bercerita.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Isi soal sesuai rumusan TP dan elemen CP/ATP Fase A.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B5-0906",
+  "tp_id": "TP-BIN-B5-05",
+  "alasan": [
+   "penyelesai menandai JAWABAN_GANDA: C \"Permisi\" saat lewat di antara dua orang dan D \"Terima kasih\" setelah dibantu mengangkat tas, keduanya benar; soal men",
+   "jumlah jawaban benar menurut penyelesai = 2"
+  ],
+  "soal": {
+   "id": "BIN-B5-0906",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B5-05",
+   "tp": "Murid mampu menggunakan ungkapan permisi, tolong, maaf, dan terima kasih dalam kehidupan sehari-hari dengan tepat sesuai kondisi sebagai wujud mengamalkan adab sesuai ajaran Islam.",
+   "material": "Bab 5. Asyiknya Bermain",
+   "competency": "Menggunakan ungkapan permisi, tolong, maaf, dan terima kasih dengan tepat",
+   "question_type": "contextual",
+   "difficulty": "hard",
+   "cognitive_level": "menganalisis",
+   "question": "Empat anak memakai ungkapan. Siapa yang memakainya dengan tepat?",
+   "options": [
+    "A. Ali menerima hadiah, lalu berkata \"Maaf.\"",
+    "B. Beni menabrak teman, lalu berkata \"Terima kasih.\"",
+    "C. Citra ingin lewat di antara dua orang, lalu berkata \"Permisi.\"",
+    "D. Dewi meminta bantuan mengangkat tas, lalu berkata \"Terima kasih.\""
+   ],
+   "answer": "C",
+   "explanation": "Hanya Citra yang tepat. Yang lain seharusnya terima kasih, maaf, dan tolong.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B5-05",
+    "bab-5.-asyiknya-bermain"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B5-0906",
+   "jawaban_saya": "C dan D",
+   "jumlah_jawaban_benar": 2,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "Penalaran langsung dari teks soal.",
+   "masalah": [
+    "JAWABAN_GANDA"
+   ],
+   "bukti_masalah": "C \"Permisi\" saat lewat di antara dua orang dan D \"Terima kasih\" setelah dibantu mengangkat tas, keduanya benar; soal menanyakan satu \"siapa\".",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Soal sejalan dengan TP dan materi bab.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B5-0919",
+  "tp_id": "TP-BIN-B5-05",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: ['Dika berjalan melewati kursi', 'Dika berkata, \"Permisi.\"', 'Dika tidak sengaja",
+   "penyelesai menandai AMBIGU: \"Dika berjalan melewati kursi\" vs \"Permisi\": permisi lazim diucapkan sebelum/ saat lewat; urutan alternatif (permisi dul"
+  ],
+  "soal": {
+   "id": "BIN-B5-0919",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B5-05",
+   "tp": "Murid mampu menggunakan ungkapan permisi, tolong, maaf, dan terima kasih dalam kehidupan sehari-hari dengan tepat sesuai kondisi sebagai wujud mengamalkan adab sesuai ajaran Islam.",
+   "material": "Bab 5. Asyiknya Bermain",
+   "competency": "Menggunakan ungkapan permisi, tolong, maaf, dan terima kasih dengan tepat",
+   "question_type": "ordering",
+   "difficulty": "hard",
+   "cognitive_level": "mengurutkan",
+   "question": "Susun kejadian berikut dengan urutan yang benar!",
+   "options": [
+    "Dika tidak sengaja menyenggol tas",
+    "Dika berkata, \"Maaf.\"",
+    "Dika berjalan melewati kursi",
+    "Dika berkata, \"Permisi.\""
+   ],
+   "answer": [
+    "Dika berkata, \"Permisi.\"",
+    "Dika berjalan melewati kursi",
+    "Dika tidak sengaja menyenggol tas",
+    "Dika berkata, \"Maaf.\""
+   ],
+   "explanation": "Dika permisi sebelum lewat, lalu minta maaf setelah menyenggol.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B5-05",
+    "bab-5.-asyiknya-bermain"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B5-0919",
+   "jawaban_saya": [
+    "Dika berjalan melewati kursi",
+    "Dika berkata, \"Permisi.\"",
+    "Dika tidak sengaja menyenggol tas",
+    "Dika berkata, \"Maaf.\""
+   ],
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Urutan sebelum/sesudah berjalan dapat diperdebatkan.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"Dika berjalan melewati kursi\" vs \"Permisi\": permisi lazim diucapkan sebelum/ saat lewat; urutan alternatif (permisi dulu) bisa dibenarkan.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Soal sejalan dengan TP dan materi bab.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Urutan sebelum/sesudah berjalan dapat diperdebatkan."
+  }
+ },
+ {
+  "id": "BIN-B4-0912",
+  "tp_id": "TP-BIN-B4-02",
+  "alasan": [
+   "penyelesai menandai AMBIGU: \"Buah berwarna merah muda dan segar\" bisa juga semangka/ buah lain; yang menentukan hanya pola \"...ambu\"."
+  ],
+  "soal": {
+   "id": "BIN-B4-0912",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B4-02",
+   "tp": "Murid mampu membaca dan menulis kata yang berawalan huruf d, e, f, j, dan u dengan benar.",
+   "material": "Bab 4. Kebersihan Sebagian dari Iman",
+   "competency": "Membaca dan menulis kata berawalan huruf d, e, f, j, u",
+   "question_type": "completion",
+   "difficulty": "medium",
+   "cognitive_level": "menerapkan",
+   "question": "Buah berwarna merah muda dan segar ini ditulis ....ambu. Huruf awal yang tepat adalah ....",
+   "options": null,
+   "answer": "j",
+   "explanation": "Kata yang benar: jambu.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B4-02",
+    "bab-4.-kebersihan-sebagian-dari-iman"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B4-0912",
+   "jawaban_saya": "j",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Buah merah muda segar: jambu; ...ambu hanya cocok j.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"Buah berwarna merah muda dan segar\" bisa juga semangka/ buah lain; yang menentukan hanya pola \"...ambu\".",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Soal sejalan dengan TP dan materi bab.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Buah merah muda segar: jambu; ...ambu hanya cocok j."
+  }
+ },
+ {
+  "id": "BIN-B6-0918",
+  "tp_id": "TP-BIN-B6-04",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: 4"
+  ],
+  "soal": {
+   "id": "BIN-B6-0918",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B6-04",
+   "tp": "Murid mampu menerapkan ilmu tentang bilangan dan menyimak cerita yang telah dipelajari dalam kehidupan sehari-hari sebagai bentuk mencintai ilmu.",
+   "material": "Bab 6. Rumahku Surgaku",
+   "competency": "Menerapkan ilmu bilangan dan menyimak cerita dalam kehidupan sehari-hari",
+   "question_type": "fill_in_short",
+   "difficulty": "medium",
+   "cognitive_level": "menerapkan",
+   "question": "Dengarkan cerita! \"Ayah membeli enam jeruk. Keluarga makan dua jeruk.\" Sisa jeruk ada ... buah.",
+   "options": null,
+   "answer": "empat",
+   "explanation": "6 - 2 = 4.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B6-04",
+    "bab-6.-rumahku-surgaku"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B6-0918",
+   "jawaban_saya": "4",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "Penalaran langsung dari teks soal.",
+   "masalah": [],
+   "bukti_masalah": "",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "Pengurangan 6-2 dari cerita; unsur bilangan ada, nilai mencintai ilmu tidak.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B6-0920",
+  "tp_id": "TP-BIN-B6-04",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: 5 buku"
+  ],
+  "soal": {
+   "id": "BIN-B6-0920",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B6-04",
+   "tp": "Murid mampu menerapkan ilmu tentang bilangan dan menyimak cerita yang telah dipelajari dalam kehidupan sehari-hari sebagai bentuk mencintai ilmu.",
+   "material": "Bab 6. Rumahku Surgaku",
+   "competency": "Menerapkan ilmu bilangan dan menyimak cerita dalam kehidupan sehari-hari",
+   "question_type": "completion",
+   "difficulty": "medium",
+   "cognitive_level": "menerapkan",
+   "question": "Rudi menyusun dua buku di rak, lalu menyusun tiga buku lagi. Jumlah buku di rak ....",
+   "options": null,
+   "answer": "lima",
+   "explanation": "2 + 3 = 5.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B6-04",
+    "bab-6.-rumahku-surgaku"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B6-0920",
+   "jawaban_saya": "5 buku",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "Penalaran langsung dari teks soal.",
+   "masalah": [],
+   "bukti_masalah": "",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "Penjumlahan 2+3; unsur bilangan.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B8-0907",
+  "tp_id": "TP-BIN-B8-03",
+  "alasan": [
+   "penyelesai menandai AMBIGU: \"Masjid ada di sebelah kiri sekolah. Bimo berdiri di depan sekolah\" -> kiri sekolah (dari sudut sekolah) bisa menjadi ka"
+  ],
+  "soal": {
+   "id": "BIN-B8-0907",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B8-03",
+   "tp": "Murid mampu menceritakan letak suatu benda atau arah suatu tempat dengan baik dan benar agar dapat membantu orang lain.",
+   "material": "Bab 8. Lingkungan Sekitarku",
+   "competency": "Menceritakan letak benda dan arah",
+   "question_type": "contextual",
+   "difficulty": "medium",
+   "cognitive_level": "menerapkan",
+   "question": "Masjid ada di sebelah kiri sekolah. Bimo berdiri di depan sekolah dan ingin ke masjid. Bimo berjalan ke arah ....",
+   "options": [
+    "A. tangan kanan",
+    "B. belakang",
+    "C. tangan kiri",
+    "D. atas"
+   ],
+   "answer": "C",
+   "explanation": "Masjid di sebelah kiri, jadi Bimo menuju tangan kiri.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B8-03",
+    "bab-8.-lingkungan-sekitarku"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B8-0907",
+   "jawaban_saya": "C",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Kunci kemungkinan C; sudut pandang ambigu.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"Masjid ada di sebelah kiri sekolah. Bimo berdiri di depan sekolah\" -> kiri sekolah (dari sudut sekolah) bisa menjadi kanan Bimo yang menghadap sekolah; sudut pandang tidak ditentukan.",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "TP menceritakan letak; soal memerlukan perspektif kiri/kanan relatif, berat untuk kelas 1.",
+   "usia_bahasa": "berat",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Kunci kemungkinan C; sudut pandang ambigu."
+  }
+ },
+ {
+  "id": "BIN-B3-0914",
+  "tp_id": "TP-BIN-B3-05",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: benar",
+   "penyelesai menandai AMBIGU: \"memegang pensil dengan ....\" -> \"benar\", \"rapi\", \"tiga jari\", \"erat\" semua bisa; isian terbuka tidak terarah."
+  ],
+  "soal": {
+   "id": "BIN-B3-0914",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B3-05",
+   "tp": "Murid mampu menunjukkan sikap belajar dengan sungguh-sungguh dalam kegiatan menyimak, membaca, dan menulis sebagai wujud menghargai ilmu yang telah diajarkan.",
+   "material": "Bab 3. Keluargaku Sakinah",
+   "competency": "Menunjukkan sikap belajar sungguh-sungguh dalam menyimak, membaca, dan menulis",
+   "question_type": "fill_in_short",
+   "difficulty": "easy",
+   "cognitive_level": "mengingat",
+   "question": "Saat belajar menulis, kita memegang pensil dengan ....",
+   "options": null,
+   "answer": "tangan",
+   "explanation": "Kita memegang pensil dengan tangan.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B3-05",
+    "bab-3.-keluargaku-sakinah"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B3-0914",
+   "jawaban_saya": "benar",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "rendah",
+   "alasan_keyakinan": "Jawaban kemungkinan 'benar' atau 'tiga jari'.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"memegang pensil dengan ....\" -> \"benar\", \"rapi\", \"tiga jari\", \"erat\" semua bisa; isian terbuka tidak terarah.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Soal sejalan dengan TP dan materi bab.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Jawaban kemungkinan 'benar' atau 'tiga jari'."
+  }
+ },
+ {
+  "id": "BIN-B3-0916",
+  "tp_id": "TP-BIN-B3-05",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: ['Dengarkan perintah guru', 'Siapkan alat tulis', 'Tulis huruf dengan rapi', 'Pe",
+   "penyelesai menandai AMBIGU: \"Siapkan alat tulis\" vs \"Dengarkan perintah guru\": siapkan alat dulu juga wajar."
+  ],
+  "soal": {
+   "id": "BIN-B3-0916",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B3-05",
+   "tp": "Murid mampu menunjukkan sikap belajar dengan sungguh-sungguh dalam kegiatan menyimak, membaca, dan menulis sebagai wujud menghargai ilmu yang telah diajarkan.",
+   "material": "Bab 3. Keluargaku Sakinah",
+   "competency": "Menunjukkan sikap belajar sungguh-sungguh dalam menyimak, membaca, dan menulis",
+   "question_type": "ordering",
+   "difficulty": "medium",
+   "cognitive_level": "mengurutkan",
+   "question": "Urutkan sikap belajar menulis yang sungguh-sungguh!",
+   "options": [
+    "Tulis huruf dengan rapi",
+    "Periksa kembali tulisanmu",
+    "Siapkan alat tulis",
+    "Dengarkan perintah guru"
+   ],
+   "answer": [
+    "Siapkan alat tulis",
+    "Dengarkan perintah guru",
+    "Tulis huruf dengan rapi",
+    "Periksa kembali tulisanmu"
+   ],
+   "explanation": "Urutan: siapkan alat, dengarkan perintah, menulis, memeriksa.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B3-05",
+    "bab-3.-keluargaku-sakinah"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B3-0916",
+   "jawaban_saya": [
+    "Dengarkan perintah guru",
+    "Siapkan alat tulis",
+    "Tulis huruf dengan rapi",
+    "Periksa kembali tulisanmu"
+   ],
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Urutan awal bisa dibalik.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"Siapkan alat tulis\" vs \"Dengarkan perintah guru\": siapkan alat dulu juga wajar.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Soal sejalan dengan TP dan materi bab.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Urutan awal bisa dibalik."
+  }
+ },
+ {
+  "id": "BIN-B3-0918",
+  "tp_id": "TP-BIN-B3-05",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: TIDAK_BISA_DIJAWAB",
+   "penyelesai menandai TIDAK_ADA_JAWABAN: \"Kelompokkan perbuatan berikut!\" tetapi daftar perbuatan tidak diberikan."
+  ],
+  "soal": {
+   "id": "BIN-B3-0918",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B3-05",
+   "tp": "Murid mampu menunjukkan sikap belajar dengan sungguh-sungguh dalam kegiatan menyimak, membaca, dan menulis sebagai wujud menghargai ilmu yang telah diajarkan.",
+   "material": "Bab 3. Keluargaku Sakinah",
+   "competency": "Menunjukkan sikap belajar sungguh-sungguh dalam menyimak, membaca, dan menulis",
+   "question_type": "grouping",
+   "difficulty": "medium",
+   "cognitive_level": "mengelompokkan",
+   "question": "Kelompokkan perbuatan berikut!",
+   "options": {
+    "kelompok": [
+     "Sungguh-sungguh",
+     "Belum sungguh-sungguh"
+    ]
+   },
+   "answer": {
+    "Sungguh-sungguh": [
+     "mendengarkan guru",
+     "membaca pelan-pelan",
+     "menulis dengan rapi"
+    ],
+    "Belum sungguh-sungguh": [
+     "mencoret meja",
+     "mengobrol saat guru bercerita",
+     "bermain saat membaca"
+    ]
+   },
+   "explanation": "Perbuatan yang fokus dan rapi adalah sungguh-sungguh.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B3-05",
+    "bab-3.-keluargaku-sakinah"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B3-0918",
+   "jawaban_saya": "TIDAK_BISA_DIJAWAB",
+   "jumlah_jawaban_benar": 0,
+   "keyakinan": "rendah",
+   "alasan_keyakinan": "Penalaran langsung dari teks soal.",
+   "masalah": [
+    "TIDAK_ADA_JAWABAN"
+   ],
+   "bukti_masalah": "\"Kelompokkan perbuatan berikut!\" tetapi daftar perbuatan tidak diberikan.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Soal sejalan dengan TP dan materi bab.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B3-0919",
+  "tp_id": "TP-BIN-B3-05",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: TIDAK_BISA_DIJAWAB",
+   "penyelesai menandai TIDAK_ADA_JAWABAN: \"Kelompokkan sikap belajar berikut menurut kegiatannya!\" tetapi daftar sikap tidak diberikan."
+  ],
+  "soal": {
+   "id": "BIN-B3-0919",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B3-05",
+   "tp": "Murid mampu menunjukkan sikap belajar dengan sungguh-sungguh dalam kegiatan menyimak, membaca, dan menulis sebagai wujud menghargai ilmu yang telah diajarkan.",
+   "material": "Bab 3. Keluargaku Sakinah",
+   "competency": "Menunjukkan sikap belajar sungguh-sungguh dalam menyimak, membaca, dan menulis",
+   "question_type": "grouping",
+   "difficulty": "hard",
+   "cognitive_level": "mengelompokkan",
+   "question": "Kelompokkan sikap belajar berikut menurut kegiatannya!",
+   "options": {
+    "kelompok": [
+     "Menyimak",
+     "Membaca",
+     "Menulis"
+    ]
+   },
+   "answer": {
+    "Menyimak": [
+     "menatap guru saat bercerita",
+     "mendengarkan tanpa memotong"
+    ],
+    "Membaca": [
+     "menunjuk kata dengan jari",
+     "membaca dengan suara jelas"
+    ],
+    "Menulis": [
+     "menulis huruf di garis",
+     "memegang pensil dengan benar"
+    ]
+   },
+   "explanation": "Setiap sikap sesuai dengan kegiatannya.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B3-05",
+    "bab-3.-keluargaku-sakinah"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B3-0919",
+   "jawaban_saya": "TIDAK_BISA_DIJAWAB",
+   "jumlah_jawaban_benar": 0,
+   "keyakinan": "rendah",
+   "alasan_keyakinan": "Penalaran langsung dari teks soal.",
+   "masalah": [
+    "TIDAK_ADA_JAWABAN"
+   ],
+   "bukti_masalah": "\"Kelompokkan sikap belajar berikut menurut kegiatannya!\" tetapi daftar sikap tidak diberikan.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Soal sejalan dengan TP dan materi bab.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B3-0920",
+  "tp_id": "TP-BIN-B3-05",
+  "alasan": [
+   "penyelesai menandai AMBIGU: \"Membaca buku\" bisa juga \"bertanya kepada guru\"? hanya satu; \"Kata belum dipahami\" bisa \"membaca kata satu per satu\"; tu"
+  ],
+  "soal": {
+   "id": "BIN-B3-0920",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B3-05",
+   "tp": "Murid mampu menunjukkan sikap belajar dengan sungguh-sungguh dalam kegiatan menyimak, membaca, dan menulis sebagai wujud menghargai ilmu yang telah diajarkan.",
+   "material": "Bab 3. Keluargaku Sakinah",
+   "competency": "Menunjukkan sikap belajar sungguh-sungguh dalam menyimak, membaca, dan menulis",
+   "question_type": "matching",
+   "difficulty": "medium",
+   "cognitive_level": "mencocokkan",
+   "question": "Jodohkan keadaan dengan sikap belajar yang tepat!",
+   "options": {
+    "kolom_kiri": [
+     "Guru bercerita",
+     "Membaca buku",
+     "Menulis huruf",
+     "Kata belum dipahami"
+    ],
+    "kolom_kanan": [
+     "bertanya kepada guru",
+     "mendengarkan dengan tenang",
+     "menulis di atas garis",
+     "membaca kata satu per satu"
+    ]
+   },
+   "answer": {
+    "Guru bercerita": "mendengarkan dengan tenang",
+    "Membaca buku": "membaca kata satu per satu",
+    "Menulis huruf": "menulis di atas garis",
+    "Kata belum dipahami": "bertanya kepada guru"
+   },
+   "explanation": "Setiap keadaan dipasangkan dengan sikap yang tepat.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B3-05",
+    "bab-3.-keluargaku-sakinah"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B3-0920",
+   "jawaban_saya": {
+    "Guru bercerita": "mendengarkan dengan tenang",
+    "Membaca buku": "membaca kata satu per satu",
+    "Menulis huruf": "menulis di atas garis",
+    "Kata belum dipahami": "bertanya kepada guru"
+   },
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Penalaran langsung dari teks soal.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"Membaca buku\" bisa juga \"bertanya kepada guru\"? hanya satu; \"Kata belum dipahami\" bisa \"membaca kata satu per satu\"; tumpang tindih ringan.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Soal sejalan dengan TP dan materi bab.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "ENG-B1-0917",
+  "tp_id": "TP-ENG-B1-06",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: ['Hi, Rina!', 'Hi, Tono!', 'How are you?', 'I am fine, thank you.']",
+   "penyelesai menandai AMBIGU: \"Urutkan percakapan Tono dan Rina berikut!\" tanpa menyebut siapa yang menyapa lebih dulu; juga 'How are you?' bisa ditan"
+  ],
+  "soal": {
+   "id": "ENG-B1-0917",
+   "subject": "Bahasa Inggris",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-ENG-B1-06",
+   "tp": "Murid mampu menggunakan ungkapan-ungkapan untuk merespon salam sapaan dari orang lain dalam Bahasa Inggris secara tepat dalam konteks kelas dan kehidupan sehari-hari.",
+   "material": "Bab 1. Hello, How Are You? (Salam Sapaan dan Ucapan Berpisah)",
+   "competency": "Merespon salam sapaan",
+   "question_type": "ordering",
+   "difficulty": "medium",
+   "cognitive_level": "mengurutkan",
+   "question": "Urutkan percakapan Tono dan Rina berikut!",
+   "options": [
+    "How are you?",
+    "Hi, Rina!",
+    "I am fine, thank you.",
+    "Hi, Tono!"
+   ],
+   "answer": [
+    "Hi, Tono!",
+    "Hi, Rina!",
+    "How are you?",
+    "I am fine, thank you."
+   ],
+   "explanation": "Mereka saling menyapa lebih dulu, lalu bertanya kabar dan menjawabnya.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-ENG-B1-06",
+    "bab-1.-hello,-how-are-you?-(salam-sapaan-dan-ucapan-berpisah)"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "ENG-B1-0917",
+   "jawaban_saya": [
+    "Hi, Rina!",
+    "Hi, Tono!",
+    "How are you?",
+    "I am fine, thank you."
+   ],
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "rendah",
+   "alasan_keyakinan": "Siapa pembuka percakapan tidak ditentukan; urutan Hi Rina-Hi Tono-How are you-I am fine atau urutan berpasangan Rina dulu sama-sama masuk akal.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"Urutkan percakapan Tono dan Rina berikut!\" tanpa menyebut siapa yang menyapa lebih dulu; juga 'How are you?' bisa ditanyakan oleh salah satunya.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Butir menguji kemampuan yang sesuai dengan rumusan TP dan konteks ATP bab terkait.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Jawaban versi saya mengasumsikan Tono menyapa lebih dulu."
+  }
+ },
+ {
+  "id": "ENG-B6-0936",
+  "tp_id": "TP-ENG-B6-11",
+  "alasan": [
+   "penyelesai menandai LAIN: \"Pada gambar toko hewan, makanan hewan ada di atas rak\" - butir merujuk gambar tetapi visual_prompt kosong (None)."
+  ],
+  "soal": {
+   "id": "ENG-B6-0936",
+   "subject": "Bahasa Inggris",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-ENG-B6-11",
+   "tp": "Murid mampu mendeskripsikan gambar toko hewan peliharaan dalam Bahasa Inggris yang tepat.",
+   "material": "Bab 6. I Have Two Cats (Hewan Peliharaan)",
+   "competency": "Mendeskripsikan toko hewan",
+   "question_type": "true_false",
+   "difficulty": "medium",
+   "cognitive_level": "menganalisis",
+   "question": "Benar atau salah: Pada gambar toko hewan, makanan hewan ada di atas rak. Kalimat 'The food is on the floor.' menjelaskan gambar itu dengan tepat.",
+   "options": [
+    "Benar",
+    "Salah"
+   ],
+   "answer": "Salah",
+   "explanation": "Salah. Makanan ada di rak: The food is on the shelf.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-ENG-B6-11",
+    "bab-6.-i-have-two-cats-(hewan-peliharaan)"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "ENG-B6-0936",
+   "jawaban_saya": "Salah",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Premis teks (makanan di atas rak) bertentangan dengan kalimat 'on the floor' sehingga Salah, tetapi gambar tidak tersedia.",
+   "masalah": [
+    "LAIN"
+   ],
+   "bukti_masalah": "\"Pada gambar toko hewan, makanan hewan ada di atas rak\" - butir merujuk gambar tetapi visual_prompt kosong (None).",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Butir menguji kemampuan yang sesuai dengan rumusan TP dan konteks ATP bab terkait.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Dapat dijawab dari teks soal sendiri; rujukan gambar tidak terverifikasi."
+  }
+ },
+ {
+  "id": "FIK-RI-0916",
+  "tp_id": "TP-FIK-RI-03",
+  "alasan": [
+   "penyelesai menandai BEBAN_BACA: Salat dimulai takbir dan diakhiri salam: istilah takbir/salam berat untuk Kelas 1"
+  ],
+  "soal": {
+   "id": "FIK-RI-0916",
+   "subject": "Fikih",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-FIK-RI-03",
+   "tp": "Murid mampu menjelaskan rukun Islam dengan bahasa sendiri melalui kegiatan diskusi dan presentasi.",
+   "material": "Rukun Islam",
+   "competency": "Menjelaskan rukun Islam",
+   "question_type": "contextual",
+   "difficulty": "medium",
+   "cognitive_level": "memahami",
+   "question": "Hasan ingin menjelaskan salat kepada adiknya. Kalimat Hasan yang paling tepat adalah ....",
+   "options": [
+    "A. Salat dimulai takbir dan diakhiri salam",
+    "B. Salat adalah makan bersama keluarga di rumah",
+    "C. Salat adalah bermain bersama teman di masjid",
+    "D. Salat adalah membaca buku cerita sebelum tidur"
+   ],
+   "answer": "A",
+   "explanation": "Salat adalah ibadah kepada Allah yang dimulai dengan takbir dan diakhiri dengan salam.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-FIK-RI-03",
+    "rukun-islam"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "FIK-RI-0916",
+   "jawaban_saya": "A",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "Pengetahuan fikih dasar yang mapan; dihitung sendiri.",
+   "masalah": [
+    "BEBAN_BACA"
+   ],
+   "bukti_masalah": "Salat dimulai takbir dan diakhiri salam: istilah takbir/salam berat untuk Kelas 1",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Butir sesuai TP.",
+   "usia_bahasa": "berat",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Istilah takbir/salam agak berat."
+  }
+ },
+ {
+  "id": "FIK-TH-0903",
+  "tp_id": "TP-FIK-TH-02",
+  "alasan": [
+   "penyelesai menandai AMBIGU: Mengambil sisa najis dengan tisu / Menyiram dengan air bersih: urutan bisa dibolak-balik"
+  ],
+  "soal": {
+   "id": "FIK-TH-0903",
+   "subject": "Fikih",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-FIK-TH-02",
+   "tp": "Murid mampu menyebutkan tata cara bersuci dari hadas dan najis dengan benar.",
+   "material": "Taharah",
+   "competency": "Menyebutkan tata cara bersuci",
+   "question_type": "ordering",
+   "difficulty": "medium",
+   "cognitive_level": "mengurutkan",
+   "question": "Lantai terkena air kencing adik. Urutkan cara membersihkannya!",
+   "options": [
+    "Mengelap sampai kering",
+    "Mengambil sisa najis dengan tisu",
+    "Menyiram dengan air bersih"
+   ],
+   "answer": [
+    "Mengambil sisa najis dengan tisu",
+    "Menyiram dengan air bersih",
+    "Mengelap sampai kering"
+   ],
+   "explanation": "Ambil najis lebih dulu, siram dengan air bersih, lalu keringkan.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-FIK-TH-02",
+    "taharah"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "FIK-TH-0903",
+   "jawaban_saya": [
+    "Mengambil sisa najis dengan tisu",
+    "Menyiram dengan air bersih",
+    "Mengelap sampai kering"
+   ],
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Pengetahuan fikih dasar yang mapan; dihitung sendiri.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "Mengambil sisa najis dengan tisu / Menyiram dengan air bersih: urutan bisa dibolak-balik",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Butir sesuai TP.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": "Buku teks Fikih Kelas 1 (tata cara membersihkan najis)",
+   "perlu_ahli": true,
+   "alasan_ahli": "Tata cara fikih najis (mughallazah/mukhaffafah) menurut mazhab/buku",
+   "catatan": "Urutan tisu-siram-lap wajar; siram sebelum mengambil sisa juga bisa dibenarkan -> kemungkinan ambigu."
+  }
+ },
+ {
+  "id": "MTK-B5-0911",
+  "tp_id": "TP-MTK-B5-02",
+  "alasan": [
+   "penyelesai menandai BEBAN_BACA: Ali mengukur... jengkal ayah lebih panjang: penalaran kebalikan ukuran satuan cukup abstrak untuk kelas 1."
+  ],
+  "soal": {
+   "id": "MTK-B5-0911",
+   "subject": "Matematika",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-MTK-B5-02",
+   "tp": "Murid mampu membandingkan panjang benda dengan benar.",
+   "material": "Bab 5. Pengukuran Panjang",
+   "competency": "Membandingkan panjang benda",
+   "question_type": "true_false",
+   "difficulty": "hard",
+   "cognitive_level": "menganalisis",
+   "question": "Benar atau salah: Ali mengukur sebuah meja dengan jengkalnya dan mendapat 7. Ayah mengukur meja yang sama dengan jengkalnya dan mendapat 5. Jengkal ayah lebih panjang daripada jengkal Ali.",
+   "options": [
+    "Benar",
+    "Salah"
+   ],
+   "answer": "Benar",
+   "explanation": "Satuan yang lebih panjang membuat hasil ukur lebih sedikit.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-MTK-B5-02",
+    "bab-5.-pengukuran-panjang"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "MTK-B5-0911",
+   "jawaban_saya": "Benar",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "Aritmetika/penalaran dihitung ulang; tunggal.",
+   "masalah": [
+    "BEBAN_BACA"
+   ],
+   "bukti_masalah": "Ali mengukur... jengkal ayah lebih panjang: penalaran kebalikan ukuran satuan cukup abstrak untuk kelas 1.",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "Isi soal sejalan dengan TP dan ATP bab terkait.",
+   "usia_bahasa": "berat",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "MTK-B5-0936",
+  "tp_id": "TP-MTK-B5-03",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: tidak dapat dijawab (item tidak ada)",
+   "penyelesai menandai TIDAK_ADA_JAWABAN,AMBIGU: Kelompokkan hal berikut menurut kegunaannya! Hanya ada dua nama kelompok, tidak ada daftar item untuk dikelompokkan."
+  ],
+  "soal": {
+   "id": "MTK-B5-0936",
+   "subject": "Matematika",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-MTK-B5-03",
+   "tp": "Murid mampu mengukur panjang benda dengan satuan tidak baku.",
+   "material": "Bab 5. Pengukuran Panjang",
+   "competency": "Mengukur panjang dengan satuan tidak baku",
+   "question_type": "grouping",
+   "difficulty": "medium",
+   "cognitive_level": "mengelompokkan",
+   "question": "Kelompokkan hal berikut menurut kegunaannya!",
+   "options": {
+    "kelompok": [
+     "dapat dipakai mengukur panjang",
+     "tidak dipakai mengukur panjang"
+    ]
+   },
+   "answer": {
+    "dapat dipakai mengukur panjang": [
+     "jengkal",
+     "langkah kaki",
+     "tutup botol"
+    ],
+    "tidak dipakai mengukur panjang": [
+     "liter",
+     "kilogram",
+     "menit"
+    ]
+   },
+   "explanation": "Jengkal, langkah kaki, dan tutup botol dapat dijajarkan untuk mengukur panjang.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-MTK-B5-03",
+    "bab-5.-pengukuran-panjang"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "MTK-B5-0936",
+   "jawaban_saya": "tidak dapat dijawab (item tidak ada)",
+   "jumlah_jawaban_benar": 0,
+   "keyakinan": "rendah",
+   "alasan_keyakinan": "Item yang dikelompokkan tidak diberikan.",
+   "masalah": [
+    "TIDAK_ADA_JAWABAN",
+    "AMBIGU"
+   ],
+   "bukti_masalah": "Kelompokkan hal berikut menurut kegunaannya! Hanya ada dua nama kelompok, tidak ada daftar item untuk dikelompokkan.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Isi soal sejalan dengan TP dan ATP bab terkait.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "MTK-B7-0911",
+  "tp_id": "TP-MTK-B7-04",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: ['Temukan koin di lantai kelas', 'Hitung banyak koin dengan teliti', 'Sebutkan j"
+  ],
+  "soal": {
+   "id": "MTK-B7-0911",
+   "subject": "Matematika",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-MTK-B7-04",
+   "tp": "Murid mampu mengamalkan ilmu penjumlahan dan pengurangan dengan jujur dalam kehidupan sehari-hari.",
+   "material": "Bab 7. Penjumlahan dan Pengurangan sampai dengan 20",
+   "competency": "Mengamalkan ilmu penjumlahan dan pengurangan dengan jujur",
+   "question_type": "ordering",
+   "difficulty": "medium",
+   "cognitive_level": "menerapkan",
+   "question": "Urutkan langkah bersikap jujur saat menemukan koin!",
+   "options": [
+    "Serahkan koin kepada guru",
+    "Sebutkan jumlah koin dengan jujur",
+    "Hitung banyak koin dengan teliti",
+    "Temukan koin di lantai kelas"
+   ],
+   "answer": [
+    "Temukan koin di lantai kelas",
+    "Hitung banyak koin dengan teliti",
+    "Serahkan koin kepada guru",
+    "Sebutkan jumlah koin dengan jujur"
+   ],
+   "explanation": "Menemukan, menghitung, menyerahkan, lalu melaporkan jumlah dengan jujur.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-MTK-B7-04",
+    "bab-7.-penjumlahan-dan-pengurangan-sampai-dengan-20"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "MTK-B7-0911",
+   "jawaban_saya": [
+    "Temukan koin di lantai kelas",
+    "Hitung banyak koin dengan teliti",
+    "Sebutkan jumlah koin dengan jujur",
+    "Serahkan koin kepada guru"
+   ],
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "Aritmetika/penalaran dihitung ulang; tunggal.",
+   "masalah": [],
+   "bukti_masalah": "",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Isi soal sejalan dengan TP dan ATP bab terkait.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "MTK-B7-0912",
+  "tp_id": "TP-MTK-B7-04",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: tidak dapat dijawab (item tidak ada)",
+   "penyelesai menandai TIDAK_ADA_JAWABAN,AMBIGU: Kelompokkan perbuatan berikut! Hanya ada kelompok jujur/tidak jujur, tidak ada daftar perbuatan."
+  ],
+  "soal": {
+   "id": "MTK-B7-0912",
+   "subject": "Matematika",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-MTK-B7-04",
+   "tp": "Murid mampu mengamalkan ilmu penjumlahan dan pengurangan dengan jujur dalam kehidupan sehari-hari.",
+   "material": "Bab 7. Penjumlahan dan Pengurangan sampai dengan 20",
+   "competency": "Mengamalkan ilmu penjumlahan dan pengurangan dengan jujur",
+   "question_type": "grouping",
+   "difficulty": "medium",
+   "cognitive_level": "mengelompokkan",
+   "question": "Kelompokkan perbuatan berikut!",
+   "options": {
+    "kelompok": [
+     "jujur",
+     "tidak jujur"
+    ]
+   },
+   "answer": {
+    "jujur": [
+     "menghitung sisa uang jajan dengan benar",
+     "melapor kembalian lebih kepada penjual",
+     "menyebut jumlah barang sesuai kenyataan"
+    ],
+    "tidak jujur": [
+     "mengubah hasil hitung agar terlihat bagus",
+     "mengambil kembalian lebih diam-diam",
+     "menyontek hasil 8 + 7 dari teman"
+    ]
+   },
+   "explanation": "Jujur berarti sesuai kenyataan dan tidak curang.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-MTK-B7-04",
+    "bab-7.-penjumlahan-dan-pengurangan-sampai-dengan-20"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "MTK-B7-0912",
+   "jawaban_saya": "tidak dapat dijawab (item tidak ada)",
+   "jumlah_jawaban_benar": 0,
+   "keyakinan": "rendah",
+   "alasan_keyakinan": "Item yang dikelompokkan tidak diberikan.",
+   "masalah": [
+    "TIDAK_ADA_JAWABAN",
+    "AMBIGU"
+   ],
+   "bukti_masalah": "Kelompokkan perbuatan berikut! Hanya ada kelompok jujur/tidak jujur, tidak ada daftar perbuatan.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Isi soal sejalan dengan TP dan ATP bab terkait.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "PJK-TB-0902",
+  "tp_id": "TP-PJK-TB-01",
+  "alasan": [
+   "penyelesai menandai AMBIGU: 'bertumpu pada dua kaki dan mendarat pada dua kaki' cocok dengan 'meloncat' (A) maupun 'melompat' (B) bergantung buku; b",
+   "jumlah jawaban benar menurut penyelesai = 2"
+  ],
+  "soal": {
+   "id": "PJK-TB-0902",
+   "subject": "PJOK",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-PJK-TB-01",
+   "tp": "Murid mampu mempraktikkan keterampilan gerak lokomotor dan menerapkannya dalam berbagai situasi gerak.",
+   "material": "Terampil Bergerak",
+   "competency": "Menerapkan sikap dan gerak dalam kehidupan",
+   "question_type": "contextual",
+   "difficulty": "medium",
+   "cognitive_level": "menerapkan",
+   "question": "Dalam permainan kelinci, Bayu berpindah ke ujung lapangan dengan bertumpu pada dua kaki dan mendarat pada dua kaki. Gerakan Bayu adalah ....",
+   "options": [
+    "A. meloncat",
+    "B. melompat",
+    "C. berjingkat",
+    "D. merayap"
+   ],
+   "answer": "A",
+   "explanation": "Bertumpu dua kaki dan mendarat dua kaki disebut meloncat.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-PJK-TB-01",
+    "terampil-bergerak"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "PJK-TB-0902",
+   "jawaban_saya": "A",
+   "jumlah_jawaban_benar": 2,
+   "keyakinan": "rendah",
+   "alasan_keyakinan": "Istilah meloncat/melompat dibedakan berbeda antar buku; dengan konvensi 'tumpuan dua kaki, mendarat dua kaki = meloncat' jawabannya A, dengan konvensi sebaliknya B.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "'bertumpu pada dua kaki dan mendarat pada dua kaki' cocok dengan 'meloncat' (A) maupun 'melompat' (B) bergantung buku; butir 0910 memakai 'meloncat' untuk katak.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Sesuai isi TP.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": "Buku teks PJOK Kelas 1 (definisi meloncat vs melompat)",
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Jumlah jawaban benar 2 (A/B) tergantung definisi buku."
+  }
+ },
+ {
+  "id": "PJK-TB-0916",
+  "tp_id": "TP-PJK-TB-03",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: bergerak mengepakkan kedua tangan seperti sayap burung",
+   "penyelesai menandai AMBIGU: 'Gita ....' tanpa petunjuk gerak spesifik."
+  ],
+  "soal": {
+   "id": "PJK-TB-0916",
+   "subject": "PJOK",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-PJK-TB-03",
+   "tp": "Murid mampu mengeksplorasi berbagai cara menggerakkan tubuh.",
+   "material": "Terampil Bergerak",
+   "competency": "Menerapkan sikap dan gerak dalam kehidupan",
+   "question_type": "completion",
+   "difficulty": "easy",
+   "cognitive_level": "menerapkan",
+   "question": "Lengkapi: Saat guru meminta bergerak seperti burung, Gita ....",
+   "options": null,
+   "answer": "merentangkan tangan dan menggerakkannya naik turun",
+   "explanation": "Burung terbang dengan mengepakkan sayap.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-PJK-TB-03",
+    "terampil-bergerak"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "PJK-TB-0916",
+   "jawaban_saya": "bergerak mengepakkan kedua tangan seperti sayap burung",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Isian terbuka; banyak jawaban wajar (mengepak, terbang, berlari kecil).",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "'Gita ....' tanpa petunjuk gerak spesifik.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Sesuai isi TP.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Butuh rubrik jawaban terbuka."
+  }
+ },
+ {
+  "id": "PJK-TB-0929",
+  "tp_id": "TP-PJK-TB-06",
+  "alasan": [
+   "penyelesai menandai AMBIGU: 'Saat guru memberi tanda \"balik\" dalam permainan, murid harus ....' tanpa aturan permainan."
+  ],
+  "soal": {
+   "id": "PJK-TB-0929",
+   "subject": "PJOK",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-PJK-TB-06",
+   "tp": "Murid mampu mengeksplorasi berbagai metode menggerakkan tubuh dan mengontrol gerakannya.",
+   "material": "Terampil Bergerak",
+   "competency": "Mengontrol gerakan",
+   "question_type": "fill_in_short",
+   "difficulty": "medium",
+   "cognitive_level": "mengingat",
+   "question": "Isilah: Saat guru memberi tanda \"balik\" dalam permainan, murid harus ....",
+   "options": null,
+   "answer": "berbalik arah",
+   "explanation": "Tanda balik berarti berbalik arah.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-PJK-TB-06",
+    "terampil-bergerak"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "PJK-TB-0929",
+   "jawaban_saya": "berbalik arah (berputar balik)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Aturan permainan 'balik' tidak diberikan; kemungkinan balik arah.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "'Saat guru memberi tanda \"balik\" dalam permainan, murid harus ....' tanpa aturan permainan.",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Sesuai isi TP.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Jawaban bergantung aturan permainan yang tidak dijelaskan."
+  }
+ },
+ {
+  "id": "PJK-HA-0910",
+  "tp_id": "TP-PJK-HA-01",
+  "alasan": [
+   "penyelesai menandai AMBIGU: 'Sinta ikut berlari bersama teman dan merasa ....'"
+  ],
+  "soal": {
+   "id": "PJK-HA-0910",
+   "subject": "PJOK",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-PJK-HA-01",
+   "tp": "Murid mampu berpartisipasi dalam berbagai aktivitas fisik dan mengeksplorasi manfaatnya.",
+   "material": "Bergaya Hidup Aktif",
+   "competency": "Menerapkan sikap dan gerak dalam kehidupan",
+   "question_type": "completion",
+   "difficulty": "easy",
+   "cognitive_level": "menerapkan",
+   "question": "Lengkapi: Saat jam olahraga, Sinta ikut berlari bersama teman dan merasa ....",
+   "options": null,
+   "answer": "badan segar dan senang",
+   "explanation": "Aktivitas fisik memberi rasa segar dan senang.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-PJK-HA-01",
+    "bergaya-hidup-aktif"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "PJK-HA-0910",
+   "jawaban_saya": "gembira (senang, segar)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Isian terbuka; beberapa jawaban wajar.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "'Sinta ikut berlari bersama teman dan merasa ....'",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Sesuai isi TP.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "PJK-HA-0922",
+  "tp_id": "TP-PJK-HA-02",
+  "alasan": [
+   "penyelesai menandai AMBIGU: 'Tono merasa badannya ....'"
+  ],
+  "soal": {
+   "id": "PJK-HA-0922",
+   "subject": "PJOK",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-PJK-HA-02",
+   "tp": "Murid mampu berpartisipasi dalam berbagai aktivitas fisik dan memahami manfaatnya.",
+   "material": "Bergaya Hidup Aktif",
+   "competency": "Menerapkan sikap dan gerak dalam kehidupan",
+   "question_type": "completion",
+   "difficulty": "easy",
+   "cognitive_level": "menerapkan",
+   "question": "Lengkapi: Setelah rajin lari pagi, Tono merasa badannya ....",
+   "options": null,
+   "answer": "lebih bugar",
+   "explanation": "Lari pagi membuat badan lebih bugar.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-PJK-HA-02",
+    "bergaya-hidup-aktif"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "PJK-HA-0922",
+   "jawaban_saya": "bugar (segar, sehat)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Isian terbuka; beberapa jawaban wajar.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "'Tono merasa badannya ....'",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Sesuai isi TP.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "PPN-B1-0916",
+  "tp_id": "TP-PPN-B1-02",
+  "alasan": [
+   "penyelesai menandai AMBIGU: \"beribadah di tempat berbeda adalah contoh keberagaman agama\" tanpa menyebut jenis tempat/agama"
+  ],
+  "soal": {
+   "id": "PPN-B1-0916",
+   "subject": "Pancasila",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-PPN-B1-02",
+   "tp": "Murid mampu mengidentifikasi berbagai bentuk keberagaman suku bangsa, budaya, dan agama di lingkungan rumah, sekolah, dan masyarakat dengan benar.",
+   "material": "Bab 1. Tentang Diriku",
+   "competency": "Mengidentifikasi keberagaman suku, budaya, dan agama",
+   "question_type": "true_false",
+   "difficulty": "easy",
+   "cognitive_level": "memahami",
+   "question": "Benar atau salah: Teman sekelas yang beribadah di tempat berbeda adalah contoh keberagaman agama.",
+   "options": [
+    "Benar",
+    "Salah"
+   ],
+   "answer": "Benar",
+   "explanation": "Perbedaan agama adalah keberagaman.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-PPN-B1-02",
+    "bab-1.-tentang-diriku"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "PPN-B1-0916",
+   "jawaban_saya": "Benar",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Beribadah di tempat berbeda umumnya menandai agama berbeda, tetapi bisa saja satu agama di masjid berbeda.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"beribadah di tempat berbeda adalah contoh keberagaman agama\" tanpa menyebut jenis tempat/agama",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Sesuai TP bab ini.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Disarankan menyebut contoh konkret (masjid dan gereja)."
+  }
+ },
+ {
+  "id": "PPN-B3-0905",
+  "tp_id": "TP-PPN-B3-03",
+  "alasan": [
+   "penyelesai menandai AMBIGU: \"saling menolong ketika ada anggota keluarga sakit mengamalkan sila ke- ....\""
+  ],
+  "soal": {
+   "id": "PPN-B3-0905",
+   "subject": "Pancasila",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-PPN-B3-03",
+   "tp": "Murid mampu memahami nilai-nilai Pancasila di lingkungan keluarga dengan benar.",
+   "material": "Bab 3. Negaraku Indonesia",
+   "competency": "Mengenal nilai Pancasila di keluarga",
+   "question_type": "fill_in_short",
+   "difficulty": "medium",
+   "cognitive_level": "menerapkan",
+   "question": "Isilah: Keluarga yang saling menolong ketika ada anggota keluarga sakit mengamalkan sila ke- ....",
+   "options": null,
+   "answer": "2",
+   "explanation": "Sila ke-2.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-PPN-B3-03",
+    "bab-3.-negaraku-indonesia"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "PPN-B3-0905",
+   "jawaban_saya": "2",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Saling menolong/peduli sakit lazim sila 2, tetapi sebagian buku mengaitkan tolong-menolong dengan sila 5.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "\"saling menolong ketika ada anggota keluarga sakit mengamalkan sila ke- ....\"",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Sesuai TP bab ini.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": "Buku teks Pendidikan Pancasila Kelas I (pemetaan sikap ke sila)",
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Soal B3-0907 memetakan 'menjenguk adik yang sakit' ke sila 2, konsisten dengan jawaban 2."
+  }
+ }
+]
