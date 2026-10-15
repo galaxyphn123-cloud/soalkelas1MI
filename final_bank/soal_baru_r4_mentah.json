@@ -1,0 +1,31 @@
+[
+ {
+  "id": "BAR-SK-0924",
+  "subject": "Bahasa Arab",
+  "grade": 1,
+  "phase": "A",
+  "tp_id": "TP-BAR-SK-01",
+  "tp": "Murid mampu mengenali bunyi dan kosakata tentang madrasahku dengan pola kalimat: هٰذِهِ مَدْرَسَةٌ.",
+  "material": "Sekolahku (مدرستي)",
+  "competency": "Mengenali kosakata",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "cognitive_level": "mengenali",
+  "question": "Kata مَدْرَسَةٌ termasuk kata benda perempuan, sehingga kata tunjuk yang tepat adalah ....",
+  "options": [
+   "A. هٰذَا",
+   "B. هٰذِهِ",
+   "C. ذٰلِكَ",
+   "D. مَنْ"
+  ],
+  "answer": "B",
+  "explanation": "Kata benda perempuan memakai هٰذِهِ: هٰذِهِ مَدْرَسَةٌ.",
+  "visual_required": false,
+  "visual_prompt": null,
+  "tags": [
+   "TP-BAR-SK-01",
+   "sekolahku-(مدرستي)"
+  ],
+  "sumber": "BARU_TAHAP_COVERAGE"
+ }
+]

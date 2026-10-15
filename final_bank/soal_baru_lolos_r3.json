@@ -1,0 +1,116 @@
+[
+ {
+  "id": "BAR-SK-0923",
+  "subject": "Bahasa Arab",
+  "grade": 1,
+  "phase": "A",
+  "tp_id": "TP-BAR-SK-03",
+  "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik madrasahku.",
+  "material": "Sekolahku (مدرستي)",
+  "competency": "Memahami huruf dalam kata",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "cognitive_level": "memahami",
+  "question": "Kata yang huruf terakhirnya Ta marbuthah (ة) adalah ....",
+  "options": [
+   "A. مَسْجِدٌ",
+   "B. مُدَرِّسٌ",
+   "C. مَكْتَبَةٌ",
+   "D. مُدَرِّسِيْ"
+  ],
+  "answer": "C",
+  "explanation": "Huruf terakhir مَكْتَبَةٌ adalah ة (Ta marbuthah). Kata lain berakhir dengan huruf dal, sin, dan ya.",
+  "visual_required": false,
+  "visual_prompt": null,
+  "tags": [
+   "TP-BAR-SK-03",
+   "sekolahku-(مدرستي)"
+  ],
+  "sumber": "BARU_TAHAP_COVERAGE"
+ },
+ {
+  "id": "BIN-B2-0936",
+  "subject": "Bahasa Indonesia",
+  "grade": 1,
+  "phase": "A",
+  "tp_id": "TP-BIN-B2-05",
+  "tp": "Murid mampu menerapkan ilmu yang dipelajari dengan sungguh-sungguh sebagai wujud rasa syukur kepada Allah Swt.",
+  "material": "Bab 2. Badanku Sehat dan Kuat",
+  "competency": "Menerapkan ilmu dengan sungguh-sungguh sebagai wujud syukur",
+  "question_type": "contextual",
+  "difficulty": "easy",
+  "cognitive_level": "menerapkan",
+  "question": "Dani sudah belajar cara menggosok gigi yang benar. Sebagai wujud syukur kepada Allah Swt., Dani ....",
+  "options": [
+   "A. lupa menggosok gigi",
+   "B. menggosok gigi dengan benar setiap hari",
+   "C. menggosok gigi sambil bermain",
+   "D. tidak mau menggosok gigi"
+  ],
+  "answer": "B",
+  "explanation": "Ilmu yang dipelajari diterapkan dengan sungguh-sungguh, yaitu menggosok gigi dengan benar setiap hari.",
+  "visual_required": false,
+  "visual_prompt": null,
+  "tags": [
+   "TP-BIN-B2-05",
+   "bab-2.-badanku-sehat-dan-kuat"
+  ],
+  "sumber": "BARU_TAHAP_COVERAGE"
+ },
+ {
+  "id": "BIN-B3-0931",
+  "subject": "Bahasa Indonesia",
+  "grade": 1,
+  "phase": "A",
+  "tp_id": "TP-BIN-B3-05",
+  "tp": "Murid mampu menunjukkan sikap belajar dengan sungguh-sungguh dalam kegiatan menyimak, membaca, dan menulis sebagai wujud menghargai ilmu yang telah diajarkan.",
+  "material": "Bab 3. Keluargaku Sakinah",
+  "competency": "Sikap belajar sungguh-sungguh saat menyimak",
+  "question_type": "true_false",
+  "difficulty": "easy",
+  "cognitive_level": "memahami",
+  "question": "Saat Ibu bercerita, Dina sibuk bermain sendiri. Dina menunjukkan sikap belajar sungguh-sungguh dalam menyimak.",
+  "options": [
+   "Benar",
+   "Salah"
+  ],
+  "answer": "Salah",
+  "explanation": "Menyimak sungguh-sungguh berarti memperhatikan Ibu bercerita, bukan bermain sendiri.",
+  "visual_required": false,
+  "visual_prompt": null,
+  "tags": [
+   "TP-BIN-B3-05",
+   "bab-3.-keluargaku-sakinah"
+  ],
+  "sumber": "BARU_TAHAP_COVERAGE"
+ },
+ {
+  "id": "BIN-B3-0932",
+  "subject": "Bahasa Indonesia",
+  "grade": 1,
+  "phase": "A",
+  "tp_id": "TP-BIN-B3-05",
+  "tp": "Murid mampu menunjukkan sikap belajar dengan sungguh-sungguh dalam kegiatan menyimak, membaca, dan menulis sebagai wujud menghargai ilmu yang telah diajarkan.",
+  "material": "Bab 3. Keluargaku Sakinah",
+  "competency": "Sikap belajar sungguh-sungguh saat menulis",
+  "question_type": "contextual",
+  "difficulty": "medium",
+  "cognitive_level": "menerapkan",
+  "question": "Ayah meminta Budi menulis nama adiknya di buku. Budi menulis dengan sungguh-sungguh jika ia ....",
+  "options": [
+   "A. menulis sambil berlari-lari",
+   "B. mencoret-coret bukunya",
+   "C. menulis huruf dengan rapi di atas garis",
+   "D. menulis cepat tanpa melihat kertas"
+  ],
+  "answer": "C",
+  "explanation": "Menulis sungguh-sungguh berarti menulis huruf dengan rapi di atas garis.",
+  "visual_required": false,
+  "visual_prompt": null,
+  "tags": [
+   "TP-BIN-B3-05",
+   "bab-3.-keluargaku-sakinah"
+  ],
+  "sumber": "BARU_TAHAP_COVERAGE"
+ }
+]

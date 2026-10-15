@@ -1,0 +1,136 @@
+{
+ "total_soal_final": 8539,
+ "soal_lama_pass": 7698,
+ "soal_baru_lolos": 841,
+ "tp_total": 252,
+ "tp_tanpa_soal": [],
+ "tp_di_bawah_target": [],
+ "per_mapel": {
+  "Fikih": {
+   "tp": 15,
+   "soal_final": 868,
+   "awal": {
+    "min": 32,
+    "median": 49,
+    "maks": 85
+   },
+   "akhir": {
+    "min": 49,
+    "median": 49,
+    "maks": 85
+   }
+  },
+  "Al-Quran Hadis": {
+   "tp": 28,
+   "soal_final": 995,
+   "awal": {
+    "min": 11,
+    "median": 33.0,
+    "maks": 56
+   },
+   "akhir": {
+    "min": 33,
+    "median": 33.5,
+    "maks": 56
+   }
+  },
+  "Bahasa Arab": {
+   "tp": 16,
+   "soal_final": 1036,
+   "awal": {
+    "min": 48,
+    "median": 61.5,
+    "maks": 69
+   },
+   "akhir": {
+    "min": 62,
+    "median": 63.5,
+    "maks": 69
+   }
+  },
+  "Akidah Akhlak": {
+   "tp": 26,
+   "soal_final": 1041,
+   "awal": {
+    "min": 7,
+    "median": 32.5,
+    "maks": 63
+   },
+   "akhir": {
+    "min": 33,
+    "median": 33.0,
+    "maks": 63
+   }
+  },
+  "Bahasa Indonesia": {
+   "tp": 36,
+   "soal_final": 1039,
+   "awal": {
+    "min": 0,
+    "median": 26.0,
+    "maks": 43
+   },
+   "akhir": {
+    "min": 27,
+    "median": 27.0,
+    "maks": 43
+   }
+  },
+  "Matematika": {
+   "tp": 30,
+   "soal_final": 1012,
+   "awal": {
+    "min": 15,
+    "median": 31.5,
+    "maks": 52
+   },
+   "akhir": {
+    "min": 32,
+    "median": 32.0,
+    "maks": 52
+   }
+  },
+  "Pancasila": {
+   "tp": 14,
+   "soal_final": 804,
+   "awal": {
+    "min": 24,
+    "median": 52.5,
+    "maks": 69
+   },
+   "akhir": {
+    "min": 53,
+    "median": 53.0,
+    "maks": 69
+   }
+  },
+  "PJOK": {
+   "tp": 15,
+   "soal_final": 775,
+   "awal": {
+    "min": 28,
+    "median": 47,
+    "maks": 61
+   },
+   "akhir": {
+    "min": 47,
+    "median": 47,
+    "maks": 61
+   }
+  },
+  "Bahasa Inggris": {
+   "tp": 72,
+   "soal_final": 969,
+   "awal": {
+    "min": 4,
+    "median": 12.0,
+    "maks": 22
+   },
+   "akhir": {
+    "min": 12,
+    "median": 12.0,
+    "maks": 22
+   }
+  }
+ }
+}
