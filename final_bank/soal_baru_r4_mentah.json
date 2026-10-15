@@ -11,7 +11,7 @@
   "question_type": "multiple_choice",
   "difficulty": "medium",
   "cognitive_level": "mengenali",
-  "question": "Kata مَدْرَسَةٌ termasuk kata benda perempuan, sehingga kata tunjuk yang tepat adalah ....",
+  "question": "Lengkapi kalimat: .... مَدْرَسَةٌ (artinya \"Ini sebuah madrasah\").",
   "options": [
    "A. هٰذَا",
    "B. هٰذِهِ",
@@ -19,7 +19,7 @@
    "D. مَنْ"
   ],
   "answer": "B",
-  "explanation": "Kata benda perempuan memakai هٰذِهِ: هٰذِهِ مَدْرَسَةٌ.",
+  "explanation": "Untuk menunjuk مَدْرَسَةٌ dari dekat dipakai هٰذِهِ: هٰذِهِ مَدْرَسَةٌ.",
   "visual_required": false,
   "visual_prompt": null,
   "tags": [
