@@ -1,0 +1,254 @@
+[
+ {
+  "id": "BAR-SK-0954",
+  "tp_id": "TP-BAR-SK-03",
+  "alasan": [
+   "penyelesai menandai AMBIGU: Jawaban isian 'bernama ....' dapat ditulis tanwin dammah/dammatain/dhammah ganda."
+  ],
+  "soal": {
+   "id": "BAR-SK-0954",
+   "subject": "Bahasa Arab",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BAR-SK-03",
+   "tp": "Murid mampu memahami huruf, kata, tanda baca, dan kalimat yang sangat sederhana tentang topik madrasahku.",
+   "material": "Sekolahku (مدرستي)",
+   "competency": "Memahami tanda baca tentang madrasah",
+   "question_type": "fill_in_short",
+   "difficulty": "hard",
+   "cognitive_level": "menganalisis",
+   "question": "Tanda baca pada huruf terakhir kata مُدَرِّسَةٌ bernama ....",
+   "options": null,
+   "answer": "dammatain",
+   "explanation": "Huruf terakhir (ta marbuthah) bertanda dammatain.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BAR-SK-03",
+    "sekolahku-(مدرستي)"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BAR-SK-0954",
+   "jawaban_saya": "Dammatain (tanwin dammah)",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "Huruf akhir ة bertanwin dammah; istilah kunci bisa 'dammatain' atau 'tanwin dammah', isian bisa ambigu penilaiannya.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "Jawaban isian 'bernama ....' dapat ditulis tanwin dammah/dammatain/dhammah ganda.",
+   "kesesuaian_tp": "sebagian",
+   "alasan_tp": "Mengenal tanda baca tanwin pada kelas 1 mungkin melampaui 'sangat sederhana'.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": "Buku Bahasa Arab MI kelas 1 (istilah harakat/tanwin)",
+   "perlu_ahli": true,
+   "alasan_ahli": "Istilah baku harakat tanwin pada buku Bahasa Arab MI.",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B2-0953",
+  "tp_id": "TP-BIN-B2-05",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: {'Sungguh-sungguh': ['1', '3'], 'Asal-asalan': ['2', '4']}"
+  ],
+  "soal": {
+   "id": "BIN-B2-0953",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B2-05",
+   "tp": "Murid mampu menerapkan ilmu yang dipelajari dengan sungguh-sungguh sebagai wujud rasa syukur kepada Allah Swt.",
+   "material": "Bab 2. Badanku Sehat dan Kuat",
+   "competency": "Menerapkan ilmu sebagai wujud syukur",
+   "question_type": "grouping",
+   "difficulty": "medium",
+   "cognitive_level": "mengelompokkan",
+   "question": "Kelompokkan perbuatan berikut: (1) mencuci tangan dengan sabun sampai bersih, (2) mencuci tangan asal basah, (3) menggosok gigi dengan benar setiap malam, (4) menggosok gigi sambil bermain.",
+   "options": {
+    "kelompok": [
+     "Sungguh-sungguh",
+     "Asal-asalan"
+    ]
+   },
+   "answer": {
+    "Sungguh-sungguh": [
+     "mencuci tangan dengan sabun sampai bersih",
+     "menggosok gigi dengan benar setiap malam"
+    ],
+    "Asal-asalan": [
+     "mencuci tangan asal basah",
+     "menggosok gigi sambil bermain"
+    ]
+   },
+   "explanation": "Perbuatan yang dilakukan dengan benar dan teliti menunjukkan sungguh-sungguh.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B2-05",
+    "bab-2.-badanku-sehat-dan-kuat"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B2-0953",
+   "jawaban_saya": {
+    "Sungguh-sungguh": [
+     "1",
+     "3"
+    ],
+    "Asal-asalan": [
+     "2",
+     "4"
+    ]
+   },
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "1,3 sungguh; 2,4 asal.",
+   "masalah": [],
+   "bukti_masalah": "",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Membedakan sikap sungguh-sungguh.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B3-0953",
+  "tp_id": "TP-BIN-B3-05",
+  "alasan": [
+   "jawaban buta berbeda dari kunci: {'Menyimak': ['1', '4'], 'Membaca': ['2', '5'], 'Menulis': ['3', '6']}"
+  ],
+  "soal": {
+   "id": "BIN-B3-0953",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B3-05",
+   "tp": "Murid mampu menunjukkan sikap belajar dengan sungguh-sungguh dalam kegiatan menyimak, membaca, dan menulis sebagai wujud menghargai ilmu yang telah diajarkan.",
+   "material": "Bab 3. Keluargaku Sakinah",
+   "competency": "Sikap belajar sungguh-sungguh",
+   "question_type": "grouping",
+   "difficulty": "medium",
+   "cognitive_level": "mengelompokkan",
+   "question": "Kelompokkan sikap belajar berikut: (1) tidak mengobrol saat guru bercerita, (2) menunjuk kata dengan jari saat membaca, (3) menulis huruf tepat di atas garis, (4) memandang guru yang bercerita, (5) membaca kalimat dengan suara jelas, (6) menulis huruf dengan rapi.",
+   "options": {
+    "kelompok": [
+     "Menyimak",
+     "Membaca",
+     "Menulis"
+    ]
+   },
+   "answer": {
+    "Menyimak": [
+     "tidak mengobrol saat guru bercerita",
+     "memandang guru yang bercerita"
+    ],
+    "Membaca": [
+     "menunjuk kata dengan jari saat membaca",
+     "membaca kalimat dengan suara jelas"
+    ],
+    "Menulis": [
+     "menulis huruf tepat di atas garis",
+     "menulis huruf dengan rapi"
+    ]
+   },
+   "explanation": "Setiap sikap dipasangkan dengan kegiatan belajarnya.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B3-05",
+    "bab-3.-keluargaku-sakinah"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B3-0953",
+   "jawaban_saya": {
+    "Menyimak": [
+     "1",
+     "4"
+    ],
+    "Membaca": [
+     "2",
+     "5"
+    ],
+    "Menulis": [
+     "3",
+     "6"
+    ]
+   },
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "tinggi",
+   "alasan_keyakinan": "Pembagian jelas.",
+   "masalah": [],
+   "bukti_masalah": "",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Sikap menyimak, membaca, menulis.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": ""
+  }
+ },
+ {
+  "id": "BIN-B3-0955",
+  "tp_id": "TP-BIN-B3-05",
+  "alasan": [
+   "penyelesai menandai AMBIGU: B. membaca kata demi kata (bisa dibaca terbata-bata)"
+  ],
+  "soal": {
+   "id": "BIN-B3-0955",
+   "subject": "Bahasa Indonesia",
+   "grade": 1,
+   "phase": "A",
+   "tp_id": "TP-BIN-B3-05",
+   "tp": "Murid mampu menunjukkan sikap belajar dengan sungguh-sungguh dalam kegiatan menyimak, membaca, dan menulis sebagai wujud menghargai ilmu yang telah diajarkan.",
+   "material": "Bab 3. Keluargaku Sakinah",
+   "competency": "Sikap belajar sungguh-sungguh",
+   "question_type": "contextual",
+   "difficulty": "hard",
+   "cognitive_level": "menerapkan",
+   "question": "Bu guru meminta Rina membaca kalimat di papan tulis. Rina sungguh-sungguh jika ia ....",
+   "options": [
+    "A. membaca asal-asalan saja",
+    "B. membaca kata demi kata",
+    "C. membaca sambil tertawa-tawa",
+    "D. menutup bukunya rapat-rapat"
+   ],
+   "answer": "B",
+   "explanation": "Membaca kata demi kata dengan jelas adalah sikap sungguh-sungguh.",
+   "visual_required": false,
+   "visual_prompt": null,
+   "tags": [
+    "TP-BIN-B3-05",
+    "bab-3.-keluargaku-sakinah"
+   ],
+   "sumber": "BARU_TAHAP_COVERAGE"
+  },
+  "penyelesai": {
+   "id": "BIN-B3-0955",
+   "jawaban_saya": "B",
+   "jumlah_jawaban_benar": 1,
+   "keyakinan": "sedang",
+   "alasan_keyakinan": "B paling wajar; lainnya jelas tidak sungguh-sungguh, tetapi 'kata demi kata' kurang tegas sebagai indikator sungguh-sungguh.",
+   "masalah": [
+    "AMBIGU"
+   ],
+   "bukti_masalah": "B. membaca kata demi kata (bisa dibaca terbata-bata)",
+   "kesesuaian_tp": "selaras",
+   "alasan_tp": "Sikap membaca.",
+   "usia_bahasa": "ok",
+   "perlu_sumber": null,
+   "perlu_ahli": false,
+   "alasan_ahli": "",
+   "catatan": "Distraktor B tidak tegas salah, tetapi tetap pilihan terbaik."
+  }
+ }
+]
