@@ -124,7 +124,16 @@ for s in ORDER:
     rows.append([NAMA.get(s, s), v['tp'], v['soal_final'], f'{v["awal"]["min"]} / {v["awal"]["median"]:g} / {v["awal"]["maks"]}', f'{v["akhir"]["min"]} / {v["akhir"]["median"]:g} / {v["akhir"]["maks"]}'])
 table(rows, ['Mata pelajaran', 'Jumlah TP', 'Soal final', 'Soal per TP sebelum (min/median/maks)', 'Soal per TP sesudah (min/median/maks)'], [3.6, 2, 2.2, 4.6, 4.6], 9)
 doc.add_paragraph()
-doc.add_heading('Daftar isi', 2); toc()
+doc.add_heading('Daftar isi', 2)
+para('Gunakan panel navigasi (Heading 1-3) untuk berpindah antar bagian. Isi dokumen: ', size=9)
+_by = collections.defaultdict(list)
+for q in bank: _by[q['tp_id']].append(q)
+for s_ in ORDER:
+    mats = collections.OrderedDict()
+    for e in reg:
+        if e['subject'] == s_: mats[e['material']] = mats.get(e['material'], 0) + len(_by[e['tp_id']])
+    para('• ' + NAMA.get(s_, s_) + ': ' + '; '.join(f'{m} ({n})' for m, n in mats.items()), indent=0.4, size=8.5)
+para('• Lampiran: Cakupan soal pada setiap TP (252 TP), di akhir dokumen.', indent=0.4, size=8.5)
 
 # ---------------------------------------------------------------- isi
 by = collections.defaultdict(list)
@@ -145,6 +154,11 @@ for s in ORDER:
         doc.add_heading(f'{e["tp_id"]} — {e["tp"]}', 3)
         para(f'Soal: {len(by[e["tp_id"]])} (lama {c["pass_awal"]}, baru {c["tambahan_lolos"]}; target {c["target"]})' + ('  — TP dari ATP yang sebelumnya belum punya soal' if e['baru'] else ''), italic=True, size=8.5, color=(0x55, 0x55, 0x55))
         for i, q in enumerate(sorted(by[e['tp_id']], key=lambda x: x['id']), 1): soal(i, q)
+doc.add_page_break()
+doc.add_heading('Lampiran. Cakupan soal pada setiap TP', 1)
+para('Target = median jumlah soal PASS per TP pada mata pelajaran yang sama. Kolom "lama" = soal PASS dari bank yang sudah ada; "baru" = soal tambahan yang lolos verifikasi.', italic=True, size=9)
+table([[NAMA.get(c['subject'], c['subject']), c['tp_id'], c['pass_awal'], c['tambahan_lolos'], c['total_final'], c['target'], c['tercapai']] for c in cov],
+      ['Mapel', 'TP', 'Lama', 'Baru', 'Total', 'Target', 'Tercapai'], [3.2, 3.6, 1.5, 1.5, 1.5, 1.6, 2], 8)
 doc.core_properties.title = 'Bank Soal Kelas 1 MI Darul Arifin - Soal Lulus dan Cakupan TP'
 doc.core_properties.author = 'Disusun dengan bantuan AI; menunggu tinjauan guru/ahli'
 doc.save(sys.argv[1])

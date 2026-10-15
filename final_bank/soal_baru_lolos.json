@@ -7524,30 +7524,6 @@
   "sumber": "BARU_TAHAP_COVERAGE"
  },
  {
-  "id": "BAR-SK-0904",
-  "subject": "Bahasa Arab",
-  "grade": 1,
-  "phase": "A",
-  "tp_id": "TP-BAR-SK-01",
-  "tp": "Murid mampu mengenali bunyi dan kosakata tentang madrasahku dengan pola kalimat: هٰذِهِ مَدْرَسَةٌ.",
-  "material": "Sekolahku (مدرستي)",
-  "competency": "Memahami pola kalimat",
-  "question_type": "fill_in_short",
-  "difficulty": "easy",
-  "cognitive_level": "mengingat",
-  "question": "Arti kalimat هٰذِهِ مَدْرَسَةٌ adalah ....",
-  "options": null,
-  "answer": "Ini sebuah sekolah / madrasah",
-  "explanation": "هٰذِهِ مَدْرَسَةٌ berarti \"Ini sebuah madrasah\".",
-  "visual_required": false,
-  "visual_prompt": null,
-  "tags": [
-   "TP-BAR-SK-01",
-   "sekolahku-(مدرستي)"
-  ],
-  "sumber": "BARU_TAHAP_COVERAGE"
- },
- {
   "id": "BAR-SK-0905",
   "subject": "Bahasa Arab",
   "grade": 1,
@@ -24109,6 +24085,35 @@
   "tags": [
    "TP-BIN-B3-05",
    "bab-3.-keluargaku-sakinah"
+  ],
+  "sumber": "BARU_TAHAP_COVERAGE"
+ },
+ {
+  "id": "BAR-SK-0924",
+  "subject": "Bahasa Arab",
+  "grade": 1,
+  "phase": "A",
+  "tp_id": "TP-BAR-SK-01",
+  "tp": "Murid mampu mengenali bunyi dan kosakata tentang madrasahku dengan pola kalimat: هٰذِهِ مَدْرَسَةٌ.",
+  "material": "Sekolahku (مدرستي)",
+  "competency": "Mengenali kosakata",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "cognitive_level": "mengenali",
+  "question": "Lengkapi kalimat: .... مَدْرَسَةٌ (artinya \"Ini sebuah madrasah\").",
+  "options": [
+   "A. هٰذَا",
+   "B. هٰذِهِ",
+   "C. ذٰلِكَ",
+   "D. مَنْ"
+  ],
+  "answer": "B",
+  "explanation": "Untuk menunjuk مَدْرَسَةٌ dari dekat dipakai هٰذِهِ: هٰذِهِ مَدْرَسَةٌ.",
+  "visual_required": false,
+  "visual_prompt": null,
+  "tags": [
+   "TP-BAR-SK-01",
+   "sekolahku-(مدرستي)"
   ],
   "sumber": "BARU_TAHAP_COVERAGE"
  }
