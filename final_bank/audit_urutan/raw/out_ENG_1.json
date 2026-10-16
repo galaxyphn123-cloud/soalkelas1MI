@@ -1,0 +1,63 @@
+{
+ "diperiksa": 183,
+ "fakta_baku_dipakai": [
+  {
+   "topik": "Angka 1-10 dalam Bahasa Inggris",
+   "urutan_atau_nilai": "one, two, three, four, five, six, seven, eight, nine, ten (urutan naik/turun konsisten)",
+   "id": [
+    "ENG-B4-0092",
+    "ENG-B4-0093",
+    "ENG-B4-0094",
+    "ENG-B6-0934",
+    "ENG-B7-0923",
+    "ENG-B6-0933"
+   ]
+  },
+  {
+   "topik": "Jumlah bagian wajah",
+   "urutan_atau_nilai": "two eyes, two ears, two eyebrows, two cheeks; one nose, one mouth, one chin",
+   "id": [
+    "ENG-B3-0067",
+    "ENG-B3-0069",
+    "ENG-B3-0071",
+    "ENG-B3-0073",
+    "ENG-B3-0077",
+    "ENG-B3-0086"
+   ]
+  },
+  {
+   "topik": "Urutan percakapan salam/perkenalan",
+   "urutan_atau_nilai": "sapaan/Hello -> tanya -> jawab -> terima kasih/Goodbye",
+   "id": [
+    "ENG-B1-0062",
+    "ENG-B1-0075",
+    "ENG-B6-0905",
+    "ENG-B9-0069"
+   ]
+  },
+  {
+   "topik": "Urutan langkah kegiatan",
+   "urutan_atau_nilai": "ambil -> gunakan/olah -> selesai/rapikan (bag, blocks, orange, mango, slide)",
+   "id": [
+    "ENG-B2-0054",
+    "ENG-B7-0041",
+    "ENG-B8-0027",
+    "ENG-B8-0903",
+    "ENG-B9-0034"
+   ]
+  },
+  {
+   "topik": "Kalimat milik My/This is my",
+   "urutan_atau_nilai": "This is my + benda; My + benda + is + sifat",
+   "id": [
+    "ENG-B2-0110",
+    "ENG-B3-0110",
+    "ENG-B3-0111",
+    "ENG-B4-0046",
+    "ENG-B5-0109",
+    "ENG-B6-0088"
+   ]
+  }
+ ],
+ "temuan": []
+}

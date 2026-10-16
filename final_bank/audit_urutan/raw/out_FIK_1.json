@@ -1,0 +1,220 @@
+{
+ "diperiksa": 247,
+ "fakta_baku_dipakai": [
+  {
+   "topik": "Urutan rukun Islam",
+   "urutan_atau_nilai": "Syahadat, Salat, Zakat, Puasa (Ramadan), Haji",
+   "id": [
+    "FIK-RI-0004",
+    "FIK-RI-0005",
+    "FIK-RI-0043",
+    "FIK-RI-0090",
+    "FIK-RI-0097",
+    "FIK-RI-0050"
+   ]
+  },
+  {
+   "topik": "Jumlah rukun Islam",
+   "urutan_atau_nilai": "5 (lima)",
+   "id": [
+    "FIK-RI-0002",
+    "FIK-RI-0009",
+    "FIK-RI-0100",
+    "FIK-RI-0264",
+    "FIK-RI-0045"
+   ]
+  },
+  {
+   "topik": "Ordinal rukun Islam (ke-1 syahadat, ke-2 salat, ke-3 zakat, ke-4 puasa, ke-5 haji)",
+   "urutan_atau_nilai": "1 syahadat; 2 salat; 3 zakat; 4 puasa; 5 haji",
+   "id": [
+    "FIK-RI-0001",
+    "FIK-RI-0003",
+    "FIK-RI-0006",
+    "FIK-RI-0008",
+    "FIK-RI-0041",
+    "FIK-RI-0075"
+   ]
+  },
+  {
+   "topik": "Jumlah rukun iman",
+   "urutan_atau_nilai": "6 (enam)",
+   "id": [
+    "FIK-RI-0045"
+   ]
+  },
+  {
+   "topik": "Jumlah kalimat syahadat",
+   "urutan_atau_nilai": "2: syahadat tauhid (pertama) lalu syahadat rasul (kedua)",
+   "id": [
+    "FIK-KS-0001",
+    "FIK-KS-0002",
+    "FIK-KS-0003",
+    "FIK-KS-0004",
+    "FIK-KS-0107",
+    "FIK-KS-0119"
+   ]
+  },
+  {
+   "topik": "Susunan lafal syahadat",
+   "urutan_atau_nilai": "Asyhadu - alla ilaha - illallah - Wa asyhadu - anna Muhammadar - rasulullah",
+   "id": [
+    "FIK-KS-0029",
+    "FIK-KS-0030",
+    "FIK-KS-0107",
+    "FIK-KS-0119",
+    "FIK-KS-0043"
+   ]
+  },
+  {
+   "topik": "Salat wajib per hari",
+   "urutan_atau_nilai": "lima kali/lima waktu",
+   "id": [
+    "FIK-RI-0042",
+    "FIK-RI-0057",
+    "FIK-KS-0127"
+   ]
+  },
+  {
+   "topik": "Waktu puasa dan berbuka",
+   "urutan_atau_nilai": "fajar/Subuh sampai terbenam matahari/Magrib; bulan Ramadan",
+   "id": [
+    "FIK-RI-0014",
+    "FIK-RI-0046",
+    "FIK-RI-0113",
+    "FIK-RI-0232",
+    "FIK-RI-0134"
+   ]
+  },
+  {
+   "topik": "Bulan haji",
+   "urutan_atau_nilai": "Zulhijah",
+   "id": [
+    "FIK-RI-0044",
+    "FIK-RI-0094",
+    "FIK-RI-0238"
+   ]
+  }
+ ],
+ "temuan": [
+  {
+   "topik": "Penamaan rukun Islam keempat: 'Puasa Ramadan' vs 'Puasa'",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "Puasa Ramadan",
+     "id": [
+      "FIK-RI-0004",
+      "FIK-RI-0005",
+      "FIK-RI-0044"
+     ]
+    },
+    {
+     "nilai": "Puasa",
+     "id": [
+      "FIK-RI-0043",
+      "FIK-RI-0090",
+      "FIK-RI-0097",
+      "FIK-RI-0050"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": "Puasa (Ramadan); urutan tetap sama, hanya penamaan",
+   "dasar": "KKTP",
+   "catatan": "KKTP Fikih menulis 'Puasa'. Urutan sama; hanya label butir ordering/matching berbeda. Dampak rendah.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Ejaan sunah vs sunnah",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "sunnah",
+     "id": [
+      "FIK-KS-0063",
+      "FIK-KS-0067",
+      "FIK-KS-0156"
+     ]
+    },
+    {
+     "nilai": "sunah",
+     "id": [
+      "FIK-KS-0069",
+      "FIK-KS-0072",
+      "FIK-RI-0130",
+      "FIK-RI-0080",
+      "FIK-KS-0186"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": "sunah (ejaan KBBI/PUEBI, konsisten dengan 'salat sunah')",
+   "dasar": "pengetahuan_umum",
+   "catatan": "Dua ejaan dalam satu mapel (KS-0063/0067/0156 'sunnah' vs KS-0069/0072 'sunah'). RI-0080 dan KS-0186 hanya cocok pola 'sunah' sebagai bagian kata lain (Salat sunah/Puasa sunah), ikut dicantumkan untuk pembanding.",
+   "keyakinan": "sedang"
+  },
+  {
+   "topik": "Ejaan hadis vs hadits",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "hadis",
+     "id": [
+      "FIK-KS-0184"
+     ]
+    },
+    {
+     "nilai": "haditsnya (pada opsi pengecoh)",
+     "id": [
+      "FIK-KS-0069"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": "hadis",
+   "dasar": "pengetahuan_umum",
+   "catatan": "KS-0069 opsi D memakai 'haditsnya', KS-0184 penjelasan memakai 'hadis'. Ejaan baku KBBI 'hadis'.",
+   "keyakinan": "sedang"
+  },
+  {
+   "topik": "Penulisan Subuh/subuh",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "Subuh (kapital)",
+     "id": [
+      "FIK-RI-0027",
+      "FIK-RI-0111",
+      "FIK-RI-0112",
+      "FIK-RI-0232"
+     ]
+    },
+    {
+     "nilai": "subuh (huruf kecil)",
+     "id": [
+      "FIK-RI-0014",
+      "FIK-RI-0213"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": "Subuh (nama waktu salat dikapitalkan, konsisten dengan Zuhur/Asar/Magrib/Isya) ",
+   "dasar": "pengetahuan_umum",
+   "catatan": "Variasi kapitalisasi kecil; RI-0014 memakai '(subuh)' dalam kurung, RI-0213 'sebelum subuh' (soal gambar, kapital di opsi/penjelasan 'Subuh').",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Urutan persiapan sebelum salat (ordering)",
+   "jenis": "URUTAN",
+   "varian": [
+    {
+     "nilai": "Berwudu, Menghadap kiblat, Membaca niat, Takbiratulihram",
+     "id": [
+      "FIK-RI-0249"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": "null",
+   "dasar": "bergantung_buku_atau_mazhab",
+   "catatan": "Satu-satunya soal urutan langkah sebelum salat di batch ini; tidak ada pembanding di berkas ini. Posisi niat setelah menghadap kiblat bergantung buku teks/mazhab; periksa terhadap soal wudu/salat di berkas lain.",
+   "keyakinan": "rendah"
+  }
+ ]
+}

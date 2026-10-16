@@ -1,0 +1,43 @@
+id,tipe,bagian,urutan_terlihat,cuplikan
+FIK-RI-0002,multiple_choice,penjelasan,zakat>puasa,"Rukun Islam berjumlah lima: syahadat, salat, zakat, puasa, dan haji."
+FIK-RI-0004,matching,penjelasan,zakat>puasa,"Urutan rukun Islam: 1) Syahadat, 2) Salat, 3) Zakat, 4) Puasa Ramadan, 5) Haji."
+FIK-RI-0004,matching,kunci_pasangan,zakat>puasa,"{""1"": ""Syahadat"", ""2"": ""Salat"", ""3"": ""Zakat"", ""4"": ""Puasa Ramadan"", ""5"": ""Haji""}"
+FIK-RI-0005,ordering,penjelasan,zakat>puasa,"Urutan yang benar: Syahadat, Salat, Zakat, Puasa Ramadan, lalu Haji."
+FIK-RI-0005,ordering,kunci_urutan,zakat>puasa,Syahadat > Salat > Zakat > Puasa Ramadan > Haji
+FIK-RI-0005,ordering,opsi_tampilan,puasa>zakat,Puasa Ramadan | Syahadat | Haji | Salat | Zakat
+FIK-RI-0016,matching,kunci_pasangan,zakat>puasa,"{""Syahadat"": ""Bersaksi kepada Allah dan Rasul-Nya"", ""Salat"": ""Menyembah Allah lima kali sehari"", ""Zakat"": ""Berbagi harta kepada yang membutuhkan"", ""Puasa"": ""Menahan lapar"
+FIK-RI-0016,matching,kolom_kiri_tampilan,zakat>puasa,Syahadat | Salat | Zakat | Puasa
+FIK-RI-0033,multiple_choice,soal,zakat>puasa,"Rani hafal semua rukun Islam kecuali satu urutan yang tertukar. Ia menyebut: Syahadat, Zakat, Salat, Puasa, Haji. Urutan yang salah pada rukun ke berapa?"
+FIK-RI-0033,multiple_choice,penjelasan,zakat>puasa,"Urutan yang benar adalah Syahadat, Salat, Zakat, Puasa, Haji. Rani menukar posisi Salat dan Zakat."
+FIK-RI-0039,grouping,soal,zakat>puasa,"Kelompokkan mana yang termasuk rukun Islam dan mana yang bukan: 'Salat', 'Bermain layangan', 'Zakat', 'Menonton televisi', 'Puasa'."
+FIK-RI-0039,grouping,penjelasan,zakat>puasa,"Salat, zakat, dan puasa termasuk rukun Islam, sedangkan bermain layangan dan menonton televisi bukan."
+FIK-RI-0043,ordering,soal,puasa>zakat,"Susunlah kartu bergambar berikut sesuai urutan rukun Islam: [gambar Ka'bah], [gambar orang bersyahadat], [gambar orang salat], [gambar bulan sabit puasa], [gambar kotak a"
+FIK-RI-0043,ordering,penjelasan,zakat>puasa,"Urutan gambar sesuai rukun Islam: Syahadat, Salat, Zakat, Puasa, lalu Haji (Ka'bah)."
+FIK-RI-0043,ordering,kunci_urutan,zakat>puasa,Bersyahadat > Salat > Kotak amal zakat > Bulan sabit puasa > Ka'bah
+FIK-RI-0043,ordering,opsi_tampilan,puasa>zakat,Ka'bah | Bersyahadat | Salat | Bulan sabit puasa | Kotak amal zakat
+FIK-RI-0044,matching,kunci_pasangan,puasa>zakat,"{""Salat"": ""Setiap hari"", ""Puasa Ramadan"": ""Bulan Ramadan"", ""Zakat fitrah"": ""Akhir Ramadan"", ""Haji"": ""Bulan Zulhijah (bagi yang mampu)""}"
+FIK-RI-0044,matching,kolom_kiri_tampilan,puasa>zakat,Salat | Puasa Ramadan | Zakat fitrah | Haji
+FIK-RI-0049,grouping,soal,puasa>zakat,"Kelompokkan ibadah berikut menjadi 'dilakukan setiap hari' dan 'tidak setiap hari': Salat, Puasa Ramadan, Zakat fitrah, Haji."
+FIK-RI-0049,grouping,penjelasan,puasa>zakat,"Hanya salat yang dilakukan setiap hari; puasa, zakat fitrah, dan haji memiliki waktu tertentu."
+FIK-RI-0050,multiple_choice,soal,puasa>zakat,"Doni menghafal rukun Islam sebagai berikut: Syahadat, Salat, Puasa, Zakat, Haji. Letak kesalahannya ada pada rukun ke ...."
+FIK-RI-0050,multiple_choice,penjelasan,zakat>puasa,"Urutan yang benar adalah Syahadat, Salat, Zakat, Puasa, Haji. Doni menukar posisi Puasa dan Zakat (ke-3 dan ke-4)."
+FIK-RI-0059,matching,kunci_pasangan,puasa>zakat,"{""Haji"": ""Mampu secara fisik dan harta"", ""Puasa"": ""Sehat dan tidak dalam perjalanan jauh"", ""Zakat"": ""Memiliki harta yang cukup nisab"", ""Salat"": ""Wajib bagi setiap muslim "
+FIK-RI-0059,matching,kolom_kiri_tampilan,puasa>zakat,Haji | Puasa | Zakat | Salat
+FIK-RI-0065,grouping,soal,zakat>puasa,"Kelompokkan pernyataan berikut menjadi 'benar' dan 'salah' tentang rukun Islam: 'Syahadat adalah persaksian iman', 'Haji boleh menggantikan salat', 'Zakat membantu sesama"
+FIK-RI-0090,multiple_choice,penjelasan,zakat>puasa,"Urutan yang benar adalah Syahadat, Salat, Zakat, Puasa, lalu Haji."
+FIK-RI-0090,multiple_choice,kunci,zakat>puasa,Syahadat - Salat - Zakat - Puasa - Haji
+FIK-RI-0090,multiple_choice,opsi_pengecoh,puasa>zakat,Syahadat - Salat - Puasa - Zakat - Haji
+FIK-RI-0090,multiple_choice,opsi_pengecoh,zakat>puasa,Syahadat - Zakat - Salat - Puasa - Haji
+FIK-RI-0090,multiple_choice,opsi_pengecoh,zakat>puasa,Salat - Syahadat - Zakat - Puasa - Haji
+FIK-RI-0097,matching,penjelasan,zakat>puasa,"Urutan rukun Islam: Syahadat, Salat, Zakat, Puasa, Haji."
+FIK-RI-0097,matching,kunci_pasangan,zakat>puasa,"{""1"": ""Syahadat"", ""2"": ""Salat"", ""3"": ""Zakat"", ""4"": ""Puasa"", ""5"": ""Haji""}"
+FIK-RI-0098,multiple_choice,soal,ordinal,"Jika seseorang hanya melakukan 4 dari 5 rukun Islam dan tidak pernah berzakat padahal mampu, rukun manakah yang ia tinggalkan?"
+FIK-RI-0098,multiple_choice,penjelasan,ordinal,"Jika tidak menunaikan zakat padahal mampu, berarti rukun Islam ketiga yang ditinggalkan."
+FIK-RI-0230,matching,kunci_pasangan,zakat>puasa,"{""Salat"": ""Mendekatkan diri kepada Allah"", ""Zakat"": ""Berbagi dengan sesama"", ""Puasa"": ""Melatih kesabaran"", ""Haji"": ""Mempererat ukhuwah sedunia""}"
+FIK-RI-0230,matching,kolom_kiri_tampilan,zakat>puasa,Salat | Zakat | Puasa | Haji
+FIK-RI-0902,multiple_choice,penjelasan,zakat>puasa,"Urutan rukun Islam: syahadat, salat, zakat, puasa, haji. Jadi zakat yang ketiga."
+FIK-RI-0907,matching,kunci_pasangan,puasa>zakat,"{""Syahadat"": ""Mengucapkan dua kalimat persaksian"", ""Salat"": ""Beribadah kepada Allah lima waktu sehari"", ""Puasa"": ""Menahan lapar dan haus dari Subuh sampai Magrib"", ""Zakat"
+FIK-RI-0907,matching,kolom_kiri_tampilan,puasa>zakat,Syahadat | Salat | Puasa | Zakat
+FIK-RI-0909,ordering,penjelasan,zakat>puasa,"Urutan rukun Islam: syahadat, salat, zakat, puasa, lalu haji."
+FIK-RI-0909,ordering,kunci_urutan,zakat>puasa,Syahadat > Salat > Zakat > Puasa
+FIK-RI-0909,ordering,opsi_tampilan,zakat>puasa,Zakat | Syahadat | Puasa | Salat

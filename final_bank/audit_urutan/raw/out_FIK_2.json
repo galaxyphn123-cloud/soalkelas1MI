@@ -1,0 +1,330 @@
+{
+ "diperiksa": 246,
+ "fakta_baku_dipakai": [
+  {
+   "topik": "Rukun Islam",
+   "urutan_atau_nilai": "Syahadat, Salat, Zakat, Puasa, Haji (5)",
+   "id": [
+    "FIK-RI-0902",
+    "FIK-RI-0909",
+    "FIK-RI-0914",
+    "FIK-WT-0251"
+   ]
+  },
+  {
+   "topik": "Urutan langkah wudu",
+   "urutan_atau_nilai": "Niat, wajah, tangan sampai siku, (sebagian) kepala, kaki; telinga sunnah setelah kepala",
+   "id": [
+    "FIK-WT-0030",
+    "FIK-WT-0150",
+    "FIK-WT-0219",
+    "FIK-WT-0123",
+    "FIK-WT-0119",
+    "FIK-WT-0214"
+   ]
+  },
+  {
+   "topik": "Urutan sunnah sebelum membasuh wajah",
+   "urutan_atau_nilai": "Membasuh telapak tangan, berkumur, menghirup air ke hidung",
+   "id": [
+    "FIK-WT-0126",
+    "FIK-WT-0113",
+    "FIK-WT-0114",
+    "FIK-WT-0127",
+    "FIK-WT-0038"
+   ]
+  },
+  {
+   "topik": "Urutan langkah tayamum",
+   "urutan_atau_nilai": "Niat, menepuk tangan ke debu, mengusap wajah, mengusap tangan",
+   "id": [
+    "FIK-WT-0046",
+    "FIK-WT-0202",
+    "FIK-WT-0128",
+    "FIK-WT-0130",
+    "FIK-WT-0206",
+    "FIK-WT-0056"
+   ]
+  },
+  {
+   "topik": "Urutan mandi wajib",
+   "urutan_atau_nilai": "Niat, membasahi seluruh tubuh, selesai; rukun = niat dan membasahi seluruh tubuh (2)",
+   "id": [
+    "FIK-TH-0112",
+    "FIK-TH-0111",
+    "FIK-TH-0206"
+   ]
+  },
+  {
+   "topik": "Urutan setelah buang air kecil",
+   "urutan_atau_nilai": "Istinja, cuci tangan dengan sabun, keluar kamar mandi",
+   "id": [
+    "FIK-TH-0029"
+   ]
+  },
+  {
+   "topik": "Adab kamar mandi",
+   "urutan_atau_nilai": "Masuk dahulukan kaki kiri; keluar dahulukan kaki kanan; berdoa sebelum masuk",
+   "id": [
+    "FIK-TH-0093",
+    "FIK-TH-0094",
+    "FIK-TH-0095",
+    "FIK-TH-0096",
+    "FIK-TH-0097"
+   ]
+  },
+  {
+   "topik": "Mendahulukan anggota kanan dalam wudu",
+   "urutan_atau_nilai": "Kanan dahulu, lalu kiri",
+   "id": [
+    "FIK-WT-0121",
+    "FIK-WT-0200",
+    "FIK-WT-0137"
+   ]
+  },
+  {
+   "topik": "Jumlah basuhan wudu",
+   "urutan_atau_nilai": "Satu kali cukup (rukun), tiga kali sunnah",
+   "id": [
+    "FIK-WT-0197",
+    "FIK-WT-0198"
+   ]
+  },
+  {
+   "topik": "Waktu puasa wajib",
+   "urutan_atau_nilai": "Subuh sampai Magrib, bulan Ramadan",
+   "id": [
+    "FIK-RI-0901",
+    "FIK-RI-0907",
+    "FIK-RI-0917",
+    "FIK-RI-0924"
+   ]
+  },
+  {
+   "topik": "Lafal syahadat",
+   "urutan_atau_nilai": "Asyhadu alla ilaha illallah, wa asyhadu anna Muhammadar rasulullah",
+   "id": [
+    "FIK-KS-0905",
+    "FIK-KS-0906",
+    "FIK-KS-0908"
+   ]
+  },
+  {
+   "topik": "Salat fardu sehari",
+   "urutan_atau_nilai": "Lima waktu",
+   "id": [
+    "FIK-RI-0904",
+    "FIK-RI-0906",
+    "FIK-RI-0907"
+   ]
+  },
+  {
+   "topik": "Niat sebagai rukun wudu dan tayamum",
+   "urutan_atau_nilai": "Niat adalah rukun/wajib pada wudu dan tayamum",
+   "id": [
+    "FIK-WT-0017",
+    "FIK-WT-0107",
+    "FIK-WT-0109",
+    "FIK-WT-0023"
+   ]
+  }
+ ],
+ "temuan": [
+  {
+   "topik": "Ejaan sunah/sunnah",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "sunah (puasa sunah)",
+     "id": [
+      "FIK-TH-0062",
+      "FIK-TH-0143",
+      "FIK-TH-0148",
+      "FIK-TH-0238"
+     ]
+    },
+    {
+     "nilai": "sunnah (sunnah wudu, dst.)",
+     "id": [
+      "FIK-WT-0038",
+      "FIK-WT-0039",
+      "FIK-WT-0040",
+      "FIK-WT-0077",
+      "FIK-WT-0113",
+      "FIK-WT-0122",
+      "FIK-WT-0137",
+      "FIK-WT-0139",
+      "FIK-WT-0197",
+      "FIK-WT-0230"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": "sunah (KBBI); pilih satu ejaan di seluruh bank",
+   "dasar": "pengetahuan_umum",
+   "catatan": "Puasa sunah di TH, sunnah di WT untuk istilah yang sama; di WT juga bercampur huruf kecil/kapital. Hanya konsistensi ejaan.",
+   "keyakinan": "sedang"
+  },
+  {
+   "topik": "Ejaan Makkah/Mekah",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "Makkah",
+     "id": [
+      "FIK-TH-0068",
+      "FIK-TH-0080",
+      "FIK-TH-0143",
+      "FIK-TH-0148",
+      "FIK-TH-0238"
+     ]
+    },
+    {
+     "nilai": "Mekah",
+     "id": [
+      "FIK-RI-0911",
+      "FIK-RI-0924"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": "Mekah (KBBI) atau Makkah; satukan",
+   "dasar": "pengetahuan_umum",
+   "catatan": "Kota yang sama ditulis Makkah di TH (opsi pengecoh) dan Mekah di RI.",
+   "keyakinan": "sedang"
+  },
+  {
+   "topik": "Hal pertama dalam tayamum/wudu: niat vs basmalah",
+   "jenis": "URUTAN",
+   "varian": [
+    {
+     "nilai": "niat adalah hal pertama",
+     "id": [
+      "FIK-TH-0198",
+      "FIK-TH-0212",
+      "FIK-WT-0056",
+      "FIK-WT-0046",
+      "FIK-WT-0128",
+      "FIK-WT-0030"
+     ]
+    },
+    {
+     "nilai": "basmalah dibaca sebelum wudu/tayamum (sunnah)",
+     "id": [
+      "FIK-WT-0016",
+      "FIK-WT-0139",
+      "FIK-WT-0138",
+      "FIK-WT-0259"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "bergantung_buku_atau_mazhab",
+   "catatan": "TH-0198 dan TH-0212 menyebut niat 'hal pertama' padahal WT-0016/WT-0139 menyatakan basmalah sebelum memulai. Tidak kontradiktif bila basmalah sunnah pendahulu dan niat langkah/rukun pertama, tetapi redaksi 'pertama' perlu disamakan.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Niat wudu: langkah terpisah di awal vs bersamaan membasuh wajah",
+   "jenis": "URUTAN",
+   "varian": [
+    {
+     "nilai": "niat langkah pertama sebelum wajah",
+     "id": [
+      "FIK-WT-0030",
+      "FIK-WT-0031",
+      "FIK-WT-0150",
+      "FIK-WT-0219"
+     ]
+    },
+    {
+     "nilai": "niat dalam hati bersamaan membasuh wajah",
+     "id": [
+      "FIK-WT-0053"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "bergantung_buku_atau_mazhab",
+   "catatan": "WT-0053 menyatakan niat bersamaan dengan membasuh wajah (anggota pertama) sedangkan soal urutan menaruh niat sebagai langkah tersendiri sebelum wajah. Selain itu sunnah (telapak tangan, berkumur) dilakukan sebelum wajah sehingga 'wajah anggota pertama' hanya berlaku untuk rukun.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Penomoran/jumlah langkah wudu",
+   "jenis": "JUMLAH",
+   "varian": [
+    {
+     "nilai": "5 langkah dimulai niat (niat, wajah, tangan, kepala, kaki)",
+     "id": [
+      "FIK-WT-0030"
+     ]
+    },
+    {
+     "nilai": "6 rukun (niat, wajah, tangan, kepala, kaki, tertib)",
+     "id": [
+      "FIK-WT-0219"
+     ]
+    },
+    {
+     "nilai": "5 anggota bernomor, wajah=1 dan telinga=4 (tanpa niat)",
+     "id": [
+      "FIK-WT-0123"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": "6 rukun (niat, wajah, tangan, kepala, kaki, tertib) menurut kerangka Syafi'i; jenis hitungan perlu dijelaskan",
+   "dasar": "bergantung_buku_atau_mazhab",
+   "catatan": "Hitungan berbeda karena kerangka berbeda (langkah vs rukun vs anggota); WT-0123 menomori wajah sebagai 1 padahal WT-0030 menomori niat sebagai 1, dan telinga sunnah disisipkan sebagai nomor 4 yang bukan rukun.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Batas tangan yang diusap dalam tayamum",
+   "jenis": "FAKTA_LAIN",
+   "varian": [
+    {
+     "nilai": "tangan sampai siku",
+     "id": [
+      "FIK-WT-0046",
+      "FIK-WT-0130"
+     ]
+    },
+    {
+     "nilai": "kedua tangan (tanpa batas)",
+     "id": [
+      "FIK-TH-0043",
+      "FIK-TH-0114",
+      "FIK-WT-0047",
+      "FIK-WT-0057",
+      "FIK-WT-0202",
+      "FIK-WT-0206",
+      "FIK-WT-0023"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "bergantung_buku_atau_mazhab",
+   "catatan": "Dua soal menyebut sampai siku, yang lain tidak; batas (siku atau telapak) berbeda antar mazhab/buku. Satukan agar tidak ada kesan perbedaan.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Hukum menemukan air setelah tayamum",
+   "jenis": "FAKTA_LAIN",
+   "varian": [
+    {
+     "nilai": "menemukan air membatalkan tayamum",
+     "id": [
+      "FIK-WT-0098"
+     ]
+    },
+    {
+     "nilai": "sebaiknya berwudu dengan air (anjuran, air lebih utama)",
+     "id": [
+      "FIK-TH-0201",
+      "FIK-WT-0026"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "bergantung_buku_atau_mazhab",
+   "catatan": "Redaksi batal (WT-0098) vs 'sebaiknya' (TH-0201, WT-0026) berbeda tingkat hukum; sebaiknya diseragamkan dan dibatasi pada kondisi sebelum salat.",
+   "keyakinan": "rendah"
+  }
+ ]
+}

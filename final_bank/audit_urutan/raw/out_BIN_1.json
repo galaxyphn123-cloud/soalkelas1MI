@@ -1,0 +1,115 @@
+{
+ "diperiksa": 266,
+ "fakta_baku_dipakai": [
+  {
+   "topik": "jumlah huruf abjad Indonesia",
+   "urutan_atau_nilai": "26 huruf",
+   "id": [
+    "BIN-B1-0005",
+    "BIN-B1-0016"
+   ]
+  },
+  {
+   "topik": "huruf vokal",
+   "urutan_atau_nilai": "5 huruf: a, i, u, e, o",
+   "id": [
+    "BIN-B1-0034",
+    "BIN-B1-0037",
+    "BIN-B1-0040",
+    "BIN-B1-0053",
+    "BIN-B1-0054"
+   ]
+  },
+  {
+   "topik": "jumlah huruf konsonan",
+   "urutan_atau_nilai": "21 huruf",
+   "id": [
+    "BIN-B1-0042"
+   ]
+  },
+  {
+   "topik": "huruf pertama/terakhir abjad",
+   "urutan_atau_nilai": "pertama a, terakhir z; konsonan pertama b",
+   "id": [
+    "BIN-B1-0003",
+    "BIN-B1-0009",
+    "BIN-B1-0050"
+   ]
+  },
+  {
+   "topik": "awal kalimat/nama/setelah titik",
+   "urutan_atau_nilai": "huruf kapital",
+   "id": [
+    "BIN-B1-0006",
+    "BIN-B1-0021",
+    "BIN-B2-0013",
+    "BIN-B2-0026"
+   ]
+  },
+  {
+   "topik": "kegiatan sebelum belajar membaca/menulis",
+   "urutan_atau_nilai": "basmalah (berdoa)",
+   "id": [
+    "BIN-B1-0007",
+    "BIN-B1-0019"
+   ]
+  },
+  {
+   "topik": "urutan kejadian cerita Dani Suka Olahraga",
+   "urutan_atau_nilai": "bangun pagi, berdoa dan mandi, berlari bersama ayah, mengucap hamdalah",
+   "id": [
+    "BIN-B2-0051",
+    "BIN-B2-0032",
+    "BIN-B2-0033",
+    "BIN-B2-0036"
+   ]
+  },
+  {
+   "topik": "urutan kejadian cerita Sinta Makan Sayur",
+   "urutan_atau_nilai": "tidak suka sayur, ibu menasihati, mencoba bayam, makan sayur setiap hari",
+   "id": [
+    "BIN-B2-0052",
+    "BIN-B2-0034",
+    "BIN-B2-0035",
+    "BIN-B2-0038"
+   ]
+  },
+  {
+   "topik": "urutan kejadian cerita Lani Membantu Ibu",
+   "urutan_atau_nilai": "melihat ibu mencuci piring, ingin membantu, mengelap meja dan menyapu, ibu berterima kasih",
+   "id": [
+    "BIN-B3-0133",
+    "BIN-B3-0126"
+   ]
+  },
+  {
+   "topik": "urutan kejadian cerita Cuci Tangan",
+   "urutan_atau_nilai": "bermain bola, tangan kotor, cuci tangan dengan sabun, tangan bersih dan wangi",
+   "id": [
+    "BIN-B4-0083",
+    "BIN-B4-0067",
+    "BIN-B4-0072"
+   ]
+  },
+  {
+   "topik": "urutan kejadian cerita Bimo dan Sampah",
+   "urutan_atau_nilai": "makan roti, buang bungkus, teman ikut membuang, taman bersih",
+   "id": [
+    "BIN-B4-0082",
+    "BIN-B4-0066"
+   ]
+  },
+  {
+   "topik": "ejaan istilah ibadah",
+   "urutan_atau_nilai": "salat, wudu, zakat, basmalah, hamdalah (konsisten)",
+   "id": [
+    "BIN-B3-0036",
+    "BIN-B5-0083",
+    "BIN-B5-0081",
+    "BIN-B1-0007",
+    "BIN-B2-0013"
+   ]
+  }
+ ],
+ "temuan": []
+}

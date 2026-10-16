@@ -1,0 +1,85 @@
+{
+ "diperiksa": 252,
+ "fakta_baku_dipakai": [
+  {
+   "topik": "Rukun iman (6, berurutan)",
+   "urutan_atau_nilai": "1 Allah, 2 malaikat, 3 kitab, 4 rasul, 5 hari akhir, 6 qada dan qadar; jumlah 6",
+   "id": [
+    "AKA-RI-0005",
+    "AKA-RI-0007",
+    "AKA-RI-0012",
+    "AKA-RI-0060",
+    "AKA-RI-0061",
+    "AKA-RI-0062"
+   ]
+  },
+  {
+   "topik": "Sifat wajib Allah (tiga pertama)",
+   "urutan_atau_nilai": "Wujud (ada), Qidam (terdahulu), Baqa' (kekal)",
+   "id": [
+    "AKA-SW-0001",
+    "AKA-SW-0003",
+    "AKA-SW-0016",
+    "AKA-SW-0952",
+    "AKA-SW-0956",
+    "AKA-SW-0015"
+   ]
+  },
+  {
+   "topik": "Kitab Allah dan nabi penerima",
+   "urutan_atau_nilai": "4 kitab; Taurat-Musa, Zabur-Daud, Injil-Isa, Al-Qur'an-Muhammad (urutan Taurat, Zabur, Injil, Al-Qur'an)",
+   "id": [
+    "AKA-RI-0074",
+    "AKA-RI-0108",
+    "AKA-RI-0131",
+    "AKA-RI-0134",
+    "AKA-RI-0139"
+   ]
+  },
+  {
+   "topik": "Jumlah malaikat dan rasul wajib diketahui",
+   "urutan_atau_nilai": "10 malaikat; 25 rasul",
+   "id": [
+    "AKA-RI-0083",
+    "AKA-RI-0093",
+    "AKA-RI-0116",
+    "AKA-RI-0088",
+    "AKA-RI-0120"
+   ]
+  },
+  {
+   "topik": "Tugas malaikat",
+   "urutan_atau_nilai": "Jibril wahyu, Mikail rezeki/hujan, Israfil sangkakala, Izrail cabut nyawa, Ridwan jaga surga, Malik jaga neraka",
+   "id": [
+    "AKA-RI-0072",
+    "AKA-RI-0073",
+    "AKA-RI-0075",
+    "AKA-RI-0084",
+    "AKA-RI-0132",
+    "AKA-RI-0089"
+   ]
+  },
+  {
+   "topik": "Syahadat",
+   "urutan_atau_nilai": "dua kalimat; syahadat tauhid dahulu lalu syahadat rasul",
+   "id": [
+    "AKA-SY-0913",
+    "AKA-SY-0917",
+    "AKA-SY-0919",
+    "AKA-SY-0921"
+   ]
+  },
+  {
+   "topik": "Silsilah dan keluarga Nabi",
+   "urutan_atau_nilai": "Muhammad bin Abdullah bin Abdul Muthalib bin Hasyim; Aminah wafat usia 6 tahun; Abu Thalib membela, Abu Lahab memusuhi; suku Quraisy",
+   "id": [
+    "AKA-KN-0092",
+    "AKA-KN-0103",
+    "AKA-KN-0109",
+    "AKA-KN-0104",
+    "AKA-KN-0917"
+   ]
+  }
+ ],
+ "temuan": []
+}

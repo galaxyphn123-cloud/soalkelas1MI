@@ -1,0 +1,179 @@
+{
+ "diperiksa": 266,
+ "fakta_baku_dipakai": [
+  {
+   "topik": "jumlah salat fardu sehari",
+   "urutan_atau_nilai": "5 kali",
+   "id": [
+    "BIN-B6-0093",
+    "BIN-B6-0104"
+   ]
+  },
+  {
+   "topik": "jumlah jari satu tangan / dua tangan",
+   "urutan_atau_nilai": "5 / 10",
+   "id": [
+    "BIN-B6-0086",
+    "BIN-B6-0088",
+    "BIN-B6-0096",
+    "BIN-B6-0102",
+    "BIN-B6-0106"
+   ]
+  },
+  {
+   "topik": "bilangan 1-10 (angka-kata, sebelum/sesudah)",
+   "urutan_atau_nilai": "satu, dua, tiga, empat, lima, enam, tujuh, delapan, sembilan, sepuluh; konsisten",
+   "id": [
+    "BIN-B6-0042",
+    "BIN-B6-0052",
+    "BIN-B6-0079",
+    "BIN-B6-0080",
+    "BIN-B6-0081",
+    "BIN-B6-0082"
+   ]
+  },
+  {
+   "topik": "langkah mencuci tangan",
+   "urutan_atau_nilai": "basahi, sabun/gosok, bilas, keringkan",
+   "id": [
+    "BIN-B2-0934"
+   ]
+  },
+  {
+   "topik": "ungkapan santun",
+   "urutan_atau_nilai": "permisi=lewat/masuk, tolong=meminta/meminjam, maaf=salah, terima kasih=dibantu/diberi",
+   "id": [
+    "BIN-B5-0136",
+    "BIN-B5-0903",
+    "BIN-B5-0907",
+    "BIN-B5-0909",
+    "BIN-B5-0918",
+    "BIN-B5-0928"
+   ]
+  },
+  {
+   "topik": "urutan alur cerita tertulis (Bermain Bersama, Ikan di Kolam, Rumahku Surgaku, Hari Pertama Sekolah, Kata Baru, Di Pasar, Pak Pos)",
+   "urutan_atau_nilai": "kunci selalu mengikuti urutan kalimat teks; konsisten antar butir",
+   "id": [
+    "BIN-B6-0038",
+    "BIN-B7-0026",
+    "BIN-B7-0027",
+    "BIN-B8-0080",
+    "BIN-B8-0081",
+    "BIN-B5-0119"
+   ]
+  },
+  {
+   "topik": "kamus disusun menurut abjad; huruf a di bagian awal",
+   "urutan_atau_nilai": "urutan abjad; a=awal",
+   "id": [
+    "BIN-B7-0067",
+    "BIN-B7-0072",
+    "BIN-B7-0080"
+   ]
+  },
+  {
+   "topik": "jumlah anggota keluarga (ayah, ibu, dua anak)",
+   "urutan_atau_nilai": "4 orang",
+   "id": [
+    "BIN-B6-0089",
+    "BIN-B6-0105"
+   ]
+  },
+  {
+   "topik": "ucapan syukur",
+   "urutan_atau_nilai": "Alhamdulillah",
+   "id": [
+    "BIN-B2-0914",
+    "BIN-B2-0919",
+    "BIN-B2-0926"
+   ]
+  }
+ ],
+ "temuan": [
+  {
+   "topik": "Ucapan pembuka sebelum bercerita",
+   "jenis": "FAKTA_LAIN",
+   "varian": [
+    {
+     "nilai": "basmalah",
+     "id": [
+      "BIN-B7-0104",
+      "BIN-B7-0134"
+     ]
+    },
+    {
+     "nilai": "salam (Assalamualaikum)",
+     "id": [
+      "BIN-B7-0903",
+      "BIN-B7-0910",
+      "BIN-B7-0925",
+      "BIN-B7-0928"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "tidak_ada",
+   "catatan": "Soal 'Sebelum bercerita, kita mengucap ...' berkunci basmalah (B7-0104) tetapi B7-0903 dengan pertanyaan setara berkunci Assalamualaikum; urutan adab B7-0910 dan B7-0925 mulai dengan salam tanpa basmalah. Pembuka adab bercerita tidak seragam; teks ATP/KKTP tidak diperiksa tegas, jadi baku tidak diputuskan (bisa salam lalu basmalah).",
+   "keyakinan": "sedang"
+  },
+  {
+   "topik": "Ucapan penutup setelah bercerita",
+   "jenis": "FAKTA_LAIN",
+   "varian": [
+    {
+     "nilai": "terima kasih dan hamdalah",
+     "id": [
+      "BIN-B7-0103",
+      "BIN-B7-0130"
+     ]
+    },
+    {
+     "nilai": "terima kasih saja",
+     "id": [
+      "BIN-B7-0910",
+      "BIN-B7-0925",
+      "BIN-B7-0916",
+      "BIN-B7-0921"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "tidak_ada",
+   "catatan": "B7-0103/0130 menetapkan 'terima kasih dan hamdalah' sebagai penutup, sedangkan soal urutan B7-0910 dan B7-0925 menutup hanya dengan terima kasih (hamdalah tidak ada). Tidak bertentangan langsung, tetapi daftar langkah adab tidak lengkap/konsisten.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Penulisan 'Bu guru' / 'Bu Guru'",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "Bu Guru (kapital)",
+     "id": [
+      "BIN-B5-0903",
+      "BIN-B8-0909"
+     ]
+    },
+    {
+     "nilai": "bu guru (huruf kecil)",
+     "id": [
+      "BIN-B7-0001",
+      "BIN-B7-0006",
+      "BIN-B7-0007",
+      "BIN-B7-0076"
+     ]
+    },
+    {
+     "nilai": "Bu guru",
+     "id": [
+      "BIN-B2-0917"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": "Bu Guru bila sapaan langsung; bu guru bila sebutan umum dalam kalimat",
+   "dasar": "pengetahuan_umum",
+   "catatan": "Kapitalisasi sapaan/sebutan guru berubah-ubah antar soal; dampak kecil karena sebagian merupakan sapaan, sebagian sebutan umum.",
+   "keyakinan": "rendah"
+  }
+ ]
+}

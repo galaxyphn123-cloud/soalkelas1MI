@@ -1,0 +1,14 @@
+{"diperiksa":225,
+"fakta_baku_dipakai":[
+{"topik":"Surah Al-Ikhlas: jumlah ayat dan urutan ayat","urutan_atau_nilai":"4 ayat: (1) Qul huwallahu ahad, (2) Allahush-shamad, (3) Lam yalid wa lam yulad, (4) Wa lam yakun lahu kufuwan ahad","id":["AQH-IK-0068","AQH-IK-0071","AQH-IK-0073","AQH-IK-0076","AQH-IK-0087","AQH-IK-0116"]},
+{"topik":"Surah An-Nas: jumlah ayat dan urutan ayat","urutan_atau_nilai":"6 ayat: (1) Qul a'udzu birabbin-nas, (2) Malikin-nas, (3) Ilahin-nas, (4) Min syarril-waswasil-khannas, (5) Alladzi yuwaswisu fi shudurin-nas, (6) Minal-jinnati wan-nas","id":["AQH-NS-0001","AQH-NS-0003","AQH-NS-0013","AQH-NS-0055","AQH-NS-0058","AQH-NS-0068"]},
+{"topik":"Nomor urut surah An-Nas dalam Al-Qur'an","urutan_atau_nilai":"114 (surah terakhir)","id":["AQH-NS-0017","AQH-NS-0023","AQH-NS-0049","AQH-NS-0057","AQH-NS-0064"]},
+{"topik":"Urutan tiga surah pendek sebelum tidur","urutan_atau_nilai":"Al-Ikhlas, Al-Falaq, An-Nas","id":["AQH-IK-0118","AQH-IK-0131","AQH-IK-0124"]},
+{"topik":"Huruf hijaiah yang tidak dapat disambung dengan huruf sesudahnya","urutan_atau_nilai":"6 huruf: ا د ذ ر ز و","id":["AQH-HT-0032","AQH-HT-0036","AQH-HT-0039","AQH-HT-0040","AQH-HT-0100"]},
+{"topik":"Arah menulis huruf Arab","urutan_atau_nilai":"dari kanan ke kiri","id":["AQH-HT-0120","AQH-HT-0134"]},
+{"topik":"Jumlah huruf kata Arab","urutan_atau_nilai":"شمس, ماء, سمك, باب, قلم = 3 huruf; مسجد, كتاب, مفتاح, سماء > 3","id":["AQH-HT-0033","AQH-HT-0034","AQH-HT-0035","AQH-HT-0080","AQH-HT-0054"]},
+{"topik":"Arti nama surah","urutan_atau_nilai":"Al-Ikhlas=Memurnikan (keikhlasan); An-Nas=Manusia; Al-Fatihah=Pembukaan; Al-Falaq=Waktu subuh (fajar)","id":["AQH-IK-0095","AQH-IK-0097","AQH-NS-0085"]}
+],
+"temuan":[
+{"topik":"Penulisan nomor surah An-Nas","jenis":"EJAAN","varian":[{"nilai":"surah ke 114 (tanpa tanda hubung)","id":["AQH-NS-0023"]},{"nilai":"ke-114 / urutan ke-114 (dengan tanda hubung)","id":["AQH-NS-0017","AQH-NS-0049"]}],"yang_dinilai_baku":"ke-114","dasar":"pengetahuan_umum","catatan":"Hanya AQH-NS-0023 menulis 'surah ke 114' tanpa tanda hubung; nilai (114) tetap konsisten. Perbaikan kosmetik.","keyakinan":"rendah"}
+]}

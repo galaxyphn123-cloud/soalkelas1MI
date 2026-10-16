@@ -1,0 +1,156 @@
+{
+ "diperiksa": 187,
+ "fakta_baku_dipakai": [
+  {
+   "topik": "Urutan bilangan 11-20 (naik/turun, bilangan sebelum/sesudah)",
+   "urutan_atau_nilai": "11,12,13,...,20 konsisten pada semua kunci urut naik/turun",
+   "id": [
+    "MTK-B6-0098",
+    "MTK-B6-0102",
+    "MTK-B6-0105",
+    "MTK-B6-0118",
+    "MTK-B6-0129",
+    "MTK-B6-0131"
+   ]
+  },
+  {
+   "topik": "Satuan tidak baku",
+   "urutan_atau_nilai": "langkah=kaki, depa=rentang kedua tangan, jengkal=telapak tangan; klip kertas",
+   "id": [
+    "MTK-B5-0006",
+    "MTK-B5-0009",
+    "MTK-B5-0012",
+    "MTK-B5-0020",
+    "MTK-B5-0021",
+    "MTK-B5-0038"
+   ]
+  },
+  {
+   "topik": "Bentuk benda",
+   "urutan_atau_nilai": "topi ulang tahun/tumpeng/cone es krim=kerucut; bola sepak/kelereng=bola; koin/jam dinding/roda/piring=lingkaran; papan catur/ubin/sapu tangan=persegi",
+   "id": [
+    "MTK-B4-0054",
+    "MTK-B4-0057",
+    "MTK-B4-0058",
+    "MTK-B4-0063",
+    "MTK-B4-0065",
+    "MTK-B4-0901"
+   ]
+  },
+  {
+   "topik": "Langkah berurutan (ordering)",
+   "urutan_atau_nilai": "siapkan/mulai dari ujung -> kerjakan -> hitung -> tulis/laporkan; ucap alhamdulillah di akhir",
+   "id": [
+    "MTK-B2-0906",
+    "MTK-B3-0911",
+    "MTK-B4-0909",
+    "MTK-B5-0922",
+    "MTK-B5-0935"
+   ]
+  },
+  {
+   "topik": "Data berulang antar soal",
+   "urutan_atau_nilai": "mainan Dina boneka 3, mobil 5, bola 2; kebun binatang gajah 2, zebra 6, kelinci 4; keranjang apel 5, jeruk 3, pisang 4; koin Zaki 6+8=14, Fikri 12+8=20, Alif 10+6=16",
+   "id": [
+    "MTK-B8-0044",
+    "MTK-B8-0078",
+    "MTK-B8-0048",
+    "MTK-B8-0086",
+    "MTK-B8-0045",
+    "MTK-B8-0089",
+    "MTK-B7-0106",
+    "MTK-B7-0119"
+   ]
+  },
+  {
+   "topik": "Ucapan syukur",
+   "urutan_atau_nilai": "alhamdulillah (konsisten)",
+   "id": [
+    "MTK-B4-0084",
+    "MTK-B4-0097",
+    "MTK-B4-0909"
+   ]
+  }
+ ],
+ "temuan": [
+  {
+   "topik": "Panjang lorong kelas diukur dengan langkah",
+   "jenis": "FAKTA_LAIN",
+   "varian": [
+    {
+     "nilai": "6 langkah (soal bergambar)",
+     "id": [
+      "MTK-B5-0084"
+     ]
+    },
+    {
+     "nilai": "7 langkah (pengandaian)",
+     "id": [
+      "MTK-B5-0089"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "tidak_ada",
+   "catatan": "Lorong kelas diukur 6 langkah di B5-0084 (bergantung gambar) dan 7 langkah di B5-0089. Masing-masing berdiri sendiri dan hasil langkah memang beragam; hanya berisiko bila murid menganggap lorong yang sama.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Istilah untuk jumlah paling kecil",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "soal 'paling sedikit', penjelasan 'Tersedikit'",
+     "id": [
+      "MTK-B8-0075",
+      "MTK-B8-0078",
+      "MTK-B8-0079",
+      "MTK-B8-0081",
+      "MTK-B8-0086",
+      "MTK-B8-0088",
+      "MTK-B8-0089"
+     ]
+    },
+    {
+     "nilai": "'paling sedikit' tanpa 'tersedikit'",
+     "id": [
+      "MTK-B8-0913",
+      "MTK-B8-0908"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": "paling sedikit",
+   "dasar": "pengetahuan_umum",
+   "catatan": "Penjelasan memakai 'Tersedikit' (kurang lazim) sedangkan soal 'paling sedikit'; selaraskan istilah.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Satuan klip",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "klip",
+     "id": [
+      "MTK-B5-0068",
+      "MTK-B5-0914",
+      "MTK-B5-0916",
+      "MTK-B5-0925"
+     ]
+    },
+    {
+     "nilai": "klip kertas",
+     "id": [
+      "MTK-B5-0111",
+      "MTK-B5-0922",
+      "MTK-B5-0923",
+      "MTK-B5-0940"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "tidak_ada",
+   "catatan": "'klip' dan 'klip kertas' dipakai bergantian untuk satuan yang sama; sebaiknya diseragamkan.",
+   "keyakinan": "rendah"
+  }
+ ]
+}

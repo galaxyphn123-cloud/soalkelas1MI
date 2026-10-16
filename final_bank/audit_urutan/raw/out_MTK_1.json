@@ -1,0 +1,87 @@
+{
+ "diperiksa": 188,
+ "fakta_baku_dipakai": [
+  {
+   "topik": "Urutan bilangan 1-10 (naik: 1,2,...,10; turun: 10,9,...,1), bilangan sebelum/sesudah",
+   "urutan_atau_nilai": "selisih 1 per langkah; sebelum n = n-1, setelah n = n+1; terkecil ke terbesar menaik, terbesar ke terkecil menurun",
+   "id": [
+    "MTK-B1-0001",
+    "MTK-B1-0005",
+    "MTK-B1-0026",
+    "MTK-B1-0091",
+    "MTK-B1-0096",
+    "MTK-B1-0098"
+   ]
+  },
+  {
+   "topik": "Pengurutan bilangan dari terkecil/terbesar",
+   "urutan_atau_nilai": "terkecil = menaik; terbesar = menurun (kunci dan penjelasan konsisten)",
+   "id": [
+    "MTK-B1-0066",
+    "MTK-B1-0068",
+    "MTK-B1-0076",
+    "MTK-B1-0087",
+    "MTK-B1-0099"
+   ]
+  },
+  {
+   "topik": "Pasangan bilangan / penjumlahan sampai 10",
+   "urutan_atau_nilai": "semua kunci penjumlahan benar (mis. 2+4=6, 3+7=10)",
+   "id": [
+    "MTK-B2-0001",
+    "MTK-B2-0015",
+    "MTK-B2-0022",
+    "MTK-B2-0036",
+    "MTK-B2-0037"
+   ]
+  },
+  {
+   "topik": "Pengurangan sampai 10",
+   "urutan_atau_nilai": "semua kunci pengurangan benar (mis. 10-9=1, 9-2=7)",
+   "id": [
+    "MTK-B3-0081",
+    "MTK-B3-0091",
+    "MTK-B3-0094",
+    "MTK-B3-0103",
+    "MTK-B3-0119"
+   ]
+  },
+  {
+   "topik": "Bentuk benda",
+   "urutan_atau_nilai": "bola sepak/kelereng/globe=bola; dadu/kotak kado=kubus; kardus sepatu/lemari es/batu bata=balok; topi ulang tahun/cone es krim=kerucut; pintu/papan tulis=persegi panjang; sapu tangan/ubin lantai/papan catur=persegi; piring/jam dinding=lingkaran; bendera/rambu=segitiga",
+   "id": [
+    "MTK-B4-0032",
+    "MTK-B4-0035",
+    "MTK-B4-0036",
+    "MTK-B4-0039",
+    "MTK-B4-0043",
+    "MTK-B4-0046"
+   ]
+  }
+ ],
+ "temuan": [
+  {
+   "topik": "Istilah benda kerucut: topi ulang tahun vs topi pesta",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "topi ulang tahun",
+     "id": [
+      "MTK-B4-0032",
+      "MTK-B4-0039"
+     ]
+    },
+    {
+     "nilai": "topi pesta berbentuk kerucut",
+     "id": [
+      "MTK-B4-0048"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "tidak_ada",
+   "catatan": "Dua sebutan untuk benda yang sama; hanya variasi istilah di pengecoh B4-0048, tidak memengaruhi kunci. Dampak sangat kecil.",
+   "keyakinan": "rendah"
+  }
+ ]
+}

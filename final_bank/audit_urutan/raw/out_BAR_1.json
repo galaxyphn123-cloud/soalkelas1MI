@@ -1,0 +1,256 @@
+{
+ "diperiksa": 328,
+ "fakta_baku_dipakai": [
+  {
+   "topik": "Kata tunjuk dekat/jauh menurut jenis kata",
+   "urutan_atau_nilai": "هٰذَا (dekat, mudzakkar); هٰذِهِ (dekat, muannats); ذٰلِكَ (jauh, mudzakkar); تِلْكَ (jauh, muannats); konsisten antar soal, pengecoh sengaja keliru",
+   "id": [
+    "BAR-PK-0089",
+    "BAR-RM-0080",
+    "BAR-RM-0082",
+    "BAR-SK-0081",
+    "BAR-SK-0089",
+    "BAR-RM-0119"
+   ]
+  },
+  {
+   "topik": "Cara menghitung jumlah huruf kata Arab",
+   "urutan_atau_nilai": "Syaddah/harakat/tanwin tidak dihitung; ta marbuthah dihitung 1 huruf (mis. جَدٌّ=2, أُمٌّ=2, ثَلَّاجَةٌ=5, تِلْمِيْذَةٌ=6, أَبٌ=2)",
+   "id": [
+    "BAR-KL-0138",
+    "BAR-KL-0166",
+    "BAR-RM-0133",
+    "BAR-PK-0152",
+    "BAR-KL-0908",
+    "BAR-PK-0911"
+   ]
+  },
+  {
+   "topik": "Nama harakat/tanwin pada akhir kata benda",
+   "urutan_atau_nilai": "ـٌ = dammatain; ـً = fathatain; konsisten",
+   "id": [
+    "BAR-PK-0136",
+    "BAR-KL-0143",
+    "BAR-SK-0132",
+    "BAR-RM-0148",
+    "BAR-SK-0910"
+   ]
+  },
+  {
+   "topik": "Nama huruf hamzah di awal kata",
+   "urutan_atau_nilai": "أ/ا dinamai Alif",
+   "id": [
+    "BAR-PK-0126",
+    "BAR-KL-0148",
+    "BAR-PK-0156",
+    "BAR-KL-0137"
+   ]
+  },
+  {
+   "topik": "Urutan tanya-jawab dalam percakapan",
+   "urutan_atau_nilai": "Pertanyaan dahulu lalu jawaban; pertanyaan mudzakkar (هُوَ/هٰذَا) sebelum muannats (هِيَ/هٰذِهِ)",
+   "id": [
+    "BAR-PK-0117",
+    "BAR-KL-0120",
+    "BAR-KL-0239",
+    "BAR-RM-0238",
+    "BAR-SK-0238",
+    "BAR-SK-0119"
+   ]
+  },
+  {
+   "topik": "Urutan salam percakapan",
+   "urutan_atau_nilai": "Salam -> jawab salam -> كَيْفَ حَالُكَ؟ -> أَنَا بِخَيْرٍ; صَبَاحُ الْخَيْرِ -> صَبَاحُ النُّوْرِ",
+   "id": [
+    "BAR-PK-0239",
+    "BAR-PK-0121",
+    "BAR-PK-0117",
+    "BAR-SK-0918"
+   ]
+  },
+  {
+   "topik": "Arah membaca urutan huruf kata Arab",
+   "urutan_atau_nilai": "Dari kanan ke kiri (صَدِيْقٌ = ص,د,ي,ق; أُسْرَةٌ = أ,س,ر,ة; بَيْتٌ = ب,ي,ت)",
+   "id": [
+    "BAR-PK-0913",
+    "BAR-KL-0915",
+    "BAR-RM-0920"
+   ]
+  },
+  {
+   "topik": "Jumlah anggota keluarga yang disebut dalam teks",
+   "urutan_atau_nilai": "4 (ayah, ibu, saudara laki-laki, saudara perempuan)",
+   "id": [
+    "BAR-KL-0098",
+    "BAR-KL-0170"
+   ]
+  },
+  {
+   "topik": "Nomor kartu gambar per tema",
+   "urutan_atau_nilai": "Perkenalan: 8 bintun, 10 tilmidzatun, 11 shadiqun, 12 shadiqatun. Keluargaku: 1 usratun, 4 akhun, 5 ukhtun, 6 jaddun, 8 'ammun, 9 'ammatun, 10 khalun. Rumahku: 1 baitun, 3 mathbakhun, 4 hammamun, 8 sariirun, 10 thawilatun, 17 tilfazun, 18 saqfun. Sekolahku: 1 madrasatun, 4 mudarrisatun, 5 kitabun, 10 mimhatun, 11 daftarun, 15 mal'abun, 18 tilmidzatun. Tidak ada nomor ganda bermakna beda dalam satu tema",
+   "id": [
+    "BAR-PK-0083",
+    "BAR-PK-0086",
+    "BAR-KL-0083",
+    "BAR-KL-0088",
+    "BAR-RM-0083",
+    "BAR-RM-0086"
+   ]
+  },
+  {
+   "topik": "Urutan perkenalan diri (sikap)",
+   "urutan_atau_nilai": "Tersenyum -> mengucap salam -> menyebut nama (-> menanyakan nama)",
+   "id": [
+    "BAR-PK-0186",
+    "BAR-PK-0208",
+    "BAR-PK-0234",
+    "BAR-PK-0238"
+   ]
+  }
+ ],
+ "temuan": [
+  {
+   "topik": "Penulisan 'Assalamu'alaikum' (alif lam)",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "السَّلَامُ عَلَيْكُمْ (alif tanpa harakat)",
+     "id": [
+      "BAR-PK-0026",
+      "BAR-PK-0121"
+     ]
+    },
+    {
+     "nilai": "اَلسَّلَامُ عَلَيْكُمْ (alif berharakat fathah)",
+     "id": [
+      "BAR-PK-0238",
+      "BAR-PK-0239"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "tidak_ada",
+   "catatan": "Ungkapan sama ditulis dengan dua varian harakat alif; PK-0026 memakai tulisan tanpa harakat alif, PK-0238/0239 dan اَلْحَمْدُ memakai اَ. Sebaiknya diseragamkan; tidak menyebabkan kunci salah.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Penjelasan PK-0121 menyebut salam sebagai 'pertanyaan'",
+   "jenis": "FAKTA_LAIN",
+   "varian": [
+    {
+     "nilai": "salam disebut 'pertanyaan' lalu jawaban",
+     "id": [
+      "BAR-PK-0121"
+     ]
+    },
+    {
+     "nilai": "salam -> jawab salam (tanpa label pertanyaan)",
+     "id": [
+      "BAR-PK-0239"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": "Salam dan jawaban salam bukan pertanyaan-jawaban; urutan kunci (السَّلَامُ عَلَيْكُمْ lalu وَعَلَيْكُمُ السَّلَامُ) sudah benar",
+   "dasar": "pengetahuan_umum",
+   "catatan": "Hanya label penjelasan templat tanya-jawab yang salah pakai; urutan kunci benar.",
+   "keyakinan": "sedang"
+  },
+  {
+   "topik": "Nama huruf ح dan ه sama-sama 'Ha'",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "ح = Ha",
+     "id": [
+      "BAR-SK-0146"
+     ]
+    },
+    {
+     "nilai": "ه = Ha",
+     "id": [
+      "BAR-PK-0161"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "bergantung_buku_atau_mazhab",
+   "catatan": "Dua huruf berbeda diberi nama latin sama; tidak bertabrakan dalam satu soal, tetapi lintas soal ambigu. Penamaan (Ha/Kha/Ha') bergantung buku teks.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Urutan menyebut nama vs menanyakan nama saat berkenalan",
+   "jenis": "URUTAN",
+   "varian": [
+    {
+     "nilai": "menyebut اِسْمِيْ dahulu, baru menanyakan مَا اسْمُكَ؟",
+     "id": [
+      "BAR-PK-0238"
+     ]
+    },
+    {
+     "nilai": "menanyakan nama dahulu lalu dijawab اِسْمِيْ",
+     "id": [
+      "BAR-PK-0247",
+      "BAR-PK-0100"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "bergantung_buku_atau_mazhab",
+   "catatan": "Konteks berbeda (urutan kegiatan perkenalan vs dialog tanya-jawab); kemungkinan bukan kontradiksi, tetapi urutan baku perkenalan bergantung buku teks.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Transliterasi latin ungkapan salam",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "masa-ul khair",
+     "id": [
+      "BAR-PK-0007"
+     ]
+    },
+    {
+     "nilai": "shabahul khair",
+     "id": [
+      "BAR-PK-0104"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "tidak_ada",
+   "catatan": "Pola idafah sama ditransliterasi berbeda (pemisah hamzah 'masa-ul' vs sambung 'shabahul'); kata berbeda sehingga hanya kosmetik.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Urutan anggota keluarga",
+   "jenis": "URUTAN",
+   "varian": [
+    {
+     "nilai": "ayah, ibu, saudara laki-laki, saudara perempuan",
+     "id": [
+      "BAR-KL-0096",
+      "BAR-KL-0170"
+     ]
+    },
+    {
+     "nilai": "saudara laki-laki, saudara perempuan, ayah, ibu",
+     "id": [
+      "BAR-KL-0093",
+      "BAR-KL-0098"
+     ]
+    },
+    {
+     "nilai": "'ucapkan daftar anggota keluarga secara berurutan' tanpa urutan ditetapkan",
+     "id": [
+      "BAR-KL-0246"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "tidak_ada",
+   "catatan": "Urutan penyebutan anggota keluarga dalam teks berbeda-beda dan soal KL-0246 meminta berurutan tanpa menetapkan urutan; tidak menyalahkan kunci, tetapi rubrik sebaiknya menyebut urutan.",
+   "keyakinan": "rendah"
+  }
+ ]
+}

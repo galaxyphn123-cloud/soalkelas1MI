@@ -1,0 +1,170 @@
+{
+ "diperiksa": 225,
+ "fakta_baku_dipakai": [
+  {
+   "topik": "Urutan huruf hijaiah (ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن و ه ي)",
+   "urutan_atau_nilai": "Konsisten: Ta ke-3, Tsa ke-4, sebelum د=خ, sebelum ر=ذ, setelah و=ه, sebelum ف=غ; urutan ذ-ر-ز-س-ش-ص dan ب-ت-ث-ج benar",
+   "id": [
+    "AQH-HJ-0001",
+    "AQH-HJ-0006",
+    "AQH-HJ-0010",
+    "AQH-HJ-0011",
+    "AQH-HJ-0016",
+    "AQH-HJ-0038"
+   ]
+  },
+  {
+   "topik": "Titik huruf hijaiah",
+   "urutan_atau_nilai": "ب 1 bawah; ت 2 atas; ث 3 atas; ج 1 bawah; خ 1 atas; ف 1 atas; ق 2 atas; ن 1 atas; ي 2 bawah; ك,ه,ح,س,ط tanpa titik; ش 3 atas; ظ 1 atas",
+   "id": [
+    "AQH-HJ-0004",
+    "AQH-HJ-0008",
+    "AQH-HJ-0041",
+    "AQH-HJ-0082",
+    "AQH-HJ-0100",
+    "AQH-HJ-0102"
+   ]
+  },
+  {
+   "topik": "Letak tanda baca",
+   "urutan_atau_nilai": "fathah, dammah, fathatain, dammatain di atas; kasrah, kasratain di bawah",
+   "id": [
+    "AQH-HJ-0018",
+    "AQH-HJ-0019",
+    "AQH-HJ-0031",
+    "AQH-HJ-0032",
+    "AQH-HJ-0042"
+   ]
+  },
+  {
+   "topik": "Urutan suku kata kataba (kanan ke kiri)",
+   "urutan_atau_nilai": "ka-ta-ba",
+   "id": [
+    "AQH-HJ-0125",
+    "AQH-HJ-0143"
+   ]
+  },
+  {
+   "topik": "Ayat surah Al-Fatihah (basmalah = ayat 1)",
+   "urutan_atau_nilai": "1 Bismillahirrahmanirrahim; 2 Alhamdu lillahi rabbil 'alamin; 3 Ar-rahmanir-rahim; 4 Maliki yaumid-din; 5 Iyyaka na'budu...; 6 Ihdinash-shiratal-mustaqim; 7 Shiratal-ladzina...",
+   "id": [
+    "AQH-FA-0001",
+    "AQH-FA-0036",
+    "AQH-FA-0043",
+    "AQH-FA-0049",
+    "AQH-FA-0069",
+    "AQH-FA-0106"
+   ]
+  },
+  {
+   "topik": "Jumlah ayat dan nomor surah Al-Fatihah",
+   "urutan_atau_nilai": "7 ayat; surah ke-1",
+   "id": [
+    "AQH-FA-0056",
+    "AQH-FA-0060",
+    "AQH-FA-0061",
+    "AQH-FA-0062",
+    "AQH-FA-0063",
+    "AQH-FA-0055"
+   ]
+  },
+  {
+   "topik": "Ayat surah Al-Ikhlas",
+   "urutan_atau_nilai": "1 Qul huwallahu ahad; 2 Allahush-shamad; 3 Lam yalid wa lam yulad; 4 Wa lam yakun lahu kufuwan ahad",
+   "id": [
+    "AQH-IK-0002",
+    "AQH-IK-0003",
+    "AQH-IK-0005",
+    "AQH-IK-0038",
+    "AQH-IK-0045",
+    "AQH-IK-0053"
+   ]
+  },
+  {
+   "topik": "Jumlah ayat dan nomor surah Al-Ikhlas",
+   "urutan_atau_nilai": "4 ayat; surah ke-112",
+   "id": [
+    "AQH-IK-0032",
+    "AQH-IK-0043",
+    "AQH-IK-0058",
+    "AQH-IK-0059",
+    "AQH-IK-0060",
+    "AQH-IK-0057"
+   ]
+  },
+  {
+   "topik": "Pesan pokok surah (Fatihah, Ikhlas, Falaq, An-Nas)",
+   "urutan_atau_nilai": "Fatihah: memuji, menyembah, minta petunjuk; Ikhlas: Maha Esa & tempat meminta; Falaq: berlindung dari berbagai kejahatan; An-Nas: dari bisikan setan",
+   "id": [
+    "AQH-FA-0003",
+    "AQH-FA-0015",
+    "AQH-FA-0016",
+    "AQH-IK-0006",
+    "AQH-IK-0026",
+    "AQH-IK-0027"
+   ]
+  },
+  {
+   "topik": "Urutan adab makan",
+   "urutan_atau_nilai": "cuci tangan, bismillah, makan tangan kanan, alhamdulillah",
+   "id": [
+    "AQH-FA-0136"
+   ]
+  },
+  {
+   "topik": "Urutan sebelum/saat salat",
+   "urutan_atau_nilai": "berwudu, takbiratul ihram, baca Al-Fatihah, rukuk",
+   "id": [
+    "AQH-FA-0138"
+   ]
+  }
+ ],
+ "temuan": [
+  {
+   "topik": "Penulisan 'yaumid-din' (ejaan Latin bacaan Maliki yaumid-din)",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "yaumid-din (dengan tanda hubung)",
+     "id": [
+      "AQH-FA-0002",
+      "AQH-FA-0009",
+      "AQH-FA-0011",
+      "AQH-FA-0012",
+      "AQH-FA-0031",
+      "AQH-FA-0032",
+      "AQH-FA-0033",
+      "AQH-FA-0036",
+      "AQH-FA-0037",
+      "AQH-FA-0038",
+      "AQH-FA-0039",
+      "AQH-FA-0040",
+      "AQH-FA-0052",
+      "AQH-FA-0068",
+      "AQH-FA-0069",
+      "AQH-FA-0086",
+      "AQH-FA-0090",
+      "AQH-FA-0091",
+      "AQH-FA-0106",
+      "AQH-FA-0107",
+      "AQH-FA-0108",
+      "AQH-FA-0109"
+     ]
+    },
+    {
+     "nilai": "yaumiddin (tanpa tanda hubung), hanya di opsi gabungan beberapa ayat",
+     "id": [
+      "AQH-FA-0005",
+      "AQH-FA-0044",
+      "AQH-FA-0049",
+      "AQH-FA-0081"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": "Maliki yaumid-din (dipakai di mayoritas soal)",
+   "dasar": "tidak_ada",
+   "catatan": "Hanya variasi ejaan transliterasi pada opsi gabungan (FA-0005, 0044, 0049, 0081: 'maliki yaumiddin'); tidak memengaruhi kunci. Perlu penyeragaman bila ingin konsisten.",
+   "keyakinan": "rendah"
+  }
+ ]
+}

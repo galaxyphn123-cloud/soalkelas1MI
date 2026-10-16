@@ -1,0 +1,174 @@
+{
+ "diperiksa": 225,
+ "fakta_baku_dipakai": [
+  {
+   "topik": "Jumlah ayat surah Al-Falaq",
+   "urutan_atau_nilai": "5 ayat",
+   "id": [
+    "AQH-FL-0044",
+    "AQH-FL-0058",
+    "AQH-FL-0061",
+    "AQH-FL-0062",
+    "AQH-FL-0069",
+    "AQH-FL-0051"
+   ]
+  },
+  {
+   "topik": "Nomor urut surah Al-Falaq",
+   "urutan_atau_nilai": "surah ke-113",
+   "id": [
+    "AQH-FL-0050",
+    "AQH-FL-0063",
+    "AQH-FL-0057"
+   ]
+  },
+  {
+   "topik": "Urutan ayat Al-Falaq",
+   "urutan_atau_nilai": "1 Qul a'udzu birabbil-falaq; 2 Min syarri ma khalaq; 3 Wa min syarri ghasiqin idza waqab; 4 Wa min syarrin-naffatsati fil-'uqad; 5 Wa min syarri hasidin idza hasad",
+   "id": [
+    "AQH-FL-0036",
+    "AQH-FL-0045",
+    "AQH-FL-0043",
+    "AQH-FL-0049",
+    "AQH-FL-0068",
+    "AQH-FL-0066"
+   ]
+  },
+  {
+   "topik": "Urutan ayat An-Nas",
+   "urutan_atau_nilai": "ayat ke-3 Ilahin-nas; ayat ke-4 Min syarril-waswasil-khannas; ayat terakhir (ke-6) jin dan manusia; ayat ke-1 Qul a'udzu birabbin-nas",
+   "id": [
+    "AQH-NS-0095",
+    "AQH-NS-0902",
+    "AQH-NS-0114",
+    "AQH-NS-0099"
+   ]
+  },
+  {
+   "topik": "Urutan ayat Al-Fatihah (basmalah dihitung ayat 1)",
+   "urutan_atau_nilai": "3 Ar-rahmanir-rahim; 4 Maliki yaumid-din; 5 Iyyaka na'budu; 6 Ihdinash-shirat; 7 Shiratal-ladzina",
+   "id": [
+    "AQH-FA-0901",
+    "AQH-FA-0903",
+    "AQH-FA-0906",
+    "AQH-FA-0907",
+    "AQH-FA-0910",
+    "AQH-FA-0902"
+   ]
+  },
+  {
+   "topik": "Urutan kata hadis kebersihan",
+   "urutan_atau_nilai": "ath-thuhuru (1) - syathru (2) - al-iman (3)",
+   "id": [
+    "AQH-HK-0035",
+    "AQH-HK-0036",
+    "AQH-HK-0037",
+    "AQH-HK-0054",
+    "AQH-HK-0911",
+    "AQH-HK-0932"
+   ]
+  },
+  {
+   "topik": "Langkah menghafal surah",
+   "urutan_atau_nilai": "dengar contoh guru - tirukan ayat demi ayat - ulang tiap hari - baca tanpa melihat",
+   "id": [
+    "AQH-NS-0138",
+    "AQH-FL-0136"
+   ]
+  },
+  {
+   "topik": "Adab makan (urutan)",
+   "urutan_atau_nilai": "cuci tangan - bismillah - makan tangan kanan - alhamdulillah",
+   "id": [
+    "AQH-HK-0136"
+   ]
+  },
+  {
+   "topik": "Langkah sikat gigi",
+   "urutan_atau_nilai": "siapkan sikat-pasta - sikat atas ke bawah - berkumur - cuci dan simpan sikat",
+   "id": [
+    "AQH-HK-0137"
+   ]
+  },
+  {
+   "topik": "Arah tulis dan huruf tak bersambung (hijaiah)",
+   "urutan_atau_nilai": "kanan ke kiri; ا د ر و tidak menyambung ke huruf sesudahnya",
+   "id": [
+    "AQH-HT-0904",
+    "AQH-HT-0905",
+    "AQH-HT-0907",
+    "AQH-HT-0909",
+    "AQH-HT-0910"
+   ]
+  }
+ ],
+ "temuan": [
+  {
+   "topik": "Transliterasi kata hadis kebersihan (syathru/syathrul, al-iman/iman)",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "syathru + al-iman (bentuk kata terpisah)",
+     "id": [
+      "AQH-HK-0036",
+      "AQH-HK-0037",
+      "AQH-HK-0045",
+      "AQH-HK-0046"
+     ]
+    },
+    {
+     "nilai": "syathrul + iman (bentuk tersambung/tanpa al-)",
+     "id": [
+      "AQH-HK-0905",
+      "AQH-HK-0909",
+      "AQH-HK-0911",
+      "AQH-HK-0915"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "tidak_ada",
+   "catatan": "Kata ketiga/terakhir ditulis 'al-iman' pada satu kelompok soal dan 'iman' (dengan 'syathrul') pada kelompok lain, padahal tulisan Arab sama (الْإِيمَانِ). Urutan kata tetap konsisten; hanya ejaan Latin berubah. Sebaiknya diseragamkan satu bentuk. Pada HK-0915 kunci 'iman' vs HK-0037 kunci 'al-iman' untuk kata yang sama.",
+   "keyakinan": "sedang"
+  },
+  {
+   "topik": "Judul soal urutan 'kegiatan sebelum makan' memuat langkah sesudah makan",
+   "jenis": "FAKTA_LAIN",
+   "varian": [
+    {
+     "nilai": "soal 'sebelum makan' tetapi kunci memuat makan dan membaca alhamdulillah (sesudah makan)",
+     "id": [
+      "AQH-HK-0136"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": "Urutan kunci (cuci tangan, bismillah, makan, alhamdulillah) benar; judul soal sebaiknya 'saat/adab makan'",
+   "dasar": "pengetahuan_umum",
+   "catatan": "Urutan kunci wajar, tetapi frasa 'sebelum makan' tidak cocok dengan dua butir terakhir.",
+   "keyakinan": "sedang"
+  },
+  {
+   "topik": "Padanan Indonesia hadis: 'sebagian dari iman' vs 'bagian dari iman'",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "kebersihan sebagian dari iman",
+     "id": [
+      "AQH-HK-0109",
+      "AQH-HK-0932"
+     ]
+    },
+    {
+     "nilai": "kebersihan bagian dari iman",
+     "id": [
+      "AQH-HK-0004"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "bergantung_buku_atau_mazhab",
+   "catatan": "Terjemah syathr (separuh/sebagian/bagian) bergantung buku teks; variasi kecil, tidak mengubah kunci.",
+   "keyakinan": "rendah"
+  }
+ ]
+}

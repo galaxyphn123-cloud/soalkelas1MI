@@ -1,0 +1,175 @@
+{
+ "diperiksa": 267,
+ "fakta_baku_dipakai": [
+  {
+   "topik": "Urutan sila Pancasila (nama sila)",
+   "urutan_atau_nilai": "1 Ketuhanan Yang Maha Esa; 2 Kemanusiaan yang adil dan beradab; 3 Persatuan Indonesia; 4 Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan; 5 Keadilan sosial bagi seluruh rakyat Indonesia",
+   "id": [
+    "PPN-B3-0001",
+    "PPN-B3-0002",
+    "PPN-B3-0008",
+    "PPN-B3-0010",
+    "PPN-B3-0017",
+    "PPN-B3-0085"
+   ]
+  },
+  {
+   "topik": "Jumlah sila Pancasila",
+   "urutan_atau_nilai": "5",
+   "id": [
+    "PPN-B3-0028",
+    "PPN-B3-0063",
+    "PPN-B3-0087"
+   ]
+  },
+  {
+   "topik": "Lambang sila pada Garuda",
+   "urutan_atau_nilai": "1 bintang; 2 rantai; 3 pohon beringin; 4 kepala banteng; 5 padi dan kapas",
+   "id": [
+    "PPN-B3-0012",
+    "PPN-B3-0013",
+    "PPN-B3-0018",
+    "PPN-B3-0021",
+    "PPN-B3-0025",
+    "PPN-B3-0084"
+   ]
+  },
+  {
+   "topik": "Pengamalan sila di keluarga",
+   "urutan_atau_nilai": "ibadah/doa=sila 1; menyayangi/tidak membentak=sila 2; cinta tanah air=sila 3; musyawarah=sila 4; adil/berbagi=sila 5",
+   "id": [
+    "PPN-B3-0157",
+    "PPN-B3-0158",
+    "PPN-B3-0159",
+    "PPN-B3-0171",
+    "PPN-B3-0908",
+    "PPN-B3-0907"
+   ]
+  },
+  {
+   "topik": "Hari upacara bendera",
+   "urutan_atau_nilai": "Senin",
+   "id": [
+    "PPN-B3-0226",
+    "PPN-B3-0263",
+    "PPN-B3-0268"
+   ]
+  },
+  {
+   "topik": "Manfaat aturan di rumah",
+   "urutan_atau_nilai": "salat tepat waktu=disiplin; merapikan mainan/menyimpan sepatu=rumah rapi; izin=orang tua tidak khawatir; cuci tangan=terhindar penyakit; doa sebelum makan=berkah; tidak mengganggu adik=keluarga rukun",
+   "id": [
+    "PPN-B2-0075",
+    "PPN-B2-0076",
+    "PPN-B2-0078",
+    "PPN-B2-0002",
+    "PPN-B2-0003",
+    "PPN-B2-0022"
+   ]
+  },
+  {
+   "topik": "Urutan langkah (ordering) bermain/menyapu/kerja bakti",
+   "urutan_atau_nilai": "bermain-selesai-mengumpulkan-memasukkan; ambil sapu-menyapu-kumpulkan-buang; lihat selokan-ajak tetangga-bagi tugas-bersihkan",
+   "id": [
+    "PPN-B2-0906",
+    "PPN-B4-0902",
+    "PPN-B4-0904"
+   ]
+  },
+  {
+   "topik": "Ejaan salat/Idulfitri/magrib/berjemaah",
+   "urutan_atau_nilai": "salat, Idulfitri, magrib, berjemaah (konsisten)",
+   "id": [
+    "PPN-B1-0920",
+    "PPN-B2-0903",
+    "PPN-B3-0158",
+    "PPN-B3-0170"
+   ]
+  }
+ ],
+ "temuan": [
+  {
+   "topik": "Rumusan ajaran sila ke-5",
+   "jenis": "FAKTA_LAIN",
+   "varian": [
+    {
+     "nilai": "berbuat adil dan berbagi",
+     "id": [
+      "PPN-B3-0102",
+      "PPN-B3-0113",
+      "PPN-B3-0128",
+      "PPN-B3-0135"
+     ]
+    },
+    {
+     "nilai": "bersikap adil kepada semua orang",
+     "id": [
+      "PPN-B3-0117",
+      "PPN-B3-0131"
+     ]
+    },
+    {
+     "nilai": "berlaku adil kepada sesama",
+     "id": [
+      "PPN-B3-0901"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "tidak_ada",
+   "catatan": "Nomor sila (5) konsisten; hanya rumusan ajaran/kalimat penjabaran bervariasi. Tidak kontradiktif, tetapi tidak seragam; bergantung buku teks.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Rumusan ajaran sila ke-2",
+   "jenis": "FAKTA_LAIN",
+   "varian": [
+    {
+     "nilai": "menyayangi dan memperlakukan sesama manusia dengan adil",
+     "id": [
+      "PPN-B3-0088",
+      "PPN-B3-0089",
+      "PPN-B3-0118",
+      "PPN-B3-0146"
+     ]
+    },
+    {
+     "nilai": "adil dan beradab kepada sesama",
+     "id": [
+      "PPN-B3-0097",
+      "PPN-B3-0134",
+      "PPN-B3-0136"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "tidak_ada",
+   "catatan": "Nomor sila konsisten (2); penjabaran ajaran berbeda redaksi, tidak bertentangan.",
+   "keyakinan": "rendah"
+  },
+  {
+   "topik": "Kapitalisasi nama sila",
+   "jenis": "EJAAN",
+   "varian": [
+    {
+     "nilai": "Kemanusiaan yang adil dan beradab / Keadilan sosial bagi seluruh rakyat Indonesia (huruf kecil)",
+     "id": [
+      "PPN-B3-0001",
+      "PPN-B3-0010",
+      "PPN-B3-0017"
+     ]
+    },
+    {
+     "nilai": "Kemanusiaan yang Adil dan Beradab / Keadilan Sosial bagi Seluruh Rakyat Indonesia (huruf kapital)",
+     "id": [
+      "PPN-B3-0912"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "bergantung_buku_atau_mazhab",
+   "catatan": "Penulisan huruf kapital nama sila berbeda di satu soal (B3-0912); perlu keseragaman gaya.",
+   "keyakinan": "rendah"
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "diperiksa": 240,
+ "fakta_baku_dipakai": [
+  {
+   "topik": "Urutan persiapan sebelum berlari/berolahraga",
+   "urutan_atau_nilai": "berdoa/berbaris/berpakaian -> periksa tempat -> pemanasan -> kegiatan inti -> pendinginan/minum air dan istirahat",
+   "id": [
+    "PJK-TB-0061",
+    "PJK-HA-0913",
+    "PJK-HA-0924",
+    "PJK-HA-0005",
+    "PJK-HA-0023",
+    "PJK-HA-0043"
+   ]
+  },
+  {
+   "topik": "Urutan lintasan rintangan",
+   "urutan_atau_nilai": "lompat -> rayap -> lari",
+   "id": [
+    "PJK-TB-0283",
+    "PJK-TB-0284",
+    "PJK-TB-0329"
+   ]
+  },
+  {
+   "topik": "Ciri berjalan",
+   "urutan_atau_nilai": "melangkahkan kaki bergantian, salah satu kaki selalu menyentuh tanah",
+   "id": [
+    "PJK-TB-0005",
+    "PJK-TB-0013",
+    "PJK-TB-0032",
+    "PJK-TB-0048",
+    "PJK-TB-0059"
+   ]
+  },
+  {
+   "topik": "Ciri berlari",
+   "urutan_atau_nilai": "bergerak cepat, ada saat kedua kaki melayang",
+   "id": [
+    "PJK-TB-0002",
+    "PJK-TB-0018",
+    "PJK-TB-0039",
+    "PJK-TB-0053",
+    "PJK-TB-0059"
+   ]
+  },
+  {
+   "topik": "Ciri melompat vs meloncat",
+   "urutan_atau_nilai": "melompat = tumpu satu kaki, mendarat kaki sama; meloncat = tumpu dua kaki, mendarat dua kaki",
+   "id": [
+    "PJK-TB-0008",
+    "PJK-TB-0016",
+    "PJK-TB-0059"
+   ]
+  },
+  {
+   "topik": "Bagian tubuh per gerak bola",
+   "urutan_atau_nilai": "menangkap = kedua tangan; melempar = tangan; memantulkan = telapak tangan; menendang/menggiring = kaki",
+   "id": [
+    "PJK-TB-0259",
+    "PJK-TB-0214",
+    "PJK-TB-0212",
+    "PJK-TB-0207",
+    "PJK-TB-0331"
+   ]
+  },
+  {
+   "topik": "Klasifikasi gerak gabungan",
+   "urutan_atau_nilai": "lari+lompat = dua lokomotor; rayap+berdiri/meregang = lokomotor+non-lokomotor; bungkuk+tangkap = non-lokomotor+manipulatif; jalan+pantul = lokomotor+manipulatif",
+   "id": [
+    "PJK-TB-0272",
+    "PJK-TB-0279",
+    "PJK-TB-0281",
+    "PJK-TB-0323",
+    "PJK-TB-0282"
+   ]
+  },
+  {
+   "topik": "Jumlah percobaan latihan bola",
+   "urutan_atau_nilai": "lima kali (lempar, pantul, tangkap)",
+   "id": [
+    "PJK-TB-0462",
+    "PJK-TB-0463",
+    "PJK-TB-0465",
+    "PJK-TB-0467",
+    "PJK-TB-0938"
+   ]
+  },
+  {
+   "topik": "Manfaat aturan bermain",
+   "urutan_atau_nilai": "tidak berbuat kasar -> tidak ada yang cedera; rapikan alat -> alat tidak hilang; berdoa -> berkah",
+   "id": [
+    "PJK-BG-0030",
+    "PJK-BG-0037",
+    "PJK-BG-0035",
+    "PJK-BG-0059",
+    "PJK-BG-0060"
+   ]
+  }
+ ],
+ "temuan": [
+  {
+   "topik": "Ciri gerak melompat (tumpu satu kaki) vs indikator peragaan melompat/kelinci melompat (dua kaki)",
+   "jenis": "FAKTA_LAIN",
+   "varian": [
+    {
+     "nilai": "melompat = bertumpu satu kaki dan mendarat pada kaki yang sama; meloncat = dua kaki",
+     "id": [
+      "PJK-TB-0008",
+      "PJK-TB-0016",
+      "PJK-TB-0059"
+     ]
+    },
+    {
+     "nilai": "peragaan melompat: 'kedua kaki menolak'; kelinci melompat-lompat dengan dua kaki",
+     "id": [
+      "PJK-TB-0064",
+      "PJK-TB-0200"
+     ]
+    }
+   ],
+   "yang_dinilai_baku": null,
+   "dasar": "bergantung_buku_atau_mazhab",
+   "catatan": "Batas melompat (satu kaki) dan meloncat (dua kaki) ditetapkan kunci TB-0008/0016/0059, tetapi indikator TB-0064 dan TB-0200 memakai 'melompat' dengan dua kaki. Istilah bergantung buku teks; tidak ditemukan di KKTP/ATP. Perlu penyeragaman istilah (mis. TB-0064 pakai meloncat atau indikator disesuaikan).",
+   "keyakinan": "sedang"
+  }
+ ]
+}
